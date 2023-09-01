@@ -17,7 +17,6 @@ As soon as the green goblin received the prescribed medicine, he suddenly realiz
 Reversing it isn’t directly possible. It must be channeled into the form that suits the human heart creating and suffering it.
 
 The light tone of the movie also didn’t afford all the trauma it put the main spidey character through, and didn’t actually explore or remedy or address or show understanding to the actual trauma of those depicted events.
-
 Neither the hero nor the pseudo-villains were done justice.
 
 It was just a love letter to allopathic medicine. And a well-intentioned but ignorant take on an important philosophy about redemption for those who go wayward: that there is a way home. Not quite delivered by the movie as anything other than a yellow-brick-road of drugs synthesized by implausible geniuses. Hence perhaps “no way home”.
