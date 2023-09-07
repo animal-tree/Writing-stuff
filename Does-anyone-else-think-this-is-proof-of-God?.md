@@ -112,3 +112,5 @@ Even if methodologically, the statistical argument seems unconvincing, these eve
 > None of this healed until Volyoda died — of psychosis, a year later, in a delusional fit about his mom, believing she was dead. No history of psychosis, sudden episode and death. Then I healed, recovering from what was, at the time, my only psychosis and episode. Shortly after, Taylor-CAM paper, a paper I'm embaressed about but that began a series of huge irrefutable coincidences, tying back directly to that Christams night trauma.
 >
 > Repeating myself from a moment ago: Even if methodologically, the statistical argument seems unconvincing, these events, chained together, are unlikely. By any common-sense measure.
+
+I know this is terribly written and I'm embaressed of it.
