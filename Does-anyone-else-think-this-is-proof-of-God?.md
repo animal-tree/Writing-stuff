@@ -113,6 +113,8 @@ Even if methodologically, the statistical argument seems unconvincing, these eve
 >
 > Repeating myself from a moment ago: Even if methodologically, the statistical argument seems unconvincing, these events, chained together, are unlikely. By any common-sense measure.
 
+---
+
 I know this is terribly written and I'm embarrassed of it.
 
 ---
@@ -120,3 +122,7 @@ I know this is terribly written and I'm embarrassed of it.
 The coincidencs keep adding up. This is only the first half of my PhD. I look forward to sharing the more optimistic one, assuming there will be one. 
 
 My character is not depicted in these writings.
+
+I believe our personalities are shaped by our memory processes. This region of time does not give me the best cogntiive resources to work with. But more than that, it doesn't give me the happy, normal self I remember and who, my rare but quite close friends, remember. With them, I think I'll find the words later. Thanks to our loved ones' memories, we can recover from the identity theft of trauma... I believe.
+
+You don't see what you don't see. But maybe you can, and then thank you.
