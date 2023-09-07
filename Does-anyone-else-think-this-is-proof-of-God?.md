@@ -113,4 +113,10 @@ Even if methodologically, the statistical argument seems unconvincing, these eve
 >
 > Repeating myself from a moment ago: Even if methodologically, the statistical argument seems unconvincing, these events, chained together, are unlikely. By any common-sense measure.
 
-I know this is terribly written and I'm embaressed of it.
+I know this is terribly written and I'm embarrassed of it.
+
+---
+
+The coincidencs keep adding up. This is only the first half of my PhD. I look forward to sharing the more optimistic one, assuming there will be one. 
+
+My character is not depicted in these writings.
