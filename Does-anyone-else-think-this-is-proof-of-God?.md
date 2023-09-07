@@ -130,3 +130,7 @@ You don't see what you don't see. But maybe you can, and then thank you.
 God traumatized me, if he exists, and I used to militantly believe he didn't. But lately, He or whatever coismic-coincidence force has been showing me a better side of this kind of coincidence deus-ex-machina magic. That being said, my inability to communicate still makes me suspicious, since it turns off and on, like "gates of heaven" opening and closing, depending on who I talk to, changes by context, and warps my thoughts, memories, and associations in unrecognizable and clearly-foreign ways. 
 
 It's not psychosis, but it is a process of some kind. I hope to teach that later. 
+
+---
+
+*He's not even the last of my neighbors to go insane.
