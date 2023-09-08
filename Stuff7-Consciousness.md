@@ -20,7 +20,7 @@ What about silicon and electron zips in computers?
 
 In terms of software, if those computers are conscious, it's because of the patterned hardware, the electons conducting through circuits, not the software itself.
 
-But since computers are so radically different from the brain, this would suggest a much bigger representational component to consciousness than previously suspected, that zipping electrons through a digital e-book could create consciousness. 
+But since computers are so radically different from the brain, this would suggest a much bigger representational component, that zipping electrons through a digital e-book for example, but not a flipbook, or apagoge, could create consciousness. 
 
 Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be materially sufficient as consciousness, despite the major structural differences to the human brain, despite the paper-flipbook argument.
 
