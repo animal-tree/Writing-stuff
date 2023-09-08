@@ -18,13 +18,21 @@ The argument that consciousness is representational reduces directly to this con
 
 In terms of software, if those computers are conscious, it's because of the patterned hardware, the electons conducting through circuits, not the software itself.
 
-This would suggest a hardware-software equivalenece, but that is most certainly not the case. The representation of the software can be radically different in actualized form as hardware. The computer is structurally, materially, and technologically distinct from the human brain.
+But since computers are so radically different from the brain, this would suggest a much bigger representational component to consciousness than previously suspected, that zipping electrons through a digital e-book could create consciousness. 
 
-Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be materially sufficient as consciousness, but not the representation.
+Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be materially sufficient as consciousness, despite the major structural differences to the human brain, despite the paper-flipbook argument.
 
-Computers are advanced, but not comparable to the brain. Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. As far as the limits of observation can take us, that's as much as we can say.
+---
 
-But what is the elementary-most form of consciousness? 
+Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. 
+
+We may assume for the time being that human-like conciousness is caused mechanically by a complex combination, since it correlates with complex biologies to our ability to measure.
+
+If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it exists in matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter, not strictly one material combination.
+
+Therefore it is a question of physics, pertaining to the particle behaviors in question (as well as biophysics), and chemistry, pertaining to the complex interactions (and biochemistry). 
+
+What elementary particles and interactions then create the elementary-most form(s) of consciousness?
 
 Perhaps the chemistry is as complex as the neuron itself.
 
@@ -33,4 +41,3 @@ Perhaps it’s much simpler, in the atoms themselves.
 Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
 
 The "I observe" axiom returns here. Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an axiom of the universe.
-
