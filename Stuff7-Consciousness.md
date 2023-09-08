@@ -36,4 +36,4 @@ Perhaps the chemistry is as complex as the neuron itself.
 
 Perhaps it’s much simpler, in the atoms themselves.
 
-Protons? Neutrons? Zipping electrons? Or all matter and particles? in that case, perhaps a flipbook is conscious, sort of.
+Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
