@@ -43,18 +43,18 @@ My faith at this time of anything "good" existing is low, and that includes huma
 
 I guess until then, if it happens, we're just left with a puzzling set of claims from a guy you don't know.
 
-- My neighbor died in exactly the way I envisioned the Christmas night I jumped into the frozen sewage brook to save my hallucinated mom  (P(A) = 1%)
-- the same Christmas night as Tayler's independent trauma with a bald Jewish guy who looks exactly like me miles away, years before we met   (P(B | A) = 1%)
-- the same Tayler who I met incidentally through a group on body image issues that I was only part of because of an extremely unlikely medical malpractice  (P(C | A, B) = 1%)
-- and even extremely unlikelier, a second independent malpractice involving benzos and brain damage later, leading me to despair to the point of fearlessness to start posting about my problems publicly;  (P(D | A, B, C) = 1%)
-- she happened to respond to one of those posts joking about cosplaying together as Katara and Aang, initiating with me one week after my totally-independent Taylor-CAM paper, my first published paper  (P(E | A, B, C, D) = 1%)
+- My neighbor died in exactly the way I envisioned the Christmas night I jumped into the frozen sewage brook to save my hallucinated mom  (P(A) < 1%)
+- the same Christmas night as Tayler's independent trauma with a bald Jewish guy who looks exactly like me miles away, years before we met   (P(B | A) < 1%)
+- the same Tayler who I met incidentally through a group on body image issues that I was only part of because of an extremely unlikely medical malpractice  (P(C | A, B) < 1%)
+- and even extremely unlikelier, a second independent malpractice involving benzos and brain damage later, leading me to despair to the point of fearlessness to start posting about my problems publicly;  (P(D | A, B, C) < 1%)
+- she happened to respond to one of those posts joking about cosplaying together as Katara and Aang, initiating with me one week after my totally-independent Taylor-CAM paper, my first published paper  (P(E | A, B, C, D) < 1%)
 - someone who was a CAM girl
 - with whom the relationship tragically and painfully for me fell apart on our shared birthdays in November in large part due to my immature/inexperienced hangups about that
-- a paper that was later cited by HORNET a week after my mom very-vividly kills a hornet in front of me (P(G | A, B, C, D, E, F) = 1%) and I explain to her what it means by text ("a type of bee")
+- a paper that was later cited by HORNET a week after my mom very-vividly kills a hornet in front of me (P(G | A, B, C, D, E, F) < 1%) and I explain to her what it means by text ("a type of bee")
 - and me being a guy where all of these things were firsts, and Tayler joking about being a swarm of bees
 - while I'm studying consciousness, while I'm having revelatory and quite interesting physics ideas, a year before, coincidentally, being assigned to the mechanical engineering department to do, what else, physics modeling as an AI student, just by chance, while very-publicly professing that I'm learning about consciousness mathematically, spiritually, and socially
 - while genuinely being the world's expert in deep learning, no offense  (I'm tempted to jokingly add a proba of 1e-10 here)
-- my hair returned >2 years after losing it August - November and fell out beginning December/January  (P(H | A, B, C, D, E, F, G) = 1%)
+- my hair returned >2 years after losing it August - November and fell out beginning December/January  (P(H | A, B, C, D, E, F, G) < 1%)
 
 Growing up as an atheist, it took a lot of creative scientific thought, revelatory manias, and objective synchronistic events to convince me that there absolutely is *something*. I can share what that something might be, how it might work, and the scientific, experiential, and data-centric reasons for believing in it rationally, intelligently, and credibly.
 
