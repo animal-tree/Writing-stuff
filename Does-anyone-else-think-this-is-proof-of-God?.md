@@ -73,5 +73,3 @@ Of course, we have to be reasonable in how we define our distributions. Ultimate
 And again, most scientists just use Gaussian estimates. Data-centric reasoning is good, but the equivalent here would be to ask an LLM what it thinks. For complex world distributions, people are better. The biological brain is theorized and evidenced to follow a Bayesian reasoning structure, meaning, obviously, it's a more sophisticated distribution than a basic Gaussian.
 
 As for how and why these events having a p-value <0.05 can be interpretted as implying "something", and what that something might be, and all the goddamn math, I have a thesis to write. To quote myself from a moment ago: The next step: convince me that there's something *good*. But under the same level of scrutiny.
-
-So much context has been left out.
