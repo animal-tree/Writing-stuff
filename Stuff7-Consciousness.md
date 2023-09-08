@@ -28,7 +28,7 @@ If it’s not representation, as by the *reductio ad absurdum* flipbook argument
 
 Representation is combination, the interaction of forces in the universe forming increased complexity from elementary parts.
 
-The question becomes: what elementary parts and interactions produce human-like consciousness? Representation alone has been shown to reduce to absurdity, assuming a human-like conscious flipbook is impossible.
+The question becomes: what elementary parts and interactions produce human-like consciousness? Representation alone has been shown to reduce to absurdity, assuming a human-like conscious paper flipbook is impossible.
 
 Therefore it is a question of physics, pertaining to the particle behaviors in question (as well as biophysics), and chemistry, pertaining to the complex interactions (and biochemistry). 
 
