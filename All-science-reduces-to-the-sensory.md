@@ -69,3 +69,5 @@ In this evolution hypothesis, survival can be interpreted as a reality-teleology
 Unlike other origin theories, this one provides a argued axiom, premised only on logical causalty. However, all math implicitly makes this causality assumption, in its rules, without stating it as an axiom. 
 
 We can also construct a universe of dual creators, as per causal theories 2 and 3, with the quintessence of causal theory 1. As Yin creates Yang, Yang creates Yin.
+
+The question of the origin of the universe can be answered through logic.
