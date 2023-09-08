@@ -26,7 +26,9 @@ Therefore, the absurdity, while seeming less absurd in the context of advanced c
 
 Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. 
 
-We may assume for the time being that human-like conciousness is caused mechanically by a complex combination, since it correlates with complex biologies to our ability to measure.
+We may assume for the time being that human-like conciousness is caused mechanically by a complex combination, since it correlates, according to our trusted observations, with complex biologies.
+
+---
 
 If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it exists in matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter, not strictly one material combination.
 
