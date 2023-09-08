@@ -1,15 +1,6 @@
-**TLDR: Skip to the bullets at the end.**  Edit: They are now closer to around the middle
-___
-> Full-context version:
-> The full-context version includes even more likelihood-reducing details about the events that happened, so if you find the bullet points unconvincing, perhaps read through the full-context. And be aware that there is always yet more context not shared.
->
->  I'm a PhD student planning to put this in my thesis under a mathematical and rigorous framing with my interpretations.
+I'm a PhD student planning to put this in my thesis under a mathematical and rigorous framing with my interpretations.
 
-                       🔥🔥🔥
-                       
-                  🔥🔥❤️🔥🔥
-                  
-             🔥     🔥     🔥     🔥
+**TLDR: Skip to the bullets at the end.**
 
 1. I went through severe traumas, rapidly in succession, extremely severe and for the most part independent, including actual medical malpractices.
 2. One of them involved losing all of my hair. I'm a Jewish guy with brown hair with no hereditary predisposition to baldness. Due to chance situations involving a biologic agent for eczema called Dupilumab, my insurance, and my doctor, I lost all of my hair, including eyebrows and eyelashes, perhaps permanently.
@@ -18,17 +9,15 @@ ___
 5. During this recovery, I wrote and submitted my first to-be-published paper called "Taylor-CAM" (about explaining "higher-order" interactions in "deep learning"). Now some background. I'm a PhD student, the brain damage really fucked me up, this was a huge feat. It was my first paper.  One week later, I met Tayler.
 6. Some more background. I never had a girlfriend, have no relationship experience, and the likelihood of finding a girlfriend was unprecedented for me. On top of losing all my hair, I felt hopeless. I turned to body image groups about people who feel they're ugly. If it weren't for the earlier traumas, I would've never started writing in them. If I didn't lose my hair and go through what I did — multiple repeated unlikely tragedies (that today I can only think of as "acts of God", as I called them to my Rabbi) — I wouldn't have joined those groups to post about my body image issues. But that's also where I met Tayler, in a group of "ugly people", and she was sooo not ugly.
 7. A week after submitting my Taylor-CAM paper, I hit it off unprecedentedly with this girl Tayler, who I learned actually happened to be a Cam-girl, or used to be. One week after my Taylor-CAM paper. She responded to one of my posts joking about cosplaying together as Katara and Aang.
-8. I'm perhaps the world's only bald Jewish guy. However, apparently, her ex-husband (she's in her early 20s but literally insane) (I mean that kindly) was a bald Jewish guy. And she actually suffered a severe life-destroying tragedy that Christmas night, 2018 I did, involving him. ^1
+8. I'm perhaps the world's only bald Jewish guy. However, apparently, her ex-husband (she's in her early 20s but literally insane) (I mean that kindly) was a bald Jewish guy. And she actually suffered a severe life-destroying tragedy that Christmas night, 2018 I did, involving him. 
 9. A couple months later I had another severe psychosis, ended up in the hospital calling her to tell her "I'm Jesus". At that point forward, my mental health slipped and I put on a false face to be who I thought she wanted me to be. More forward, more confident, pretentious. It was also a bigger deal to me than she understood and realized, including learning that she had the kind of content that she did on the internet. I went insane and it was my fault.
 10. A year later, while I'm still in severe grief, genuinely, traumatized about missing that chance (she gave me so many chances; offered to pay for my plane tickets; offered to drive all the way to New York), my paper gets its first citation. This happens a week after my mom kills a hornet in front of me. We're immigrants and my mom doesn't speak really good English. I still have the text that I sent her about killing the hornet, and she asked me what it is, and I said "a type of bee" and I gave a small lecture about the uncertainty of the nature of consciousness and whether bugs can feel the severe pain that we do. The paper that cited me a week later was called "HORNET" and it cited Taylor-CAM. Er, "swarm of bees" is something Tayler used to monicker herself, so let's assume whatever cosmic forces exist wasn't pejoratively calling the one almost-justification to my traumas a "whore". That isn't the kind of God I'd super respect. But the killing a Hornet thing, having that conversation, and then being independently cited by some research group for their HORNET model — a week later — was the last coincidence I needed to suspect that yes, something exists.
 11. For the record, I study consciousness. My psychoses were largely centered around unintended investigations of that and followed severe manias upon realizing certain things in AI (prior to my brain damage) that at the time were extremely ahead of their time, and today are (some of them anyway) widespread. I have documented evidence of this as well, that I proposed some of these ideas for my area exam and have notes in the thousands scribbled about these questions. Heck, my Facebook bio (where I met Tayler) was "trying to understand consciousness mathematically, spiritually, and pretentiously." In the context of that research, these "acts of God" and extreme coincidences are made even more coincidental.
 
 However, this turned out to be a tragedy. After all the "amazing flukes" (as my Rabbi called them), the relationship didn't work out. It was like some good was finally rising to power to justify the earlier trauma, and it didn't. Like... idk, like Bernie Sanders losing the election, is the best analogy that comes to mind for me. It failed. And after that followed more independent unlikely events and traumas, which also failed (not the election, I mean the breakup). I'm more traumatized (and psychotic) than ever, despite how lucid these words may sound. There's a lot to infer about the nature, and constraints, of cosmic forces/God/Whatever you want to call it from this set of fairly-well documented coincidental events. I'm planning to put a lot of this in my thesis by the way, if I can. With a more mathy and rigorous angle than I'm presenting here. In my opinion, these events are too unlikely to rationally dismiss. I'm just despairing that the ultimate judgement about the nature of God is that, he's incredibly powerful (can synchronize non-local events in both symbolically and psychologically and behaviorally meaningful ways), but not good. I don't want to write this thesis. It means nothing to me and I torment myself every day for missing and missing and missing.
 
-All of these events happened during my PhD, but the surrounding context and many-left-out details, as well as other big coincidences I've witnessed and traumas I experienced, have been left out to tell the most-cohesive version of this I can.
-
-For anyone wondering, she blocked me. She thinks I think I'm Jesus.
 ___
+
 Oh oh, one more thing. My hair fully grew back when we were talking and fell out again when we stopped. We bonded through the summer and my hair grew back August - November. Oh and our birthdays are in the same week (November). That week is when we stopped talking and my hair fell out again in December. So it's not just a theological question, but a biological and medical one. This occurred >2 years after my induced alopecia universalis, a statistically unlikely medical outcome for someone with that condition and eczema. The Taylor-CAM paper was by the way a statistics paper.
 
 Keep in mind, I'm embarrassed by that paper. I wrote it while brain damaged. I had another one on MHDPA that I wrote in 2018, well before anyone at my university heard of Transformers (e.g. ChatGPT).  I submitted it as a class project for an NLP class, got an A, finished it for NeurIPS (back then, NIPS)  in the hospital, and then brain damage, switching advisors and labs... I ended up writing Taylor-CAM instead while brain damaged. Actually. I worked very hard. The original meant more to me because it was mine and the world's second transformer variant (unless Schmidhuber's counts). Similar to today's Sparse Attention. But it got rejected for not the best reasons and the reviewers hadn't even heard of MHDPA. I resubmitted one more time and it got rejected again and then gave up. It's still fine and probably could be turned into something.
@@ -45,16 +34,8 @@ I proposed vision transformers in my area exam and passed "with flying colors", 
 My vision from back then is still ahead of where the art is today, just saying.
 
 However, I'm now funded by the mech-e department to do physics modeling and have been institutionalized many times since. Therefore, and for other reasons, I'm just watching as the world takes my ideas, that, by the way, I suffered quite a lot for.
-___
 
-By the way, hit me up if you're a medical malpractice lawyer.
-___
-
-> 1. I know how dark it is to mention this, but hopefully the fact that I include no actually-identifying information about her or trace from me to her, seeing as she blocked me everywhere, sharing this information is not an invasion of anyone's privacy or boundaries, at least by me, except my own. I'm not sure how people will instinctively or automatically judge me, but I believe I've not broken any ethical boundaries and have been the victim here by and far, like extremely. On top of that, I'm presenting actual world-redefining observations that might seem trivial to people in a spirituality group who are used to notions like synchronicity but aren't trivial in the context of what the vast majority of scientists believe is possible in this world. If you cancel me after all this trauma, preventable and largely externally inflicted, then shame on you and curse this fucking earth to doom. And though I won't without her permission provide proof of any of this, the fact that I can means the evidence needed to pretty convincingly argue the existence of something  exists, depending on how much you believe me that these events happened, and many of them can be fact-checked or provided substantiation to without revealing her identity. The odds of them all happening by coincidence, by any reasonable internal distribution of likely reality that is true to known science and physics, is next to 0. Some details were smoothed out, like me not having any prior girlfriends. I have had a couple month-long "relationships" when I was younger, nothing I could really call a relationship... and other things. So yes, some things written here aren't 100% exact, but they convey the truth.
-> And some background about me, I come from poverty and illness and extremely hard, never-rewarded work. I was raised by my mom and grandma, both refugee immigrants from Uzbekistan and so am I. This country has done nothing but mutilate and torture me. I'm a tiny scrawny 110lb guy with a big brain that is smart enough to say with total righteousness that canceling me would be stupid.
-> My ancestors, including rabbis, suffered to get me here. My last name means "teacher." Respect the shit out of this because I was already brain damaged by you people. I don't owe you an elegant argument. The facts, to the extent that you believe them, are described herein.
-> And no, I don't think I'm Jesus. I think I'm an isolated guy with way too much unrealized potential, missed chances, physical trauma stemming from infancy, and a huge death wish.
-> I picked up on these coincidences, funny enough not right away; I don't know if they were given to me. All of our lives might be chock-full of them and we don't notice. But I also meditate twice a day, eat an extremely strict all-steak / all-salmon diet, take freezing cold ice baths, do yoga everyday, walk in nature every day, genuinely read all of the religious texts, don't watch any movies despite being a big film buff, don't watch any shows despite loving shows, don't watch porn, don't eat 99% of foods, etc., for years on end, while scribbling un-read love poetry to no one; so maybe those practices had something to do with allowing me to justify better why I would gain awareness to some exceptionally stand-out unlikely events. (To reiterate, my neighbor died in exactly the way I envisioned the Christmas night I jumped into the frozen sewage brook, the same Christmas night as Tayler's independent trauma with a bald Jewish guy who looks exactly like me miles away, years before we met, the same Tayler who I met incidentally through a group on body image issues that I was only part of because of an extremely unlikely medical malpractice, and even extremely unlikelier, a second independent malpractice involving benzos and brain damage later, leading me to despair to the point of fearlessness to start posting about my problems publicly; she happened to respond to one of those posts joking about cosplaying together as Katara and Aang, initiating with me one week after my totally-independent Taylor-CAM paper, my first published paper, someone who was a CAM girl, with whom the relationship tragically and painfully for me fell apart on our shared birthdays in November in large part due to my immature/inexperienced hangups about that, a paper that was later cited by HORNET a week after my mom very-vividly kills a hornet in front of me and I explain to her what it means by text, and me being a guy where all of these things were firsts, and Tayler joking about being a swarm of bees) (while I'm studying consciousness, while I'm having revelatory and quite interesting physics ideas, a year before, coincidentally, being assigned to the mechanical engineering department to do, what else, physics modeling as an AI student, just by chance, while very-publicly professing that I'm learning about consciousness mathematically, spiritually, and socially) (while genuinely being the world's expert in deep learning, no offense) ("deep learning" is the study of neural networks for those who don't know, such as the ones that connect a singular brain, that, composed of many independent neurons, is in fact one intelligence, coalescing the multitude into the one, provably by our own observation demonstrating that a higher intelligence can emerge from seemingly separate individuals while still operating under a physically-constrained set of laws)
+---
 
 You might be wondering why extremely unlikely but patterned phenomena suggests the existence of a hidden latent factor, and specifically God. Making that argument is what I'll reserve for my thesis, among others, and some math and, if I still give a shit, experiments.
 
@@ -78,9 +59,7 @@ I guess until then, if it happens, we're just left with a puzzling set of claims
 Growing up as an atheist, it took a lot of creative scientific thought, revelatory manias, and objective synchronistic events to convince me that there absolutely is *something*. I can share what that something might be, how it might work, and the scientific, experiential, and data-centric reasons for believing in it rationally, intelligently, and credibly.
 
 The next step: convince me that there's something *good*. But under the same level of scrutiny.
-___
 
-I feel like all of this is terribly written, but I think it takes time/repeated-observation to organize thoughts linguistically/socially. Until those brain-forces organize within my head, I'm gonna trial-out these ideas with whatever writing comes. This is GitHub after all.
 ___
 
 Whether these probabilities can be used as components of a p-value stat depends on how well the Null Hypothesis distribution is quantified. In this case, me. But one distribution can be biassed, as is often the case in p-value reliant literature. This is known as p-hacking. To compute a good personal p-value, this is sufficient. To make it rigorous, it needs a peer-review distribution of experts. That is, a mixture of experts model. Then it's a sound aggregate estimate of the Null Hypothesis, if enough versions of me can corroborate that my estimation of the Null Hypothesis probabilities is within approximate bound. In other words, what do you think? If you agree that the described factual events, both independently and conditionally, are unlikely, below the standard 0.05 aggregate, then we have a proof, of something, assuming I'm telling the truth.
@@ -95,46 +74,4 @@ And again, most scientists just use Gaussian estimates. Data-centric reasoning i
 
 As for how and why these events having a p-value <0.05 can be interpretted as implying "something", and what that something might be, and all the goddamn math, I have a thesis to write. To quote myself from a moment ago: The next step: convince me that there's something *good*. But under the same level of scrutiny.
 
----
-
-My worry about posting this is two-parted. 1, I switched contexts. From writing this up to Reddit to writing this up to my private GitHub. The writing style immediately changed, suggesting some kind of psychological bias to the context. I already observed this before. It's interesting. Secondarily, ... parts of this sound and feel as though they were written by forces other than me, looking to discredit or frame me. Please keep in mind that my writing style evolves as I get my ideas out and I have paranoia about what to include or not include. I leave it all as is so it can be interpreted rationally.
-
-On Reddit, I was afraid of getting cancelled. On GitHub, I want to sound mature. In my thesis, I hope I write as me, who, blatantly and importantly, you don't know.
-
----
-
-Even if methodologically, the statistical argument seems unconvincing, these events, chained together, are unlikely. By any common-sense measure.
-
----
-
-> Some more context: I also envisioned myself dying metaphorically that day, not just the horror of being my wheelchair-bound piss-laden neighbor and the belief, in indescribable psychosis, that my mom died, who I believed came looking for me. In reality she did, I later found out, but not deep in the local groves by this frozen sewage brook. Her intuition brought her near there, but she didn't actually find me. The ambulance, who I screamed for, found me there, at 4am on Christmas, drenched, with my pants over my feet since I crawled out of that water thinking my mom drowned. I was screaming at the moon for someone to come since by then, I was freezing wet and thought I wasn't able to move. I envisioned Valyoda then. Myself as the resurrection of him in the context of eternal recurrence. And I told this to my mom later. This was before his passing. And for some reason, when the police asked what I was doing there, and the nurse, I told them "for pleasure" because in my delusional psychosis, God threatened me, and my ambiguously-alive mom, to martyr myself. Volyoda was a registered sex offender, by the way. I don't know if he was guilty. But that was part of the extreme horror: that I was him, or for some reason needed to pretend to be. I had never done anything abusive or of that nature (in his case, child pornography), but I saw myself that way, and after the benzo brain damage, I saw myself even worse that way. Not as a sex offender exactly (though, actually, for a long time I felt like that too, despite knowing the absurdity of my reasoning), but as the exiled worst of humanity. My self-worth I mean. You couldn't imagine how I saw myself (yes, for years I actually felt at equal guilt to pedophiles, I can't say more lol Christ, "fuck you all" becomes my instinct reflex in contempt now tho, ahhh, don't cancel me let me be free - until my inner guilt is absolved, which you have to do by the way, i have to go over the top in proving to myself that i'm free, so please stop fucking around; it's a psychological law). Not just from the hair loss, but all of this, and guilt — extreme guilt over nothing. Then actual brain damage. Benzo withdrawal is a nightmarish agony worse than anything. It is the severest GABA down regulation, literally fear spiking and brain shocking you. I was on fire for a year straight. Anyway, when I saw my mom at the hospital nearing 5am or I don't know what time, it was the hugest relief. Everyone in the hospital saw my paranoia around her. I thought she was going to die.
->
-> None of this healed until Volyoda died — of psychosis, a year later, in a delusional fit about his mom, believing she was dead. No history of psychosis; sudden episode and death. Then I healed, recovering from what was, at the time, my only psychosis and episode. Shortly after, Taylor-CAM paper, a paper I'm embaressed about but that began a series of huge irrefutable coincidences, tying back directly to that Christams night trauma.
->
-> Repeating myself from a moment ago: Even if methodologically, the statistical argument seems unconvincing, these events, chained together, are unlikely. By any common-sense measure.
-
----
-
-I know this is terribly written and I'm embarrassed of it.
-
----
-
-My character is not depicted in these writings.
-
-I believe our personalities are shaped by our memory processes. This region of time does not give me the best cogntiive resources to work with. But more than that, it doesn't give me the happy, normal self I remember and who, my rare but quite close friends, remember. With them, I think I'll find the words later. Thanks to our loved ones' memories, we can recover from the identity theft of trauma... I believe. (Hell is other people)
-
-You don't see what you don't see. But maybe you can, and then thank you.
-
----
-
-God traumatized me, if he exists, and I used to militantly believe he didn't. But lately, He or whatever coismic-coincidence force has been showing me a better side of this kind of coincidence deus-ex-machina magic. That being said, my inability to communicate still makes me suspicious, since it turns off and on, like "gates of heaven" opening and closing, depending on who I talk to, changes by context, and warps my thoughts, memories, and associations in unrecognizable and clearly-foreign ways. 
-
-It's not psychosis, but it is a process of some kind. I hope to teach that later. 
-
----
-
-*He's not even the last of my neighbors to go insane.
-
----
-
-Damn, there's a part of this that's about pedophiles
+So much context has been left out.
