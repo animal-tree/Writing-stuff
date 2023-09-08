@@ -62,12 +62,12 @@ We can however speculate.
 
 It is possible the existing laws “evolved” from a hyperreality, without logic, out of the scope of abrupt universes that, due to inconsistencies within their own logics, couldn’t survive. Ours perhaps developed something by random chance that allowed it to, in time, reach a set of laws that today function stably as our known laws of physics, but which were not, at one point, stable.
 
-In this evolution hypothesis, survival can be interpreted as a reality-teleology. One purpose that is consistent with the three logic-based cosmogonic explanations, is the purpose to, eventually, create itself. That would have to be an innate purpose of the universe for it to be able to exist in coincidence with logic, without relying on suspect "turtles all the way down" recurrence or attributing solely to magic. 
+In this evolution hypothesis, survival can be interpreted as a reality-teleology. One purpose that is consistent with the three logic-based cosmogonic explanations, is the purpose to, eventually, create itself. That would have to be an innate purpose of the universe for it to be able to exist in coincidence with logic, without relying on suspect "turtles all the way down" recurrence or attributing solely to magic. [^1] [^2] [^3] [^4]
 
----
+[^1]: The bend in spacetime could be theorized as this cyclical curve. 
 
-The bend in spacetime could be theorized as this cyclical curve. 
+[^2]: Unlike other origin theories, this one provides a argued axiom, premised only on logical causalty. It is nevertheless self-referential as it uses causality to explain a universe of causality. However, all math implicitly makes this causality assumption, in its rules, without stating it as an axiom. To recap: there are 4 causal explanations to causality, the proposed one saying the causality is cyclic and will, eventually, create itself.
 
-Unlike other origin theories, this one provides a argued axiom, premised only on logical causalty. It is nevertheless self-referential as it uses causality to explain a universe of causality. However, all math implicitly makes this causality assumption, in its rules, without stating it as an axiom. To recap: there are 4 causal explanations to causality, the proposed one saying the causality is cyclic and will, eventually, create itself.
+[^3]: That eventuality can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion. A.K.A. the universe may be round. Bent. Curved. And here is a reason for that nature property.
 
-That eventuality can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion. A.K.A. the universe may be round. Bent. Curved. And here is a reason for that nature property.
+[^4]: We can also construct a universe of dual creators, as per causal theories 2 and 3, with the quintessence of causal theory 1. As Yin creates Yang, Yang creates Yin.
