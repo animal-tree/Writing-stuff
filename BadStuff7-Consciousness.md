@@ -2,7 +2,7 @@
 
 ---
 
-### Consciousness
+#### Consciousness
 
 That the universe is conscious requires an *ad absurdum* argument.
 
@@ -18,36 +18,32 @@ Axiom: I observe.
 
 We then derive a set of logics and rules based on the consistent patterns of those observations, trusting our memory’s assertion of their consistency as predictive of their future consistency.
 
-Among those predictive correlates is the presumptive fact that a flipbook is an inanimate object, or if it’s not, by some odd chance, then it’s nevertheless no radically more conscious than another sufficiently complex symbolic object made of paper. That is, a flipbook does not stand out of its own accord as uniquely conscious or “animate”. 
+Among those predictive correlates is the presumptive fact that a flipbook is an innanimate object, or if it’s not, by some odd chance, then it’s nevertheless no radically different in terms of consciousness than another sufficiently complex symbolic object. That is, a flipbook does not stand out of its own accord as uniquely conscious or “animate”. 
 
-The argument that consciousness is representational reduces directly to this contrary absurdity. Within the pages of a movie-like flipbook, could we draw a sufficiently complex diagram of the human brain and all of its neurons, and produce within its covers a human consciousness? That argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that. 
+The argument that consciousness is representational reduces directly to this contrary absurdity. Given a sufficiently complex diagram of the human brain and all of its neurons, within the pages of a movie-like flipbook, we would produce within its covers a human consciousness, so the representational argument goes. However, holding a physical flipbook, and really thinking, that argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that.
 
-What about silicon and electron zips in computers?
+No more so silicon and electron zips.
 
-In terms of software, if those computers are conscious, it's because of the patterned hardware, the electons conducting through wired circuits, not the software itself.
+Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be the defining factor however, not the representation, so the physical material property of the object simulating the symbolic brain function would make more sense as a causal explanation for consciousness than representation alone.
 
-But since computers are so radically different from the brain, this would suggest a much bigger representational component, that zipping electrons through a digital e-book for example, but not a flipbook, or apagoge, could create consciousness. 
+In that matter, the brain, in conjunction with the body and nervous system, being conscious, is exemplar proof — as far as the limits of observation can take us — of a matter-combination that can yield consciousness.
 
-Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be materially sufficient as consciousness, despite the major structural differences to the human brain, despite the paper-flipbook argument.
+We may assume for the time being that human-like conciousness is a complex combination.
 
----
+If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. If it were simulated, it would require a complex representational combination. And since we have shown that representation alone reduces to *reductio ad absurdum*, it would have to have a specific material combination. A substance containing human-consciousness standalone has (1) not been discovered, and (2) and is pretty absurd without neither human-like brain nor body (or something equally complex) to define it. 
 
-Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. 
+Representation is combination, the interaction of forces in the universe forming increased complexity from elementary parts, but not all combinations are of the same materials. In known physics, those materials are generally assumed to be elementary particles and varying combinations.
 
-What this argument shows is that consciousness is not solely representational and that the matter property, the physics and chemistry (or biophysics and biochemistry), matters.
+The question becomes: what elementary parts and interactions produce human-like consciousness? Representation alone has been shown to reduce to absurdity, assuming a human-like conscious flipbook is impossible.
 
-What is the scale and complexity of this most-elementary form of what matters?
+Therefore it is a question of physics, pertaining to the particle behaviors in question (as well as biophysics), and chemistry, pertaining to the complex interactions (and biochemistry). 
 
-Is at at the neural level, the atomic level?
+What elementary particles and interactions then create the elementary-most form(s) of consciousness?
 
-Protons? Neutrons? Zipping electrons? Or all matter and particles?
+Perhaps the chemistry is as complex as the neuron itself.
 
-Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an axiom of the universe and its fundamental particles.
+Perhaps it’s much simpler, in the atoms themselves.
 
-Would that mean a flipbook is conscious?
+Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
 
-To a degree, maybe. Human-consciousness is distinct from its elementary subparts, presumably, that compose the greater singularized experience.
-
-From the representation composing those subparts, emerges human-like consciousness.
-
-And like the axiomatic human observing "it"-self, so is the universe, composing greater singularized emergent deductive complexities of I-observe-therefore-I-am consciousness.
+As axiomatic as elementary particles are to modern conception of the universe, so may be consciousness. "I observe".
