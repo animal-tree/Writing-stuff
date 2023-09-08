@@ -64,6 +64,8 @@ It is possible the existing laws “evolved” from a hyperreality, without logi
 
 In this evolution hypothesis, survival can be interpreted as a reality-teleology. One purpose that is consistent with the three logic-based cosmogonic explanations, is the purpose to, eventually, create itself. That would have to be an innate purpose of the universe for it to be able to exist in coincidence with logic, without relying on suspect "turtles all the way down" recurrence or attributing solely to magic. 
 
+---
+
 The bend in spacetime could be theorized as this cyclical curve. 
 
 Unlike other origin theories, this one provides a argued axiom, premised only on logical causalty. It is nevertheless self-referential as it uses causality to explain a universe of causality. However, all math implicitly makes this causality assumption, in its rules, without stating it as an axiom. To recap: there are 4 causal explanations to causality, the proposed one saying the causality is cyclic and will, eventually, create itself.
