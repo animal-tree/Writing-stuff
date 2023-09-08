@@ -41,3 +41,5 @@ Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an
 Would that mean a flipbook is conscious?
 
 To a degree, maybe. Human-consciousness is distinct from its elementary subparts, presumably, that compose the greater singularized experience.
+
+From the representation composing those subparts, emerges human-like consciousness.
