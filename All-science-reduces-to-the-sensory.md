@@ -60,7 +60,7 @@ Why did something else not pop into being? Where are those universes, if they ex
 
 We can however speculate.
 
-> $t$ can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion. A.K.A. the universe may be round. Bent. Curved. And here is a reason for that nature property
+> $t$ can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion. A.K.A. the universe may be round. Bent. Curved. And here is a reason for that nature property.
 
 It is possible the existing laws “evolved” from a hyperreality, without logic, out of the scope of abrupt universes that, due to inconsistencies within their own logics, couldn’t survive. Ours perhaps developed something by random chance that allowed it to, in time, reach a set of laws that today function stably as our known laws of physics, but which were not, at one point, stable.
 
