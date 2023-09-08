@@ -1,4 +1,4 @@
-**TLDR: Skip to the bullets at the end.**
+**TLDR: Skip to the bullets at the end.**  Edit: They are now closer to around the middle
 ___
 > Full-context version:
 > The full-context version includes even more likelihood-reducing details about the events that happened, so if you find the bullet points unconvincing, perhaps read through the full-context. And be aware that there is always yet more context not shared.
