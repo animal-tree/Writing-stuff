@@ -24,12 +24,6 @@ Therefore, the absurdity, while seeming less absurd in the context of advanced c
 
 Computers are advanced, but not comparable to the brain. Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. As far as the limits of observation can take us, that's as much as we can say.
 
-We may assume for the time being that human-like conciousness is caused mechanically by a complex combination, since it correlates with complex biologies to our ability to measure.
-
-If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it exists in matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter, not strictly one material combination.
-
-Rather, both representation and physical matter, chemistry and physics.
-
 But what is the elementary-most form of consciousness? 
 
 Perhaps the chemistry is as complex as the neuron itself.
