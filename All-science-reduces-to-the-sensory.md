@@ -72,5 +72,5 @@ Perhaps God is using this universe as a canvas to create Himself.
 
 The limits of observability prevent us from making any conclusions without assuming recognized patterns as laws. Those recognized patterns suggest the existence of causality. Causality, in self-consistency, requires an exteral body to create itself or a cyclic self-creation. Proposed here, is a variation of cyclic cosmogenesis that is mathematically more optimistic.
 
-[^1]: t can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion, A.K.A., the universe may be round. Bent. Curved. And here is a reason for that nature property.
+[^1]: t can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion, A.K.A., the universe may be round. Bent. Curved. And here is a reason for that nature property, as all mass curves towards existence.
 
