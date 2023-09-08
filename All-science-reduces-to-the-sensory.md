@@ -72,5 +72,5 @@ Perhaps God is using this universe as a canvas to create Himself.
 
 The limits of observability prevent us from making any conclusions without assuming recognized patterns as laws. Those recognized patterns suggest the existence of causality. Causality, in self-consistency, requires an exteral body to create itself or a cyclic self-creation. Proposed here, is a variation of cyclic cosmogenesis that is mathematically more optimistic.
 
-Curvature of spacetime was originally proposed in general relativity.
+Curvature of spacetime was originally proposed in general relativity, regarding the motions of mass.
 
