@@ -44,4 +44,4 @@ To a degree, maybe. Human-consciousness is distinct from its elementary subparts
 
 From the representation composing those subparts, emerges human-like consciousness.
 
-And like axiomatic human consciousness, observing itself, so is the universe, composing greater singularized axioms of "I observe."
+And like the axiomatic human observing "it"-self, so is the universe, composing greater singularized emergent deductive complexities of I-observe-therefore-I-am consciousness.
