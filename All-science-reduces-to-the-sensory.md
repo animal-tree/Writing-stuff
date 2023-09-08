@@ -68,4 +68,4 @@ The bend in spacetime could be theorized as this cyclical curve.
 
 Unlike other origin theories, this one provides a argued axiom, premised only on logical causalty. It is nevertheless self-referential as it uses causality to explain a universe of causality. However, all math implicitly makes this causality assumption, in its rules, without stating it as an axiom. To recap: there are 4 causal explanations to causality, the proposed one saying the causality is cyclic and will, eventually, create itself.
 
-That eventually can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion. A.K.A. the universe may be round. Bent. Curved. And here is a reason for that nature property.
+That eventuality can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion. A.K.A. the universe may be round. Bent. Curved. And here is a reason for that nature property.
