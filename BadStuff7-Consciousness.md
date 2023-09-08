@@ -45,5 +45,3 @@ Perhaps the chemistry is as complex as the neuron itself.
 Perhaps it’s much simpler, in the atoms themselves.
 
 Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
-
-As axiomatic as elementary particles are to modern conception of the universe, so may be consciousness. "I observe".
