@@ -24,7 +24,7 @@ In that matter, the brain, in conjunction with the body and nervous system, bein
 
 We may assume for the time being that human-like conciousness is a complex combination.
 
-If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. If it were simulated, it would require a complex representational combination. And since we have shown that representation alone reduces to *reductio ad absurdum*, it would have to have a specific material combination. A substance containing human-consciousness standalone has (1) not been discovered, and (2) and is pretty absurd without neither human-like brain nor body (or something equally complex) to define it. 
+If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter.
 
 Representation is combination, the interaction of forces in the universe forming increased complexity from elementary parts, but not all combinations are of the same materials. In known physics, those materials are generally assumed to be elementary particles and varying combinations.
 
