@@ -12,7 +12,7 @@ Axiom: I observe.
 
 We then derive a set of logics and rules based on the consistent patterns of those observations, trusting our memory’s assertion of their consistency as predictive of their future consistency.
 
-Among those predictive correlates is the presumptive fact that a flipbook is an innanimate object, or if it’s not, by some odd chance, then it’s nevertheless no radically different in terms of consciousness than another sufficiently complex symbolic object. That is, a flipbook does not stand out of its own accord as uniquely conscious or “animate”. 
+Among those predictive correlates is the presumptive fact that a flipbook is an innanimate object, or if it’s not, by some odd chance, then it’s nevertheless no radically more conscious than another sufficiently complex symbolic object made of paper. That is, a flipbook does not stand out of its own accord as uniquely conscious or “animate”. 
 
 The argument that consciousness is representational reduces directly to this contrary absurdity. Given a sufficiently complex diagram of the human brain and all of its neurons, within the pages of a movie-like flipbook, we would produce within its covers a human consciousness, so the representational argument goes. However, holding a physical flipbook, and really thinking, that argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that.
 
