@@ -39,9 +39,3 @@ Perhaps the chemistry is as complex as the neuron itself.
 Perhaps it’s much simpler, in the atoms themselves.
 
 Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
-
-One could build a flipbook out of living humans. 
-
-Analogously, one could build a living human out of living atoms. the simplest explanation to what attributes life to those atoms is axiomatic, much as the elementary particles and fundamental forces are.
-
-If this is unsatisfying, it's because there's a big elephant in the room. The nature of consciousness can be axiomatic to the universe in its fabric, much as it is within our own self-observation, but there is no proof for why it wouldn't just emerge as complex matter and complex representation. That is, why is it elementary and not emergent? Answer: Occam's Razor. The axiomatic assumption that it can emerge in matter — specifically matter, not representation — is a bigger leap than attributing it to some degree to matter generally e.g. elementary particles.
