@@ -1,4 +1,4 @@
-That the universe is conscious requires an *reductio ad absurdum* argument.
+That the universe is conscious requires an *ad absurdum* argument.
 
 I am conscious, therefore consciousness exists. I observe, I observe my observations, I observe my memories and perceptions, I observe my feelings and physical feelings, I observe the thought patterns, I observe my range of actions.
 
