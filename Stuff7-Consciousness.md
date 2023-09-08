@@ -34,5 +34,5 @@ Perhaps it’s much simpler, in the atoms themselves.
 
 Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
 
-The "I observe" axiom returns here. Perhaps, as much as it is an axiom to us, it is an axiom of the universe.
+The "I observe" axiom returns here. Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an axiom of the universe.
 
