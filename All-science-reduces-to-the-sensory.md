@@ -71,3 +71,5 @@ Unlike other origin theories, this one provides a argued axiom, premised only on
 We can also construct a universe of dual creators, as per causal theories 2 and 3, with the quintessence of causal theory 1. As Yin creates Yang, Yang creates Yin.
 
 Perhaps God is using this universe as a canvas to create Himself.
+
+The limits of observability prevent us from making any conclusions without assuming recognized patterns as laws. Those recognized patterns suggest the existence of causality. Causality, in self-consistency, requires an exteral body to create itself or a cyclic self-creation. Proposed here, is a variation of cyclic cosmogenesis that is mathematically more optimistic.
