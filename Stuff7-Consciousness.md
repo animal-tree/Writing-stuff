@@ -26,16 +26,11 @@ We may assume for the time being that human-like conciousness is a complex combi
 
 If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter.
 
-Representation is combination, the interaction of forces in the universe forming increased complexity from elementary parts.
-
-The question becomes: what elementary parts and interactions produce human-like consciousness? Representation alone has been shown to reduce to absurdity, assuming a human-like conscious paper flipbook is impossible.
-
-Therefore it is a question of physics, pertaining to the particle behaviors in question (as well as biophysics), and chemistry, pertaining to the complex interactions (and biochemistry). 
-
-What elementary particles and interactions then create the elementary-most form(s) of consciousness?
+But what is the elementary-most form of consciousness? 
 
 Perhaps the chemistry is as complex as the neuron itself.
 
 Perhaps it’s much simpler, in the atoms themselves.
 
 Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
+
