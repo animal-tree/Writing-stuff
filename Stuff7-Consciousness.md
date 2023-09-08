@@ -14,15 +14,17 @@ We then derive a set of logics and rules based on the consistent patterns of tho
 
 Among those predictive correlates is the presumptive fact that a flipbook is an inanimate object, or if it’s not, by some odd chance, then it’s nevertheless no radically more conscious than another sufficiently complex symbolic object made of paper. That is, a flipbook does not stand out of its own accord as uniquely conscious or “animate”. 
 
-The argument that consciousness is representational reduces directly to this contrary absurdity. Within the pages of a movie-like flipbook, could we draw a sufficiently complex diagram of the human brain and all of its neurons, and produce within its covers a human consciousness? That argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that. This is the *reductio ad absurdum* premise I am describing and making an argument for.
+The argument that consciousness is representational reduces directly to this contrary absurdity. Within the pages of a movie-like flipbook, could we draw a sufficiently complex diagram of the human brain and all of its neurons, and produce within its covers a human consciousness? That argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that. This is the *reductio ad absurdum* premise I am describing and making an argument for, in the context of whether silicon and electron zips are conscious in computers.
 
-No more so silicon and electron zips.
+In terms of software, if those computers are conscious, it's because of the patterned hardware, the electons conducting through circuits, not the software itself.
 
-Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be the defining factor however, not the representation, so the physical material property of the object simulating the symbolic brain function would make more sense as a causal explanation for consciousness than representation alone.
+This would suggest a hardware-software equivalenece, but that is most certainly not the case. The representation of the software can be radically different in actualized form as hardware. The computer is structurally, materially, and technologically distinct from the human brain.
 
-In that matter, the brain, in conjunction with the body and nervous system, being conscious, is exemplar proof — as far as the limits of observation can take us — of a matter-combination that can yield consciousness.
+Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be materially sufficient as consciousness, but not the representation.
 
-We may assume for the time being that human-like conciousness is a complex combination.
+Computers are advanced, but not comparable to the brain. Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. As far as the limits of observation can take us, that's as much as we can say.
+
+We may assume for the time being that human-like conciousness is caused mechanically by a complex combination.
 
 If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter.
 
