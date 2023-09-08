@@ -1,4 +1,4 @@
-That the universe is conscious requires an *abducto absurdo* argument.
+That the universe is conscious requires an *reductio ad absurdum* argument.
 
 I am conscious, therefore consciousness exists. I observe, I observe my observations, I observe my memories and perceptions, I observe my feelings and physical feelings, I observe the thought patterns, I observe my range of actions.
 
@@ -22,7 +22,7 @@ Therefore, the absurdity, while seeming less absurd in the context of advanced c
 
 In that matter, the brain, in conjunction with the body and nervous system, being conscious, is exemplar proof — as far as the limits of observation can take us — of a matter-combination that can yield consciousness.
 
-If it’s not representation, as by the absurdo reducto flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. For human-like consciousness, the latter is then proven, since a substance containing human-consciousness standalone has (1) not been discovered, and (2) and is pretty absurd without neither human-like brain nor body to define it. If it were simulated, it would require a complex representational combination. And since we have shown that representation alone reduces to *reducto absurdo*, it would have to have a specific material combination.
+If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. For human-like consciousness, the latter is then proven, since a substance containing human-consciousness standalone has (1) not been discovered, and (2) and is pretty absurd without neither human-like brain nor body to define it. If it were simulated, it would require a complex representational combination. And since we have shown that representation alone reduces to *reductio ad absurdum*, it would have to have a specific material combination.
 
 Representation is combination, the interaction of forces in the universe forming increased complexity from elementary parts, but not all combinations are of the same materials. In known physics, those materials are generally assumed to be elementary particles and varying combinations.
 
