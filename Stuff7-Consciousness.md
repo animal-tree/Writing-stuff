@@ -26,20 +26,4 @@ Therefore, the absurdity, while seeming less absurd in the context of advanced c
 
 Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. 
 
-We may assume for the time being that human-like conciousness is caused mechanically by a complex combination, since it correlates, according to our trusted observations, with complex biologies.
-
----
-
-If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it exists in matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter, not strictly one material combination.
-
-Therefore it is a question of physics, pertaining to the particle behaviors in question (as well as biophysics), and chemistry, pertaining to the complex interactions (and biochemistry). 
-
-What elementary particles and interactions then create the elementary-most form(s) of consciousness?
-
-Perhaps the chemistry is as complex as the neuron itself.
-
-Perhaps it’s much simpler, in the atoms themselves.
-
-Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
-
-The "I observe" axiom returns here. Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an axiom of the universe.
+Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an axiom of the universe.
