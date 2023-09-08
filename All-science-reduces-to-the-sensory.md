@@ -46,7 +46,7 @@ In fact, there is one that does not have to be so scary. It will be described in
 
 $\lim_{t \to +\infty} \Omega_t = \Omega_0$. (conservation theory)
 
-The origin of the universe is thus explained by the infinite recursion of an infinitely horizon’d universe. [^1]
+The origin of the universe is thus explained by the infinite recursion of an infinitely horizon’d universe.
 
 In this interpretation, the universe may create itself one day and therefore can exist, but tomorrow remains unknowable and its doom can always be procrastinated.
 
@@ -71,6 +71,4 @@ We can also construct a universe of dual creators, as per causal theories 2 and 
 Perhaps God is using this universe as a canvas to create Himself.
 
 The limits of observability prevent us from making any conclusions without assuming recognized patterns as laws. Those recognized patterns suggest the existence of causality. Causality, in self-consistency, requires an exteral body to create itself or a cyclic self-creation. Proposed here, is a variation of cyclic cosmogenesis that is mathematically more optimistic.
-
-[^1]: t can be our time dimension, a different dimension, or all of spacetime.
 
