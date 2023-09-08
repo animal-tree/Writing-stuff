@@ -26,7 +26,7 @@ We may assume for the time being that human-like conciousness is a complex combi
 
 If it’s not representation, as by the *reductio ad absurdum* flipbook argument, then it’s matter — some substrate of the universe — or a combination of matter and representation. Due to the variety of living organisms, we can assume it's the latter.
 
-Representation is combination, the interaction of forces in the universe forming increased complexity from elementary parts, but not all combinations are of the same materials. In known physics, those materials are generally assumed to be elementary particles and varying combinations.
+Representation is combination, the interaction of forces in the universe forming increased complexity from elementary parts.
 
 The question becomes: what elementary parts and interactions produce human-like consciousness? Representation alone has been shown to reduce to absurdity, assuming a human-like conscious flipbook is impossible.
 
