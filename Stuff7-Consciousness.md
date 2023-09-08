@@ -28,4 +28,16 @@ Therefore, the absurdity, while seeming less absurd in the context of advanced c
 
 Our examples of consciousness are limitted to specific physical materials not found, in the same quantity, shape, or pattern in computers. A matter-combination that can yield consciousness, is the brain. 
 
-Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an axiom of the universe.
+What this argument shows ithat consciousness is not solely representational and that the matter property, the physics and chemistry (or biophysics and biochemistry), matters.
+
+What is the scale and complexity of this most-elementary form of what matters?
+
+Is at at the neural level, the atomic level?
+
+Protons? Neutrons? Zipping electrons? Or all matter and particles?
+
+Perhaps, as much as it — meaning consciousness — is an axiom to us, it is an axiom of the universe and its fundamental particles.
+
+Would that mean a flipbook is conscious?
+
+To a degree, maybe. Huamn-consciousness is distinct from its elementary subparts, presumably.
