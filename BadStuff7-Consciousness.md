@@ -1,4 +1,4 @@
-**Too much of this is poorly written and does not represent the views of the writer**
+**Too much of this is poorly written and does not represent the views of the writer.**
 
 That the universe is conscious requires an *ad absurdum* argument.
 
