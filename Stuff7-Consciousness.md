@@ -18,7 +18,7 @@ The argument that consciousness is representational reduces directly to this con
 
 What about silicon and electron zips in computers?
 
-In terms of software, if those computers are conscious, it's because of the patterned hardware, the electons conducting through circuits, not the software itself.
+In terms of software, if those computers are conscious, it's because of the patterned hardware, the electons conducting through wired circuits, not the software itself.
 
 But since computers are so radically different from the brain, this would suggest a much bigger representational component, that zipping electrons through a digital e-book for example, but not a flipbook, or apagoge, could create consciousness. 
 
