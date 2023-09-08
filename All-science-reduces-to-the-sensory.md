@@ -44,7 +44,7 @@ These views have been interpreted by countless religions in countlessly romantic
 
 In fact, there is one that does not have to be so scary. It will be described in an equation that is meant to be optimistic:
 
-$\lim_{T \to +\infty} \Omega_T = \Omega_0$. (conservation theory)
+$\lim_{t \to +\infty} \Omega_t = \Omega_0$. (conservation theory)
 
 The origin of the universe is thus explained by the infinite recursion of an infinitely horizon’d universe.
 
