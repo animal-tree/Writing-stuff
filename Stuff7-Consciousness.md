@@ -14,7 +14,7 @@ We then derive a set of logics and rules based on the consistent patterns of tho
 
 Among those predictive correlates is the presumptive fact that a flipbook is an inanimate object, or if it’s not, by some odd chance, then it’s nevertheless no radically more conscious than another sufficiently complex symbolic object made of paper. That is, a flipbook does not stand out of its own accord as uniquely conscious or “animate”. 
 
-The argument that consciousness is representational reduces directly to this contrary absurdity. Within the pages of a movie-like flipbook, could we draw a sufficiently complex diagram of the human brain and all of its neurons, and produce within its covers a human consciousness? That argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that. This is the *reductio ad absurdum* premise.
+The argument that consciousness is representational reduces directly to this contrary absurdity. Within the pages of a movie-like flipbook, could we draw a sufficiently complex diagram of the human brain and all of its neurons, and produce within its covers a human consciousness? That argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that. This is the *reductio ad absurdum* premise I am describing and making an argument for.
 
 No more so silicon and electron zips.
 
