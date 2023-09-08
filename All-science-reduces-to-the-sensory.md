@@ -64,4 +64,4 @@ It is possible the existing laws “evolved” from a hyperreality, without logi
 
 In this evolution hypothesis, survival can be interpreted as a reality-teleology. One purpose that is consistent with the three logic-based cosmogonic explanations, is the purpose to, eventually[^1], create itself. That would have to be an innate purpose of the universe for it to be able to exist in coincidence with logic, without relying on suspect "turtles all the way down" recurrence or attributing solely to magic. 
 
-[^1]: eventually can mean along any "time" dimension $t$, not necessarily ours; heck, it could mean the cyclic boundaries of space/spacetime, hence "curvedness".
+[^1]: Eventually can mean along any "time" dimension $t$, not necessarily ours; heck, it could mean the cyclic boundaries of space/spacetime, hence "curvedness".
