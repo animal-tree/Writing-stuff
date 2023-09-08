@@ -18,7 +18,7 @@ The argument that consciousness is representational reduces directly to this con
 
 No more so silicon and electron zips.
 
-Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artifical neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be the defining factor however, not the representation, so the physical material property of the object simulating the symbolic brain function would make more sense as a causal explanation for consciousness than representation alone.
+Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artificial neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be the defining factor however, not the representation, so the physical material property of the object simulating the symbolic brain function would make more sense as a causal explanation for consciousness than representation alone.
 
 In that matter, the brain, in conjunction with the body and nervous system, being conscious, is exemplar proof — as far as the limits of observation can take us — of a matter-combination that can yield consciousness.
 
