@@ -58,9 +58,7 @@ Besides these 3 cosmogonical explanations, there is no theory within logic that 
 
 Why did something else not pop into being? Where are those universes, if they exist? Can they connect to ours? What are the odds something so ordered, that can be described by a single standard-model equation, would be what pops into being, if literally anything at all could? Such an ontology of particles in 3D space, in gravitational 4D spacetime, is surreal to give weight to random chance at the start of the Big Bang when the condensed energies were already behaving in suspiciously precise ways, according to suspiciously specific hard-coded laws. Yet beyond that horizon, if there is a beyond, we cannot see.
 
-We can however speculate.
-
-> $t$ can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion. A.K.A. the universe may be round. Bent. Curved. And here is a reason for that nature property.
+We can however speculate. [^1]
 
 It is possible the existing laws “evolved” from a hyperreality, without logic, out of the scope of abrupt universes that, due to inconsistencies within their own logics, couldn’t survive. Ours perhaps developed something by random chance that allowed it to, in time, reach a set of laws that today function stably as our known laws of physics, but which were not, at one point, stable.
 
@@ -73,3 +71,6 @@ We can also construct a universe of dual creators, as per causal theories 2 and 
 Perhaps God is using this universe as a canvas to create Himself.
 
 The limits of observability prevent us from making any conclusions without assuming recognized patterns as laws. Those recognized patterns suggest the existence of causality. Causality, in self-consistency, requires an exteral body to create itself or a cyclic self-creation. Proposed here, is a variation of cyclic cosmogenesis that is mathematically more optimistic.
+
+[^1]: t can be our time dimension, a different dimension, or all of spacetime, from one corner of the Earth to the next, in cyclically-creating fashion, A.K.A., the universe may be round. Bent. Curved. And here is a reason for that nature property.
+
