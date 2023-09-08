@@ -16,7 +16,7 @@ Among those predictive correlates is the presumptive fact that a flipbook is an 
 
 The argument that consciousness is representational reduces directly to this contrary absurdity. Given a sufficiently complex diagram of the human brain and all of its neurons, within the pages of a movie-like flipbook, we would produce within its covers a human consciousness, so the representational argument goes. However, holding a physical flipbook, and really thinking, that argument would raise doubt. A pen-drawing couldn’t produce in its pages human-like consciousness, I don’t think. It might! But I don’t think pen and paper could do that.
 
-No more so silicon-chips and electron zips.
+No more so silicon and electron zips.
 
 Therefore, the absurdity, while seeming less absurd in the context of advanced circuits, generalizes to microchips and artifical neural networks running on CPUs and GPUs and TPUs as well. Those electron zips however could be the defining factor however, not the representation, so the physical material property of the object simulating the symbolic brain function would make more sense as a causal explanation for consciousness than representation alone.
 
