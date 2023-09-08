@@ -2,7 +2,7 @@ That the universe is conscious requires an *ad absurdum* argument.
 
 I am conscious, therefore consciousness exists. I observe, I observe my observations, I observe my memories and perceptions, I observe my feelings and physical feelings, I observe the thought patterns, I observe my range of actions.
 
-I am observing that moving inward into what I am, I observe that I can observe. Moving yet deeper, I observe thoughts, feelings, memories, perceptions, and more. I am, therefore my thoughts are too.
+Let me rephrase that. I am observing that moving inward into what I am, I observe that I can observe. Moving yet deeper, I observe thoughts, feelings, memories, perceptions, and more. I am, therefore my thoughts are too.
 
 This is somewhat backwards from Aristotle’s “I think, therefore I am.”
 
