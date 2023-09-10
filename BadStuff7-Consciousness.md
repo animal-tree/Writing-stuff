@@ -48,7 +48,7 @@ Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case,
 
 **Consciousness and Occam's razor**:
 
-Given two causal explanations of effect $y$, one that depends on $x$ as cause and the other that depends on $x, y$ as cause: 
+Given two causal explanations of effect $y$, one that depends on $a$ as cause and the other that depends on $a, b$ as cause: 
 
 1. $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(a, h^{(0)}) \vert y, \mathrm{R})$
 2. $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(a, b, h^{(0)}) \vert y, \mathrm{R})$
