@@ -88,3 +88,11 @@ It can feel love.
 How does a flipbook feel?
 
 Impartial and unassuming, unlike somebody.
+
+---
+
+A flipbook probably can't experience human-like consciousness, at least not induced by the drawings in it. Even drawing a sufficiently advanced representation of the brain, with all the neurons and time steps, the flipbook, probably wouldn't be conscious.
+
+Then consciousness is matter, not just representation. The simplest explanation is that it's in all matter, in a primordial form that increases in complexity.
+
+By Occam's razor, this remains the best explanation.
