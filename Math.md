@@ -61,29 +61,3 @@ Treating each other as random variables.
 Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
 
 Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
-
-**Transformer model:**
-
-We can define this data structure effectively as a transformer, learning a parameterized set of tokens that represent random variables ($h$) and which map to other tokens probabilistically under a shared invariance function ($\mathrm{R}$, represented as MHDPA). That way, a single math can be learned across tokens, with the expressive power of the above formalism verified due to its analogous representation as a transformer.
-
-What we've shown is that a transformer can express the capacity of the above formalism.
-
-This isn't precisely what I'm going for, but it shows some of the connection lines that draw my thinking (learnable random variables, or quantum states, physically interacting with each other).
-
-It can be further generalized to a Vector-Quantizer, long-term memory, and physics model. 
-
-**Larger aim:**
-
-Could these maths be used to deduce theories around epistemological arguments? Such as to say, here is a definiton of Occam's razor, justified epistemlogically by this reasoning principle, and therefore this derivation step? If so, answering some major questions in consciousness may be possible, though the epistemelogical definitions and steps are not shown here. One such question is: "Could consciousness exist in a modern computer system?" With CPUs, GPUs, and TPUs, under some assumptions, such as the infeasibility of a flipbook or holograph to be as conscious as a human given a neuromorphic projection in pen or projection, it's unlikely. My journal is full of fairly-simple math for making this deduction, here presented hand-wavingly, formally in the future.
-
-Theoretical claims about consciousness will require this kind of math.
-
-As well as gnoses about the world.
-
-**For some reason:**
-
-for some reason as I write this, my throat hurts and I am worried I'm not supposed to say it.
-
-There may be an inner wisdom telling me to wait until I've formalized it correctly.
-
-I wish it would do so without stringing my neck and turning the wheel of my chakras far to the right.
