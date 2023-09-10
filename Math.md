@@ -58,12 +58,6 @@ $\mathbf{P}(w > z \vert w > x, \mathbf{P}(x > z \vert x > y, y > z) = 1) = 1$,
 
 Treating each other as random variables.
 
-Could such an ontology form the basis of a data structure[^1] to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
+Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
 
-Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences. 
-
-[^1]: We can define this data structure effectively as a transformer, learning a parameterized set of tokens that represent random variables (h) and which map to other tokens probabilistically under a shared invariance function (R, represented as MHDPA). That way, a single math can be learned across tokens, with the expressive power of the above formalism verified due to its analogous representation as a transformer.
-
-      This isn't precisely what I'm going for, but it shows some of the connection lines that draw my thinking.
-
-      It can be further generalized to a Vector-Quantizer, long-term memory, and physics model.
+Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
