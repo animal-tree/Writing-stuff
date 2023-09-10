@@ -45,3 +45,40 @@ Perhaps the chemistry is as complex as the neuron itself.
 Perhaps it’s much simpler, in the atoms themselves.
 
 Protons? Neutrons? Zipping electrons? Or all matter and particles? In that case, perhaps a flipbook is conscious, sort of.
+
+**Consciousness and Occam's razor**:
+
+Given two causal explanations of effect $y$, one that depends on $x$ as cause and the other that depends on $x, y$ as cause: 
+
+1. $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(a, h^{(0)}) \vert y, \mathrm{R})$
+2. $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(a, b, h^{(0)}) \vert y, \mathrm{R})$
+
+an epistemological principle can be added to disentangle causes for the sake of generality.
+
+But why is generality a motivator for reasoning? It is a good prior for human reasoning, though only useful as a heuristic for search, not as a deduction step. However, in epistemological deduction, search is effectively what we're doing, as it's about the quantification of belief.
+
+Fewer assumptions, until evidence is available to the contrary, is wiser.
+
+It does not afford us to say consciousness is "only" matter. Just that it definitely is. It could be something else as well, and the assumption of-non-consciousness of flipbook could be wrong.
+
+Does it mean more than what the flipbook assumption already tells us?
+
+It means before we understand the representation, we should identify the matter.
+
+Collision entanglements.
+
+Specific ones or interpretable ones?
+
+Yes, interpretable complexities. Or something specific to the brain.
+
+Then what is the "feeling" that a computer feels?
+
+Electric. Not good. Zipping-zapping, whiny, uncomfortable.
+
+What does a rock feel?
+
+Hard.
+
+Can a tree feel pain?
+
+It can feel love.
