@@ -64,16 +64,4 @@ Furthermore, it can generalize to a new type of math where proof steps can be ep
 
 **Larger aim:**
 
-Could these maths be used to deduce theories around epistemological arguments? Such as to say, here is a definiton of Occam's razor, justified epistemlogically by this reasoning principle, and therefore this derivation step? If so, answering some major questions in consciousness may be possible, though the epistemelogical definitions and steps are not shown here. One such question is: "Could consciousness exist in a modern computer system?" With CPUs, GPUs, and TPUs, under some assumptions, such as the infeasibility of a flipbook or holograph to be as conscious as a human given a neuromorphic representation in pen or projection, it's unlikely. My journal is full of fairly-simple math for making this deduction, here presented hand-wavingly, formally in the future.
-
-Theoretical claims about consciousness will require this kind of math.
-
-As well as gnoses about the world.
-
-**For some reason:**
-
-for some reason as I write this, my throat hurts and I am worried I'm not supposed to say it.
-
-There may be an inner wisdom telling me to wait until I've formalized it correctly.
-
-I wish it would do so without stringing my neck and turning the wheel of my chakras far to the right.
+Could these maths be used to deduce theories around epistemological arguments? Such as to say, here is a definiton of Occam's razor, justified epistemlogically by this reasoning principle, and therefore this derivation step? If so, answering some major questions in consciousness may be possible, though the epistemelogical definitions and steps are not shown here. One such question is: "Could consciousness exist in a modern computer system?" With CPUs, GPUs, and TPUs, under some assumptions, such as the infeasibility of a flipbook or holograph to be as conscious as a human given a neuromorphic representation in pen or projection, it's unlikely. My journal is full of fairly-simple math for making this deduction, here presented hand-wavingly.
