@@ -61,7 +61,3 @@ Treating each other as random variables.
 Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
 
 Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
-
-**Larger aim:**
-
-Could these maths be used to deduce theories around epistemological arguments? Such as to say, here is a definiton of Occam's razor, justified epistemlogically by this reasoning principle, and therefore this derivation step? If so, answering some major questions in consciousness may be possible, though the epistemelogical definitions and steps are not shown here. One such question is: "Could consciousness exist in a modern computer system?" With CPUs, GPUs, and TPUs, under some assumptions, such as the infeasibility of a flipbook or holograph to be as conscious as a human given a neuromorphic representation in pen or projection, it's unlikely. My journal is full of fairly-simple math for making this deduction, here presented hand-wavingly.
