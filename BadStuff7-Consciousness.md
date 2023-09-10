@@ -10,7 +10,7 @@ I am conscious, therefore consciousness exists. I observe, I observe my observat
 
 Let me rephrase that. I am observing that moving inward into what I am, I observe that I can observe. Moving yet deeper, I observe thoughts, feelings, memories, perceptions, and more. I am, therefore my thoughts are too.
 
-This is somewhat backwards from Aristotle’s “I think, therefore I am.”
+This is somewhat backwards from René Descartes’s “I think, therefore I am.”
 
 Nevertheless, our existence can be taken as axiom, proven by its own observed existence.
 
