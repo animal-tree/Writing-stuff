@@ -97,6 +97,8 @@ Then consciousness is matter, not just representation. The simplest explanation 
 
 By Occam's razor, this remains the best explanation.
 
-Since there is no elementary particle for consciousness in the standard model of physics discovered as of yet, it is most likely in the collisions between particles (or forces between them).
+Since there is no elementary particle for consciousness in the standard model of physics discovered as of yet, the most likely explanation is in the collisions between particles (or forces between them).
 
 Entanglements that scale locally.
+
+If that makes sense.
