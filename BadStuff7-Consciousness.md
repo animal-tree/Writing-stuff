@@ -82,3 +82,9 @@ Hard.
 Can a tree feel pain?
 
 It can feel love.
+
+---
+
+How does a flipbook feel?
+
+Impartial and unassuming, unlike somebody.
