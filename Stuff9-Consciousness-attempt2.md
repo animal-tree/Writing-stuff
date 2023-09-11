@@ -48,6 +48,6 @@ By Occam's razor, that makes it reasonable as a leading hypothesis.
 
 The minimalistic model needed to explain it causally is:
 
-$\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}) = 1$
+$\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}) = 1$,
 
 where $\mathrm{I}$ is the Identity function.
