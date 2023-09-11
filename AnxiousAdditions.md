@@ -1,6 +1,6 @@
 #### [All-science-reduces-to-the-sensory.md](All-science-reduces-to-the-sensory.md)
 
-Within causality there are three ways two explain the origin of something.
+Within causality there are three ways to explain the origin of something.
 
 1. "Turtles-all-the-way-down"
 2. Cyclicality
