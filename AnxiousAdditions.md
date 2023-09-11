@@ -1,3 +1,11 @@
+#### [All-science-reduces-to-the-sensory.md](All-science-reduces-to-the-sensory.md)
+
+Within causality there are three ways two explain the origin of something:
+
+1. "Turtles-all-the-way-down"
+2. Cyclicality
+3. Magic
+
 #### [Math.md](Math.md)
 
 By defining philosophy as a random variable set, we permit the question, "What is a random variable?" even as the set is defined as one of all random variables. Random variables include probability distributions, but what else might they include? That philosophical question remains a part of this recursive set non-definition.
