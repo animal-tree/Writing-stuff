@@ -26,9 +26,9 @@ $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
 
 and causal hypotheses for consciousness that it's stemming from matter $m$ and/or representation $r$:
 
-1. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert c, \mathrm{R}), m \sim x$
-2. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert c, \mathrm{R}), r \sim x$
-3. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert c, \mathrm{R}), (m, r) \sim x$
+1. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x=m, h^{(0)}) \vert c, \mathrm{R})$
+2. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x=r, h^{(0)}) \vert c, \mathrm{R})$
+3. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x=(m, r), h^{(0)}) \vert c, \mathrm{R})$
 
 We have shown, by the belief established thus far, that $P2 < P1$ and $P2 < P3$.
 
