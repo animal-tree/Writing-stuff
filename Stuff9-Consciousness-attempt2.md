@@ -44,6 +44,8 @@ Unlike $(m, r) \sim x$, this causal explanation of consciousness as matter does 
 
 By Occam's razor, that makes it reasonable as a leading hypothesis.
 
+---
+
 The minimalistic model needed to explain it causally is:
 
 $\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}, m, n \in \mathbb{N}) = 1$
