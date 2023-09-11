@@ -36,7 +36,7 @@ This leaves us with two competing leading suspicions: $m \sim x$ and $(m, r) \si
 
 Now we turn to the dynamics model $\mathrm{R}$. We know that in the existing laws of physics, there is no known mechanism for how representation, even combined with matter, would give rise to consciousness. 
 
-However, there is an alternate explanation for how the biological intelligences of consciousness could emerge, namely that its matter — specific matter — within the brain, whose "representational" collisions and interactions, create the experience of consciousness. Not as representations but as specific chemical effects on that matter. 
+However, there is an alternate explanation for how the biological intelligences of consciousness could emerge, namely that the matter — specific matter — within or of the brain, collides and interacts to create the experience of consciousness. Not as representations but as specific chemical effects on that matter. 
 
 However, in chemistry there is no known mechanism for how matter could interact to produce consciousness. Therefore, we could propose one more alternate hypothesis that does not alter the dynamics of $\mathrm{R}$: that matter is consciousness generally. That there is an equivalence between matter $m$ and consciousness $c$ ($c = m$), and its forces of interaction allow us to experience greater and richer forms of that sensation. 
 
