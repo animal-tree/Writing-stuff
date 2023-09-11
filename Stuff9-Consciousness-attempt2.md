@@ -46,4 +46,30 @@ By Occam's razor, that makes it reasonable as a leading hypothesis.
 
 ---
 
+Hypothesis: Consciousness is collision entanglements.
+
+Specific ones or interpretable ones?
+
+Yes, interpretable complexities. Or something specific to the brain.
+
+Then what is the "feeling" that a computer feels?
+
+Electric. Not good. Zipping-zapping, whiny, uncomfortable.
+
+What does a rock feel?
+
+Hard.
+
+Can a tree feel pain?
+
+It can feel love.
+
+---
+
+How does a flipbook feel?
+
+Impartial and unassuming, unlike somebody.
+
+---
+
 Apologies if this is still badly written.
