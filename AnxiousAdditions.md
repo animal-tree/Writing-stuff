@@ -28,7 +28,7 @@ and causal explanations for consciousness that it's stemming from matter $m$ and
 2. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert c, \mathrm{R}), r \sim x$
 3. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert c, \mathrm{R}), (m, r) \sim x$
 
-We have shown, by the belief established thus far, that $P(r \sim x) < P(m \sim x)$ and $P(r \sim x) < P((m, r) \sim x)$.
+We have shown, by the belief established thus far, that $P2 < P1$ and $P2 < P3)$.
 
 This leaves us with two competing leading suspicions: $m \sim x$ and $(m, r) \sim x$.
 
