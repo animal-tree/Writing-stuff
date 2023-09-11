@@ -40,7 +40,7 @@ Perhaps, philosophically speaking, philosophy is the random variable set encompa
 
 $\langle B \vert (B \in \Omega) \sim \mathbf{P}(B \in \Omega) \rangle$,
 
-though to define it as such would [contradict that definition](AnxiousAdditions.md) since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Perhaps contextually useful to make some inferences about its meaning based on the other words but ultimately meaningless since any reference to itself within the definition would point back to a non-converging turtles-all-the-way-down recursion of itself. Furthermore, something about Gödel's incompleteness theorem.
+though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Perhaps contextually useful to make some inferences about its meaning based on the other words but ultimately meaningless since any reference to itself within the definition would point back to a non-converging turtles-all-the-way-down recursion of itself. Furthermore, something about Gödel's incompleteness theorem.
 
 Random variables may be also expressed as random variables relating other random variables, such as $\mathbf{P}(x > y)$.
 
