@@ -44,9 +44,9 @@ Unlike $(m, r) \sim x$, this causal explanation of consciousness as matter does 
 
 By Occam's razor, that makes it reasonable as a leading hypothesis.
 
-The minimalistic model needed to explain it casually is:
+The minimalistic model needed to explain it causally is:
 
-$\mathbf{P}((c, h^{(n)}) \sim \mathrm{I}^n(x=m, h^{(n)}) \vert c, \mathrm{I})$
+$\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}, m)$
 
 where $\mathrm{I}$ is the Identity function.
 
