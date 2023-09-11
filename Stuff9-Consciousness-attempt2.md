@@ -54,4 +54,4 @@ $\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}) = 1$,
 
 where $\mathrm{I}$ is the Identity function.
 
-See: [epistemelogical proof](Math.md).
+See: "[epistemelogical proof](Math.md)".
