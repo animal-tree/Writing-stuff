@@ -105,10 +105,6 @@ If that makes sense.
 
 ---
 
-
-
-#### [BadStuff7-Consciousness.md](BadStuff7-Consciousness.md)
-
 Do you agree that a drawing in a flipbook couldn't make the flipbook conscious as a human would be?
 
 Most likely, yes.
