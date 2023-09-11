@@ -43,3 +43,7 @@ However, in chemistry there is no known mechanism for how matter could interact 
 Unlike $(m, r) \sim x$, this causal explanation of consciousness as matter does not add an axiom to the known dynamics of assumed $R$, but rather an equivalence relation. For the time being, it remains the simplest explanation for an unknown phenomenon, not contradicted or shown improbable.
 
 By Occam's razor, that makes it reasonable as a leading hypothesis.
+
+---
+
+Apologies if this is still badly written.
