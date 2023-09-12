@@ -48,7 +48,7 @@ By Occam's razor, that makes it reasonable as a leading hypothesis.
 
 "Occam's razor":
 
-The minimalistic model needed to explain $c$ causally is:
+A minimalistic model needed to explain $c$ causally is:
 
 $\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}) = 1$,
 
