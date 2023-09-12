@@ -46,7 +46,7 @@ By Occam's razor, that makes it reasonable as a leading hypothesis.
 
 ---
 
-Occam's razor:
+"Occam's razor":
 
 The minimalistic model needed to explain $c$ causally is:
 
