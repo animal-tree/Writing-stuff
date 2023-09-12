@@ -26,9 +26,9 @@ $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
 
 and causal hypotheses for consciousness that it's stemming from matter $m$ and/or representation $r$:
 
-1. $\mathbf{P}(c \sim \mathrm{R}^n(x=m) \vert c, \mathrm{R})$
-2. $\mathbf{P}(c \sim \mathrm{R}^n(x=r) \vert c, \mathrm{R})$
-3. $\mathbf{P}(c \sim \mathrm{R}^n(x=(m, r)) \vert c, \mathrm{R})$
+1. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x=m, h^{(0)}) \vert c, \mathrm{R})$
+2. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x=r, h^{(0)}) \vert c, \mathrm{R})$
+3. $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x=(m, r), h^{(0)}) \vert c, \mathrm{R})$
 
 We have shown, by the belief established thus far, that $P2 < P1$ and $P2 < P3$.
 
@@ -46,18 +46,12 @@ By Occam's razor, that makes it reasonable as a leading hypothesis.
 
 ---
 
-"Occam's razor":
+Occam's razor:
 
-A minimalistic model needed to explain $c$ causally is:
+The minimalistic model needed to explain $c$ causally is:
 
 $\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}) = 1$,
 
 where $\mathrm{I}$ is the Identity function.
 
-Given available evidence,
-
-$\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I})$ = $\mathbf{P}(c \sim \mathrm{R}^n(x=(m, r)) \vert c, \mathrm{R})$,
-
-but $\mathrm{I}$ is defined whereas $\mathrm{R}$ is not, making it simpler of the given explanations.
-
-For the time being, $\mathrm{R}$ is a "gap of the gods" hypothesis and $\mathrm{I}$ is concrete, holding all other variables equal.
+See: "[epistemelogical proof](Math.md)".
