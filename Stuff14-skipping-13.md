@@ -1,7 +1,8 @@
 In the space of everything that exists, everything has a cause in deductive reasoning. Those base causes are called axioms. The universe's axiom, if math is to be trusted, and the basis of all sciences, is causality. That all things derived from something. But where did causality derive from? Either:
 
 1. It caused itself
-2. Its existence is unjustified by a cause
+2. Something else caused it
+3. Its existence is unjustified by a cause
 
 Premising on 1, we can interpret two possible self-causalities:
 
