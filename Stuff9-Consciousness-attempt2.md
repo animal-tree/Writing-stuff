@@ -58,6 +58,4 @@ Given available evidence,
 
 $\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I})$ = $\mathbf{P}(c \sim \mathrm{R}^n(x=(m, r)) \vert c, \mathrm{R})$,
 
-but $\mathrm{I}$ is defined whereas $\mathrm{R}$ is not.
-
-See: "[epistemelogical proof](Math.md)".
+but $\mathrm{I}$ is defined whereas $\mathrm{R}$ is not, making it simpler of the given explanations.
