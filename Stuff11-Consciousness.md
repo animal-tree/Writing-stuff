@@ -3,7 +3,7 @@ Let $c$ be a non-neuromorphic computer, e.g. consisting of modern-day transistor
 $c \in C$ ?
 $c \in H$ ?
 
-First, we have to distinguish two parts of the computer, hardware and software. (1) Physical body and (2) algorithm/representation. The physical body is composed of matter, as metal, wire, and electrons. The algorithm is defined by the movements of the electrons through the conducting wires, according to a logic-gate open/closed chain-reaction.
+First, we have to distinguish two parts of the computer, hardware and software. (1) Physical body and (2) algorithm/representation. The physical body is composed of matter, as metal, wire, and electrons. The algorithm is defined by the movements of the electrons through the conducting wires, according to a logic-gate open/close chain-reaction.
 
 Let matter be $m$ and representation be $r$.
 
