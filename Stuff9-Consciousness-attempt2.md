@@ -59,3 +59,5 @@ Given available evidence,
 $\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I})$ = $\mathbf{P}(c \sim \mathrm{R}^n(x=(m, r)) \vert c, \mathrm{R})$,
 
 but $\mathrm{I}$ is defined whereas $\mathrm{R}$ is not, making it simpler of the given explanations.
+
+For the time being, $\mathrm{R}$ is a "gap of the gods" hypothesis and $\mathrm{I}$ is concrete, holding all other variables equal.
