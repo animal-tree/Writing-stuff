@@ -50,7 +50,7 @@ Occam's razor:
 
 The minimalistic model needed to explain $c$ causally is:
 
-$\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}) = 1$,
+$\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I})$,
 
 where $\mathrm{I}$ is the Identity function.
 
