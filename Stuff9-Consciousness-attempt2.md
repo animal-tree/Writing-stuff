@@ -54,4 +54,10 @@ $\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I}) = 1$,
 
 where $\mathrm{I}$ is the Identity function.
 
+Given available evidence,
+
+$\mathbf{P}(c \sim \mathrm{I}^n(m) \vert c, \mathrm{I})$ = $\mathbf{P}((c, h^{(n)}) \sim \mathrm{R}^n(x=(m, r), h^{(0)}) \vert c, \mathrm{R})$,
+
+but $\mathrm{I}$ is defined whereas $\mathrm{R}$ is not.
+
 See: "[epistemelogical proof](Math.md)".
