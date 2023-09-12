@@ -19,3 +19,5 @@ $H \subseteq R(m)$ ? $H \subseteq R(r)$ ? $H \subseteq R(m, r)$ ?
 The flipbook analogy, of drawing a human brain in a flipbook, tells us that $H \subseteq R(r)$ is absurd. *Ad absurdum*.
 
 Panpsychists propose $C = m$ and $H \subseteq R(m)$. Of all the explanations, this one is the least divergent from known physics model $R$ since it neither adds nor subtracts any principles, but merely makes a equivalence relation: that the matter of the universe experiences a primordial form of consciousness that, as we describe it, "entangles to greater complexity upon collision with itself".
+
+Therefore $c \in C$ in this view since a computer is composed of matter. $c \in H$ becomes unlikely since a computer is composed of radically different matter-complexities than a human.
