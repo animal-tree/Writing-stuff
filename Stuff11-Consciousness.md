@@ -20,4 +20,8 @@ The flipbook analogy, of drawing a human brain in a flipbook, tells us that $H \
 
 Panpsychists propose $C = m$ and $H \subseteq R(m)$. Of all the explanations, this one is the least divergent from known physics model $R$ since it neither adds nor subtracts any principles, but merely makes a equivalence relation: that the matter of the universe experiences a primordial form of consciousness that, as we describe it, "entangles to greater complexity upon collision with itself".
 
-Therefore $c \in C$ in this view since a computer is composed of matter. $c \in H$ becomes unlikely since a computer is composed of radically different matter-complexities than a human.
+Therefore a computer is conscious $c \in C$ in this view since a computer is composed of matter. $c \in H$, a non-neuromorphic computer having human-like consciousness becomes unlikely,
+
+$P(c \in H) < \epsilon$, 
+
+since a non-neuromorphic computer is composed of radically different matter-complexities than a human.
