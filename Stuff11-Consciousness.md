@@ -24,4 +24,4 @@ Therefore, in this view, a computer is conscious, $c \in C$, since a computer is
 
 And a non-neuromorphic computer being human-like-conscious, $c \in H$, is unlikely: $P(c \in H) < \epsilon$, since a non-neuromorphic computer is composed of radically different matter-complexities than a human.
 
-Moreover, even if we did change the algorithm, under this view, that would not meaningfully change the consciousness of the computer, no more so than the whirring electrons of its constituent parts.
+Moreover, even if we did change the algorithm, under this view, that would not meaningfully change the consciousness of the computer, no more so than the whirring electrons of its constituent parts A.K.A. the consciousness of LLMs would not become closer to human-consciousness as its outward observed behavior did.
