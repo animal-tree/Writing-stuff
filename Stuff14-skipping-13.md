@@ -6,7 +6,7 @@ In the space of everything that exists, everything has a cause in deductive reas
 Premising on 1, we can interpret two possible self-causalities:
 
 1. One where the universe must recreate itself: $\Omega_T = \Omega_0$ for the dimensions of its existence $T$.
-2. Or $\lim_{t \to +\infty} \Omega_t = \Omega_0$, the universe's potential, in the infinitum, is to always recreate its origin.
+2. Or $\lim_{t \to +\infty} \Omega_t = \Omega_0$, the universe's potential, in the infinitum.
 
 Let's assume 2 and explore its consequences.
 
