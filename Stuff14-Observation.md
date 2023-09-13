@@ -30,4 +30,6 @@ $\lim_{n \to +\infty} \mathrm{I}^n(\emptyset)$
 
 would include resources for unlimited combinations and compositions of $\mathrm{I}_i$. Starting randomly at one such permutation, we would arrive at perhaps enormous amount of pain-qualia.
 
-Or, at a defined combination, we would work from the ground up to increase $n$ while preserving the good-qualia and mitigating the bad-qualia.
+Or, at a defined combination, we would work from the ground up to increase $n$ while preserving the good-qualia of $n-1$ and mitigating the bad.
+
+This process, of epistemology, and the objective of better qualia, is the premise of this work.
