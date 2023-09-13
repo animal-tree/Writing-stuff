@@ -26,6 +26,6 @@ Why Qualia? Because there is no mathematical or causal constraint to constrain a
 
 Question: Is the universe finite or infinite?
 
-$\lim_{t \to +\infty} \mathrm{I}^n(\emptyset)$
+$\lim_{n \to +\infty} \mathrm{I}^n(\emptyset)$
 
 would include resources for unlimited combinations and compositions of $\mathrm{I}_i$. Starting randomly at one such permutation, we would arrive at perhaps enormous amount of pain-qualia.
