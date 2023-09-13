@@ -36,7 +36,7 @@ Or, at a defined combination, we would work from the ground up to increase $n$ w
 
 This process, of epistemology, and the objective of better qualia, is the premise of this work.
 
-Due to the limitations of locality, each observer has a belief about the quantum states of other observers.
+Due to the [limitations of locality](Stuff14-skipping-13.md), each observer has a belief about the quantum states of other observers.
 
 Thus emerges $\mathbf{P}$, the probability function.
 
