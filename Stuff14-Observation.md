@@ -35,3 +35,9 @@ Or, at a defined combination, we would work from the ground up to increase $n$ w
 ---
 
 This process, of epistemology, and the objective of better qualia, is the premise of this work.
+
+Due to the limitations of locality, each observer has a belief about the quantum states of other observers.
+
+Thus emerges $\mathbf{P}$, the probability function.
+
+We can now quantify observations as not omniscient by representing them with $\mathbf{P}$ instead of $\mathrm{I}$.
