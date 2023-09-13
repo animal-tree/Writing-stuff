@@ -32,4 +32,6 @@ would include resources for unlimited combinations and compositions of $\mathrm{
 
 Or, at a defined combination, we would work from the ground up to increase $n$ while preserving the good-qualia of $n-1$ and mitigating the bad.
 
+---
+
 This process, of epistemology, and the objective of better qualia, is the premise of this work.
