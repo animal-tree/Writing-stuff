@@ -20,7 +20,7 @@ $\mathrm{I}_0(\emptyset) = \emptyset$, $\mathrm{I}_1(\emptyset) = \emptyset$, $\
 
 From here we have percept, as $\mathrm{I}$, observation, observes itself.
 
-Why Qualia? Because there is no mathematical or causal constraint to constrain against it: $\mathrm{I}_0$ is the Identify function just as much as $\mathrm{I}_1$. They are consistent within and without themselves.
+Why Qualia? Because there is no mathematical or causal constraint to constrain against it: $\mathrm{I}_0$ is the Identity function just as much as $\mathrm{I}_1$. They are consistent within and without themselves.
 
 ---
 
