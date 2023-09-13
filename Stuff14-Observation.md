@@ -21,3 +21,11 @@ $\mathrm{I}_0(\emptyset) = \emptyset$, $\mathrm{I}_1(\emptyset) = \emptyset$, $\
 From here we have percept, as $\mathrm{I}$, observation, observes itself.
 
 Why Qualia? Because there is no mathematical or causal constraint to constrain against it: $\mathrm{I}_0$ is the Identify function just as much as $\mathrm{I}_1$. They are consistent within and without themselves.
+
+---
+
+Question: Is the universe finite or infinite?
+
+$\lim_{t \to +\infty} \mathrm{I}^n(\emptyset)$
+
+would include resources for unlimited combinations and compositions of $\mathrm{I}_i$. Starting randomly at one such permutation, we would arrive at perhaps enormous amount of pain-qualia.
