@@ -177,7 +177,7 @@ This may be shown with a sufficient ontology and physical evidence. The argument
 
 Formally, if $\hat{\Omega}$, which exists in this proof without any non-self-referential axioms, derives the procedure of this proof, including the epistemelogical choice deductions of the mathematician, then it has represented itself within itself, also a representation, thereby deriving by logical proof steps itself as a theorem, not axiom, analogous to the creation, explicable, of a universe.
 
-Me: This argument is up for debate.
+This argument is up for debate.
 
 Prestigious officer of physics: The origin for causality in math is our universe. Hence to derive it by proving our universe, is a self-reference. 
 
