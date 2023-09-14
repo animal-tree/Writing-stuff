@@ -65,7 +65,7 @@ Thus, our recursive representation, $\Omega$, is finite, composed $n$ times.
 
 ---
 
-Since $\Omega$ represents deduction, all that is left is to draw an equivalence between $\Omega$ and our reality within which this mathematical system is taking place.
+Since $\Omega$ represents deduction, all that is left is to draw an equivalence between $\Omega$ and the reality within which this mathematical system is taking place.
 
 Self-causality demonstrates how our reality could create itself, and thereby this proof, with $\Omega$ as the representation, may be a hypothetical reference to the observable universe's meta-reality. To conclude the proof, we would need a reality, such as our own, in physical matter, to physically point to, not the mathematical symbol $\Omega$. However, by analogy, we can do just that.
 
