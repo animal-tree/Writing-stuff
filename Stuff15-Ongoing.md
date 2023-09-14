@@ -18,7 +18,7 @@ Let's endow it with qualitative subscripts. We can express $\mathrm{I}$ in multi
 
 $\mathrm{I}_1(\emptyset) = \emptyset$, $\mathrm{I}_2(\emptyset) = \emptyset$, $\mathrm{I}_1(\mathrm{I}_2) = \mathrm{I}_2$, ...
 
-$\mathrm{I}_1$ is the Identity function just as much as $\mathrm{I}_2$. We are defining a new set of functionally indistinguishable Identity functions. 
+$\mathrm{I}_i$ is the Identity function just as much as $\mathrm{I}_j$. We are defining a new set of functionally indistinguishable Identity functions. 
 
 $\alpha = \langle \mathrm{I}_i \vert i \in \mathbb{N} \rangle$
 
