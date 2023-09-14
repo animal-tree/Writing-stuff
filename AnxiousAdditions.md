@@ -59,3 +59,6 @@ $\lim_{t \to +\infty} \Omega_t = \Omega_0$
 would hold.
 
 Now with a finite bound, where $t = n$, we can show that these finite resources are representationally limited, whose constraints bring rise to some familiar properties.
+
+1. Assume Qualia.
+2. Show deduction as a consequence, via deduction be definition not axiom.
