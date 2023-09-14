@@ -179,15 +179,15 @@ Formally, if $\hat{\Omega}$, which exists in this proof without any non-self-ref
 
 This argument is up for debate.
 
-Prestigious officer of physics: The origin for causality in math is our universe. Hence to derive it by proving our universe, is a self-reference. 
+**Prestigious officer of physics:** The origin for causality in math is our universe. Hence to derive it by proving our universe, is a self-reference. 
 
-Me: Perhaps at the higher level that is exactly what the universe is doing. We shall see. 
+**Me:** Perhaps at the higher level that is exactly what the universe is doing. We shall see. 
 
-Prestigious officer of physics: What is higher level? 
+**Prestigious officer of physics:** What is higher level? 
 
-Comedian: It's the $\alpha$ and $\Omega$.
+**Comedian:** It's the $\alpha$ and $\Omega$.
 
-Me: Notice that the definitions of **physics** and **axiomatic math** are analogous. Perhaps, by proof, we can show the process of physics unfolding at some level.
+*Me:** Notice that the definitions of **physics** and **axiomatic math** are analogous. Perhaps, by proof, we can show the process of physics unfolding at some level.
 
 For example, one thing leads to the next. This causality is self-deducing in this proof, if the proof is successful. What about in reality, where the origin is a mystery? That cyclicality can be explained analogously: that its own self deduces itself. By physics that are self-referential, self-observing. $\Omega$ and $\alpha$.
 
