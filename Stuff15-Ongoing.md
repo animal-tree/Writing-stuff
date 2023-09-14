@@ -255,7 +255,7 @@ Curvature of spacetime was originally proposed in general relativity, regarding 
 
 ---
 
-One thing de-facto physicists (maybe not all physicists) assume is the existence of an observable universe.
+One thing de-facto physicists (maybe not all physicists) assume is the existence of an observable universe, here denoted $y$.
 
 However, there is no such thing besides observation. Observation includes memories, percepts, feelings, thoughts, and so on.
 
