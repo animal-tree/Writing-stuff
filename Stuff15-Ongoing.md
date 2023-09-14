@@ -177,6 +177,8 @@ $$R_{x, h^{(0)}} = \hat{\Omega} \approx \Omega$$
 
 Our knowledge of a truth depends on evidence. Evidence cannot be known in full certainty. Neither can the derived truth. We can premise beliefs on conditions that we call axioms. These are the foundation for math. In math, the assumption that certain conditions are true allows us to say, under a strict set of laws, meaning rules given non-divergent probabilities of 1, that certain deductions are true, of course the assumptions, including all the rules, are a belief themselves.
 
+$\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
+
 The probability of a belief given evidence is denoted by this equation and can be proven by a set of laws assumed to be true jointly. Their probabilities multiply to 1, under the assumption of the math used to describe them. And so the recursion goes.
 
 The laws of natural numbers, for example, are derived from nature and assumed to be true with a probability of 1. 2 sticks in two hands makes two sticks. Add a rock and now you have two sticks and a rock. 
