@@ -151,7 +151,7 @@ Perhaps, philosophically speaking, philosophy is the random variable set encompa
 
 $\langle B \vert (B \in \Omega) \sim \mathbf{P}(B \in \Omega) \rangle$,
 
-though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Turtles-all-the-way-down is distinct from cyclicality. Gödel's theorem pertains to this. It says within a self-referential proof, [to be continued...]
+though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Turtles-all-the-way-down is distinct from cyclicality. Gödel's theorem pertains to this. It says within a self-referential proof, [to be continued...] [but in all likelihood not]
 
 Can philosophy be expressed in epistemological arguments?
 
