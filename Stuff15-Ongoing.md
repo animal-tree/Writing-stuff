@@ -20,7 +20,7 @@ $\mathrm{I}_1(\emptyset) = \emptyset$, $\mathrm{I}_2(\emptyset) = \emptyset$, $\
 
 $\mathrm{I}_1$ is the Identity function just as much as $\mathrm{I}_2$. We are defining a new set of functionally indistinguishable Identity functions. 
 
-$\alpha = \mathrm{I}_i \vert i \in \mathbb{N}$
+$\alpha = \langle \mathrm{I}_i \vert i \in \mathbb{N} \rangle$
 
 We will refer to this set as Qualia.
 
