@@ -179,6 +179,8 @@ Formally, if $\hat{\Omega}$, which exists in this proof without any non-self-ref
 
 This argument is up for debate.
 
+The origin for causality in math is our universe. Hence to derive it by proving our universe, is a self-reference. Perhaps at the higher level that is exactly what the universe is doing. We shall see. What is higher level? It's the $\alpha$ and $\Omega$.
+
 ---
 
 **Limits of evidence**
