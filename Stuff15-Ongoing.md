@@ -111,9 +111,13 @@ Random variables are also useful to defining implications, causal derivation ste
 
 **Theorem-deduction steps:**
 
-$\mathbf{P}(x > z \vert x > y, y > z) = 1$
+Random variables may be also expressed as relating other random variables, for example
 
-Transitivity of the greater-than inequality for example, using conditionals to specify the valid axioms or theorems $(x > y, y > z)$ that would imply the prior $x > z$.
+$\mathbf{P}(x > y)$.
+
+Furthermore, they can be used to express deduction steps. Transitivity of the greater-than inequality for example, using conditionals to specify the valid axioms or theorems $(x > y, y > z)$ that would imply the prior $x > z$.
+
+$\mathbf{P}(x > z \vert x > y, y > z) = 1$
 
 They may even be cross-referential:
 
@@ -122,6 +126,8 @@ $\mathbf{P}(w > z \vert w > x, \mathbf{P}(x > z \vert x > y, y > z) = 1) = 1$,
 Treating each other as random variables.
 
 Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
+
+---
 
 Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
 
@@ -143,9 +149,9 @@ Perhaps, philosophically speaking, philosophy is the random variable set encompa
 
 $\langle B \vert (B \in \Omega) \sim \mathbf{P}(B \in \Omega) \rangle$,
 
-though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Perhaps contextually useful to make some inferences about its meaning based on the other words but ultimately meaningless since any reference to itself within the definition would point back to a non-converging turtles-all-the-way-down recursion of itself. Furthermore, something about Gödel's incompleteness theorem.
+though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Turtles-all-the-way-down is distinct from cyclicality. Gödel's theorem pertains to this. It says within a self-referential proof, [to be continued...]
 
-Random variables may be also expressed as random variables relating other random variables, such as $\mathbf{P}(x > y)$.
+---
 
 By defining philosophy as a random variable set, we permit the question, "What is a random variable?" even as the set is defined as one of all random variables. Random variables include probability distributions, but what else might they include? That philosophical question remains a part of this recursive set non-definition.
 
