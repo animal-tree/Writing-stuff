@@ -175,6 +175,8 @@ $$R_{x, h^{(0)}} = \hat{\Omega} \approx \Omega$$
 
 This may be shown with a sufficient ontology and physical evidence. The argument goes as follows: This deduction takes place in reality $\Omega$. Therefore, if $\Omega$ can be derived within it, representationally, then this proof has derived itself.
 
+Formally, if $\hat{\Omega}$, which exists in this proof unaxiomatically, derives the procedure of this proof, including the epistemelogical choice deductions of the mathematician, then it has represented itself within itself, also a representation, thereby deriving by logical proof steps itself as a theorem, not an axiom.
+
 ---
 
 **Limits of evidence**
