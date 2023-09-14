@@ -165,4 +165,56 @@ What about consciousness? Ah, that's where no other math or language except phil
 
 We have concluded our proof when we have shown our **theorem deduction steps**, random variables composing random variables, are equivalent to $\hat{\Omega}$, represented by Qualia, are models of $\Omega$.
 
+---
+
+Let's address the elephant in the room.
+
+The teleology, as to why it is the way it is, is dismissed in favor of the causal “how”. How does it transition from point $t$ to point $t + 1$. The standard equation describes this mechanistic process, but does not give a clue as to why that process isn’t something totally different. Its origins can be traced, down to negligible times from origin, at least as far as can be determined by observation, and beyond that the question halts.
+
+We cannot describe the system beyond its observability. We cannot determine where it halts backwards in time, no more than when a computer might halt forward in time given a program. The program can be immeasurably precise in its calculations, but no matter how good the model, the line of sight beyond its execution cannot be observed.  [edit: edit all this]
+
+Within the system of math, it is the same. Gödel showed that a theorem always exists that cannot be proven. He used a self-referential theorem to make this point. Of course, though Gödel did not show this, an external body of math could be introduced to refer to that proof process, but then that external body would need its own external body and so on, resulting in a “turtles all the way down” logic, and naturally that is the best our logic affords to explain the origin of the universe, even with the wisdoms and insight of the Big Bang theory.
+
+In other words, a simple answer as to “why” the universe exists is because another universe produced it. And so on. 
+
+Another is infinite recursion. Our universe ends at the beginning, producing itself upon collapse. The wheel of time.
+
+Religious views have held these ideas for centuries. The universe exists because God created it, the universe rests on the back of a thousand turtles, the universe is a patterned cosmic wheel that starts where it ends (the snake that eats its tail) in infinite cyclic fashion of eternal recurrence, etc.
+
+$\Omega_T = \Omega_0$. (infinite recurrence)
+
+These views have been interpreted by countless religions in countlessly romantic, terrifying, and otherwise characterizations. Nietzsche’s “eternal recurrence” thought experiment presents the notion as terrifying, spawned by a demon invading his nightmares. In Hindu Samsara, in Buddhist karmic wheel, there are similar interpretations.
+
+In fact, there is one that does not have to be so scary. It will be described in an equation that is meant to be optimistic:
+
+$\lim_{t \to +\infty} \Omega_t = \Omega_0$. (conservation theory)
+
+The origin of the universe is thus explained by the infinite recursion of an infinitely horizon’d universe.
+
+In this interpretation, the universe may create itself one day and therefore can exist, but tomorrow remains unknowable and its doom can always be procrastinated.
+
+Nevertheless, in the infinitum, this equation creates the universe, without logical contradiction or a “Turtles all the way down” logic, much as the infinite recursion theory explains it, but without the fears of Samsara, and eternal recurrence. Mathematically, it tracks. It also weighs much less on the soul.
+
+It is still bizarre to fathom why a recurrent self-creation would pop into being, even if it did create itself? 
+
+Besides these 3 cosmogonical explanations, there is no theory within logic that explains the cosmogonical origin of the universe. However, that does not exclude a fourth. The fourth to add to the list, is that beyond this reality of logic, there is one entirely without it in which, for example, those condensed energies at the start of the Big Bang could just magically arise. 
+
+Why did something else not pop into being? Where are those universes, if they exist? Can they connect to ours? What are the odds something so ordered, that can be described by a single standard-model equation, would be what pops into being, if literally anything at all could? Such an ontology of particles in 3D space, in gravitational 4D spacetime, is surreal to give weight to random chance at the start of the Big Bang when the condensed energies were already behaving in suspiciously precise ways, according to suspiciously specific hard-coded laws. Yet beyond that horizon, if there is a beyond, we cannot see.
+
+We can however speculate. 
+
+It is possible the existing laws “evolved” from a hyperreality, without logic, out of the scope of abrupt universes that, due to inconsistencies within their own logics, couldn’t survive. Ours perhaps developed something by random chance that allowed it to, in time, reach a set of laws that today function stably as our known laws of physics, but which were not, at one point, stable.
+
+In this evolution hypothesis, survival can be interpreted as a reality-teleology. One purpose that is consistent with the three logic-based cosmogonic explanations, is the purpose to, eventually, create itself. That would have to be an innate purpose of the universe for it to be able to exist in coincidence with logic, without relying on suspect "turtles all the way down" recurrence or attributing solely to magic. 
+
+Unlike other origin theories, this one provides a argued axiom, premised only on logical causalty. However, all math implicitly makes this causality assumption, in its rules, without stating it as an axiom. 
+
+We can also construct a universe of dual creators, as per causal theories 2 and 3, with the quintessence of causal theory 1. As Yin creates Yang, Yang creates Yin.
+
+Perhaps God is using this universe as a canvas to create Himself.
+
+The limits of observability prevent us from making any conclusions without assuming recognized patterns as laws. Those recognized patterns suggest the existence of causality. Causality, in self-consistency, requires an exteral body to create itself or a cyclic self-creation. Proposed here, is a variation of cyclic cosmogenesis that is mathematically more optimistic.
+
+Curvature of spacetime was originally proposed in general relativity, regarding the motions of mass.
+
 [^1]: Such as cyclical self-deduction.
