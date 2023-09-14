@@ -167,7 +167,7 @@ Up for debate, or not, that is the question.
 
 ---
 
-**Proof**
+**Proof.**
 
 We have concluded our proof when we have shown our **theorem deduction steps**, random variables composing random variables, are equivalent to $\hat{\Omega}$, represented by Qualia, are models of $\Omega$.
 
