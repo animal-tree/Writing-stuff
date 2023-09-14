@@ -35,3 +35,5 @@ We can also give each Qualia a context window:
 $\emptyset = \mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\mathrm{I_i})(\emptyset)))) \cup \mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j})(\mathrm{I_j}(\mathrm{I_j})(\emptyset))))$ = (011, 011)
 
 Due to the existence of observation, as an axiom, these representations exist.
+
+Since observation is the only thing that's ever been proven, let's start with it as an axiom. Representing the Identity function with various forms of observation $\mathrm{I_i}$. By mathematical law, these equations functionally hold. By Qualia, they are given reality.
