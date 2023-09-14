@@ -79,7 +79,7 @@ where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is t
 
 ---
 
-If an $\mathrm{R}$ exists that is both true to observable reality and that this proof derives to, with observable probability in the infinitum, by its derivation observable bounds, as per the standard scientific method and evidence (p-values, null hypotheses, and correlations of model prediction) we have then concluded our proof, and proved the origin of the universe and its mechanism. 
+If an $\mathrm{R}$ exists that is both true to observable reality and that this proof derives to, with observable probability in the infinitum, by its derivation observable bounds, as per the standard scientific method and evidence (p-values, null hypotheses, and correlations of model prediction) we have then concluded our proof, and provided the origin of the universe and its mechanism. 
 
 First, let's be concrete about what these processes are.
 
@@ -220,6 +220,10 @@ The only constraint on any of these would be, together or independently, they mu
 **Me:** Yes, but that would be a cheap way. We want to derive it in a principled way. Everything would also include enormous amounts of pain and the choice to not be everything. Let's just permit ourselves to use $\mathbb{N}$. $\mathrm{I_i}$ and $\mathrm{I_j}$ are mathematically indistinguishable and the expressesivity of the representation comes from the present $n$, that we know is finite. Increasing, but finite, since in the infinite it must return to itself.
 
 $\lim_{n \to +\infty} \Omega^{(n)} = \Omega^{(0)}$.
+
+**Prestigious officer of physics:** One more big blatant gap: Wouldn't your use of deduction mean you have attributed it as an axiom and are now using it to prove itself, something that could be done with any axiom regarding anything?
+
+**Me:** Yes, but deduction isn't a well defined axiom and its self-consequence isn't a well defined series of derivation steps. Therefore, like all proofs, we are providng a dfinition for something previously undefined in relation to things that have been previously defined.
 
 ---
 
