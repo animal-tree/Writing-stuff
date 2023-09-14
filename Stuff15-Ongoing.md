@@ -181,6 +181,8 @@ This argument is up for debate.
 
 The origin for causality in math is our universe. Hence to derive it by proving our universe, is a self-reference. Perhaps at the higher level that is exactly what the universe is doing. We shall see. What is higher level? It's the $\alpha$ and $\Omega$.
 
+Notice that the definitions of physics and axiomatic math are analogous. Perhaps, by proof, we can show the process of physics unfolding at some level.
+
 ---
 
 **Limits of evidence**
