@@ -211,10 +211,6 @@ In other words, a simple answer as to “why” the universe exists is because a
 
 Another is infinite recursion. Our universe ends at the beginning, producing itself upon collapse. The wheel of time.
 
----
-
-Let's address the elephant.
-
 Religious views have held these ideas for centuries. The universe exists because God created it, the universe rests on the back of a thousand turtles, the universe is a patterned cosmic wheel that starts where it ends (the snake that eats its tail) in infinite cyclic fashion of eternal recurrence, etc.
 
 $\Omega_T = \Omega_0$. (infinite recurrence)
