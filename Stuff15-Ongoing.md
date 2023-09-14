@@ -173,7 +173,7 @@ We have concluded our proof when we have shown our **theorem deduction steps**, 
 
 $$R_{x, h^{(0)}} = \hat{\Omega} \approx \Omega$$
 
-This may be shown with a sufficient ontology and physical evidence.
+This may be shown with a sufficient ontology and physical evidence. The argument goes as follows: This deduction takes place in reality $\Omega$. Therefore, if $\Omega$ can be derived within it, representationally, then this proof has derived itself.
 
 ---
 
