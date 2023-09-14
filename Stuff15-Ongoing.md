@@ -205,11 +205,15 @@ For example, one thing leads to the next. This causality is self-deducing in thi
 
 Then rather than rising out of nothing, it arose from the combination of the three. Physical reality $\Omega$ representing anything, or the limits of representational space. Qualia $\alpha$ representing everything, or $\mathbb{N}$ applied to observation $\mathrm{I}$. $\emptyset$ representing nothing.
 
-The only constraint on any of these would be, together or independently, they must create themselves.
-
 **Prestigious officer of physics:** This is very philosophical.
 
 **Me:** Let's make it concrete!
+
+**Prestigious officer of physics:** Where to begin?
+
+**Me:** The only constraint on any of these would be, together or independently, they must create themselves.
+
+**Prestigious officer of physics:** Okay.
 
 ---
 
