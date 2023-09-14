@@ -291,7 +291,17 @@ Curvature of spacetime was originally proposed in general relativity, regarding 
 
 ---
 
-One thing de-facto physicists (maybe not all physicists) assume is the existence of an observable universe, here denoted $y$.
+Due to the limitations of locality, each observer has a belief about the quantum states of other observers.
+
+Thus emerges $\mathbf{P}$, the probability function.
+
+In our representational universe $\hat{\Omega}$, if we can establish locality, we can then quantify observations $\mathrm{I}$ as not omniscient by representing them instead with $\mathbf{P}$.
+
+To arrive at this, we will look at AI.
+
+---
+
+One thing physicists assume is the existence of an observable universe, here denoted $y$.
 
 However, besides observation, there is no such thing. Observation includes memories, percepts, feelings, thoughts, and so on.
 
