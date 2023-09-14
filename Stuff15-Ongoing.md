@@ -173,6 +173,8 @@ We have concluded our proof when we have shown our **theorem deduction steps**, 
 
 $$R_{x, h^{(0)}} = \hat{\Omega} \approx \Omega$$
 
+This may be shown with a sufficient ontology and physical evidence.
+
 ---
 
 Our knowledge of a truth depends on evidence. Evidence cannot be known in full certainty. Neither can the derived truth. We can premise beliefs on conditions that we call axioms. These are the foundation for math. In math, the assumption that certain conditions are true allows us to say, under a strict set of laws, meaning rules given non-divergent probabilities of 1, that certain deductions are true, of course the assumptions, including all the rules, are a belief themselves.
