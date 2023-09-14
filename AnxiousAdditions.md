@@ -41,3 +41,5 @@ Since observation is the only thing that's ever been proven, let's start with it
 Since we are proving, our implicit assumption, premised on the validity of every other proof in human history, is deduction. That is axiom 2. But what if we instead look at a consequence of deduction, and see if it can prove, deductively, deduction? Then our axiom is something other than deduction, while our process is, by definition not axiom, a deduction. We have then shown that our axiom was true and therefore also deduced deduction. Then, supposing deduction to be true, we would have as immediate consequence that our axiom was true. Either direction proves the other. Thus deduction by its own consequence and definition can be proven. Analogous to $X \rightarrow Y$ and $Y \rightarrow X$ proving $X = Y$. 
 
 In order to do this, we have to assume Qualia to distinguish $X \rightarrow Y$ and $Y \rightarrow X$ from $X = Y$.
+
+Different sensory equivalents.
