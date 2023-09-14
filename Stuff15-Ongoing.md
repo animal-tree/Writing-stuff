@@ -191,6 +191,24 @@ This argument is up for debate.
 
 For example, one thing leads to the next. This causality is self-deducing in this proof, if the proof is successful. What about in reality, where the origin is a mystery? That cyclicality can be explained analogously: that its own self deduces itself. By physics that are self-referential, self-observing. $\Omega$ and $\alpha$.
 
+**Prestigious officer of physics:** But wouldn't you need a higher-level universe to attribute the meta-reality to?
+
+**Me:** That would be turtles all the way down. No. 
+
+**Prestigious officer of physics:** Then how?
+
+**Me:** The same way I prove myself. By existing. "I am observing, therefore I am." 
+
+**Prestigious officer of physics:** Your existence is predated on a larger universe, a lower-level turtle. I exist because I exist is a mystery, not an answer. I suppose it could be that the default assumptions of non-existence are a bad null hypothesis. 
+
+**Me:** Yes, there are two equally general null hypothes besides that one: That the universe is everything and the universe is anything.
+
+Then rather than rising out of nothing, it arose from the combination of the three. Omega representing anything. Qualia representing everything. $\emptyset$ representing nothing.
+
+**Prestigious officer of physics:** This is very philosophical.
+
+**Me:** Let's make it concrete!
+
 ---
 
 **Limits of evidence**
