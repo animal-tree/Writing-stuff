@@ -227,7 +227,7 @@ $\lim_{t \to +\infty} \Omega_t = \Omega_0$
 
 would be defied, since no cycles could form. (A cycle is always finite, it is a closed manifold).
 
-That, or $\Omega_t = \Omega_\hat{t}$,   $\forall t, \hat{t}$ A.K.A. a converged point particle, infinitesimally infinite.
+That, or $\Omega_{t_1} = \Omega_{t_2}$,   $\forall t_1, t_2$ A.K.A. a converged point particle, infinitesimally infinite.
 
 ---
 
