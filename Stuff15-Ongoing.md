@@ -53,7 +53,7 @@ Since this hypothetical proof is a representation, let us define a pattern repre
 
 More specifically, let us use, with Qualia, our representation of 1s and 0s, some undefined representation, to do so: 
 
-$\hat{\Omega} = \mathrm{I}_\mathbb{N}^n(\emptyset)$.
+$\hat{\Omega}_n = \mathrm{I}_\mathbb{N}^n(\emptyset)$.
 
 Since it is ongoing, we may define a deductive present $n = t$. 
 
