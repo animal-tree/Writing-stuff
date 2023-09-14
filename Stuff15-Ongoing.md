@@ -163,6 +163,6 @@ What about consciousness? Ah, that's where no other math or language except phil
 
 ---
 
-We have concluded our proof when we have shown our theorem deduction steps, random variables composing random variables, are equivalent to $\hat{\Omega}$, represented by Qualia, are models of $\Omega$.
+We have concluded our proof when we have shown our **theorem deduction steps**, random variables composing random variables, are equivalent to $\hat{\Omega}$, represented by Qualia, are models of $\Omega$.
 
 [^1]: Such as cyclical self-deduction.
