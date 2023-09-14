@@ -53,7 +53,7 @@ Since this hypothetical proof is a representation, let us define a pattern repre
 
 More specifically, let us use, with Qualia, our representation of 1s and 0s, some undefined representation, to do so: 
 
-$\hat{\Omega}_n = \mathrm{I}_\mathbb{N}^n(\emptyset)$.
+$\hat{\Omega_n} = \mathrm{I}_\mathbb{N}^n(\emptyset)$.
 
 Since it is ongoing, we may define a deductive present $n = t$. 
 
@@ -217,17 +217,9 @@ The only constraint on any of these would be, together or independently, they mu
 
 **Prestigious officer of physics:** Wouldn't everything?
 
-**Me:** Yes, but that would be a cheap way. We want to derive it in a principled way. Everything would also include enormous amounts of pain and the choice to not be everything. Let's just permit ourselves to use $\mathbb{N}$.
+**Me:** Yes, but that would be a cheap way. We want to derive it in a principled way. Everything would also include enormous amounts of pain and the choice to not be everything. Let's just permit ourselves to use $\mathbb{N}$. $\mathrm{I_i}$ and $\mathrm{I_j}$ are mathematically indistinguishable and the expressesivity of the representation comes from the present $n$, that we know is finite. Increasing, but finite, since in the infinite it must return to itself.
 
-Under causality, we can also assume finite resources, as infinite resources would produce infinite combinations that cannot, ever, cycle back to the origin. 
-
-If there are infinite Identities observing, then none are. By the infinite-most observation, every combination possible has been observed and therefore no representation could be deciphered, including the deduction responsible for its self creation. 
-
-So however many $N \subseteq \mathbb{N}$ there are, it is a countable set. Otherwise, our constraint,
-
-$\lim_{i, n \to +\infty} \hat{\Omega} = \hat{\Omega}_0$
-
-would be defied, unless our $\hat{\Omega}$ remained constant.
+$\lim_{n \to +\infty} \hat{\Omega_n} = \hat{\Omega}_0$.
 
 ---
 
