@@ -79,6 +79,80 @@ where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is t
 
 ---
 
-If an $\mathrm{R}$ exists that is both true to observable reality and that this proof derives to, with observable probability in the infinitum, by its derivation observable bounds, as per the standard scientific method and evidence (p-values, null hypotheses, and correlations of model prediction) we have then concluded our proof, and proved the origin of the universe and its mechanism. To be continued...
+If an $\mathrm{R}$ exists that is both true to observable reality and that this proof derives to, with observable probability in the infinitum, by its derivation observable bounds, as per the standard scientific method and evidence (p-values, null hypotheses, and correlations of model prediction) we have then concluded our proof, and proved the origin of the universe and its mechanism. 
+
+First, let's be concrete about what these processes are.
+
+**Physics:**
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
+
+where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is the hidden state (the non-observable universe) at any time point up to some conceivable horizon (in order to make $\mathrm{R}$ defined), composed $n$ times. $y$ is the observable universe.
+
+**Causal reasoning:**
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y, \mathrm{R})$
+
+$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
+
+**Axiomatic math:**
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathcal{N}, \mathrm{R}, x, h^{(0)})$
+
+where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$. 
+
+Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as epistemological math, rooted in belief.
+
+**Belief:**
+
+$\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
+
+Random variables are also useful to defining implications, causal derivation steps, and theorem-deduction steps, which are relevant to the end goal of this proof:
+
+**Theorem-deduction steps:**
+
+$\mathbf{P}(x > z \vert x > y, y > z) = 1$
+
+Transitivity of the greater-than inequality for example, using conditionals to specify the valid axioms or theorems $(x > y, y > z)$ that would imply the prior $x > z$.
+
+They may even be cross-referential:
+
+$\mathbf{P}(w > z \vert w > x, \mathbf{P}(x > z \vert x > y, y > z) = 1) = 1$,
+
+Treating each other as random variables.
+
+Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
+
+Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
+
+Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may: 
+
+"I observe, therefore I am observing, therefore I am. 
+
+I observe many referents to my observation, including memories, feelings, and viscera. There's also belief. I believe X, Y, Z. I justify X, Y, Z by reasons, another element of belief, X', Y', Z'."
+
+Each step is deeper into the psyche.
+
+Physics, causality, and math are beliefs. 
+
+Philosophy includes these meta-beliefs as well as others.
+
+Perhaps, philosophically speaking, philosophy is the random variable set encompassing all random variables:
+
+**Philosophy:**
+
+$\langle B \vert (B \in \Omega) \sim \mathbf{P}(B \in \Omega) \rangle$,
+
+though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Perhaps contextually useful to make some inferences about its meaning based on the other words but ultimately meaningless since any reference to itself within the definition would point back to a non-converging turtles-all-the-way-down recursion of itself. Furthermore, something about Gödel's incompleteness theorem.
+
+Random variables may be also expressed as random variables relating other random variables, such as $\mathbf{P}(x > y)$.
+
+By defining philosophy as a random variable set, we permit the question, "What is a random variable?" even as the set is defined as one of all random variables. Random variables include probability distributions, but what else might they include? That philosophical question remains a part of this recursive set non-definition.
+
+Is the Schrödinger wave equation for example a random variable? Yes, it can be expressed as one.
+
+What about art? It can be. A generator in a GAN is evidence and the mechanical properties of the brain suggest that it is.
+
+What about consciousness? Ah, that's where no other math or language except philosophy can broach! And indeed the only way to do it is from the lens of belief and probability. This question itself can be expressed as: $P(c \in \Omega)$.
 
 [^1]: Such as cyclical self-deduction.
