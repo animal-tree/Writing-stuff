@@ -201,7 +201,7 @@ For example, one thing leads to the next. This causality is self-deducing in thi
 
 **Prestigious officer of physics:** Your existence is predated on a larger universe, a lower-level turtle. I exist because I exist is a mystery, not an answer. I suppose it could be that the default assumptions of non-existence are a bad null hypothesis. 
 
-**Me:** Yes, there are two equally general null hypothes besides that one: That the universe is everything and the universe is anything.
+**Me:** Yes, there are two equally general null hypotheses besides that one: That the universe is everything and the universe is anything.
 
 Then rather than rising out of nothing, it arose from the combination of the three. Omega representing anything. Qualia representing everything. $\emptyset$ representing nothing.
 
