@@ -71,7 +71,7 @@ Self-causality demonstrates how our reality could create itself, and thereby thi
 
 Let's distinguish two Omegas. The Omega in this proof, $\hat{\Omega}$, that is a representation. And, hypothetically, the referent Omega that exists outside of the proof from which we, as provers, follow the mathematical steps of deduction: $\Omega$, physical reality.
 
-We can now define $\hat{\Omega}$ as a physics model and aim to deduce $\hat{\Omega} = \Omega$ by sampling $\hat{\Omega}$ as a sufficiently probable physics model. This is the process of physics:
+We can now define $\hat{\Omega}$ as a physics model and aim to deduce $\hat{\Omega} = \Omega$ by sampling $\hat{\Omega}$ as a sufficiently plausible physics model. This is the process of physics:
 
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
 
