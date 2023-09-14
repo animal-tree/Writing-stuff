@@ -29,3 +29,7 @@ But to do so, we are using the rules of deduction, because like every proof, we 
 Or assume deduction as an axiom. Prove that assumption by the world's strongest arguments (if I'm wrong, all of human history's mathematical proofs are wrong). Distinguish definition from axiom from theorem. Something is a proof if it follows the rules of deduction. But we are using it as an axiom. Then show that physical reality emerges from that axiom, and say "this physical model is premised on the world's strongest axiom."
 
 Okay.
+
+We can also give each Qualia a context window:
+
+$\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\mathrm{I_i})(\emptyset)))) \cup \mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j})(\mathrm{I_j}(\mathrm{I_j})(\emptyset))))$ = (011, 011)
