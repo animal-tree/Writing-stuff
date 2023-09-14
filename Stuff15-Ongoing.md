@@ -73,7 +73,7 @@ Let's distinguish two Omegas. The Omega in this proof, $\hat{\Omega}$, that is a
 
 We can now define $\hat{\Omega}$ as a physics model and aim to deduce $\hat{\Omega} = \Omega$ by sampling $\hat{\Omega}$ as a sufficiently plausible physics model. This is the process of physics:
 
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$,
 
 where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is the hidden state (the non-observable universe) at any time point up to some conceivable horizon (in order to make $\mathrm{R}$ defined), composed $n$ times. $x$ is a singled out cause of interest[^1], $y$ is the observable universe.
 
