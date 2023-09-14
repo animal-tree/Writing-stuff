@@ -53,7 +53,7 @@ Since this hypothetical proof is a representation, let us define a pattern repre
 
 More specifically, let us use, with Qualia, our representation of 1s and 0s, some undefined representation, to do so: 
 
-$\hat{\Omega}_n = \mathrm{I}_\mathbb{N}^n(\emptyset)$.
+$\hat{\Omega}^{(n)} = \mathrm{I}_\mathbb{N}^n(\emptyset)$.
 
 Since it is ongoing, we may define a deductive present $n = t$. 
 
@@ -219,7 +219,7 @@ The only constraint on any of these would be, together or independently, they mu
 
 **Me:** Yes, but that would be a cheap way. We want to derive it in a principled way. Everything would also include enormous amounts of pain and the choice to not be everything. Let's just permit ourselves to use $\mathbb{N}$. $\mathrm{I_i}$ and $\mathrm{I_j}$ are mathematically indistinguishable and the expressesivity of the representation comes from the present $n$, that we know is finite. Increasing, but finite, since in the infinite it must return to itself.
 
-$\lim_{n \to +\infty} \hat{\Omega}_n = \hat{\Omega}_0$.
+$\lim_{n \to +\infty} \hat{\Omega}^{(n)} = \hat{\Omega}^{(0)}$.
 
 ---
 
