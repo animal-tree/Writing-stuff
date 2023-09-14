@@ -209,6 +209,8 @@ The only constraint on any of these would be, together or independently, they mu
 
 **Prestigious officer of physics:** Hmm, this is starting to make sense.
 
+**Me:** Yes, and from there we derive, until we reach, as theorem not axiom, our own proof.
+
 ---
 
 **Limits of evidence**
