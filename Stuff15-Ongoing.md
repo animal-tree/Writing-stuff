@@ -161,4 +161,8 @@ What about art? It can be. A generator in a GAN is evidence and the mechanical p
 
 What about consciousness? Ah, that's where no other math or language except philosophy can broach! And indeed the only way to do it is from the lens of belief and probability. This question itself can be expressed as: $P(c \in \Omega)$.
 
+---
+
+We have concluded our proof when we have shown our theorem deduction steps are equivalent to $\hat{\Omega}$ are models of $\Omega$.
+
 [^1]: Such as cyclical self-deduction.
