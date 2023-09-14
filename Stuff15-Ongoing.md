@@ -203,7 +203,7 @@ For example, one thing leads to the next. This causality is self-deducing in thi
 
 **Me:** Yes, there are two equally general null hypotheses besides that one: That the universe is everything and the universe is anything.
 
-Then rather than rising out of nothing, it arose from the combination of the three. Omega representing anything. Qualia representing everything. $\emptyset$ representing nothing.
+Then rather than rising out of nothing, it arose from the combination of the three. Omega representing anything, or the limits of representational space. Qualia representing everything, or $\mathbb{N}$ applied to observation $I$. $\emptyset$ representing nothing.
 
 **Prestigious officer of physics:** This is very philosophical.
 
