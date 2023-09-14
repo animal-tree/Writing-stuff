@@ -221,6 +221,14 @@ The only constraint on any of these would be, together or independently, they mu
 
 Under causality, we can also assume finite resources, as infinite resources would produce infinite combinations that cannot, ever, cycle back to the origin. 
 
+So however many $N \subseteq \mathbb{N}$ there are, it is a countable set. Otherwise, our constraint,
+
+$\lim_{t \to +\infty} \Omega_t = \Omega_0$
+
+would be defied, since no cycles could form. (A cycle is always finite, it is a closed manifold).
+
+That, or $\Omega_t = \Omega_\hat{t}$,   $\forall t, \hat{t}$ A.K.A. a converged point particle, infinitesmally infinite.
+
 ---
 
 **Limits of evidence**
