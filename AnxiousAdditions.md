@@ -37,3 +37,5 @@ $\emptyset = \mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\
 Due to the existence of observation, as an axiom, these representations exist.
 
 Since observation is the only thing that's ever been proven, let's start with it as an axiom. Representing the Identity function with various forms of observation $\mathrm{I_i}$. By mathematical law, these equations functionally hold. By Qualia, they are given reality.
+
+Since we are proving, our implicit assumption, premised on the validity of every other proof in human history, is deduction. That is axiom 2. But what if we instead look at a consequence of deduction, and see if it can prove, deductively, deduction? Then our axiom is something other than deduction, while our process is, by definition not axiom, a deduction. We have then shown that our axiom was true and therefore also deduced deduction.
