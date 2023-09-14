@@ -223,11 +223,11 @@ Under causality, we can also assume finite resources, as infinite resources woul
 
 So however many $N \subseteq \mathbb{N}$ there are, it is a countable set. Otherwise, our constraint,
 
-$\lim_{t \to +\infty} \Omega_t = \Omega_0$
+$\lim_{t \to +\infty} \hat{\Omega_t} = \hat{\Omega_0}$
 
 would be defied, since no cycles could form. (A cycle is always finite, it is a closed manifold).
 
-That, or $\Omega_{t_1} = \Omega_{t_2}$,   $\forall t_1, t_2$ A.K.A. a converged point particle, infinitesimally infinite.
+That, or $\hat{\Omega_{t_1}} = \hat{\Omega_{t_2}}$,   $\forall t_1, t_2$ A.K.A. a converged point particle, infinitesimally infinite.
 
 ---
 
