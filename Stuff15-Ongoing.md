@@ -36,7 +36,7 @@ But what may be the deductive cause for deduction and the deductive step if it i
 2. Something else caused it (it is the byproduct of an external mathematical framework)
 3. Its existence is unjustified by a cause (it is an axiom)
 
-Since there is no second mathematical system that would not either contain this one or be contained by this one, requiring the same deduction, and the non-assumption that deduction, grammatically, is not an axiom (as selected by mathematician), 2 and 3 are excluded, leaving 1: self-deduction. This deduction must eventually deduce itself.
+Since there is no second mathematical system that would not either contain this one or be contained by this one, requiring the same deduction, and the non-assumption of a deduction axiom, that leaves 1: self-deduction. This deduction must eventually deduce itself.
 
 We can interpret two possible self-deductions:
 
