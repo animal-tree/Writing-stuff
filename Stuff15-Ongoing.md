@@ -209,11 +209,11 @@ Then rather than rising out of nothing, it arose from the combination of the thr
 
 **Me:** Let's make it concrete!
 
-**Prestigious officer of physics:** Where to begin?
+**Someone who takes good ideas seriously:** Where to begin?
 
 **Me:** The only constraint on any of these would be, together or independently, they must create themselves.
 
-**Prestigious officer of physics:** Okay.
+**Another prestigious officer of physics:** Okay.
 
 ---
 
