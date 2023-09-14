@@ -211,6 +211,16 @@ The only constraint on any of these would be, together or independently, they mu
 
 **Me:** Yes, and from there we derive, until we reach, as theorem not axiom, our own proof.
 
+**Prestigious officer of physics:** Wouldn't anything include deduction?
+
+**Me:** Not de-facto.
+
+**Prestigious officer of physics:** Wouldn't everything?
+
+**Me:** Yes, but that would be a cheap way. We want to derive it in a principled way. Everything would also include enormous amounts of pain and the choice to not be everything. Let's just permit ourselves to use $\mathbb{N}$.
+
+Under causality, we can also assume finite resources, as infinite resources would produce infinite combinations that cannot, ever, cycle back to the origin. 
+
 ---
 
 **Limits of evidence**
