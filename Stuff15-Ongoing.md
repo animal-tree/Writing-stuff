@@ -177,11 +177,19 @@ This may be shown with a sufficient ontology and physical evidence. The argument
 
 Formally, if $\hat{\Omega}$, which exists in this proof without any non-self-referential axioms, derives the procedure of this proof, including the epistemelogical choice deductions of the mathematician, then it has represented itself within itself, also a representation, thereby deriving by logical proof steps itself as a theorem, not axiom, analogous to the creation, explicable, of a universe.
 
-This argument is up for debate.
+Me: This argument is up for debate.
 
-The origin for causality in math is our universe. Hence to derive it by proving our universe, is a self-reference. Perhaps at the higher level that is exactly what the universe is doing. We shall see. What is higher level? It's the $\alpha$ and $\Omega$.
+Prestigious officer of physics: The origin for causality in math is our universe. Hence to derive it by proving our universe, is a self-reference. 
 
-Notice that the definitions of **physics** and **axiomatic math** are analogous. Perhaps, by proof, we can show the process of physics unfolding at some level.
+Me: Perhaps at the higher level that is exactly what the universe is doing. We shall see. 
+
+Prestigious officer of physics: What is higher level? 
+
+Comedian: It's the $\alpha$ and $\Omega$.
+
+Me: Notice that the definitions of **physics** and **axiomatic math** are analogous. Perhaps, by proof, we can show the process of physics unfolding at some level.
+
+For example, one thing leads to the next. This causality is self-deducing in this proof, if the proof is successful. What about in reality, where the origin is a mystery? That cyclicality can be explained analogously: that its own self deduces itself. By physics that are self-referential, self-observing. $\Omega$ and $\alpha$.
 
 ---
 
