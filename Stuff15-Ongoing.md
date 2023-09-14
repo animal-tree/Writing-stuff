@@ -187,7 +187,7 @@ This argument is up for debate.
 
 **Comedian:** It's the $\alpha$ and $\Omega$.
 
-*Me:** Notice that the definitions of **physics** and **axiomatic math** are analogous. Perhaps, by proof, we can show the process of physics unfolding at some level.
+**Me:** Notice that the definitions of **physics** and **axiomatic math** are analogous. Perhaps, by proof, we can show the process of physics unfolding at some level.
 
 For example, one thing leads to the next. This causality is self-deducing in this proof, if the proof is successful. What about in reality, where the origin is a mystery? That cyclicality can be explained analogously: that its own self deduces itself. By physics that are self-referential, self-observing. $\Omega$ and $\alpha$.
 
