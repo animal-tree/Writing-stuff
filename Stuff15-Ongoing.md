@@ -121,7 +121,7 @@ Furthermore, they can be used to express deduction steps, such as transitivity:
 
 $\mathbf{P}(x > z \vert x > y, y > z) = 1$,
 
-using conditionals to specify the valid axioms or theorems.
+using conditionals to specify the valid axioms or theorems, and the prior as the theorem.
 
 They may even be cross-referential:
 
