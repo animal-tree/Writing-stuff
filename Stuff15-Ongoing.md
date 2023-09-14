@@ -177,6 +177,8 @@ This may be shown with a sufficient ontology and physical evidence. The argument
 
 Formally, if $\hat{\Omega}$, which exists in this proof without any non-self-referential axioms, derives the procedure of this proof, including the epistemelogical choice deductions of the mathematician, then it has represented itself within itself, also a representation, thereby deriving by logical proof steps itself as a theorem, not axiom, analogous to the creation, explicable, of a universe.
 
+This argument is up for debate.
+
 ---
 
 **Limits of evidence**
