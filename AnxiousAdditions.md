@@ -16,7 +16,7 @@ What about art? It can be. A generator in a GAN is evidence and the mechanical p
 
 What about consciousness? Ah, that's where no other math or language except philosophy can broach! And indeed the only way to do it is from the lens of belief and probability. This question itself can be expressed as: $P(c \in \Omega)$.
 
-#### [AnxiousAdditions.md](AnxiousAdditions.md)
+#### [Stuff15-Ongoing.md](Stuff15-Ongoing.md)
 
 TODO:
 
