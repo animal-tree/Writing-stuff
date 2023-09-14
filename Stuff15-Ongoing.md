@@ -111,7 +111,7 @@ $\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)
 
 Random variables are also useful to defining implications, causal derivation steps, and theorem-deduction steps, which are relevant to the end goal of this proof:
 
-$$R_{x, h^{(0)}} = \hat{\Omega} \approx \Omega$$
+$$R^n(x, h^{(0)}) = \hat{\Omega} \approx \Omega$$
 
 Random variables may be useful to relating random variables. 
 
@@ -171,7 +171,7 @@ Up for debate, or not, that is the question.
 
 We have concluded our proof when we have shown our **theorem deduction steps**, random variables composing random variables, are equivalent to $\hat{\Omega}$, represented by Qualia, are models of $\Omega$.
 
-$$R_{x, h^{(0)}} = \hat{\Omega} \approx \Omega$$
+$$R^n(x, h^{(0)}) = \hat{\Omega} \approx \Omega$$
 
 This may be shown with a sufficient ontology and physical evidence. The argument goes as follows: This deduction takes place in reality $\Omega$. Therefore, if $\Omega$ can be derived within it, representationally, then this proof has derived itself.
 
