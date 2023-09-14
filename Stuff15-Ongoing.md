@@ -207,9 +207,7 @@ Then rather than rising out of nothing, it arose from the combination of the thr
 
 The only constraint on any of these would be, together or independently, they must create themselves.
 
-**Prestigious officer of physics:** This is very philosophical.
-
-**Me, as a Mormon:** Let's make it concrete! [Tablets]
+**Prestigious officer of physics:** Hmm, this is starting to make sense.
 
 ---
 
