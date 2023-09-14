@@ -43,3 +43,17 @@ Since we are proving, our implicit assumption, premised on the validity of every
 In order to do this, we have to assume Qualia to distinguish $X \rightarrow Y$ and $Y \rightarrow X$ from $X = Y$.
 
 Different sensory equivalents.
+
+Under the assumption of Qualia, we can create something out of nothing.
+
+Under the assumption of deduction, we can constrain ourselves to finite resources, as a consequence of a proof of deduction via deduction would be that deduction can deduce itself.
+
+> $\lim_{t \to +\infty} \Omega_t = \Omega_0$, an infinite "series", or much like one, where the deductive steps may eventually, in their infinitum, deduce themselves.
+
+Then use deduction by definition to prove from this axiom its own proof of deduction.
+
+Then the reverse, axiomatically assume deduction and show that, given a proof of deduction, we would have self-deduction. In fact, that is true by definition. Thus 
+
+$\lim_{t \to +\infty} \Omega_t = \Omega_0$
+
+would hold.
