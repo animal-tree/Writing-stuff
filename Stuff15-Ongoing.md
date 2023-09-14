@@ -62,3 +62,23 @@ And now we may redefine the present: $n = t + 1$.
 And so on, denoting the current derivation step $n$. ($n = t + 2$)
 
 Thus, our recursive representation, $\Omega$, is finite, composed $n$ times.
+
+---
+
+Since $\Omega$ represents deduction, all that is left is to draw an equivalence between $\Omega$ and our reality within which this mathematical system is taking place.
+
+Self-causality demonstrates how our reality could create itself, and thereby this proof, with $\Omega$ as the representation, may be a hypothetical reference to the observable universe's meta-reality. To conclude the proof, we would need a reality, such as our own, in physical matter, to physically point to, not the mathematical symbol $\Omega$. However, by analogy, we can do just that.
+
+Let's distinguish two Omegas. The Omega in this proof, $\hat{\Omega}$, that is a representation. And, hypothetically, the referent Omega that exists outside of the proof from which we, as provers, follow the mathematical steps of deduction: $\Omega$, physical reality.
+
+We can now define $\hat{\Omega}$ as a physics model and aim to deduce $\hat{\Omega} = \Omega$ by sampling $\hat{\Omega}$ as a sufficiently probable physics model. This is the process of physics:
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
+
+where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is the hidden state (the non-observable universe) at any time point up to some conceivable horizon (in order to make $\mathrm{R}$ defined), composed $n$ times. $x$ is a singled out cause of interest[^1], $y$ is the observable universe.
+
+---
+
+If an $\mathrm{R}$ exists that is both true to observable reality and that this proof derives to, with observable probability in the infinitum, by its derivation observable bounds, as per the standard scientific method and evidence (p-values, null hypotheses, and correlations of model prediction) we have then concluded our proof, and proved the origin of the universe and its mechanism. To be continued...
+
+[^1]: Such as cyclical self-deduction.
