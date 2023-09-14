@@ -57,3 +57,5 @@ Then the reverse, axiomatically assume deduction and show that, given a proof of
 $\lim_{t \to +\infty} \Omega_t = \Omega_0$
 
 would hold.
+
+Now with a finite bound, where $t = n$, we can show that these finite resources are representationally limited, whose constraints bring rise to some familiar properties.
