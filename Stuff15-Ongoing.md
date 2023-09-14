@@ -211,6 +211,8 @@ Then rather than rising out of nothing, it arose from the combination of the thr
 
 **Someone who takes good ideas seriously:** Where to begin?
 
+**Prestigious officer of physics:** Oh if she's taking you seriously, then so am I.
+
 **Me:** The only constraint on any of these would be, together or independently, they must create themselves.
 
 **Another prestigious officer of physics:** Okay.
