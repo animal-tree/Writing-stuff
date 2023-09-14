@@ -32,4 +32,4 @@ Okay.
 
 We can also give each Qualia a context window:
 
-$\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\mathrm{I_i})(\emptyset)))) \cup \mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j})(\mathrm{I_j}(\mathrm{I_j})(\emptyset))))$ = (011, 011)
+$\emptyset = \mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\mathrm{I_i})(\emptyset)))) \cup \mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j})(\mathrm{I_j}(\mathrm{I_j})(\emptyset))))$ = (011, 011)
