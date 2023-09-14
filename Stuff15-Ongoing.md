@@ -53,7 +53,7 @@ Since this hypothetical proof is a representation, let us define a pattern repre
 
 More specifically, let us use, with Qualia, our representation of 1s and 0s, some undefined representation, to do so: 
 
-$\Omega = \lim_{i, n \to +\infty} \mathrm{I}_i^n(\emptyset)$.
+$\hat{\Omega} = \lim_{i, n \to +\infty} \mathrm{I}_i^n(\emptyset)$.
 
 Since it is ongoing, we may define a deductive present $n = t$. 
 
@@ -65,9 +65,9 @@ Thus, our recursive representation, $\Omega$, is finite, composed $n$ times.
 
 ---
 
-Since $\Omega$ represents deduction, all that is left is to draw an equivalence between $\Omega$ and the reality within which this mathematical system is taking place.
+Since $\hat{\Omega}$ represents deduction, all that is left is to draw an equivalence between $\hat{\Omega}$ and the reality within which this mathematical system is taking place.
 
-Self-causality demonstrates how our reality could create itself, and thereby this proof, with $\Omega$ as the representation, may be a hypothetical reference to the observable universe's meta-reality. To conclude the proof, we would need a reality, such as our own, in physical matter, to physically point to, not the mathematical symbol $\Omega$. However, by analogy, we can do just that.
+Self-causality demonstrates how our reality could create itself, and thereby this proof, with $\hat{\Omega}$ as the representation, may be a hypothetical referent to the observable universe's meta-reality. To conclude the proof, we would need a reality, such as our own, in physical matter, to physically point to, not the mathematical symbol ($\hat{\Omega}$), an analogy.
 
 Let's distinguish two Omegas. The Omega in this proof, $\hat{\Omega}$, that is a representation. And, hypothetically, the referent Omega that exists outside of the proof from which we, as provers, follow the mathematical steps of deduction: $\Omega$, physical reality.
 
