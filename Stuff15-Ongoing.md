@@ -291,16 +291,6 @@ Curvature of spacetime was originally proposed in general relativity, regarding 
 
 ---
 
-Due to the limitations of locality, each observer has a belief about the quantum states of other observers.
-
-Thus emerges $\mathbf{P}$, the probability function.
-
-In our representational universe $\hat{\Omega}$, if we can establish locality, we can then quantify observations $\mathrm{I}$ as not omniscient by representing them instead with $\mathbf{P}$.
-
-To arrive at this, we will look at AI.
-
----
-
 One thing physicists assume is the existence of an observable universe, here denoted $y$.
 
 However, besides observation, there is no such thing. Observation includes memories, percepts, feelings, thoughts, and so on.
@@ -318,5 +308,15 @@ One limitation of this is that it assumes a physics outside our minds. This is d
 Deriving physics from this point of view is challenging, but not impossible. Unlike to other point of views, it doesn't risk conflating belief with fact. Relativity hints at this, but is defined under an axiomatic paradigm rather than a belief-based one. Under a belief-based one, we can obtain the facts of relativity without making the same assumptions about the absolute universe. Same result, different, more intuitive interpretation.
 
 For example, the time dilation of moving bodies relative to one another is attributed to the strange relative mechanics of the universe. From a belief-perspective, it can be interpretted as a communication delay, between body 1 and body 2, mediated by a limitted-speed carrier signal, the photon. The photon need not be the communication proxy in this understanding and can therefore be substituted with an electron or galaxy or any measuring tool. Its carrier signal, whatever it is, mathematically becomes the "fastest speed in the universe", allowing us to re-interpret Einstein's result, about the universe's max speed limit, as a mathematical byproduct due to the choice of carrier signal the photon.
+
+---
+
+Due to the limitations of locality, each observer has a belief about the quantum states of other observers.
+
+Thus emerges $\mathbf{P}$, the probability function.
+
+In our representational universe $\hat{\Omega}$, if we can establish locality, we can then quantify observations $\mathrm{I}$ as not omniscient by representing them instead with $\mathbf{P}$.
+
+To arrive at this, we will look at AI.
 
 [^1]: Such as cyclical self-deduction.
