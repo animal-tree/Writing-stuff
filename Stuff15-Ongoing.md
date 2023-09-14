@@ -167,7 +167,29 @@ We have concluded our proof when we have shown our **theorem deduction steps**, 
 
 ---
 
-Let's address the elephant in the room.
+Our knowledge of a truth depends on evidence. Evidence cannot be known in full certainty. Neither can the derived truth. We can premise beliefs on conditions that we call axioms. These are the foundation for math. In math, the assumption that certain conditions are true allows us to say, under a strict set of laws, meaning rules given non-divergent probabilities of 1, that certain deductions are true, of course the assumptions, including all the rules, are a belief themselves.
+
+The probability of a belief given evidence is denoted by this equation and can be proven by a set of laws assumed to be true jointly. Their probabilities multiply to 1, under the assumption of the math used to describe them. And so the recursion goes.
+
+The laws of natural numbers, for example, are derived from nature and assumed to be true with a probability of 1. 2 sticks in two hands makes two sticks. Add a rock and now you have two sticks and a rock. 
+
+This describes an ontological world of parts and relations whose behaviors have defined tendencies known as physics. Our beliefs then derive arithmetic and so forth to describe these observations, that our senses and memories give us. Furthermore, we trust in our fellow companions to communicate, through their own symbolic means, their own sense and memory observations.
+
+What we trust depends on that belief model and the probabilities our brains assign different evidence and different modes of interpreting that evidence A.K.A. an epistemology.
+
+That’s what artificial intelligence is: it’s the epistemology of reasoning about the ontology that is the world, and our decisions in it.
+
+One of the key facets of artificial intelligence is the objective function that guides the learning process. In symbolic AI reasoning, the objective is defined by the human and rules are programmed that help meet that objective. Goal-based action by a human, to facilitate tool-creation. Those tools however can have their own goals, when sufficiently advanced. This is the premise of numerical optimization, where a model, like a neural network, learns to optimize, or maximize or minimize, some set of constraints: a teleology.
+
+Telos refers to the spirit. Teleology refers to causal purpose. Why the parameters of a neural network change can be attributed to the teleology of an objective function.
+
+Why a species evolves can be attributed to the teleology of its survival.
+
+Why the universe functions as it does can be, in primitive thought, attributed to great mystery and grand purpose, cosmological happenings beyond conception, that move the galaxies and raise and set the sun.
+
+In more modern thought, we understand the universe to have a causal mechanism of fundamental forces and interactions between elementary particles attributed to the ontology and no epistemology beyond the interpretation of intelligent lifeforms.
+
+The existence of elementary particles is observed by our most trusted institutions, and forces of interaction repeatedly reproduced. Therefore, through this consistency, between our own experiences and what we have observed from others and ourselves, we conclude that indeed the universe is so.
 
 The teleology, as to why it is the way it is, is dismissed in favor of the causal “how”. How does it transition from point $t$ to point $t + 1$. The standard equation describes this mechanistic process, but does not give a clue as to why that process isn’t something totally different. Its origins can be traced, down to negligible times from origin, at least as far as can be determined by observation, and beyond that the question halts.
 
