@@ -61,7 +61,7 @@ And now we may redefine the present: $n = t + 1$.
 
 And so on, denoting the current derivation step $n$. ($n = t + 2$)
 
-Thus, our recursive representation, $\Omega$, is finite, composed $n$ times.
+Thus, our recursive representation, $\hat{\Omega}$, is finite, composed $n$ times.
 
 ---
 
