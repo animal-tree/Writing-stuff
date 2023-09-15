@@ -267,3 +267,10 @@ Or perhaps an equivalence between 1 and 2?
 
 If $\mathbb{N}$ is finite, it's 1, perhaps infinite. If infinite, then it's either.
 
+We can suppose either and later use Bayesian belief updates as evidence for 1.
+
+$\mathbf{P}(x=\text{cyclicality} \vert y=C) \leq 0.5 - \epsilon / 2$
+$\mathbf{P}(x=\text{turtles} \vert y=C) \leq 0.5 \epsilon / 2$
+
+initially without evidence.
+
