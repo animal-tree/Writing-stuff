@@ -51,7 +51,9 @@ The two can be composed together:
 
 3. "10": &nbsp; $\mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot)))$
 
-**Corrillary 1:** Observation suffices to represent the natural numbers, qualia $\mathbb{N}$.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$
+
+**Corrillary 1:** Observation suffices to represent the natural numbers, denoted qualia, above, $\mathbb{N}$.
 
 **Corrillary 2:** Observation suffices to represent the tape of a Turing machine.
 
@@ -62,6 +64,8 @@ Since $h$ is a theoretical memory, this gives us a Turing-complete machine. $\sq
 **Theorem:** Causality gives us a cyclical convergence
 
 $\lim_{t \to +\infty} \Omega_t = \Omega_0$
+
+TBA
 
 **Contextualization**
 
