@@ -237,9 +237,9 @@ This gives us a, Turing-complete machine.
 
 defined
 
-**Proof**
+**Proof** ...
 
-$C = \mathbf(P)(\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0)$
+$C = \mathbf(P(\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0)$
 
 $C$ is a variable that denotes causality. Let us ask "what is the cause of causality?"
 
