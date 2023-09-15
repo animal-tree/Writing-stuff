@@ -232,11 +232,9 @@ Assume Qualia as an axiom. Formally, if anything exists, all equivalents exist, 
 As nothing $\emptyset$ exists, so does $\mathrm{I}(\emptyset)$ and for that matter $\mathrm{I_i}(\emptyset)$ 
 and $\mathrm{I_j}(\emptyset)$. And furthermore, representation exists,
 
-$\lim_{t \to +\infty} \Omega_t = \Omega_0$
+$\emptyset = \mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\mathrm{I_i})(\emptyset)))) \cup \mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j})(\mathrm{I_j}(\mathrm{I_j})(\emptyset)))) = (011, 011)$.
 
 We are just starting with that assumption. Be patient.
-
-$\emptyset = \mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\mathrm{I_i})(\emptyset)))) \cup \mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j})(\mathrm{I_j}(\mathrm{I_j})(\emptyset)))) = (011, 011)$.
 
 We will also assume self-deduction:
 
