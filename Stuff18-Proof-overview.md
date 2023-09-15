@@ -306,3 +306,21 @@ If $y=\infty$, then
 $\mathbf{P}((\infty, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
 
 becomes the question. We are now constrained from using $\infty$ without assuming it as an axiom.
+
+On the other hand,
+
+if
+
+$\lim_{n \to +\infty} \Omega_n = \Omega_0$,
+
+or its converged version,
+
+$\Omega_n = \Omega_0$,
+
+is the answer,
+
+then we need only explain
+
+$\mathbf{P}((n, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
+
+and $n \in \mathbb{N}$, already explained. $\square$
