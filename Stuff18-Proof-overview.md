@@ -118,3 +118,17 @@ Meanwhile, proving our physical reality, for the first time ever, proves that ou
 We can then add an axiom to "I observe." "I remember."
 
 This proves many things, including the validity of belief. Belief is the axiom underpinning all science. Belief in others, belief in institutions, belief in evidence not directly seen by one's present eyes. Faith.
+
+---
+
+Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
+
+$\mathrm{I}_1 = \mathrm{I}_2 = ...$.
+
+Each of these exists by definition.
+
+Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j, \mathrm{I}_j(\mathrm{I}_i) = \mathrm{I}_i$.
+
+We now have infinite variety.
+
+Define this as Qualia.
