@@ -55,7 +55,9 @@ Since no axiom is made, the existence of all 4 becomes incontrovertible. We have
 
 Existence $o$ meanwhile, is proven by "I observe, therefore I am."
 
-However, that implication, as any, is probabilistic  and itself assumes that we can trust our memories. Since we do (generally), by definition, we can.
+However, that does not prove $\Omega$.
+
+That implication, as any about observable reality beyond the present and moment, is probabilistic and assumes that we can trust our memories. Since we do (generally), by definition, we can.
 
 That includes our memories from which we derive evidence of $Q$.
 
