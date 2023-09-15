@@ -89,4 +89,4 @@ Otherwise, don't assume Omega, only assume observation. $t =$ now
 
 Since observation ("I observe") is fact, any deduction, if deduction can be trusted, is fact. But by definition, (fact or not, technically, bizarreness aside), it's proven.
 
-That is, something can be proven without being true. If it is deduced, it is proven. By definition of proof. But deduction may not necessarily itself be proven. What's especially interesting about this above argument, is that also aims to prove causality, which can then perhaps prove deduction, making the proof complete, and the first one to be proven true except for René Descartes' "I doubt, therefore I am."
+That is, something can be proven without being true. If it is deduced, it is proven. By definition of proof. But deduction may not necessarily itself be proven. What's especially interesting about this above argument, is that it also aims to prove causality, which can then perhaps prove deduction, making the proof complete, and the first one to be proven true except for René Descartes' "I doubt, therefore I am."
