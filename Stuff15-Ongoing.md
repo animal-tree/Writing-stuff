@@ -254,6 +254,8 @@ By that, we will argue, convincingly, Qualia.
 
 **Me, describing the proof in a nutshell:** It's an extremely recursive self creation that requires no cyclical death except in the infinitum.
 
+With some self confidence... it can persist. [grim look]
+
 ---
 
 **Limits of evidence**
