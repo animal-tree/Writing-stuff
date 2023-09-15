@@ -203,4 +203,10 @@ what is the cause of qualia, the Natural numbers? Should we now denote qualia as
 
 Probability theory might.
 
+Define $\mathbb{N}$ as a random variable. There is an infinite countable set of natural numbers. However that infinity can be sampled from arbitrarily in the infinitum in each use case. A number can be true when it's used and false otherwise. It is a construct. A belief. This brings us to belief:
 
+$\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
+
+A number is a belief, by the human. Our evidence for it is the representational utility to describing consistencies in our world.
+
+While such a belief might not be a "subset" of $o$, it can be represented by $o$. Take for example the binary number 1: it can be represented $\mathrm{I_1}(\mathrm{I_2})(\cdot)$. The binary 0 can be represented $\mathrm{I_1}((\mathrm{I_2})\cdot)$, for any given input.
