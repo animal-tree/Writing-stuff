@@ -211,4 +211,6 @@ $\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)
 
 A number is a belief, by the human. Our evidence for it is the representational utility to describing consistencies in our world.
 
-While such a belief might not be a "subset" of $o$, it can be represented by $o$. Take for example the binary number 1: it can be represented $\mathrm{I_1}(\mathrm{I_2})(\cdot)$. The binary 0 can be represented $\mathrm{I_1}((\mathrm{I_2})\cdot)$, for any given input.
+While such a belief might not be a "subset" of $o$, it can be represented by $o$. Take for example (1) the binary number 1: it can be represented $\mathrm{I_1}(\mathrm{I_2})(\cdot)$, (2) the binary 0 can be represented $\mathrm{I_1}((\mathrm{I_2})\cdot)$, for any given input.
+
+This representation is Turing-complete.
