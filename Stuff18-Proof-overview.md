@@ -195,4 +195,10 @@ where $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \
 
 What this says is that every effect has a cause. And if that is the case then there is a causal *system*, $\hat{R}$ that can describe it. Causality is akin to axiomatic deduction. However, we make no assumptions about the rules, or any axioms, or even the determinism of the aforementioned rules. They could very well change from moment by moment as denoted by the capacity of $h$, a "memory".
 
+We can also ask
+
+$\mathbf{P}((\mathbb{N}, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(0)})) > 0$
+
+what is the cause of qualia, the Natural numbers? Should we now denote qualia as $\mathbb{N} \subset o = \mathrm{I}_\mathbb{N}$? Set theory doesn't have an answer to this.
+
 
