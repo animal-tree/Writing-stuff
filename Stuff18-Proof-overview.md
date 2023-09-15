@@ -149,6 +149,4 @@ Short form:
 > 
 > Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j, \mathrm{I}_i(j) = j$.
 > 
-> We now have infinite variety.
-> 
 > Define this as Qualia.
