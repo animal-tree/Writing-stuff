@@ -225,7 +225,9 @@ $\lim_{n \to +\infty} \Omega^{(n)} = \Omega^{(0)}$.
 
 **Me:** Yes, but deduction isn't a well defined axiom and its self-consequence isn't a well defined series of derivation steps. Therefore, like all proofs, we are providng a dfinition for something previously undefined in relation to things that have been previously defined.
 
-1. Assume Qualia as an axiom. Formally, if anything exists, all equivalents exist, under an infinite set of possible characterizations. We are assuming the existence of characterizations effectively.
+[Pause to rethink calculations]
+
+Assume Qualia as an axiom. Formally, if anything exists, all equivalents exist, under an infinite set of possible characterizations. We are assuming the existence of characterizations effectively.
 
 As nothing $\emptyset$ exists, so does $\mathrm{I}(\emptyset)$ and for that matter $\mathrm{I_i}(\emptyset)$ 
 and $\mathrm{I_j}(\emptyset)$. And furthermore, representation exists,
