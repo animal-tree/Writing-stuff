@@ -22,7 +22,7 @@ We will now premise on two possibilities: (1) the existence of causality and (2)
 
 Assume causality.
 
-**Definition**: Causality.
+**Definition**:
 
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) > 0$
 
