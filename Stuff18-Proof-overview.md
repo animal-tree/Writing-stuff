@@ -136,3 +136,5 @@ Define this as Qualia.
 We will not assume $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_k$. The identies are distinguishable. This would contradict the definition, but we can include a self-reference in the function without loss of generality:
 
 $\mathrm{I}_i(\mathrm{I}_j, j) \neq \mathrm{I}_i(\mathrm{I}_k, k) \vert i \neq k$
+
+The subscripts can be interpretted in any number of ways. We define them as qualia, lowercase and propose their existence. 
