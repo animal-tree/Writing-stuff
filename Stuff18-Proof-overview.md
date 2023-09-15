@@ -65,4 +65,18 @@ That includes our memories from which we derive evidence of $Q$.
 
 The only axiom that is made, philosophically speaking, is "definition".
 
-More generally, everything that is implied by our observations and *implies* our observations, without axiom, is proven.
+More generally, everything that implies our observations, without axiom, except the probabalistic evidence that our observations imply the implication, is proven.
+
+More concretely:
+
+1. Any implication that requires no axiom is proven. This is defined as definition.
+2. Our observations can be trusted.
+3. If a set of definitions is implied by our observations, then it is proven.
+
+A.K.A. science.
+
+I think what we've shown is that if Omega is assumed, it exists. If it's not assumed, it still exists. Which is a step further showing how something arises from nothing. However, that implication would depend on a new axiom: Qualia. If that axiom somehow is equivalent to "I observe" and no further deductions (A.K.A. epistemologies based on trusting memory), then it is proven, since "I observe" is irrefutable and there is no "Suppose I don't", (even if we suppose nothing else about Omega).
+
+That's the insight of this proof.
+
+Maybe something else too.
