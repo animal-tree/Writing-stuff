@@ -280,3 +280,17 @@ Then show
 $\mathbf{P}(x=\text{cyclicality} \vert y=(C, E)) > \mathbf{P}(x=\text{turtles} \vert y=(C, E))$
 
 However, $E$ is memory... evidence must be something in our present observation. That should be fine.
+
+The existence of a present moment suggests that the recurrence has not converged. We can't be sure, but that constitutes evidence.
+
+That means, whatever currently exists can only be explained by processes that are converging with the dynamics function R
+
+The infinite extrema of 2 would put us as the effect of infinite derivation steps, and yet there are more being discovered. So either, reality has infinite possible combinations and this moment doesn't recycle the dynamics state of the earlier, or reality will have infinite combinations and this moment doesn't recycle the dynamics state of the earlier, or the convergence to cyclicality already happened and we are eternally recycling the dynamics state of the earlier and present. We are either on one side of a circle arrow, another side of a circle arrow, or a dot. That circle can be expanding in width, taking us ever further from the recurrence extrema.
+
+The geometric limit of these infinities is the width of the circle.
+
+Maybe.
+
+What about the existence of infinity?
+
+Ah, but now we've uncovered the cause of infinity. As all evidence would have it, infinity can be explained as the ever change towards itself, not as a discrete point. Another cause to infinity may be likewise deducted, but then its existence can't be used and we are left with only the cyclical explanation. I think.
