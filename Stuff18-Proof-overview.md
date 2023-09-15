@@ -332,3 +332,5 @@ There are 3 justifications for a causal effect, called "implications":
 1. $x \rightarrow y$
 2. $x = y$, A.K.A. $y \leftrightarrow y$
 3. Magic
+
+The arrow represents the application of recursive dynamics function $\mathrm{R}$ on the LHS $n$ times to obtain, at least in part, the RHS.
