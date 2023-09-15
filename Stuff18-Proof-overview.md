@@ -159,8 +159,38 @@ We will now premise on two possibilities: (1) the existence of causality and (2)
 
 The existence of causality:
 
-
-
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y, \mathrm{R}) = 1$
 
 $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
+
+For every effect $y$, there is a cause $x$.
+
+Defining observation as $o$, we have
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y=o, \mathrm{R}) = 1$
+
+for some sample of $x, \mathrm{R}$,
+
+where  $o = \mathrm{I}_{i \in \mathbb{N}}$,
+
+and physics model $\mathrm{R}$, just defining.
+
+---
+
+Scratch that
+
+The existence of causality:
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y) > 0$
+
+$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
+
+For every effect $y$, there is a cause $x$.
+
+Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
+
+$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(0)})) > 0$
+
+where $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
+
+
