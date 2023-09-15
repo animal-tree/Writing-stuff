@@ -230,3 +230,36 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
 Causality. $o = \mathrm{I}_{i \in \mathbb{N}},\mathrm{\hat{R}} \sim \mathrm{R}$, h is theoretical memory, $n \in \mathbb{N}$.
 
 This gives us a, Turing-complete machine.
+
+**Theorem:** Causality gives us a Turing-complete machine. Proof above.
+
+**Theorem:** Causality gives us a cyclical convergence
+
+defined
+
+**Proof**
+
+$C = \mathbf(P)(\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0)$
+
+$C$ is a variable that denotes causality. Let us ask "what is the cause of causality?"
+
+$\mathbf{P}((C, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
+
+Three causes:
+
+1. cyclicality
+2.  "Turtles all the way down". 
+    - recursively non-converges in the infinite, not causally explaining its infinite-limit effect.
+  
+3.  Magic
+
+For this we need an epistemelogical argument:
+
+$\mathbf{P}(x=\text{magic} \vert y=C) < \epsilon$
+
+Then we can epistemologically conclude 1, cyclicality. Namely its most general form,
+
+$\lim_{t \to +\infty} \Omega_t = \Omega_0$,
+
+in the infinite, assuming the existence of a present, as per observation I think.
+
