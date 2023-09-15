@@ -276,4 +276,4 @@ initially without evidence.
 
 Then show
 
-$\mathbf{P}(x=\text{cyclicality} \vert y=(C, E)) > $\mathbf{P}(x=\text{turtles} \vert y=(C, E))
+$\mathbf{P}(x=\text{cyclicality} \vert y=(C, E)) > \mathbf{P}(x=\text{turtles} \vert y=(C, E))$
