@@ -34,6 +34,8 @@ For every effect $y$, there is a cause $x$.
 2. $x = y$, A.K.A. $y \leftrightarrow y$
 3. Magic - Any technology sufficiently advanced is indistinguishable from it.
 
+represented by $\mathrm{R} as a dynamics system$.
+
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
 **Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
