@@ -296,3 +296,5 @@ What about the existence of infinity?
 Ah, but now we've uncovered the cause of infinity. As all evidence would have it, infinity can be explained as the ever change towards itself, not as a discrete point. Another cause to infinity may be likewise deducted, but then its existence can't be used and we are left with only the cyclical explanation. I think.
 
 This is an extremely theoretical definition in liue of better ones and the onus to provide better ones is on the mathematician. I believe, again, this is far on the edge of the infinity circle. Right at the arrow. Literally.
+
+But, it's geometrically sound.
