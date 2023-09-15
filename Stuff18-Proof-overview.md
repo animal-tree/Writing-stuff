@@ -82,3 +82,9 @@ That's the insight of this proof.
 Maybe something else too.
 
 In other words, assuming Omega says "assume I can trust my memories." All observable reality beliefs reduce to observation and memory. However, memory isn't proven. It's believed. Observation is proven.
+
+We can say assume Omega, or equivalently, assume our memories.
+
+Otherwise, don't assume Omega, only assume observation.
+
+Since observation is fact, any deduction, if deduction can be trusted, is fact. But by definition, (fact or not, technically, bizarreness aside), it's proven.
