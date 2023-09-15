@@ -112,3 +112,5 @@ Not cyclically. By definition.
 ---
 
 In summary, everything that happens in physical reality is just the dictionary definition of observation. Not my or your observation exactly, but observation itself. Observation is definition, an Identity function with infinite Qualia. Those different characterizations existing, is as true as deduction. Just define them as functionally equivalent but with different variable names, by the axiom of definition. Somehow, together with causality or its direct mathematical consequence, cyclicality, they "existing", per Qualia, imply our physical reality. Meanwhile, in tandem with Qualia, causality and its direct mathematical consequence, cyclicality, imply each other, completing the cycle to define all of reality back to the meaning of "I observe". Proving it, without axiom, unless definition counts.
+
+Meanwhile, proving our physical reality, for the first time ever, proves that our memories are (generally) true.
