@@ -34,9 +34,7 @@ Generally speaking,
 
 1. $x \rightarrow y$
 2. $y \leftrightarrow y, x=y$
-3. $x=$ Magic
-
-are the only three possible explanations, with Magic excluded as it is not defined.
+3. $x=$ Randomness
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
