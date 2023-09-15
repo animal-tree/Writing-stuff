@@ -246,7 +246,7 @@ However, we will then show the reverse, that assuming deduction, we reach self-d
 
 $S \rightarrow D$ and $D \rightarrow S$.
 
-By $S$, we will derive physical reality, generally.
+By $S$, we will derive a physical reality, generally.
 
 By that, we will argue, convincingly, Qualia.
 
