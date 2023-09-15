@@ -225,6 +225,31 @@ $\lim_{n \to +\infty} \Omega^{(n)} = \Omega^{(0)}$.
 
 **Me:** Yes, but deduction isn't a well defined axiom and its self-consequence isn't a well defined series of derivation steps. Therefore, like all proofs, we are providng a dfinition for something previously undefined in relation to things that have been previously defined.
 
+1. Assume Qualia as an axiom. Formally, if anything exists, all equivalents exist, under an infinite set of possible characterizations. We are assuming the existence of characterizations effectively.
+
+As nothing $\emptyset$ exists, so does $\mathrm{I}(\emptyset)$ and for that matter $\mathrm{I_i}(\emptyset)$ 
+and $\mathrm{I_j}(\emptyset)$. And furthermore, representation exists,
+
+$\lim_{t \to +\infty} \Omega_t = \Omega_0$
+
+We are just starting with that assumption. Be patient.
+
+$\emptyset = \mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i}(\mathrm{I_i})(\mathrm{I_i}(\mathrm{I_i})(\emptyset)))) \cup \mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j}(\mathrm{I_j})(\mathrm{I_j}(\mathrm{I_j})(\emptyset)))) = (011, 011)$.
+
+We will also assume self-deduction:
+
+$\lim_{t \to +\infty} \Omega_t = \Omega_0$.
+
+From there, we will derive deduction, indeed using the rules of deduction. This would seem like a contradiction. Have we not assumed deduction? For that, though it is confusing, we need to distinguish definition from axiom. Using the rules of deduction is by definition of deduction; it does not assume those rules to be true. Therefore, it is definition, not axiom.
+
+However, we will then show the reverse, that assuming deduction, we reach self-deduction. By Qualia's yet-to-be-defined mutually-relating/entangling definition, our equivalence relation sub-components, with $D$ representing deduction and $S$ representing self-deduction, $(S, D)$, will mutually exist, since
+
+$S \rightarrow D$ and $D \rightarrow S$.
+
+By $S$, we will derive physical reality, generally.
+
+By that, we will argue, convincingly, Qualia.
+
 ---
 
 **Limits of evidence**
