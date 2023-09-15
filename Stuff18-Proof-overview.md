@@ -51,6 +51,8 @@ Since no axiom is made, the existence of all 4 becomes incontrovertible. We have
 
 ---
 
+**Epistemology**
+
 Our universe $\Omega$ meanwhile, is proven by "I observe, therefore I am."
 
 However, that implication, as any, is probabilistic  and itself assumes that we can trust our memories. Since we do (generally), by definition, we can.
@@ -58,5 +60,7 @@ However, that implication, as any, is probabilistic  and itself assumes that we 
 That includes our memories from which we derive evidence of $Q$.
 
 ---
+
+**Philosophy**
 
 The only axiom that is made, philosophically speaking, is "definition".
