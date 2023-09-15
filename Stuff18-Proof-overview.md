@@ -138,3 +138,17 @@ We will not assume $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_k$. The identies are
 $\mathrm{I}_i(\mathrm{I}_j, j) \neq \mathrm{I}_i(\mathrm{I}_k, k) \vert i \neq k$
 
 The subscripts can be interpretted in any number of ways. We define them as qualia, lowercase and propose their existence. 
+
+Short form:
+
+> Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
+>
+> $\mathrm{I}_1 = \mathrm{I}_2 = \cdots$.
+> 
+> Each of these exists by definition.
+> 
+> Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j, \mathrm{I}_i(j) = j$.
+> 
+> We now have infinite variety.
+> 
+> Define this as Qualia.
