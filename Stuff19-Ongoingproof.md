@@ -36,6 +36,8 @@ Generally speaking,
 2. $y \leftrightarrow y, x=y$
 3. $x=$ Randomness
 
+However, $\mathbf{P}((y=\textit{Randomness}, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)})) < \epsilon$ would have to assume the existence of Randomness as a variable.
+
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
 **Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
