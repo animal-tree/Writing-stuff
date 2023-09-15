@@ -64,3 +64,7 @@ That includes our memories from which we derive evidence of $Q$.
 **Philosophy**
 
 The only axiom that is made, philosophically speaking, is "definition".
+
+---
+
+More generally, everything that is implied by our observations and *implies* our observations is proven.
