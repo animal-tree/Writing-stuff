@@ -227,6 +227,6 @@ Composing them in this way gives us the natural number set and, in tandem with $
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
 
-Causality. $o = \mathrm{I}_{i \in \mathbb{N}},\mathrm{\hat{R}} \sim \mathrm{R}$, h is theoretical memory, $n \in \mathbb{N}.
+Causality. $o = \mathrm{I}_{i \in \mathbb{N}},\mathrm{\hat{R}} \sim \mathrm{R}$, h is theoretical memory, $n \in \mathbb{N}$.
 
 This gives us a, Turing-complete machine.
