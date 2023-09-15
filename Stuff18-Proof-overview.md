@@ -56,3 +56,7 @@ Our universe $\Omega$ meanwhile, is proven by "I observe, therefore I am."
 However, that implication, as any, is probabilistic  and itself assumes that we can trust our memories. Since we do (generally), by definition, we can.
 
 That includes our memories from which we derive evidence of $Q$.
+
+---
+
+The only axiom that is made, philosophically speaking, is "definition".
