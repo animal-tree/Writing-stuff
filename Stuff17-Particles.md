@@ -1,6 +1,10 @@
-By keeping things symmetrical and automated, the majority of computation can be concentrated. That is, the vast majority of space can be automated while fine-level probabilistic shifts could happen, inter-communicably between each other, at the particle level locally. Infinite cosmic potential, itty bitty living space. 
+[By keeping things symmetrical and automated, the majority of computation can be concentrated. That is, the vast majority of space can be automated while fine-level probabilistic shifts could happen, inter-communicably between each other, at the particle level locally. Infinite cosmic potential, itty bitty living space.]
 
-Perhaps there’s a constant flux of random local collisions that keep track of thought, memory, etc. in the bounds of local spacetime, a literal particle brain of signal communications via, certain probabilistic modulations. Maybe it’s not that nonlocal, but ends up being since everything is somehow connected, if the particles are doing the mediation and communication. 
+Context: this is just a mental prompt for myself.
+
+Now about particles more interestingly/basically.
+
+[Perhaps there’s a constant flux of random local collisions that keep track of thought, memory, etc. in the bounds of local spacetime, a literal particle brain of signal communications via, certain probabilistic modulations. Maybe it’s not that nonlocal, but ends up being since everything is somehow connected, if the particles are doing the mediation and communication. 
 
 This is different from the cryptic super-network of superconscious beings communicating, collectively, as the social or unconscious collective consciousness, via symbol. Or worse, the interpretation of the superconscious as being that and mediated by that. 
 
@@ -12,4 +16,4 @@ This interpretation of local entanglement extending to the global scope as a rec
 
 Nature’s potential would then be extraordinary in exacting her will. 
 
-Better yet, she just controls everything all at once. 
+Better yet, she just controls everything all at once.]
