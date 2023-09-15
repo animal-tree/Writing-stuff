@@ -38,6 +38,10 @@ Generally speaking,
 
 are the only three possible explanations.
 
+But, Magic has a probability of
+
+$\mathbf{P}(x=\text{Magic} | y) < \epsilon$
+
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
 **Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
