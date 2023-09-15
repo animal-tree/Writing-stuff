@@ -36,17 +36,7 @@ Generally speaking,
 2. $y \leftrightarrow y, x=y$
 3. $x=$ Magic
 
-are the only three possible explanations.
-
-But, Magic has a probability of
-
-$\mathbf{P}(x=\text{Magic} | y) < \epsilon$
-
-for unknown $\epsilon$.
-
-In this deduction, by definition of math as not magic, traditionally, we can assume a negligibly small $\epsilon$ moving forward.
-
-Math, belonging to observation, may however be indistinguishable from magic.
+are the only three possible explanations, with Magic excluded as it is not defined.
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
