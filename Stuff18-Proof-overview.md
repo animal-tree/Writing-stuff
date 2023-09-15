@@ -96,3 +96,5 @@ Deduction only depends on the axiom of definition. So, technically, it's impossi
 Otherwise, reduction to "I observe" is an irrefutable proof. If it can cyclically encompass causality, qualia, and observed reality (including memory), then it's a proof of, well, perhaps itself. Perhaps a definition of its very self.
 
 Every other proof of physical reality, or theory of it, depends on "I observe" and the truth of memory as axioms. Memory is believed, but not yet proven. So this proof is far larger in scope.
+
+Do you understand? We are proving memory can be trusted.
