@@ -43,7 +43,7 @@ Qualia is whatever:
 
 1. In tandem with $C_2$, implies $C_1$
 2. In tandem with $C_1$ or $C_2$, implies our universe $\Omega$
-3. Is implied by "I observe" $o$, taking $o$ as irrefutable
+3. Is implied by "I observe", taking $o$ as irrefutable
 
 If these rules are satisfied, then we've proven $\Omega$, $Q$, $C_1$, and $C_2$ without requiring axiom.
 
