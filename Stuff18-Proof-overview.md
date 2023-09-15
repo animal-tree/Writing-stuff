@@ -102,3 +102,5 @@ Do you understand? We are proving memory can be trusted.
 Dialectical partner: "Er, cyclically. But yes."
 
 Not cyclically. By definition.
+
+[This makes me cry because memory includes all the feelings of the past that have been disproven by the people who betrayed them.]
