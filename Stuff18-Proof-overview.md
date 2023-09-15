@@ -53,7 +53,7 @@ Since no axiom is made, the existence of all 4 becomes incontrovertible. We have
 
 **Epistemology**
 
-Our universe $\Omega$ meanwhile, is proven by "I observe, therefore I am."
+Existence $o$ meanwhile, is proven by "I observe, therefore I am."
 
 However, that implication, as any, is probabilistic  and itself assumes that we can trust our memories. Since we do (generally), by definition, we can.
 
