@@ -30,6 +30,10 @@ $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 For every effect $y$, there is a cause $x$.
 
+1. $x \rightarrow y$
+2. $x = y$, A.K.A. $y \leftrightarrow y$
+3. Magic - Any technology sufficiently advanced is indistinguishable from it.
+
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
 **Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
@@ -72,4 +76,5 @@ TBA
 Before the proof, this equation deserves contextualization.
 
 **Proof**
+
 
