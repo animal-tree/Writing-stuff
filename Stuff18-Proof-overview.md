@@ -201,4 +201,6 @@ $\mathbf{P}((\mathbb{N}, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(0)})) > 0$
 
 what is the cause of qualia, the Natural numbers? Should we now denote qualia as $\mathbb{N} \subset o = \mathrm{I}_\mathbb{N}$? Set theory doesn't have an answer to this.
 
+Probability theory might.
+
 
