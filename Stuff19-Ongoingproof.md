@@ -12,11 +12,11 @@ Define this as Qualia.
 
 ---
 
-Define the subscripts of Qualia as qualia and denote them $\mathbb{N}$.
+**Define** the subscripts of Qualia as qualia and denote them $\mathbb{N}$.
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
 
-The existence of causality:
+(1) The existence of causality:
 
 ---
 
@@ -50,8 +50,6 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
 The two can be composed together:
 
 3. "10": &nbsp; $\mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot)))$
-
-**Define** the natural numbers as lowercase qualia.
 
 **Corrillary 1:** Observation suffices to represent the natural numbers, qualia $\mathbb{N}$.
 
