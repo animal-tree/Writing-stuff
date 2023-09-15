@@ -324,3 +324,11 @@ then we need only explain
 $\mathbf{P}((n, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
 
 and $n \in \mathbb{N}$, already explained. $\square$
+
+---
+
+There are 3 justifications for a causal effect, called "implications":
+
+1. $x \rightarrow y$
+2. $x = y$, A.K.A. $y \leftrightarrow y$
+3. Magic
