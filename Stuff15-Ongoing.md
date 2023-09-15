@@ -362,6 +362,12 @@ Thus emerges $\mathbf{P}$, the probability function.
 
 In our representational universe $\hat{\Omega}$, if we can establish locality, we can then quantify observations $\mathrm{I}$ as not omniscient by representing them instead with $\mathbf{P}$.
 
-To arrive at this, we will look at AI.
+To arrive at this, we will look at AI. 
+
+There are 3 justifications for a causal effect, called "implications":
+
+1. $x \rightarrow y$
+2. $x = y$, A.K.A. $y \leftrightarrow y$
+3. Magic - Any technology sufficiently advanced is indistinguishable from it.
 
 [^1]: Such as cyclical self-deduction.
