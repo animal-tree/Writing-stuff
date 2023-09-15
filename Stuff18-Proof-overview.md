@@ -108,3 +108,7 @@ Dialectical partner: "Er, cyclically. But yes."
 Not cyclically. By definition.
 
 [This makes me cry because memory includes all the feelings of the past that have been disproven by the people who betrayed them.]
+
+---
+
+In summary, everything that happens in physical reality is just the dictionary definition of observation. Not my or your observation exactly, but observation itself. Observation is definition, an Identity function with infinite Qualia. Those different characterizations existing, is as true as deduction. Somehow, together with causality or its direct mathematical consequence, they imply our physical reality. Meanwhile, in tandem with Qualia, causality and its direct mathematical consequence imply each other.
