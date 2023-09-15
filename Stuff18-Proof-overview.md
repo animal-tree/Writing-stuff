@@ -80,3 +80,5 @@ I think what we've shown is that if Omega is assumed, it exists. If it's not ass
 That's the insight of this proof.
 
 Maybe something else too.
+
+In other words, assuming Omega says "assume I can trust my memories." All observable reality beliefs reduce to observation and memory. However, memory isn't proven. It's believed. Observation is proven.
