@@ -98,3 +98,7 @@ Otherwise, reduction to "I observe" is an irrefutable proof. If it can cyclicall
 Every other proof of physical reality, or theory of it, depends on "I observe" and the truth of memory as axioms. Memory is believed, but not yet proven. So this proof is far larger in scope.
 
 Do you understand? We are proving memory can be trusted.
+
+Dialectical partner: "Er, cyclically. But yes."
+
+Not cyclically. By definition.
