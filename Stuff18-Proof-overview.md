@@ -189,7 +189,7 @@ For every effect $y$, there is a cause $x$.
 
 Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
 
-$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(0)})) > 0$
+$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
 
 where $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
@@ -199,7 +199,7 @@ If every effect has a cause, according to this definition of causality, then the
 
 We can also ask
 
-$\mathbf{P}((\mathbb{N}, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(0)})) > 0$
+$\mathbf{P}((\mathbb{N}, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
 
 what is the cause of qualia, here denoted by the natural number set, presumed infinite? Should we now explain qualia as $\mathbb{N} \subset o = \mathrm{I}_\mathbb{N}$? Set theory doesn't have an answer to this.
 
@@ -214,3 +214,19 @@ A number is a belief, by the human. Our evidence for it is the representational 
 While such a belief might not be a "subset" of $o$, it can be represented by $o$. Take for example (1) the binary number 1: it can be represented $\mathrm{I_1}(\mathrm{I_2})(\cdot)$, (2) the binary 0 can be represented $\mathrm{I_1}((\mathrm{I_2}(\cdot))$, for any given input. The two can be composed $\mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot)))$: 10, the number 3.
 
 Composing them in this way gives us the natural number set and, in tandem with $h$, might make the representation Turing-complete.
+
+---
+
+This sounds full of shit:
+
+While such a belief might not be a "subset" of $o$, it can be represented by $o$. Take for example (1) the binary number 1: it can be represented $\mathrm{I_1}(\mathrm{I_2})(\cdot)$, (2) the binary 0 can be represented $\mathrm{I_1}((\mathrm{I_2}(\cdot))$, for any given input. The two can be composed $\mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot)))$: 10, the number 3.
+
+Composing them in this way gives us the natural number set and, in tandem with $h$, might make the representation Turing-complete.
+
+---
+
+$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
+
+Causality. $o = \mathrm{I}_{i \in \mathbb{N}},\mathrm{\hat{R}} \sim \mathrm{R}$, h is theoretical memory, $n \in \mathbb{N}.
+
+This gives us a, Turing-complete machine.
