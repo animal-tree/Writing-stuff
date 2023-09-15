@@ -270,6 +270,7 @@ If $\mathbb{N}$ is finite, it's 1, perhaps infinite. If infinite, then it's eith
 We can suppose either and later use Bayesian belief updates as evidence for 1.
 
 $\mathbf{P}(x=\text{cyclicality} \vert y=C) \leq 0.5 - \epsilon / 2$
+
 $\mathbf{P}(x=\text{turtles} \vert y=C) \leq 0.5 - \epsilon / 2$
 
 initially without evidence.
@@ -277,3 +278,5 @@ initially without evidence.
 Then show
 
 $\mathbf{P}(x=\text{cyclicality} \vert y=(C, E)) > \mathbf{P}(x=\text{turtles} \vert y=(C, E))$
+
+However, $E$ is memory... evidence must be something in our present observation. That should be fine.
