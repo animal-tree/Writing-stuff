@@ -62,4 +62,4 @@ Now with a finite bound, where $t = n$, we can show that these finite resources 
 
 1. Assume Qualia.
 2. Deduce deduction. Using $X$ to show $D$, then using $D$ to show $X$. Then, perhaps, using $Q$ to show $X$? (pain, choice).
-3. Using $Q$ to show $Q \rightarrow X \leftrightarrow D$ (pain, self-deduction) and $X \leftrightarrow D \rightarrow Q$ (empirical evidence). By $Q$, these would all exist despite their equivalence.
+3. Using $\alpha$ to show $\alpha \rightarrow X \leftrightarrow D$ (pain, self-deduction) and $X \leftrightarrow D \rightarrow \alpha$ (empirical evidence). By $\alpha$, these would all exist despite their equivalence.
