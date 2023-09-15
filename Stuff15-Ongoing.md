@@ -368,6 +368,6 @@ There are 3 justifications for a causal effect, called "implications":
 
 1. $x \rightarrow y$
 2. $x = y$, A.K.A. $y \leftrightarrow y$
-3. Magic - Any technology sufficiently advanced is indistinguishable from it.
+3. Magic - Any technology sufficiently advanced is indistinguishable from it. 
 
 [^1]: Such as cyclical self-deduction.
