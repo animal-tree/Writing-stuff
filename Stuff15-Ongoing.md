@@ -252,9 +252,9 @@ By that, we will argue, convincingly, Qualia.
 
 [pause to use bathroom]
 
-**Me, describing the proof in a nutshell:** It's an extremely recursive self creation that requires no cyclical death except in the infinitum.
+[return from the bathroom]
 
-With some self confidence... it can persist. [grim look]
+**Me, describing the proof in a nutshell:** It's an extremely recursive self creation that requires no cyclical death except in the infinitum.
 
 ---
 
