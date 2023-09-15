@@ -156,3 +156,11 @@ Short form:
 Define the subscripts of Qualia as qualia and denote them $\mathbb{N}$.
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
+
+The existence of causality:
+
+
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y, \mathrm{R}) = 1$
+
+$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
