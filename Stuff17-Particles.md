@@ -17,3 +17,5 @@ This interpretation of local entanglement extending to the global scope as a rec
 Nature’s potential would then be extraordinary in exacting her will. 
 
 Better yet, she just controls everything all at once.]
+
+Meaning, particles are smart.
