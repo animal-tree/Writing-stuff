@@ -8,7 +8,7 @@ Each of these exists by definition.
 
 Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j, \mathrm{I}_i(j) = j$.
 
-Define this as Qualia.
+**Define** this as Qualia.
 
 ---
 
