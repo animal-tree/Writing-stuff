@@ -30,11 +30,13 @@ $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 For every effect $y$, there is a cause $x$.
 
-1. $x \rightarrow y$
-2. $x = y$, A.K.A. $y \leftrightarrow y$
-3. Magic - Any technology sufficiently advanced is indistinguishable from it.
+Generally speaking,
 
-represented by $\mathrm{R} as a dynamics system$.
+1. $x \rightarrow y$
+2. $y \leftrightarrow y, x=y$
+3. $x=$ Magic
+
+are the only three possible explanations.
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
