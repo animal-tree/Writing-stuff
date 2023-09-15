@@ -193,5 +193,5 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(0)})) > 0$
 
 where $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
-Technically, it is worth noting that we are just deriving deduction.
+Technically, it is worth noting that we are just deriving deduction. See [here](Stuff15-Ongoing.md).
 
