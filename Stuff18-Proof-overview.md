@@ -201,7 +201,7 @@ We can also ask
 
 $\mathbf{P}((\mathbb{N}, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(0)})) > 0$
 
-what is the cause of qualia, the Natural numbers? Should we now denote qualia as $\mathbb{N} \subset o = \mathrm{I}_\mathbb{N}$? Set theory doesn't have an answer to this.
+what is the cause of qualia, here denoted by the natural number set, presumed infinite? Should we now explain qualia as $\mathbb{N} \subset o = \mathrm{I}_\mathbb{N}$? Set theory doesn't have an answer to this.
 
 Probability theory might.
 
@@ -211,6 +211,6 @@ $\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)
 
 A number is a belief, by the human. Our evidence for it is the representational utility to describing consistencies in our world.
 
-While such a belief might not be a "subset" of $o$, it can be represented by $o$. Take for example (1) the binary number 1: it can be represented $\mathrm{I_1}(\mathrm{I_2})(\cdot)$, (2) the binary 0 can be represented $\mathrm{I_1}((\mathrm{I_2}(\cdot))$, for any given input. The two can be composed \mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot))): 10, the number 3.
+While such a belief might not be a "subset" of $o$, it can be represented by $o$. Take for example (1) the binary number 1: it can be represented $\mathrm{I_1}(\mathrm{I_2})(\cdot)$, (2) the binary 0 can be represented $\mathrm{I_1}((\mathrm{I_2}(\cdot))$, for any given input. The two can be composed $\mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot)))$: 10, the number 3.
 
-This representation is Turing-complete.
+Composing them in this way gives us the natural number set and, in tandem with $h$, might make the representation Turing-complete.
