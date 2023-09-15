@@ -250,6 +250,10 @@ By $S$, we will derive a physical reality, generally.
 
 By that, we will argue, convincingly, Qualia.
 
+[pause to use bathroom]
+
+**Me, describing the proof in a nutshell:** It's an extremely recursive self creation that requires no cyclical death except in the infinitum.
+
 ---
 
 **Limits of evidence**
