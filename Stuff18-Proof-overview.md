@@ -61,6 +61,8 @@ That implication, as any about observable reality beyond the present and moment,
 
 That includes our memories from which we derive evidence of $Q$.
 
+That does not mean our memories our true.
+
 ---
 
 **Philosophy**
