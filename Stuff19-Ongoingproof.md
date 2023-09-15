@@ -46,6 +46,8 @@ for unknown $\epsilon$.
 
 In this deduction, by definition of math as not magic, traditionally, we can assume a negligibly small $\epsilon$ moving forward.
 
+Math, belonging to observation, may however be indistinguishable from magic.
+
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
 **Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
