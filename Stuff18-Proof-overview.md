@@ -123,7 +123,7 @@ This proves many things, including the validity of belief. Belief is the axiom u
 
 Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
 
-$\mathrm{I}_1 = \mathrm{I}_2 = ...$.
+$\mathrm{I}_1 = \mathrm{I}_2 = \cdots$.
 
 Each of these exists by definition.
 
@@ -132,3 +132,7 @@ Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I
 We now have infinite variety.
 
 Define this as Qualia.
+
+We will not assume $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_k$. The identies are distinguishable. This would contradict the definition, but we can include a self-reference in the function without loss of generality:
+
+$\mathrm{I}_i(\mathrm{I}_j, j) \neq \mathrm{I}_i(\mathrm{I}_k, k) \vert i \neq k$
