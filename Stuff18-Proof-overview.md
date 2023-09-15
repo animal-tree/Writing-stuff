@@ -150,3 +150,9 @@ Short form:
 > Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j, \mathrm{I}_i(j) = j$.
 > 
 > Define this as Qualia.
+
+---
+
+Define the subscripts of Qualia as qualia and denote them $\mathbb{N}$.
+
+We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
