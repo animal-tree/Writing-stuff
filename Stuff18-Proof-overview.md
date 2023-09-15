@@ -263,3 +263,7 @@ $\lim_{t \to +\infty} \Omega_t = \Omega_0$,
 
 in the infinite, assuming the existence of a present, as per observation I think.
 
+Or perhaps an equivalence between 1 and 2?
+
+If $\mathbb{N}$ is finite, it's 1, perhaps infinite. If infinite, then it's either.
+
