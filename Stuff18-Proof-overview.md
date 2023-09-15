@@ -1,0 +1,58 @@
+### Proof overview
+
+Suppose causality. $C_1$
+
+Then treating Prob(causality) = 1 as a random variable in causality, requiring a cause,
+
+We have that some number of steps $n$ derives causality. And the recurrence repeats.
+
+lim etc.
+
+Now do away with supposing causality. Suppose 
+
+1. Qualia. $Q$
+2. lim etc. $C_2$
+
+We show that together, since $C_1 \rightarrow C_2$ and $C_2, Q \rightarrow C_1$, then, under Qualia, $Q \rightarrow C_1, C_2$
+
+Furthermore $C_2, Q \rightarrow$ implies our universe Omega $\Omega$.
+
+And Omega implies $Q$.
+
+Qualia somehow seems analogous to gravity / dark matter in its definition.
+
+---
+
+Well, under Qualia, if we have $C_1 \rightarrow C_2$ and $C_2, Q \rightarrow C_1$,
+
+Then assuming $Q$ gives us
+
+$C_1 \rightarrow C_2$ and $C_2 \rightarrow C_1$
+
+gives us
+
+$C_1 = C_2$.
+
+Then, since we have supposed $C_2$, we have $C_1$.
+
+Thus, we've proven $C_1$, $C_2$ under the existence of Qualia.
+
+---
+
+Qualia is whatever:
+
+1. In tandem with $C_2$, implies $C_1$
+2. In tandem with $C_1$ or $C_2$, implies our universe $\Omega$
+3. Is implied by $\Omega$
+
+If these rules are satisfied, then we've proven $\Omega$, $Q$, $C_1$, and $C_2$ without requiring axiom.
+
+Since no axiom is made, the existence of all 4 becomes incontrovertible. We have proven them definitively, as an origin of existence that is true on the premise of nothing. We have also shown,already, how something could arise from nothing.
+
+---
+
+Our universe $\Omega$ meanwhile, is proven by "I observe, therefore I am."
+
+However, that implication, as any, is probabilistic  and itself assumes that we can trust our memories. Since we do (generally), by definition, we can.
+
+That includes our memories from which we derive evidence of $Q$.
