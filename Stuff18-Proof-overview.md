@@ -285,7 +285,7 @@ The existence of a present moment suggests that the recurrence has not converged
 
 That means, whatever currently exists can only be explained by processes that are converging with the dynamics function R
 
-The infinite extrema of 2 would put us as the effect of infinite derivation steps, and yet there are more being discovered. So either, reality has infinite possible combinations and this moment doesn't recycle the dynamics state of the earlier, or reality will have infinite combinations and this moment doesn't recycle the dynamics state of the earlier, or the convergence to cyclicality already happened and we are eternally recycling the dynamics state of the earlier and present. We are either on one side of a circle arrow, another side of a circle arrow, or a dot. That circle can be expanding in width, taking us ever further from the recurrence extrema.
+The infinite extrema of 2 would put us as the effect of infinite derivation steps, and yet there are more being discovered. So either, reality has infinite possible combinations and this moment doesn't recycle the dynamics state of the earlier, or reality will have infinite combinations and this moment doesn't recycle the dynamics state of the earlier, or the convergence to cyclicality already happened and we are eternally recycling the dynamics state of the earlier and present. We are either on one side of a circle arrow, another side of a spiral arrow, or a dot. That circle can be expanding in width, taking us ever further from the recurrence extrema.
 
 The geometric limit of these infinities is the width of the circle.
 
@@ -298,3 +298,11 @@ Ah, but now we've uncovered the cause of infinity. As all evidence would have it
 This is an extremely theoretical definition in liue of better ones and the onus to provide better ones is on the mathematician. I believe, again, this is far on the edge of the infinity circle. Right at the arrow. Literally.
 
 But, it's geometrically sound.
+
+Okay, 
+
+If $y=\infty$, then
+
+$\mathbf{P}((\infty, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
+
+becomes the question. We are now constrained from using $\infty$ without assuming it as an axiom.
