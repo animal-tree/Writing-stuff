@@ -24,7 +24,7 @@ Assume causality.
 
 **Definition**:
 
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) > 0$
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \new \mathcal{U}$
 
 $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
@@ -35,6 +35,8 @@ Generally speaking,
 1. $x \rightarrow y$
 
 The arrow represents the application of recursive dynamics function $\mathrm{R}$ on the LHS $n' \sim n \in \mathbb{N}$ times to obtain, at least in part, the RHS. 
+
+$\mathcal{U}$ is the Uniform distribution, randomness.
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
