@@ -6,6 +6,8 @@ Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equi
 
 **Definition 1**: $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
 
+This "set", or grouping, may be considered distinct. We will define this interpretation as Qualia.
+
 **Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natural numbers.
