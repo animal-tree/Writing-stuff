@@ -4,7 +4,7 @@ Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equi
 
 **Definition 1**: $\mathrm{I} = \mathrm{I_1} = \mathrm{I_2} = \cdots$.
 
-**Theorem 1:** $\mathrm{I}, \mathrm{I_1}, \mathrm{I_2} ... all exist.
+**Theorem 1:** $\mathrm{I}, \mathrm{I_1}, \mathrm{I_2} ...$ all exist.
 
 **Proof:** "I observe."
 
