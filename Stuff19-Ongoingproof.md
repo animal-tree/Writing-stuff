@@ -35,7 +35,7 @@ $\mathrm{U}$ is the Uniform distribution.
 
 $n \in \mathbb {N}$, $x \neq y$, and $R \neq \mathrm{I}$.
 
-$h$ is a theoretical memory to not assume Markovian dynamics.
+$h$ is a theoretical memory and global context window to not assume fully-observed Markovian dynamics.
 
 ---
 
