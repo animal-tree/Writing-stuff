@@ -10,7 +10,7 @@ This "set", or grouping, may be considered distinct. We will define this interpr
 
 **Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
-where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natural numbers.
+where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite.
 
 **Theorem 1:** $\exists \mathrm{I_i} \forall i \in \mathbb{N}$.
 
