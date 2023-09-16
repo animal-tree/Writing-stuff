@@ -2,6 +2,8 @@
 
 Observation $o$ exists.
 
+$\exists o$.
+
 **Proof:**
 
 "I observe." $\square$
@@ -16,9 +18,9 @@ Each of these exists by definition.
 
 Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j(\mathrm{I}_k)) = (\mathrm{I}_j, \mathrm{I}_k)$.
 
-**Definition 1**: An observer is a function that exists. $\mathrm{I}$.
+**Definition 1**: An observer is a function that exists. $\mathrm{I}$ denotes the set of equivalents.
 
-$\mathrm{I} = \mathrm{I_1} = \mathrm{I_2} = \cdots$
+$o = \mathrm{I_1} = \mathrm{I_2} = \cdots$
 
 are different variables that we are defining that are equivalent to $\mathrm{I}$, not separate.
 
