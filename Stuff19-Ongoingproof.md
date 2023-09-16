@@ -95,7 +95,7 @@ Under causality, both of these will also need causes attributed to them.
 
 ---
 
-**Theorem 4**: $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
+**Theorem 4**: $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ $\rightarrow$
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
