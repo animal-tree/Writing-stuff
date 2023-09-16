@@ -79,7 +79,15 @@ $n \in \mathbb {N}$, $x \neq y$, and $R \neq \mathrm{I}$.
 
 $h$ is a theoretical memory and global context window to not assume fully-observed Markovian dynamics.
 
-That means, in the set of reality
+As a consequence,
+
+$\Omega(\mathrm{R}) = 1$.
+
+Furthermore,
+
+$\Omega(\sim) = 1$,
+
+where a "sampler" exists, or if the dynamics system is deterministic, a "decider."
 
 ---
 
