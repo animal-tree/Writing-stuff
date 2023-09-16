@@ -101,7 +101,7 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
 **Proof:**
 
-Observation $o$ exists. Under causality, there must be a non-uniform distribution for its cause or dynamics system $\mathrm{\hat{R}}$ is undefined. $\square$
+Observation $o$ exists. Under causality, there must be a non-uniform distribution for its cause or dynamics system $\mathrm{R}$ is undefined. $\square$
 
 ---
 
