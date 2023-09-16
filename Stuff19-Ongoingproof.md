@@ -41,7 +41,7 @@ $h$ is a theoretical memory to not assume Markovian dynamics.
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
-**Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
+**Theorem 1**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
@@ -51,7 +51,11 @@ Observation $o$ exists. $\square$
 
 ---
 
-**Theorem**: Observation and causality give us a Turing-complete machine.
+**Theorem 2**: Observation and causality give us a Turing-complete machine.
+
+**Corrillary 1:** Observation suffices to represent the natural numbers, denoted qualia, above, $\mathbb{N}$.
+
+**Proof**:
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
@@ -62,13 +66,15 @@ The two can be composed together:
 
 3. "10": &nbsp; $\mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot)))$
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$  
 
-**Corrillary 1:** Observation suffices to represent the natural numbers, denoted qualia, above, $\mathbb{N}$.
+$\square$
 
 **Corrillary 2:** Observation suffices to represent the tape of a Turing machine.
 
-Since $h$ is a theoretical memory, this gives us a Turing-complete machine. $\square$
+**Proof**: It suffices to represent binary integers. $\square$
+
+Since $h$ is a theoretical memory and $\exists \hat{R}$ by Theorem 1, this gives us a Turing-complete machine. $\square$
 
 ---
 
