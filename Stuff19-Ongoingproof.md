@@ -18,7 +18,7 @@ are different variables that we are defining that are equivalent to $\mathrm{I}$
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
 
-$\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_i, \mathrm{I}_I)$
+$\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_I, \mathrm{I}_j)$
 
 where $\mathrm{I}_I$ represents composability of $n$ observers $\mathrm{I}_I, |I| = n$.
 
