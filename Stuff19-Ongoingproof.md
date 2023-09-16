@@ -26,7 +26,7 @@ Assume causality.
 
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$
 
-$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$ and theoretical memory $h$.
+$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 For every effect $y$, there is a cause $x$.
 
@@ -35,6 +35,8 @@ $\exists y \rightarrow \exists x \vert x \rightarrow y$
 $\mathrm{U}$ is the Uniform distribution.
 
 $n \in \mathbb {N}$, $x \neq y$, and $R \neq \mathrm{I}$.
+
+$h$ is a theoretical memory to not assume Markovian dynamics.
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
