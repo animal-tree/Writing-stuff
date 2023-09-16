@@ -72,7 +72,7 @@ $\square$
 
 **Corrillary 2:** Observation suffices to represent the tape of a Turing machine.
 
-**Proof**: It suffices to represent binary integers. $\square$
+**Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$
 
 Since $h$ is a theoretical memory and $\exists \hat{R}$ by Theorem 1, this gives us a Turing-complete machine. $\square$
 
