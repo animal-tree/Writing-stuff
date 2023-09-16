@@ -89,6 +89,8 @@ $\Omega(\sim) = 1$,
 
 where a "sampler" exists, or if the dynamics system is deterministic, a "decider."
 
+Under causality, both of these will also need causes attributed to them.
+
 ---
 
 **Definition 5**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
