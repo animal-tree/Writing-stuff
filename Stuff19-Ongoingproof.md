@@ -40,8 +40,6 @@ $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (I, j)$
 
 where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
-Without loss of generality of Definition 1.
-
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
