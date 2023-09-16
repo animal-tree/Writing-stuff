@@ -45,7 +45,7 @@ $h$ is a theoretical memory and global context window to not assume fully-observ
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
-**Proof**
+**Proof:**
 
 Observation $o$ exists. $\square$
 
