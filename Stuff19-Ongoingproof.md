@@ -30,7 +30,7 @@ $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 For every effect $y$, there is a cause $x$.
 
-$x \rightarrow y$
+$\exists y \rightarrow \exists x \vert x \rightarrow y$
 
 $\mathrm{U}$ is the Uniform distribution.
 
@@ -42,7 +42,7 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
 **Proof**
 
-Observation $o$ exists. $y=o$. $\square$
+Observation $o$ exists. $\square$
 
 ---
 
