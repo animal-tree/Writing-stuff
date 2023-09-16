@@ -16,7 +16,7 @@ Define the subscripts of Qualia as qualia, denoted by $\mathbb{N}$, not necessar
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
 
-$\mathrm{I}_I^n(\mathrm{I}_i) = (i, j)_{j \in I}$
+$\mathrm{I}_I^n(\mathrm{I}_i) = (i, I_0, I_1, ...)$
 
 ---
 
