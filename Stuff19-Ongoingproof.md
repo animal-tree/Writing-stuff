@@ -38,6 +38,8 @@ $n \in \mathbb {N}$, $x \neq y$, and $R \neq \mathrm{I}$.
 
 $h$ is a theoretical memory to not assume Markovian dynamics.
 
+---
+
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
 **Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
@@ -86,5 +88,7 @@ TBA
 1. Define causality as a random variable.
 2. It's either cyclical or "turtles all the way down."
 3. If it's turtles all the way down, then the cause of turtles all the way down is turtles all the way down, making it nevertheless cyclical ("The cause of $\infty$ is $\infty$").
+
+---
 
 **Theorem:** Causality gives us a teleological objective
