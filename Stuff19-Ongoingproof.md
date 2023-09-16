@@ -18,7 +18,7 @@ Each of these exists by definition.
 
 Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j(\mathrm{I}_k)) = (\mathrm{I}_j, \mathrm{I}_k)$.
 
-**Definition 1**: An observer is a function that exists. \mathrm{I}.
+**Definition 1**: An observer is a function that exists. $\mathrm{I}$.
 
 $\mathrm{I} = \mathrm{I_1} = \mathrm{I_2} = \cdots$
 
@@ -34,7 +34,7 @@ $\mathrm{I}_i(\mathrm{I}_j) = j$
 
 $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (I, j)$
 
-where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers I \subseteq \mathbb{N}$.
+where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}$.
 
 Without loss of generality of Definition 1.
 
