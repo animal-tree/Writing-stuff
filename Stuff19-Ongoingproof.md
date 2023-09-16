@@ -46,7 +46,7 @@ where $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim
 
 **Theorem**: Observation and causality give us a Turing-complete machine.
 
-$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) > 0$
+$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
 1. "0": &nbsp; $\mathrm{I_1}((\mathrm{I_2}(\cdot))$
 2. "1": &nbsp; $\mathrm{I_1}(\mathrm{I_2})(\cdot)$
