@@ -6,7 +6,7 @@ $\mathrm{I}_1 = \mathrm{I}_2 = \cdots$.
  
 Each of these exists by definition.
 
-Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j, \mathrm{I}_i(j) = j$.
+Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = (i, j)$.
 
 Define this as Qualia.
 
@@ -16,11 +16,7 @@ Define the subscripts of Qualia as qualia, denoted by $\mathbb{N}$, not necessar
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
 
-$\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j$
-
-$\mathrm{I}_i(j) = j$
-
-note: this deifnition is wrong. composability with subscripts is the point
+$\mathrm{I}_I^n = I$
 
 ---
 
@@ -69,12 +65,12 @@ Observation $o$ exists. $\square$
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
-1. "0": &nbsp; $\mathrm{I_1}((\mathrm{I_2}(\cdot))$
-2. "1": &nbsp; $\mathrm{I_1}(\mathrm{I_2})(\cdot)$
+1. "0": &nbsp; $\mathrm{I_2}(\mathrm{I_1})$
+2. "1": &nbsp; $\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1}))$
 
 The two can be composed together:
 
-3. "10": &nbsp; $\mathrm{I_1}(\mathrm{I_2})(\mathrm{I_1}((\mathrm{I_2}(\cdot)))$
+3. "10": &nbsp; $\mathrm{I_4}(\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1})))$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$  
 
