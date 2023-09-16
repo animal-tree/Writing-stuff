@@ -1,4 +1,12 @@
-"I observe."
+**Theorem 1**:
+
+Observation $o$ exists.
+
+**Proof:**
+
+"I observe." $\square$
+
+---
 
 Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
 
@@ -26,6 +34,8 @@ Without loss of generality of Definition 1.
 
 **Axiom 1** This is the function of observation.
 
+$\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j$
+
 $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_I, \mathrm{I}_j)$
 
 ---
@@ -37,7 +47,7 @@ We will now premise on two possibilities: (1) the existence of causality and (2)
 ### (1) The existence of causality:
 #
 
-**Definition**:
+**Definition 3**:
 
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$
 
@@ -55,9 +65,9 @@ $h$ is a theoretical memory and global context window to not assume fully-observ
 
 ---
 
-**Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation and $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
+**Definition 4**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
-**Theorem 1**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
+**Theorem 2**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
@@ -83,7 +93,7 @@ $\square$
 
 **Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$
 
-**Theorem 2**: Observation and causality give us a Turing-complete machine.
+**Theorem 3**: Observation and causality give us a Turing-complete machine.
 
 Since $h$ is a theoretical memory, this gives us a Turing-complete machine. Let
 
