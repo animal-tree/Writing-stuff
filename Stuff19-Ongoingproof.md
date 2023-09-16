@@ -50,7 +50,7 @@ $\Omega(X) = \mathbb{P}(\exists X)$.
 
 ---
 
-**Theorem 3:** $\exists X \rightarrow $\Omega(X)$ > 0.
+**Theorem 3:** $\exists X \rightarrow \Omega(X) > 0$.
 
 **Proof:**
 
