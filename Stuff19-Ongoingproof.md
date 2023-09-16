@@ -28,7 +28,7 @@ $\mathrm{I}$ is defined as observation. By Theorem 1, $\exists \mathrm{I}$.
 
 By definition 1, $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
 
-By equivalence, $\exists \mathrm{I_i}$. $\square$ 
+By equivalence, $\exists \mathrm{I_{i \in \mathbb{N}}}$. $\square$ 
 
 ---
 
