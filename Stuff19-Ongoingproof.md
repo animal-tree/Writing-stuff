@@ -8,13 +8,21 @@ Each of these exists by definition.
 
 Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j(\mathrm{I}_k)) = (\mathrm{I}_j, \mathrm{I}_k)$.
 
-**Definition 1**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
+**Definition 1**: An observer is a function that exists. $\mathrm{I}$.
+
+$\mathrm{I} = \mathrm{I_1} = \mathrm{I_2} = \cdots$
+
+are different variables that we are defining that are equivalent to $\mathrm{I}$, not separate.
+
+**Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
 
 $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_i, \mathrm{I}_I)$
 
-where $\mathrm{I}_I$ represents composability of $n$ observers $\mathrm{I}_I, |I| = n$. 
+where $\mathrm{I}_I$ represents composability of $n$ observers $\mathrm{I}_I, |I| = n$.
+
+Without loss of generality of Definition 1.
 
 ---
 
