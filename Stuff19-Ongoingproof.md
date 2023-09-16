@@ -61,8 +61,6 @@ Observation $o$ exists. $\square$
 
 **Proof**:
 
-$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
-
 1. $\mathrm{I_2}(\mathrm{I_1})$
 2. $\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1}))$
 3. $\mathrm{I_4}(\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1})))$
@@ -73,7 +71,9 @@ $\square$
 
 **Corrillary 2:** Observation suffices to represent the tape of a Turing machine.
 
-**Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$
+**Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$'
+
+$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
 Since $h$ is a theoretical memory and $\exists \hat{R}$ by Theorem 1, this gives us a Turing-complete machine. $\square$
 
