@@ -12,7 +12,7 @@ This "set", or grouping, may be considered distinct. We will define this interpr
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite.
 
-**Theorem 1:** $\exists \mathrm{I_i} \forall i \in \mathbb{N}$.
+**Theorem 1:** $\exists \mathrm{I_i}, \forall i \in \mathbb{N}$.
 
 **Proof:** "I observe."
 
@@ -22,7 +22,7 @@ Therefore, $\exists \mathrm{I}$.
 
 $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$
 
-By definition of equivalence, $\exists \mathrm{I_i} \forall i \in \mathbb{N}$. $\square$ 
+By definition of equivalence, $\exists \mathrm{I_i}$. $\square$ 
 
 **Axiom 1:** This is the function of observation.
 
