@@ -8,11 +8,17 @@ Each of these exists by definition.
 
 Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j, \mathrm{I}_i(j) = j$.
 
-**Define** this as Qualia.
+Define this as Qualia.
 
 ---
 
-**Define** the subscripts of Qualia as qualia and denote them $\mathbb{N}$.
+**Definition 1**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
+
+where $\mathbb{Q}$ is Qualia.
+
+Define the subscripts of Qualia as qualia, denoted by $\mathbb{N}$, not necessarily the natural numbers.
+
+---
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
 
