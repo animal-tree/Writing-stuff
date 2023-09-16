@@ -10,13 +10,17 @@ Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I
 
 Define this as Qualia.
 
----
+Define the subscripts of Qualia as qualia, denoted by $\mathbb{N}$, not necessarily the natural numbers.
 
 **Definition 1**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
-where $\mathbb{Q}$ is Qualia.
+where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
 
-Define the subscripts of Qualia as qualia, denoted by $\mathbb{N}$, not necessarily the natural numbers.
+$\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j$
+
+$\mathrm{I}_i(j) = j$
+
+note: this deifnition is wrong. composability with subscripts is the point
 
 ---
 
