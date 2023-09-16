@@ -34,6 +34,8 @@ $\exists y \rightarrow \exists x \vert x \rightarrow y$
 
 $\mathrm{U}$ is the Uniform distribution.
 
+$n \in \mathbb {N}$, $x \neq y$, and $R \neq \mathrm{I}$.
+
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
 **Theorem**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
