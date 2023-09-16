@@ -10,7 +10,7 @@ Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equi
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natural numbers.
 
-**Theorem 1:** $\mathrm{I}, \mathrm{I_1}, \mathrm{I_2}, ...$ all exist.
+**Theorem 1:** $\exists \mathrm{I_i} \forall i \in \mathbb{N}$.
 
 **Proof:** "I observe."
 
