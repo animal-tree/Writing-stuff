@@ -24,6 +24,10 @@ where $\mathrm{I}_I^n$ represents composability of $n$ observers $\mathrm{I}_I, 
 
 Without loss of generality of Definition 1.
 
+**Axiom 1** This is the function of observation.
+
+$\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_I, \mathrm{I}_j)$
+
 ---
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
