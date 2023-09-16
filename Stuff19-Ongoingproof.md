@@ -93,8 +93,6 @@ Under causality, both of these will also need causes attributed to them.
 
 ---
 
-**Definition 5**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
-
 **Theorem 4**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
@@ -102,6 +100,10 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 **Proof:**
 
 Observation $o$ exists. $\square$
+
+---
+
+**Definition 5**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
 ---
 
