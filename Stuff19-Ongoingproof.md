@@ -75,7 +75,7 @@ TBA
 
 **Contextualization**
 
-Before the proof, this equation deserves contextualization.
+Before the proof, this equation needs contextualization.
 
 **Proof** (outline)
 
