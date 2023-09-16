@@ -26,9 +26,9 @@ where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous
 
 $\mathrm{I}$ is defined as observation. By Theorem 1, $\exists \mathrm{I}$. 
 
-$\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
+By definition 1, $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
 
-By definition of equivalence, $\exists \mathrm{I_i}$. $\square$ 
+By equivalence, $\exists \mathrm{I_i}$. $\square$ 
 
 ---
 
