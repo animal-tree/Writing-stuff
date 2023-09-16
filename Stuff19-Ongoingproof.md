@@ -80,3 +80,5 @@ Before the proof, this equation deserves contextualization.
 1. Define causality as a random variable.
 2. It's either cyclical or "turtles all the way down."
 3. If it's turtles all the way down, then the cause of turtles all the way down is turtles all the way down, making it nevertheless cyclical ("The cause of $\infty$ is $\infty$").
+
+**Theorem:** Causality gives us a teleological objective
