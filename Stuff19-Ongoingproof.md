@@ -1,34 +1,22 @@
-**Theorem 1**:
-
-Observation $o$ exists.
-
-$\exists o$.
-
-**Proof:**
-
-"I observe." $\square$
-
----
+"I observe."
 
 Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
 
-$\mathrm{I}_1 = \mathrm{I}_2 = \cdots$.
- 
-Each of these exists by definition.
+**Definition 1**: $\mathrm{I} = \mathrm{I_1} = \mathrm{I_2} = \cdots$.
 
-Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j(\mathrm{I}_k)) = (\mathrm{I}_j, \mathrm{I}_k)$.
+**Theorem 1:** $\mathrm{I}, \mathrm{I_1}, \mathrm{I_2} ... all exist.
 
-**Definition 1**: An observer is a function that exists. $\mathrm{I}$.
+**Proof:** "I observe."
 
-$\mathrm{I} = \mathrm{I_1} = \mathrm{I_2} = \cdots$
+Therefore, $\exists \mathrm{I}$. 
 
-are different variables that we are defining that are equivalent to $\mathrm{I}$, not separate.
+By definition of equivalence, \mathrm{I_1}, \mathrm{I_2} ... also exist. $\square$ 
 
 **Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natural numbers.
 
-**Axiom 1** This is the function of observation.
+**Axiom 1:** This is the function of observation.
 
 $\mathrm{I}_i(\mathrm{I}_j) = j$
 
