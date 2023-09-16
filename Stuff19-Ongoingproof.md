@@ -55,8 +55,6 @@ Observation $o$ exists. $\square$
 
 ---
 
-**Theorem 2**: Observation and causality give us a Turing-complete machine.
-
 **Corrillary 1:** Observation suffices to represent the natural numbers, denoted qualia, above, $\mathbb{N}$.
 
 **Proof**:
@@ -72,6 +70,8 @@ $\square$
 **Corrillary 2:** Observation suffices to represent the tape of a Turing machine.
 
 **Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$'
+
+**Theorem 2**: Observation and causality give us a Turing-complete machine.
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
