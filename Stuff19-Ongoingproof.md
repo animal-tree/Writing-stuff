@@ -83,7 +83,7 @@ $\square$
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
-Since $h$ is a theoretical memory and $\exists \hat{R}$ by Theorem 1, this gives us a Turing-complete machine. $\square$
+Since $h$ is a theoretical memory and $\exists \hat{R}$ by Theorem 1, this gives us a Turing-complete machine. To account for probabalistic errors, limit-infinity samples can be sampled up to limit $n' \sim n$, averaged, or taken the mode of. The expectation in the infinitum would be a deterministic Turing machine, otherwise near-deterministic depending on sampled $n'$. $\square$
 
 ---
 
