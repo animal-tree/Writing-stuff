@@ -33,12 +33,8 @@ For every effect $y$, there is a cause $x$.
 Generally speaking,
 
 1. $x \rightarrow y$
-2. $y \leftrightarrow y, x=y$
-3. $x=\text{Randomness}$
 
-The arrow represents the application of recursive dynamics function $\mathrm{R}$ on the LHS $n$ times to obtain, at least in part, the RHS. The double arrow represents either the application of $\mathrm{R}$ $0$ times to obtain itself as definition/identity, or the application of $\mathrm{R}$ $n$ times to obtain itself by implication. The former is not considered a causal derivation. We may say $n \neq 0$ or $n \in \mathbb{N}$.
-
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y=\text{Randomness})$ would have to assume the existence of $\text{Randomness}$ as a variable. This is not provided here as directly deducible from "I observe", and would have to be accepted as an axiom, which we do not do. 
+The arrow represents the application of recursive dynamics function $\mathrm{R}$ on the LHS $n$ times to obtain, at least in part, the RHS. 
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
