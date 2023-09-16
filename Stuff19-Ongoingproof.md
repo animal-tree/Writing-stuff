@@ -6,7 +6,7 @@ $\mathrm{I}_1 = \mathrm{I}_2 = \cdots$.
  
 Each of these exists by definition.
 
-Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j) = (i, j)$.
+Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j(\mathrm{I}_k)) = (\mathrm{I}_j, \mathrm{I}_k)$.
 
 Define this as Qualia.
 
@@ -16,7 +16,9 @@ Define the subscripts of Qualia as qualia, denoted by $\mathbb{N}$, not necessar
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
 
-$\mathrm{I}_I^n(\mathrm{I}_i) = (i, I_0, I_1, ...)$
+$\mathrm{I}_I^n(\mathrm{I}_i) = (\mathrm{I}_i, \mathrm{I}_I)$
+
+where $\mathrm{I}_I$ represents composability of $n$ observers $\mathrm{I}_I, |I| = n$. 
 
 ---
 
