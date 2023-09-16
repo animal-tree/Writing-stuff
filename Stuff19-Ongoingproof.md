@@ -18,8 +18,6 @@ This "set", or grouping, may be considered distinct. We will define this interpr
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite.
 
-Let $o$ be any given observation.
-
 ---
 
 **Theorem 2:** $\exists \mathrm{I_i}, \forall i \in \mathbb{N}$. Each of these variables exists.
@@ -49,6 +47,8 @@ Notice there is no contradiction to the earlier definitions, theorems, and proof
 **Definition 3:**  Let $\Omega$ be the probability distribution of reality.
 
 $\Omega(X) = \mathbb{P}(\exists X)$.
+
+Let $o$ be any given observation.
 
 ---
 
