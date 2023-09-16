@@ -24,7 +24,7 @@ Assume causality.
 
 **Definition**:
 
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \new \mathcal{U}$
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathcal{U}$
 
 $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
