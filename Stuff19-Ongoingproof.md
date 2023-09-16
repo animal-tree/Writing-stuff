@@ -20,7 +20,7 @@ where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
 
 $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_I, \mathrm{I}_j)$
 
-where $\mathrm{I}_I$ represents composability of $n$ observers $\mathrm{I}_I, |I| = n$.
+where $\mathrm{I}_I^n$ represents composability of $n$ observers $\mathrm{I}_I, I = 1, ..., n$.
 
 Without loss of generality of Definition 1.
 
