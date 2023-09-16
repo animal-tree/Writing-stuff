@@ -1,20 +1,26 @@
 "I observe."
 
+---
+
 Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
 
-**Definition 1**: $\mathrm{I} = \mathrm{I_1} = \mathrm{I_2} = \cdots$.
+**Definition 1**: $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
+
+**Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
+
+where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natural numbers.
 
 **Theorem 1:** $\mathrm{I}, \mathrm{I_1}, \mathrm{I_2}, ...$ all exist.
 
 **Proof:** "I observe."
 
+$\mathrm{I}$ is defined as the function of observation.
+
 Therefore, $\exists \mathrm{I}$. 
 
-By definition of equivalence, \mathrm{I_1}, \mathrm{I_2} ... also exist. $\square$ 
+$\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$
 
-**Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
-
-where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natural numbers.
+By definition of equivalence, $\exists \mathrm{I_i} \forall i \in \mathbb{N}$. $\square$ 
 
 **Axiom 1:** This is the function of observation.
 
