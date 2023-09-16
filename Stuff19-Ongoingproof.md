@@ -1,10 +1,16 @@
-"I observe."
+# Observation
+
+**Theorem 1:** Observation exists.
+
+**Proof:** 
+
+"I observe."  $\square$
 
 ---
 
 Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
 
-**Definition 1**: $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
+**Definition 1**: $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$ is observation.
 
 This "set", or grouping, may be considered distinct. We will define this interpretation as Qualia.
 
@@ -12,15 +18,13 @@ This "set", or grouping, may be considered distinct. We will define this interpr
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite.
 
-**Theorem 1:** $\exists \mathrm{I_i}, \forall i \in \mathbb{N}$.
+**Theorem 2:** $\exists \mathrm{I_i}, \forall i \in \mathbb{N}$. Each of these variables exists.
 
-**Proof:** "I observe."
+**Proof:** 
 
-$\mathrm{I}$ is defined as the function of observation.
+$\mathrm{I}$ is defined as observation. By Theorem 1, $\exists \mathrm{I}$. 
 
-Therefore, $\exists \mathrm{I}$. 
-
-$\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$
+$\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
 
 By definition of equivalence, $\exists \mathrm{I_i}$. $\square$ 
 
@@ -34,11 +38,9 @@ where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers 
 
 Without loss of generality of Definition 1.
 
----
+# Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
-
----
 
 ### (1) The existence of causality:
 #
@@ -63,7 +65,7 @@ $h$ is a theoretical memory and global context window to not assume fully-observ
 
 **Definition 4**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
-**Theorem 2**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
+**Theorem 3**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
@@ -89,7 +91,7 @@ $\square$
 
 **Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$
 
-**Theorem 3**: Observation and causality give us a Turing-complete machine.
+**Theorem 4**: Observation and causality give us a Turing-complete machine.
 
 Since $h$ is a theoretical memory, this gives us a Turing-complete machine. Let
 
