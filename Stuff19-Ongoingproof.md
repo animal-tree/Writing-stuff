@@ -30,11 +30,7 @@ $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 For every effect $y$, there is a cause $x$.
 
-Generally speaking,
-
-1. $x \rightarrow y$
-
-The arrow represents the application of recursive dynamics function $\mathrm{R}$ on the LHS $n' \sim n \in \mathbb{N}$ times to obtain, at least in part, the RHS. 
+$x \rightarrow y$
 
 $\mathrm{U}$ is the Uniform distribution.
 
