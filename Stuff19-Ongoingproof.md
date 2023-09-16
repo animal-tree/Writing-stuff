@@ -8,10 +8,6 @@ Each of these exists by definition.
 
 Now apply these observers to each other. $\mathrm{I}_i(\mathrm{I}_j(\mathrm{I}_k)) = (\mathrm{I}_j, \mathrm{I}_k)$.
 
-Define this as Qualia.
-
-Define the subscripts of Qualia as qualia, denoted by $\mathbb{N}$, not necessarily the natural numbers.
-
 **Definition 1**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
@@ -67,12 +63,9 @@ Observation $o$ exists. $\square$
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
-1. "0": &nbsp; $\mathrm{I_2}(\mathrm{I_1})$
-2. "1": &nbsp; $\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1}))$
-
-The two can be composed together:
-
-3. "10": &nbsp; $\mathrm{I_4}(\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1})))$
+1. $\mathrm{I_2}(\mathrm{I_1})$
+2. $\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1}))$
+3. $\mathrm{I_4}(\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1})))$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$  
 
