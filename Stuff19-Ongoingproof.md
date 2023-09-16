@@ -77,7 +77,7 @@ $\square$
 
 **Corrillary 2:** Observation suffices to represent the tape of a Turing machine.
 
-**Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$'
+**Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$
 
 **Theorem 2**: Observation and causality give us a Turing-complete machine.
 
