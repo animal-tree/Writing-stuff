@@ -44,12 +44,26 @@ Notice there is no contradiction to the earlier definitions, theorems, and proof
 
 # Proof of $\Omega$
 
+**Definition 3:**  Let $\Omega$ be the probability distribution of reality.
+
+$\Omega(X) = \mathbb{P}(\exists X)$.
+
+---
+
+**Theorem 3:** $\exists X \rightarrow $\Omega(X)$ > 0.
+
+**Proof:**
+
+Direct implication of Definition 3. $\square$
+
+---
+
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
 
 ### (1) The existence of causality:
 #
 
-**Definition 3**:
+**Definition 4**:
 
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$
 
@@ -65,11 +79,13 @@ $n \in \mathbb {N}$, $x \neq y$, and $R \neq \mathrm{I}$.
 
 $h$ is a theoretical memory and global context window to not assume fully-observed Markovian dynamics.
 
+That means, in the set of reality
+
 ---
 
-**Definition 4**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
+**Definition 5**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
 
-**Theorem 3**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
+**Theorem 4**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
@@ -95,7 +111,7 @@ $\square$
 
 **Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$
 
-**Theorem 4**: Observation and causality give us a Turing-complete machine.
+**Theorem 5**: Observation and causality give us a Turing-complete machine.
 
 Since $h$ is a theoretical memory, this gives us a Turing-complete machine. Let
 
