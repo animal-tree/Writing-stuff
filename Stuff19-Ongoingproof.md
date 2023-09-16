@@ -34,7 +34,7 @@ Generally speaking,
 
 1. $x \rightarrow y$
 
-The arrow represents the application of recursive dynamics function $\mathrm{R}$ on the LHS $n$ times to obtain, at least in part, the RHS. 
+The arrow represents the application of recursive dynamics function $\mathrm{R}$ on the LHS $n' \sim n \in \mathbb{N}$ times to obtain, at least in part, the RHS. 
 
 **Definitions**: $o = \mathrm{I}_{i \in \mathbb{N}}$ is observation, $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model, $n \in \mathbb{N}$, and $h$ is theoretical memory.
 
