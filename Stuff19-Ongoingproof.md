@@ -24,19 +24,17 @@ are different variables that we are defining that are equivalent to $\mathrm{I}$
 
 **Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
-where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia.
-
-$\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_I, \mathrm{I}_j)$
-
-where $\mathrm{I}_I^n$ represents composability of $n$ observers $\mathrm{I}_I, I = 1, ..., n$.
-
-Without loss of generality of Definition 1.
+where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natural numbers.
 
 **Axiom 1** This is the function of observation.
 
 $\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j$
 
 $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_I, \mathrm{I}_j)$
+
+where $\mathrm{I}_I^n$ represents composability of $n$ observers $\mathrm{I}_I, I = 1, ..., n$.
+
+Without loss of generality of Definition 1.
 
 ---
 
