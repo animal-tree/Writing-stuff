@@ -95,13 +95,13 @@ Under causality, both of these will also need causes attributed to them.
 
 ---
 
-**Theorem 4**: Then $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
+**Theorem 4**: $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ s.t.
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
 **Proof:**
 
-Observation $o$ exists. $\square$
+Observation $o$ exists. Under causality, there must be a non-uniform distribution for its cause or dynamics system $\mathrm{\hat{R}}$ is undefined. $\square$
 
 ---
 
