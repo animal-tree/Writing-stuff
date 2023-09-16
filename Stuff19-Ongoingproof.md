@@ -97,3 +97,5 @@ TBA
 ---
 
 **Theorem:** Causality gives us a teleological objective
+
+**Theorem:** Causality implies limitted resources
