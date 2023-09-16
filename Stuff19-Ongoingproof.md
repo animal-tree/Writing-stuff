@@ -85,9 +85,9 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
 Since $h$ is a theoretical memory, this gives us a Turing-complete machine. Let
 
-\mathbf{P}((o, h'^{(n')}) \sim \mathrm{R'}^n(x', h'^{(1)})) = 1
+$\mathbf{P}((o, \hat{h}^{(\hat{n})}) \sim \hat{\mathrm{R}}^\hat{n}(\hat{x}, \hat{h}^{(1)})) = 1$
 
-for some samples $h'^{(1)}) = n' = x' = \mathrm{I}_I^m(\mathrm{I}_1)$. Then $R'$ is our Turing machine.
+for some samples $\hat{h}^{(1)} = \hat{n} = \hat{x} = \mathrm{I}_I^m(\mathrm{I}_1)$. Then $\hat{\mathrm{R}}$ is our Turing machine.
 
 $\square$
 
