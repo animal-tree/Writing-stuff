@@ -40,7 +40,7 @@ $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (I, j)$
 
 where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
-Notice there is no contradiction to the earlier definitions and theorems.
+Notice there is no contradiction to the earlier definitions, theorems, and proof steps.
 
 # Proof of $\Omega$
 
