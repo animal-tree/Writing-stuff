@@ -87,7 +87,7 @@ $\mathbf{P}((o, \hat{h}^{(\hat{n})}) \sim \hat{\mathrm{R}}^\hat{n}(\hat{x}, \hat
 
 for some samples $\hat{h}^{(1)}, \hat{n}, \hat{x}, \in \mathbb{N}$. Then $\hat{\mathrm{R}}$ is our Turing machine.
 
-In fact, \hat{\mathrm{R}} is a non-deterministic Turing machine if we do not constrain the probability to 1.
+In fact, $\hat{\mathrm{R}}$ is a non-deterministic Turing machine if we do not constrain the probability to 1.
 
 $\square$
 
