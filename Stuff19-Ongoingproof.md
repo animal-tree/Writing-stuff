@@ -34,7 +34,7 @@ $\mathrm{I}_i(\mathrm{I}_j) = j$
 
 $\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (I, j)$
 
-where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $\mathrm{I}_I, I \subseteq \mathbb{N}$.
+where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers I \subseteq \mathbb{N}$.
 
 Without loss of generality of Definition 1.
 
