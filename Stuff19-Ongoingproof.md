@@ -28,11 +28,11 @@ where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia, not necessarily the natura
 
 **Axiom 1** This is the function of observation.
 
-$\mathrm{I}_i(\mathrm{I}_j) = \mathrm{I}_j$
+$\mathrm{I}_i(\mathrm{I}_j) = j$
 
-$\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (\mathrm{I}_I, \mathrm{I}_j)$
+$\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (I, j)$
 
-where $\mathrm{I}_I^n$ represents composability of $n$ observers $\mathrm{I}_I, I = 1, ..., n$.
+where $\mathrm{I}_I^n$ represents composability of $n$ observers $\mathrm{I}_I, I \subseteq \mathbb{N}$.
 
 Without loss of generality of Definition 1.
 
