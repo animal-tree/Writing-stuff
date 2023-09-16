@@ -42,7 +42,7 @@ $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
 **Proof**
 
-Observation exists, therefore is must have a cause. $\square$
+Observation $o$ exists. $y=o$. $\square$
 
 ---
 
