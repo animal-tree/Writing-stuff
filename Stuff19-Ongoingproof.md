@@ -49,7 +49,7 @@ We will now premise on two possibilities: (1) the existence of causality and (2)
 ### (1) The existence of causality:
 #
 
-**Definition 4**: Causality.
+**Definition 3**: Causality.
 
 $\exists \mathrm{R}$ s.t. 
 
@@ -77,11 +77,11 @@ Under causality, this and $\hat{\mathrm{R}} \sim \mathrm{R}$ will also need caus
 
 One last interpretation: 
 
-**Definition 5**: $\Omega \sim \mathrm{R}$ is a physics model.
+**Definition 4**: $\Omega \sim \mathrm{R}$ is a physics model.
 
 ---
 
-**Theorem 6**: $\exists \Omega \sim \mathrm{R}$ $\rightarrow$
+**Theorem 3**: $\exists \Omega \sim \mathrm{R}$ $\rightarrow$
 
 $\mathbf{P}((o, h^{(n)}) \sim \Omega^n(x, h^{(1)})) \neq \mathrm{U}$
 
@@ -107,7 +107,7 @@ $\square$
 
 **Proof**: $\mathbb{N}$ suffices to represent binary integers. $\square$
 
-**Theorem 5**: Observation and causality give us a Turing-complete machine.
+**Theorem 4**: Observation and causality give us a Turing-complete machine.
 
 Since $h$ is a theoretical memory, this gives us a Turing-complete machine. Let
 
@@ -121,7 +121,7 @@ $\square$
 
 ---
 
-**Theorem 7:** Causality gives us a cyclical convergence
+**Theorem 5:** Causality gives us a cyclical convergence
 
 $\lim_{t \to +\infty} \Omega_t = \Omega_0$
 
@@ -139,6 +139,6 @@ TBA
 
 ---
 
-**Theorem 8:** Causality gives us a teleological objective
+**Theorem 6:** Causality gives us a teleological objective
 
-**Theorem 9:** Causality implies limited resources
+**Theorem 7:** Causality implies limited resources
