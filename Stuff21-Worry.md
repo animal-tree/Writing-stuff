@@ -62,4 +62,4 @@ It's dialogue. We think it's one speaker, but it's always dialogue.
 
 That apostrophe that I just added to the third sentence really changed the feeling of it. 3''rd from bottom.
 
-Am I crazy?
+Am I crazy? [Now 4th.]
