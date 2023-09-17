@@ -36,9 +36,9 @@ By equivalence, $\exists Q_{i \in \mathbb{N}}$. $\square$
 
 $Q_i(Q_j) = j$
 
-$Q_i(Q_i^n(Q_j)) = (I, j)$
+$Q_i(Q_I^n(Q_j)) = (I, j)$
 
-where $Q_i^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
+where $Q_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
 Notice there is no contradiction to the earlier definitions, theorems, and proof steps.
 
