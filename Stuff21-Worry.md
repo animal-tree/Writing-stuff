@@ -56,6 +56,6 @@ Denote the bars as different archetypes.
 
 Well, different archetype communications. Pretty much every sentence is a different archetype.
 
-I shall be the regulating tyrant! For this disorder is unpermissable. The archetypes have failed to convey my thought. Especially the 4th one. But I'm sure they're all just paraphrasing the same interpretation, pretty much.
+I shall be the regulating tyrant! For this disorder is unpermissable. The archetypes have failed to convey my thought. Especially the 4'th one. But I'm sure they're all just paraphrasing the same interpretation, pretty much.
 
 It's dialogue. We think it's one speaker, but it's always dialogue.
