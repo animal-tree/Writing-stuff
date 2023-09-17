@@ -80,7 +80,7 @@ But perhaps it must be true of all recursive functions whose outputs depend on t
 
 # Proof of $\Omega$
 
-We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
+We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality. I think we've just defined hyperparameters.
 
 ### (1) The existence of causality:
 #
