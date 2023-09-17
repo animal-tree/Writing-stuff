@@ -62,7 +62,7 @@ Axiom 1b excludes the second relation and disambiguates the qualia-identity of t
 
 $o(o) = o(I_i) = i$.
 
-They are not substitutable in the domain of the function that defines their equivalence e.g. an LSTM where the "qualia" is denoted by $\theta$.
+They are not substitutable in the domain of the function that defines their equivalence.
 
 **Philosophy:**
 
@@ -76,7 +76,7 @@ That's not an axiom, Sam. It's a property of all functions.
 
 **Me:** I will leave it as philosophy. And, formally, as Axiom 1b. Just in case.
 
-But perhaps it must be true of all recursive functions whose outputs depend on the qualia of each other.
+But perhaps it must be true of all recursive functions whose outputs depend on the qualia of each other, something not unprecedented e.g. an LSTM definition $f_\theta$ where the "qualia" is denoted by $\theta$, assuming it's updated in real time.
 
 # Proof of $\Omega$
 
