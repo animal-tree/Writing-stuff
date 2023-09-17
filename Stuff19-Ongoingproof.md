@@ -66,7 +66,7 @@ $o(o) = o(I_i) = i$.
 
 **Interpretation:**
 
-One way of interpreting is from the lens of recurrent functions hyperparameterized by real-time changing parameters, such as in an LSTM, a function with memory that is used in deep learning, potnetially deployed in real-time, updating with each recurrence. Define an LSTM $f_\theta$ parameterized by $\theta$. $\theta \subset \mathbb{N}$ may have qualia, but $f_\theta \notin \mathbb{Q}$ is not a Qualia by definition.
+One way of interpreting is from the lens of recurrent functions hyperparameterized by real-time changing parameters, such as in an LSTM, a function with memory that is used in deep learning, potentially deployed for training in real-time, that is, with each step in the recurrence, updating. Define an LSTM $f_\theta$ parameterized by $\theta$. $\theta \subset \mathbb{N}$ may have qualia, but $f_\theta \notin \mathbb{Q}$ is not a Qualia by definition.
 
 Nevertheless, as $\theta$ changes, in each recurrent step, so do the recurrent outputs/behaviors of the LSTM's function. This makes Qualia like a hyperparmeterized recurrent function; except its subscripts are defined as something natural other than the natural numbers.
 
