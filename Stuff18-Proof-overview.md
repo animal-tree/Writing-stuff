@@ -366,4 +366,8 @@ for observer $Q_i \in \mathbb{Q}$ where $\Omega_i$ represents the feeling "goodn
 
 ---
 
-Question: Why doesn't $\mathrm{I}$ just be the counting function? e.g. $\mathrm{I}(\mathrm{I}) = 1, \mathrm{I}(\mathrm{I}(\mathrm{I})) = 2, ...$.
+Question: Why doesn't $\mathrm{I}$ just be the counting function? e.g. 
+
+$\mathrm{I}(\mathrm{I}) = 1, \mathrm{I}(\mathrm{I}(\mathrm{I})) = 2,$ ...?
+
+Maybe "distinguishable trait" comes later into the proof.
