@@ -64,6 +64,8 @@ They are not substitutable in the domain of the function that defines their equi
 
 Notice, with the property of uniqueness, Axioms 1 and 2 allow the definitions and theorems to coexist mathematically without contradiction.
 
+This might imply that they are necessary to math's internal consistency.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
