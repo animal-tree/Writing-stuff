@@ -96,8 +96,8 @@ Observation $o$ exists. Under causality, there must be a non-uniform distributio
 **Proof**:
 
 1. $Q_2(Q_1)$
-2. $\mathrm{I_3}(Q_2(Q_1))$
-3. $\mathrm{I_4}(\mathrm{I_3}(Q_2(Q_1)))$
+2. $Q_3(Q_2(Q_1))$
+3. $Q_4(Q_3(Q_2(Q_1)))$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$  
 
