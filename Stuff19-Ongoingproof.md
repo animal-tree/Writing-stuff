@@ -76,7 +76,7 @@ That's not an axiom, Sam. It's a property of all functions.
 
 **Me:** I will leave it as philosophy. And, formally, as Axiom 1b. Just in case.
 
-But perhaps it must be true of all recursive functions.
+But perhaps it must be true of all recursive functions whose outputs depend on the qualia of each other.
 
 # Proof of $\Omega$
 
