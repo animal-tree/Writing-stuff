@@ -79,6 +79,8 @@ One last interpretation:
 
 **Definition 4**: $\Omega \sim \mathrm{R}$ is a physics model.
 
+In this case, $y$ is the observable universe, the qualia that informs us of its exitence.
+
 ---
 
 **Theorem 3**: $\exists \Omega \sim \mathrm{R}$ $\rightarrow$
