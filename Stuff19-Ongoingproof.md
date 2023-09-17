@@ -137,7 +137,7 @@ This can be expressed geometrically as an arrow of time on a radius-expanding ci
 
 Or algebraically, perhaps as such:
 
-$n = \sin(\frac{\pit}{t+1})$.
+$n = \sin(\frac{\pi t}{t+1})$.
 
 where $t$ is our time dimension.
 
