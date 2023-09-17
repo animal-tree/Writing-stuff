@@ -62,7 +62,7 @@ Axiom 1b excludes the second relation and disambiguates the qualia-identity of t
 
 $o(o) = o(I_i) = i$.
 
-They are not substitutable in the domain of the function that defines their equivalence.
+They are not substitutable in the domain of the function that defines their equivalence e.g. an LSTM where the "qualia" is denoted by $\theta$.
 
 **Philosophy:**
 
