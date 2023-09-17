@@ -110,6 +110,8 @@ I'm sensing a lot of tension.
 
 **Observer 2:** I don't think that's been discovered before.
 
+**Observer 1:** This. "**They are not substitutable in the domain of the function that defines their equivalence.**"
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
