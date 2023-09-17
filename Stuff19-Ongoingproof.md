@@ -129,7 +129,7 @@ $\square$
 
 **Theorem 5:** Causality gives us a cyclical convergence
 
-$\lim_{n \to +\infty} \Omega_n = \Omega_0$
+$\lim_{n \to +\infty} \Omega^{(n)} = \Omega^{(0)}$
 
 TBA
 
