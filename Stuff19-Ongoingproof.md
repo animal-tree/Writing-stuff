@@ -123,6 +123,8 @@ In fact, $\hat{\mathrm{R}}$ is a non-deterministic Turing machine if we do not c
 
 $\square$
 
+**Intuition:** $\hat{\mathrm{R}}$ is a function that makes qualia changeable from moment to moment.
+
 ---
 
 **Theorem 5:** Causality gives us a cyclical convergence
