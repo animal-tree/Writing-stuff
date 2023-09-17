@@ -143,6 +143,8 @@ where $t$ is our time dimension.
 
 Expanding spacetime and curvature in general relativity suggest that, if this is true, $n$ constitutes all dimensons of spacetime, not just the time dimension. Self-creation is a novel theory for why the universe demonstrates this phenomenon.
 
+[Three circles labled x, y, z and the circle-arrow of time labeled t. With a dot on the z: "You are here." x, y, z are converged self-creations.]
+
 **Contextualization**
 
 **Proof** (outline)
