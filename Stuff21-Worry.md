@@ -59,3 +59,7 @@ Well, different archetype communications. Pretty much every sentence is a differ
 I shall be the regulating tyrant! For this disorder is unpermissable. The archetypes have failed to convey my thought. Especially the 4'th one. But I'm sure they're all just paraphrasing the same interpretation, pretty much.
 
 It's dialogue. We think it's one speaker, but it's always dialogue.
+
+That apostrophe that I just added to the third sentence really changed the feeling of it. 3''rd from bottom.
+
+Am I crazy?
