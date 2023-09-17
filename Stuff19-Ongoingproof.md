@@ -68,6 +68,8 @@ This might imply that they are necessary to math's internal consistency.
 
 Any axioms established must not contradict each other. This too requires proof. No axioms have ever been proven to not contradict each other, but such contradictions are found from time to time.
 
+On the other hand, Axiom 1 is impossible without Axiom 2. This reveals that some axioms in math can be both contradictory and not at the same time depending on which other one's they're mixed with.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
