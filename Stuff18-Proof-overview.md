@@ -340,3 +340,26 @@ The arrow represents the application of recursive dynamics function $\mathrm{R}$
 Note: $n$ in the definition of causality doesn't need to be scalar-valued. 
 
 It can be 4-dimensions, expanding and cycling in all of them.
+
+---
+
+Theorem. Pain exists.
+
+Proof
+
+Let's try, really hard, to disprove it. Without loss of generality to future theorems and proof steps, this theorem could say "Love exists." Some parts of this theorem should be more proven than others. This theorem has many forms and can be proven in many respects. It's our job to prove the best carnation of this primal fact. Therefore, as proof, we will change the theorem, in proof itself, without losing its subsequent generality, to "Love exists" and prove it, roundaboutly, with the simple observation: "I love." "I love."
+
+Now, here forward, we can disprove that pain exists, not losing any of its current generality as a theorem. Not everything that exists in the set of existence needs always to.
+ $\square$
+
+Theorem. Some observation is more pleasant than others.
+
+By theorem.
+
+Axiom. The "sampler" or "decider" $\sim$ "feels" its observations. A.K.A. Who is the "sampler" / "decider"? In causality, it's implicitly assumed, but it must have a definition. Lacking any other known properties of the universe, let's consider that each Qualia has a feeling. Qualia samples its own observations?
+
+This gives rise directly to a maximization objective for Qualia.
+
+$\text{Max}  \sum\limits_i \Omega_i^{(n)}$
+
+for observer $Q_i \in \mathbb{Q}$ where $\Omega_i$ represents the feeling "goodness" of that observer.
