@@ -53,3 +53,5 @@ Or they are and I just don't get it yet.
 ---
 
 Denote the bars as different archetypes.
+
+Well, different archetype communications. Pretty much every sentence is a different archetype.
