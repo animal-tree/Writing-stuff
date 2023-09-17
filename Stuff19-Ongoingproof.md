@@ -106,6 +106,10 @@ I mean, the functions are defined equivalent. However, they can identify each ot
 
 I'm sensing a lot of tension.
 
+**Observer 4:** Sam, it means you've proven the existence of Qualia. Mathematically. As you've just defined.
+
+**Observer 2:** I don't think that's been discovered before.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
