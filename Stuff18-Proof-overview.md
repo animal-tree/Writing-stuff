@@ -362,7 +362,7 @@ This gives rise directly to a maximization objective for Qualia.
 
 $\text{Max}  \sum\limits_i \Omega_i^{(n)}$
 
-for observer $Q_i \in \mathbb{Q}$ where $\Omega_i$ represents the feeling "goodness" of that observer in $\Omega^{(n)} \sim \Omega^n(x, h^{(0)})$.
+for observer $Q_i \in \mathbb{Q}$ where $\Omega_i$ represents the feeling "goodness" of that observer $Q_i$ in $\Omega^{(n)} \sim \Omega^n(x, h^{(0)})$.
 
 ---
 
