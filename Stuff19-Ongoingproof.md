@@ -239,7 +239,7 @@ One might argue, couldn't $o = I_i$ on the LHS s.t. $i \neq j$, by definition of
 
 $o(x) = o(I_i) = i \neq j = o(I_j) = o(o)$.
 
-However, not by Axiom 2.
+However, not by Axiom 1b.
 
 Intuitively, only one $o \in \mathbb{Q}$ exists at any one moment as itself. Multiple observers can exist concurrently.
 
