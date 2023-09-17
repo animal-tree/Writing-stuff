@@ -44,11 +44,11 @@ Notice there is no contradiction to the earlier definitions, theorems, and proof
 
 # Proof of $\Omega$
 
-**Definition 3:**  Let $\Omega$ be the probability distribution of reality.
+**Definition 3:**  Let $\Omega$ be the probability distribution of reality. $\exists \Omega$ s.t.
 
-$\Omega(X) = \mathbb{P}(\exists X)$.
+$\Omega(X) = \mathbf{P}(\exists X)$.
 
-Let $o$ be any given observation.
+Let $o$ be any given observation. $\Omega(o) = 1$.
 
 ---
 
