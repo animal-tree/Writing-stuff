@@ -62,7 +62,7 @@ $o(o) = o(I_i) = i$.
 
 They are not substitutable in the domain of the function that defines their equivalence.
 
-Notice there is no contradiction in the earlier definitions, theorems, and proof steps.
+Notice there is no contradiction to the earlier definitions, theorems, and proof steps.
 
 # Proof of $\Omega$
 
