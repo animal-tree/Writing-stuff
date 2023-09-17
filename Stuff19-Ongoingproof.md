@@ -66,6 +66,8 @@ Notice, with the property of uniqueness, Axioms 1 and 2 allow the definitions an
 
 This might imply that they are necessary to math's internal consistency.
 
+Any axioms established must not contradict each other. This too requires proof. No axioms have ever been proven to not contradict each other, but such contradictions are found from time to time.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
