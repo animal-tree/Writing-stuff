@@ -44,11 +44,11 @@ Notice there is no contradiction to the earlier definitions, theorems, and proof
 
 # Proof of $\Omega$
 
-**Definition 3:**  Let $\Omega$ be the probability distribution of reality. $\exists \Omega$ s.t.
+**Definition 3:**  Let $\Omega$ be the probability distribution of reality. 
 
 $\Omega(X) = \mathbf{P}(\exists X)$.
 
-Let $o$ be any given observation. $\Omega(o) = 1$.
+Let $o$ be any given observation. 
 
 ---
 
@@ -57,6 +57,18 @@ Let $o$ be any given observation. $\Omega(o) = 1$.
 **Proof:**
 
 Direct implication of Definition 3. $\square$
+
+---
+
+**Theorem 4:** $\Omega(o) = 1$.
+
+**Proof:**
+
+Direct implication of Theorem 1. $\square$
+
+**Theorem 5:** $\exists \Omega$.
+
+By existence of existence. $\square$
 
 ---
 
@@ -97,7 +109,7 @@ Under causality, both of these will also need causes attributed to them.
 
 ---
 
-**Theorem 4**: $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ $\rightarrow$
+**Theorem 6**: $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ $\rightarrow$
 
 $\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
 
@@ -137,7 +149,7 @@ $\square$
 
 ---
 
-**Theorem:** Causality gives us a cyclical convergence
+**Theorem 7:** Causality gives us a cyclical convergence
 
 $\lim_{t \to +\infty} \Omega_t = \Omega_0$
 
@@ -155,6 +167,6 @@ TBA
 
 ---
 
-**Theorem:** Causality gives us a teleological objective
+**Theorem 8:** Causality gives us a teleological objective
 
 **Theorem:** Causality implies limited resources
