@@ -135,6 +135,8 @@ TBA
 
 This can be expressed geometrically as an arrow of time on a radius-expanding circle:
 
+[Circle-arrow, three arrows point out of it expanding the radius.]
+
 Or algebraically, perhaps as such:
 
 $n = \sin(\frac{\pi t}{t+1})$.
