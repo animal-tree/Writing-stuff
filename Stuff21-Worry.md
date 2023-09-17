@@ -46,4 +46,4 @@ We also have rationality, ever-growing, to help us where those emotions can't: w
 
 Those symbiotic grammars aren't always good.
 
-Or the yare and I just don't get it yet.
+Or they are and I just don't get it yet.
