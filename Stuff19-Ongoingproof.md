@@ -78,6 +78,22 @@ This might imply that they are necessary to math's internal consistency.
 
 Unique and disambiguated, but still one. And literally necessary to the existence of each other.
 
+**Me a second later:** Actually, axioms aren't proven wrong w.r.t. each other. 
+
+**Observer 2:** What do you mean?
+
+**Observer 4:** I think he means they're internal consistency depends on their compatibility with axiomatically defined definitions.
+
+For example, axioms 1a and 1b don't contradict each other. Axiom 1a, without 1b, contradicts definition 1 in the standard sense, since definition 1 assumes equivalence in both the functional identity and domain.
+
+**Observer 2:** Ah.
+
+**Observer 4:** Yes, so what this really shows is that functions have two properties, distinct.
+
+**Me:** Does that mean I've proven something? 
+
+Probably not. But it means that two things seeming to be one, defined as equivalent, may have, rather, subparts defined as equivalent. And what I've defined as equivalent in Definition 1 referred to the function's subpart as a *function* not as an input.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
