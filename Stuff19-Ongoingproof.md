@@ -133,7 +133,7 @@ $\lim_{n \to +\infty} \Omega_n = \Omega_0$
 
 TBA
 
-This can be expressed geometrically as an arrow of time on a radius-expanding circle.
+This can be expressed geometrically as an arrow of time on a radius-expanding circle:
 
 Or algebraically, perhaps as such:
 
