@@ -40,7 +40,7 @@ $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = (I, j)$
 
 where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
-**Axiom 1b:** Disambiguated uniqueness of qualia.
+**1b:** Disambiguated uniqueness of qualia.
 
 $\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
 
