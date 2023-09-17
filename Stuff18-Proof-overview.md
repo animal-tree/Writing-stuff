@@ -363,3 +363,7 @@ This gives rise directly to a maximization objective for Qualia.
 $\text{Max}  \sum\limits_i \Omega_i^{(n)}$
 
 for observer $Q_i \in \mathbb{Q}$ where $\Omega_i$ represents the feeling "goodness" of that observer.
+
+---
+
+Question: Why doesn't $\mathrm{I}$ just be the counting function? e.g. $\mathrm{I}(\mathrm{I}) = 1, \mathrm{I}(\mathrm{I}(\mathrm{I})) = 2, ...$.
