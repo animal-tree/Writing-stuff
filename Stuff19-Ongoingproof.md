@@ -70,9 +70,9 @@ This might imply that they are necessary to math's internal consistency.
 
 **Observer 2:** Any axioms established must not contradict each other. This too requires proof. No axioms have ever been proven to not contradict each other, but such contradictions are found from time to time.
 
-**Observer 1:** On the other hand, Axiom 1 is impossible without Axiom 2. This reveals that some axioms in math can be both contradictory and not at the same time depending on which other ones they're mixed with.
+**Observer 3:** On the other hand, Axiom 1 is impossible without Axiom 2. This reveals that some axioms in math can be both contradictory and not at the same time depending on which other ones they're mixed with.
 
-**Observer 2:** The fact is, all axioms are one in a sound theory. Hence 1a and 1b.
+**Observer 4:** The fact is, all axioms are one in a sound theory. Hence 1a and 1b.
 
 **Me:** Axioms being found contradictory are "proven" wrong, and yes, it happens all the time. Indeed, that is why they are one axiom here. They cannot contradict each other if they're one.
 
