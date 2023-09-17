@@ -78,6 +78,8 @@ That's not an axiom, Sam. It's a property of all functions.
 
 But perhaps it must be true of all recursive functions whose outputs depend on the qualia of each other, something not unprecedented e.g. an LSTM definition $f_\theta$ where the "qualia" is denoted by $\theta$, assuming it's updated in real time. I think we've just defined hyperparameters.
 
+Can "invented" hyperparameters be part of a function's definition? Is Qualia the infinite range of hyperparameters that can be used to denote and define the same variable? What is "definition"? Is he meaning of "definition" proven by qualia?
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality. 
