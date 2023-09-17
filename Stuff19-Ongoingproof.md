@@ -40,6 +40,14 @@ $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = (I, j)$
 
 where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
+**Axiom 2:**
+
+$\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
+
+$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j}))$
+
+**Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely.
+
 By Axiom 1:
 
 $o(o) = j = o(o)$,
@@ -48,15 +56,7 @@ $o(o) = o(I_i) = i \neq j = o(I_j) = o(o)$.
 
 would ambiguate the defined qualia of $o$, as being either $i$ or $j$.
 
-Axiom 2 excludes the second relation and disambiguates the qualia-identity of the observed observers, uniquely:
-
-**Axiom 2:**
-
-$\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
-
-$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j}))$
-
-**Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated.
+Axiom 2 excludes the second relation and disambiguates the qualia-identity of the observed observers, uniquely.
 
 # Proof of $\Omega$
 
