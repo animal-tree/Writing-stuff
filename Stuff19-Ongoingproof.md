@@ -169,4 +169,4 @@ TBA
 
 **Theorem 8:** Causality gives us a teleological objective
 
-**Theorem:** Causality implies limited resources
+**Theorem 9:** Causality implies limited resources
