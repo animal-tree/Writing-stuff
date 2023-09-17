@@ -62,7 +62,7 @@ $o(o) = o(I_i) = i$.
 
 They are not substitutable in the domain of the function that defines their equivalence.
 
-Notice, with the property of uniqueness, there is no contradiction to the earlier definitions, theorems, and proof steps.
+Notice, with the property of uniqueness, Axioms 1 and 2 allow the definitions and theorems to coexist mathematically without contradiction.
 
 # Proof of $\Omega$
 
