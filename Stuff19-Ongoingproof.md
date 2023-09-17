@@ -119,7 +119,7 @@ for some samples $\hat{n} \in \mathbb{N}; \hat{h}^{(1)}, \hat{x} \subseteq \math
 
 In fact, $\hat{\mathrm{R}}$ is a non-deterministic Turing machine if we do not constrain the probability to 1.
 
-$\mathrm{R}$ is a function that makes qualia "rewritable".
+Intuition: $\mathrm{\hat{R}}$ is a function that makes qualia "rewritable".
 
 $\square$
 
