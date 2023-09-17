@@ -100,6 +100,12 @@ By Definition 1, they only need be functionally equivalent.
 
 As per axioms 1a and 1b, independently or together, they are.
 
+What do I mean? If you still care.
+
+I mean, the functions are defined equivalent. However, they can identify each other. That identification, whatever mechanism it is, is still functionally equivalent.
+
+I'm sensing a lot of tension.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
