@@ -32,7 +32,7 @@ By equivalence, $\exists \mathrm{I}_{i \in \mathbb{N}}$. $\square$
 
 ---
 
-**Axiom 1:** This is the function of observation.
+**Axiom 1a:** This is the function of observation.
 
 $\mathrm{I_i}(\mathrm{I_j}) = j$
 
@@ -40,7 +40,7 @@ $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = (I, j)$
 
 where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
-**Axiom 2:** Disambiguated uniqueness of qualia.
+**Axiom 1b:** Disambiguated uniqueness of qualia.
 
 $\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
 
@@ -48,7 +48,7 @@ $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathr
 
 **Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely:
 
-By Axiom 1:
+By Axiom 1a:
 
 $o(o) = j = o(o)$,
 
@@ -56,21 +56,13 @@ $o(o) = o(I_i) = i \neq j = o(I_j) = o(o)$.
 
 would ambiguate the defined qualia of $o$, as being either $i$ or $j$.
 
-Axiom 2 excludes the second relation and disambiguates the qualia-identity of the observed observers, uniquely.
+Axiom 1b excludes the second relation and disambiguates the qualia-identity of the observed observers, uniquely.
 
 $o(o) = o(I_i) = i$.
 
 They are not substitutable in the domain of the function that defines their equivalence.
 
-Notice, with the property of uniqueness, Axioms 1 and 2 allow the definitions and theorems to coexist mathematically without contradiction.
-
-This might imply that they are necessary to math's internal consistency.
-
-Any axioms established must not contradict each other. This too requires proof. No axioms have ever been proven to not contradict each other, but such contradictions are found from time to time.
-
-On the other hand, Axiom 1 is impossible without Axiom 2. This reveals that some axioms in math can be both contradictory and not at the same time depending on which other ones they're mixed with.
-
-The fact is, all axioms are one in a sound theory.
+The fact is, all axioms are one in a sound theory. 1a and 1b.
 
 # Proof of $\Omega$
 
