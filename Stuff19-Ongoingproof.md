@@ -143,6 +143,8 @@ This can be expressed
 
 $n = \text{cos}(\sqrt{t} - 1)$
 
+where $t$ is our dimension of time.
+
 (3) Or in the context of theology and philosophy:
 
 Life and rebirth, resurrection, Samsara. Eternal recurrence. Except unlike those interpretations, it does not posit the requirement that such a convergence must happen at any given present moment; as in, the end can be procrastinated.
