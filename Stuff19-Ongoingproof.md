@@ -113,7 +113,7 @@ Since $h$ is a theoretical memory, this gives us a Turing-complete machine. Let
 
 $\mathbf{P}((o, \hat{h}^{(\hat{n})}) \sim \hat{\mathrm{R}}^\hat{n}(\hat{x}, \hat{h}^{(1)})) = 1$
 
-for some samples $\hat{h}^{(1)}, \hat{n}, \hat{x}, \in \mathbb{N}$. Then $\hat{\mathrm{R}}$ is our Turing machine.
+for some samples $\hat{n} \in \mathbb{N}; \hat{h}^{(1)}, \hat{x} \subseteq \mathbb{N}$. Then $\hat{\mathrm{R}}$ is our Turing machine.
 
 In fact, $\hat{\mathrm{R}}$ is a non-deterministic Turing machine if we do not constrain the probability to 1.
 
