@@ -74,7 +74,7 @@ They are not substitutable in the domain of the function that defines their equi
 
 That's not an axiom, Sam. It's a property of all functions.
 
-**Me:** I will leave it as philosophy. And, formally, 1b.
+**Me:** I will leave it as philosophy. And, formally, as Axiom 1b. Just in case.
 
 # Proof of $\Omega$
 
