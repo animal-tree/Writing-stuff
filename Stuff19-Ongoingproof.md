@@ -180,7 +180,7 @@ Given the fact, under causality,
 
 $P(\Omega^n(x) = o) = 1$,
 
-> For clarity, we have written it like this, but the exact would be $P(\Omega^{(n)} = o) = 1$ given $\Omega^{(n)} \sim \Omega^n(x)$, by the interim probabilistic definition.
+> For clarity, we have written it like this, but the exact would be $P(\Omega^{(n)} = o) = 1$ given $\Omega^{(n)} \sim \Omega^n(x)$, by the interim-probabilistic definition.
 
 where $o$ is observation, we have two possible derivations:
 
