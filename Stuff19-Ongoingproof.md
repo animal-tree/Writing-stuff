@@ -180,6 +180,8 @@ Given the fact, under causality,
 
 $P(\Omega^n(x) = o) = 1$[^1],
 
+> For clarity, we have written it like this, but the exact would be $P(\Omega^{(n)} = o) = 1$ given $\Omega^{(n)} \sim \Omega^n(x)$.
+
 where $o$ is observation, we have two possible derivations:
 
 1. Assume $o$.
@@ -192,5 +194,3 @@ Causality, unlike logic, comes with the constraint that axiomatic causes do not 
 **Theorem 6:** Causality gives us a teleological objective
 
 **Theorem 7:** Causality implies limited resources
-
-[^1]: For clarity, we have written it like this, but the exact would be $P(\Omega^{(n)} = o) = 1$ given $\Omega^{(n)} \sim \Omega^n(x)$.
