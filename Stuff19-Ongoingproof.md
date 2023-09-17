@@ -40,7 +40,25 @@ $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = (I, j)$
 
 where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
-Notice there is no contradiction to the earlier definitions, theorems, and proof steps.
+**Axiom 2:**
+
+$\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
+
+$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j}))$
+
+---
+
+Axiom 1 and 2, independently, can in some circumstances contradict Definition 1.
+
+By Axiom 1:
+
+$o(o) = j = o(o)$,
+
+$o(o) = o(I_i) = i \neq j = o(I_j) = o(o)$.
+
+Axiom 2 excludes the second relation.
+
+**Intuition:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated.
 
 # Proof of $\Omega$
 
@@ -127,36 +145,6 @@ $\square$
 
 ---
 
-**Theorem 5:** Causality gives us a cyclical convergence
-
-$\lim_{n \to +\infty} \Omega^{(n)} = \Omega^{(0)}$
-
-TBA
-
-This can be expressed geometrically as an arrow of time on a radius-expanding circle:
-
-[Circle-arrow, three arrows point out of it expanding the circle.]
-
-Or algebraically, perhaps as such:
-
-$n = \sin(\frac{\pi t}{t+1})$.
-
-where $t$ is our time dimension.
-
-Self-creation is a novel theory for why the universe demonstrates this phenomenon, expanding spacetime and curvature as equivalents to causality.
-
-[Three circles labled $x, y, z$ and the circle-arrow of time labeled $t$. With a dot on the $z$: "You are here." $x, y, z$ are converged self-creations.]
-
-**Contextualization**
-
-**Proof** (outline)
-
-1. Define causality as a random variable.
-2. It's either cyclical or "turtles all the way down."
-3. If it's turtles all the way down, then the cause of turtles all the way down is turtles all the way down, making it nevertheless cyclical ("The cause of $\infty$ is $\infty$").
-
-**Proof**
-
 In logic, there are two justifications for the truth-value of $y$, axiom or implication.
 
 1. Assume $y$
@@ -189,7 +177,63 @@ where $o$ is observation, we have two possible derivations:
 
 Causality, unlike logic, comes with the constraint that axiomatic causes do not count. $n > 0$ and $o(y) \neq o(x)$, given the same Qualia for $o$ and different qualia for $x, y$. Therefore 1 is not an option. We know $o$, but we don't assume it. The difference in axiomatic math is that $o$ is proven, not axiomatized. 
 
+In other words, causally explaining $o$, the present-moment observation, with $o$, is a contradiction to the causal constraint that $o(x) \neq o(y)$.
+
+$o(x) = o(o) = j = o(o) = o(y)$,
+
+for some $j \in \mathbb{N}$.
+
+One might argue, couldn't $o = I_i$ on the LHS s.t. $i \neq j$, by definition of equivalence? The argument goes like this:
+
+$o(x) = o(I_i) = i \neq j = o(I_j) = o(o)$.
+
+However, not by Axiom 2.
+
+Intuitively, only one $o \in \mathbb{Q}$ exists at any one moment as itself. Multiple observers can exist concurrently.
+
+**Theorem 5:**
+
+Observation cannot causally explain itself.
+
+**Proof:**
+
+Assume $x = o$ and $y = o$.
+
+$o(x) = o(o) = j = o(o) = o(y)$,
+
+contradicting $o(x) \neq o(y)$ in causality's definition. $\square$
+
 ---
+
+**Theorem 6:** Causality gives us a cyclical convergence
+
+$\lim_{n \to +\infty} \Omega^{(n)} = \Omega^{(0)}$
+
+TBA
+
+This can be expressed geometrically as an arrow of time on a radius-expanding circle:
+
+[Circle-arrow, three arrows point out of it expanding the circle.]
+
+Or algebraically, perhaps as such:
+
+$n = \sin(\frac{\pi t}{t+1})$.
+
+where $t$ is our time dimension.
+
+Self-creation is a novel theory for why the universe demonstrates this phenomenon, expanding spacetime and curvature as equivalents to causality.
+
+[Three circles labled $x, y, z$ and the circle-arrow of time labeled $t$. With a dot on the $z$: "You are here." $x, y, z$ are converged self-creations.]
+
+**Contextualization**
+
+**Proof** (outline)
+
+1. Define causality as a random variable.
+2. It's either cyclical or "turtles all the way down."
+3. If it's turtles all the way down, then the cause of turtles all the way down is turtles all the way down, making it nevertheless cyclical ("The cause of $\infty$ is $\infty$").
+
+**Proof**
 
 **Theorem 6:** Causality gives us a teleological objective
 
