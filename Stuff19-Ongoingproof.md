@@ -141,7 +141,17 @@ This can be expressed
 
 (2) Or algebraically in closed-form solution 
 
-$n = \text{cos}(\sqrt{t} - 1)$
+Maybe
+
+$n = e^{-t^2}$
+
+or
+
+$\frac{sin(t)}/{(1+t^2)}$
+
+or
+
+$n = t^{-t}$.
 
 where $t$ is our dimension of time.
 
