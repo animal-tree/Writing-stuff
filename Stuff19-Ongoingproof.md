@@ -57,7 +57,7 @@ $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$
 
 $\mathrm{U}$ is the Uniform distribution.
 
-$n \in \mathbb {N}$, and $o(x) \neq o(y)$. $x, y$ themselves are qualia, justified by the observability limits.
+$n \in \mathbb {N}$, and $o(x) \neq o(y)$, given the same Qualia for $o$ and different qualia for $x, y$, $\forall o \in \mathbb{Q}$.
 
 $h$ is a theoretical memory and global context window to not assume fully-observed Markovian dynamics.
 
@@ -154,6 +154,38 @@ Self-creation is a novel theory for why the universe demonstrates this phenomeno
 1. Define causality as a random variable.
 2. It's either cyclical or "turtles all the way down."
 3. If it's turtles all the way down, then the cause of turtles all the way down is turtles all the way down, making it nevertheless cyclical ("The cause of $\infty$ is $\infty$").
+
+**Proof**
+
+In logic, there are two justifications for the truth-value of $y$, axiom or implication.
+
+1. Assume $y$
+2. $x \rightarrow y$
+
+given the existence of $x$.
+
+The simplest implication is "by definition":
+
+$y = x$.
+
+Other implications rely on earlier axioms and theorems that reduce to "by definition" as well. All logic and math follow this process. Sciences rely on evidence, observations, memory, and pre-established beliefs, to form hypotheses and theories from evidence-based axioms.
+
+The implication operation, denoted $\rightarrow$, can be symbolically represented by and representative of the dynamics model described in causality.
+
+$x \rightarrow y : P(\Omega^n(x) = y) = 1$.
+
+for some number of derivation steps $n$.
+
+Given the fact, under causality, 
+
+$P(\Omega^n(x) = o) = 1$,
+
+where $o$ is observation, we have two possible derivations:
+
+1. Assume $o$.
+2. $x \rightarrow o$
+
+Causality, unlike logic, comes with the constraint that axiomatic causes do not count $n > 0$ and $o(y) \neq o(x)$. Given the same Qualia for $o$ and different qualia for $x, y$. Therefore 1 is not an option. We know $o$, but we don't assume it. The difference in axiomatic math is that $o$ is proven, not axiomatized. 
 
 ---
 
