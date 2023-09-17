@@ -185,7 +185,7 @@ where $o$ is observation, we have two possible derivations:
 1. Assume $o$.
 2. $x \rightarrow o$
 
-Causality, unlike logic, comes with the constraint that axiomatic causes do not count $n > 0$ and $o(y) \neq o(x)$. Given the same Qualia for $o$ and different qualia for $x, y$. Therefore 1 is not an option. We know $o$, but we don't assume it. The difference in axiomatic math is that $o$ is proven, not axiomatized. 
+Causality, unlike logic, comes with the constraint that axiomatic causes do not count. $n > 0$ and $o(y) \neq o(x)$, given the same Qualia for $o$ and different qualia for $x, y$. Therefore 1 is not an option. We know $o$, but we don't assume it. The difference in axiomatic math is that $o$ is proven, not axiomatized. 
 
 ---
 
