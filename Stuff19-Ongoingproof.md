@@ -135,30 +135,6 @@ TBA
 
 **Contextualization**
 
-This can be expressed 
-
-(1) Geometrically as the arrow of time on the tip of an expanding-radius circle:
-
-(2) Or algebraically in closed-form solution 
-
-Maybe
-
-$n = e^{-t^2}$
-
-or
-
-$\frac{sin(t)}/{(1+t^2)}$
-
-or
-
-$n = t^{-t}$.
-
-where $t$ is our dimension of time.
-
-(3) Or in the context of theology and philosophy:
-
-Life and rebirth, resurrection, Samsara. Eternal recurrence. Except unlike those interpretations, it does not posit the requirement that such a convergence must happen at any given present moment; as in, the end can be procrastinated.
-
 **Proof** (outline)
 
 1. Define causality as a random variable.
