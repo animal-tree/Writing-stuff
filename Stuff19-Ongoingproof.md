@@ -46,6 +46,8 @@ $\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
 
 $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j}))$
 
+---
+
 $\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
 
 **Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely:
@@ -62,25 +64,17 @@ Axiom 1b excludes the second relation and disambiguates the qualia-identity of t
 
 $o(o) = o(I_i) = i$.
 
-They are not substitutable in the domain of the function that defines their equivalence.
+**Interpretation:**
 
-**Philosophy:**
+One way of interpreting is from the lens of recurrent functions hyperparameterized by real-time changing parameters, such as an LSTM in deep learning deployed in real-time, updating with each recurrence. Define an LSTM $f_\theta$ parameterized by $\theta$. $\theta \subset \mathbb{N}$ may have qualia, but $f_\theta \notin \mathbb{Q}$ is not a Qualia.
 
-**Me:**  I'm sensing a lot of tension.
+Nevertheless, as $\theta$ changes, in each recurrent step, so do the recurrent outputs/behaviors of the LSTM's function. This makes Qualia like a hyperparmeterized recurrent function, except its subscripts are defined as something natural other than the natural numbers.
 
-**Observer 2:** I don't think that's been discovered before.
+Specifically, identifiable traits of equivalency definitions.
 
-**Observer 1:** This. "**They are not substitutable in the domain of the function that defines their equivalence.**"
+In proof, definition is the base case of every deductive step. Axioms are defined. Implications are defined. These equivalencies are distinct but treated equal and therefore deductive steps may be taken.
 
-That's not an axiom, Sam. It's a property of all functions.
-
-**Me:** I will leave it as philosophy. And, formally, as Axiom 1b. Just in case.
-
-But perhaps it must be true of all recursive functions whose outputs depend on the qualia of each other, something not unprecedented e.g. an LSTM definition $f_\theta$ where the "qualia" is denoted by $\theta$, assuming it's updated in real time. I think we've just defined hyperparameters.
-
-Can "invented" hyperparameters be part of a function's definition? Is qualia the infinite range of hyperparameters that can be used to denote and define the same variable? What is "definition"? Is the meaning of "definition" proven by Qualia?
-
-**Observer 2:** An LSTM may have qualia, but it is not Qualia (by definition). $\square$
+That process, underlying the epistemelogical assumption of all deduction, is to regard equivalents as functions whose domains distinguish the equivalents.
 
 # Proof of $\Omega$
 
