@@ -8,110 +8,82 @@
 
 ---
 
-Whatever this function is define it as $\mathrm{I}$. Let's give it infinite equivalents, again by definition:
+Whatever this function is define it as $o$. Let's give it infinite equivalents, again by definition:
 
-**Definition 1**: $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$ is observation.
+**Definition 1**: $o_1 = o_2 = \cdots = o$ is observation.
 
 This "set", or grouping, may be considered distinct. We will define this interpretation as Qualia.
 
-**Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
+**Definition 2**: $\mathbb{Q} = o_\mathbb{N}$.
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite.
 
 ---
 
-**Theorem 2:** $\exists \mathrm{I_i}, \forall i \in \mathbb{N}$. Each of these variables exists.
+**Theorem 2:** $\exists o_i, \forall i \in \mathbb{N}$. Each of these variables exists.
 
 **Proof:** 
 
-$\mathrm{I}$ is defined as observation. By Theorem 1, $\exists \mathrm{I}$. 
+$o$ is defined as observation. By Theorem 1, $\exists o$. 
 
-By definition 1, $\mathrm{I_1} = \mathrm{I_2} = \cdots = \mathrm{I}$.
+By definition 1, $o_1 = o_2 = \cdots = o$.
 
-By equivalence, $\exists \mathrm{I_{i \in \mathbb{N}}}$. $\square$ 
+By equivalence, $\exists \mathrm{o_{i \in \mathbb{N}}}$. $\square$ 
 
 ---
 
 **Axiom 1:** This is the function of observation.
 
-$\mathrm{I}_i(\mathrm{I}_j) = j$
+$o_i(o_j) = j$
 
-$\mathrm{I}_i(\mathrm{I}_I^n(\mathrm{I}_j)) = (I, j)$
+$o_i(o_I^n(o_j)) = (I, j)$
 
-where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
+where $o_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
 Notice there is no contradiction to the earlier definitions, theorems, and proof steps.
 
 # Proof of $\Omega$
-
-**Definition 3:**  Let $\Omega$ be the probability distribution of reality. 
-
-$\Omega(X) = \mathbf{P}(\exists X)$.
-
-Let $o$ be any given observation. 
-
----
-
-**Theorem 3:** $\exists X \rightarrow \Omega(X) > 0$.
-
-**Proof:**
-
-Direct implication of Definition 3. $\square$
-
----
-
-**Theorem 4:** $\Omega(o) = 1$.
-
-**Proof:**
-
-Direct implication of Theorem 1. $\square$
-
-**Theorem 5:** $\exists \Omega$.
-
-By existence of existence. $\square$
-
----
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
 
 ### (1) The existence of causality:
 #
 
-**Definition 4**:
+**Definition 4**: Causality.
 
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$
+$\exists \mathrm{R}$ s.t. 
 
-$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
-
-For every effect $y$, there is a cause $x$.
-
-$\exists y \rightarrow \exists x \vert x \rightarrow y$
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$.
 
 $\mathrm{U}$ is the Uniform distribution.
 
-$n \in \mathbb {N}$, $x \neq y$, and $R \neq \mathrm{I}$.
+$n \in \mathbb {N}$, and $\mathbf{P}(x = y) < 1$.
 
 $h$ is a theoretical memory and global context window to not assume fully-observed Markovian dynamics.
 
+**Interpretations:**
+
+The conditional may be interpreted as saying $\exists y$.
+
+$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
+
 As a consequence,
 
-$\Omega(\mathrm{R}) = 1$.
-
-Furthermore,
-
-$\Omega(\sim) = 1$,
+$\exists \sim$,
 
 where a "sampler" exists, or if the dynamics system is deterministic, a "decider."
 
-Under causality, both of these will also need causes attributed to them.
+Under causality, this and $\hat{\mathrm{R}} \sim \mathrm{R}$ will also need causes attributed to it.
 
-**Definition 5**: $\hat{\mathrm{R}} \sim \mathrm{R}$ is a physics model.
+One last interpretation: 
+
+**Definition 5**: $\Omega \sim \mathrm{R}$ is a physics model.
 
 ---
 
-**Theorem 6**: $\exists \hat{\mathrm{R}} \sim \mathrm{R}$ $\rightarrow$
+**Theorem 6**: $\exists \Omega \sim \mathrm{R}$ $\rightarrow$
 
-$\mathbf{P}((o, h^{(n)}) \sim \mathrm{\hat{R}}^n(x, h^{(1)})) \neq \mathrm{U}$
+$\mathbf{P}((o, h^{(n)}) \sim \Omega^n(x, h^{(1)})) \neq \mathrm{U}$
 
 **Proof:**
 
@@ -123,9 +95,9 @@ Observation $o$ exists. Under causality, there must be a non-uniform distributio
 
 **Proof**:
 
-1. $\mathrm{I_2}(\mathrm{I_1})$
-2. $\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1}))$
-3. $\mathrm{I_4}(\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1})))$
+1. $o_2(o_1)$
+2. $\mathrm{I_3}(o_2(o_1))$
+3. $\mathrm{I_4}(\mathrm{I_3}(o_2(o_1)))$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$  
 
