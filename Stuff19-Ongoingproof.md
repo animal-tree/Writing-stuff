@@ -10,35 +10,35 @@
 
 Whatever this function is define it as $o$. Let's give it infinite equivalents, again by definition:
 
-**Definition 1**: $o_1 = o_2 = \cdots = o$ is observation.
+**Definition 1**: $Q_1 = Q_2 = \cdots = o$ is observation.
 
 This "set", or grouping, may be considered distinct. We will define this interpretation as Qualia.
 
-**Definition 2**: $\mathbb{Q} = o_\mathbb{N}$.
+**Definition 2**: $\mathbb{Q} = Q_\mathbb{N}$.
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite.
 
 ---
 
-**Theorem 2:** $\exists o_i, \forall i \in \mathbb{N}$. Each of these variables exists.
+**Theorem 2:** $\exists Q_i, \forall i \in \mathbb{N}$. Each of these variables exists.
 
 **Proof:** 
 
 $o$ is defined as observation. By Theorem 1, $\exists o$. 
 
-By definition 1, $o_1 = o_2 = \cdots = o$.
+By definition 1, $Q_1 = Q_2 = \cdots = o$.
 
-By equivalence, $\exists \mathrm{o_{i \in \mathbb{N}}}$. $\square$ 
+By equivalence, $\exists Q_{i \in \mathbb{N}}$. $\square$ 
 
 ---
 
 **Axiom 1:** This is the function of observation.
 
-$o_i(o_j) = j$
+$Q_i(Q_j) = j$
 
-$o_i(o_I^n(o_j)) = (I, j)$
+$Q_i(Q_i^n(Q_j)) = (I, j)$
 
-where $o_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
+where $Q_i^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
 Notice there is no contradiction to the earlier definitions, theorems, and proof steps.
 
@@ -95,9 +95,9 @@ Observation $o$ exists. Under causality, there must be a non-uniform distributio
 
 **Proof**:
 
-1. $o_2(o_1)$
-2. $\mathrm{I_3}(o_2(o_1))$
-3. $\mathrm{I_4}(\mathrm{I_3}(o_2(o_1)))$
+1. $Q_2(Q_1)$
+2. $\mathrm{I_3}(Q_2(Q_1))$
+3. $\mathrm{I_4}(\mathrm{I_3}(Q_2(Q_1)))$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$  
 
