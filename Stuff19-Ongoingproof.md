@@ -46,7 +46,7 @@ $\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
 
 $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j}))$
 
-**Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely.
+**Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely:
 
 By Axiom 1:
 
@@ -57,6 +57,12 @@ $o(o) = o(I_i) = i \neq j = o(I_j) = o(o)$.
 would ambiguate the defined qualia of $o$, as being either $i$ or $j$.
 
 Axiom 2 excludes the second relation and disambiguates the qualia-identity of the observed observers, uniquely.
+
+$o(o) = o(I_i) = i$.
+
+They are not substitutable in the domain of the function that defines their equivalence.
+
+Notice there is no contradiction in the earlier axioms, theorems, and proof steps.
 
 # Proof of $\Omega$
 
