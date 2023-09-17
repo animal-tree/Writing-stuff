@@ -64,49 +64,7 @@ They are not substitutable in the domain of the function that defines their equi
 
 **Philosophy:**
 
-**Observer 1:** Notice, with the property of uniqueness, Axioms 1 and 2 allow the definitions and theorems to coexist mathematically without contradiction.
-
-This might imply that they are necessary to math's internal consistency.
-
-**Observer 2:** Any axioms established must not contradict each other. This too requires proof. No axioms have ever been proven to not contradict each other, but such contradictions are found from time to time.
-
-**Observer 3:** On the other hand, Axiom 1 is impossible without Axiom 2. This reveals that some axioms in math can be both contradictory and not at the same time depending on which other ones they're mixed with.
-
-**Observer 4:** The fact is, all axioms are one in a sound theory. Hence 1a and 1b.
-
-**Me:** Axioms being found contradictory are "proven" wrong, and yes, it happens all the time. Indeed, that is why they are one axiom here. They cannot contradict each other if they're one.
-
-Unique and disambiguated, but still one. And literally necessary to the existence of each other.
-
-**Me a second later:** Actually, axioms aren't proven wrong w.r.t. each other. 
-
-**Observer 2:** What do you mean?
-
-**Observer 4:** I think he means they're internal consistency depends on their compatibility with axiomatically defined definitions.
-
-For example, axioms 1a and 1b don't contradict each other. Axiom 1a, without 1b, contradicts definition 1 in the standard sense, since definition 1 assumes equivalence in both the functional identity and domain.
-
-**Observer 2:** Ah.
-
-**Observer 4:** Yes, so what this really shows is that functions have two properties, distinct.
-
-**Me:** Does that mean I've proven something? 
-
-Probably not. But it means that two things seeming to be one, defined as equivalent, may have, rather, subparts defined as equivalent. And what I've defined as equivalent in Definition 1 referred to the function's subpart as a *function* not as an input.
-
-I would argue they can still be defined as equivalent without loss of generality. Here's why: the function *acts* on the input equivalently: it, the function, determines the interpretation and registry of the qualia.
-
-By Definition 1, they only need be functionally equivalent.
-
-As per axioms 1a and 1b, independently or together, they are.
-
-What do I mean? If you still care.
-
-I mean, the functions are defined equivalent. However, they can identify each other. That identification, whatever mechanism it is, is still functionally equivalent.
-
-I'm sensing a lot of tension.
-
-**Observer 4:** Sam, it means you've proven the existence of Qualia. Mathematically. As you've just defined.
+**Me:**  I'm sensing a lot of tension.
 
 **Observer 2:** I don't think that's been discovered before.
 
