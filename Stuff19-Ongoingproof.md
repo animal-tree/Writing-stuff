@@ -94,6 +94,8 @@ For example, axioms 1a and 1b don't contradict each other. Axiom 1a, without 1b,
 
 Probably not. But it means that two things seeming to be one, defined as equivalent, may have, rather, subparts defined as equivalent. And what I've defined as equivalent in Definition 1 referred to the function's subpart as a *function* not as an input.
 
+I would argue they can still be defined asequivalent without loss of generality. Here's why: the function *acts* on the input equivalently: it, the function, determines the interpretation and registry of the qualia.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
