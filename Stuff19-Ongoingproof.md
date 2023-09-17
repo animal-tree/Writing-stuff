@@ -98,6 +98,8 @@ I would argue they can still be defined as equivalent without loss of generality
 
 By Definition 1, they only need be functionally equivalent.
 
+As per axioms 1a and 1b, independently or together, they are.
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality.
