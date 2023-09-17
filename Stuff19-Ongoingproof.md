@@ -80,6 +80,8 @@ But perhaps it must be true of all recursive functions whose outputs depend on t
 
 Can "invented" hyperparameters be part of a function's definition? Is qualia the infinite range of hyperparameters that can be used to denote and define the same variable? What is "definition"? Is the meaning of "definition" proven by Qualia?
 
+**Observer 2:** An LSTM may have qualia, but it is not Qualia (by definition).
+
 # Proof of $\Omega$
 
 We will now premise on two possibilities: (1) the existence of causality and (2) no assumption about the existence of causality. 
