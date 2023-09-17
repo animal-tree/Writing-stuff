@@ -111,17 +111,19 @@ $\square$
 
 **Theorem 4**: Observation and causality give us a Turing-complete machine.
 
+**Proof:**
+
 Since $h$ is a theoretical memory, this gives us a Turing-complete machine. Let
 
 $\mathbf{P}((o, \hat{h}^{(\hat{n})}) \sim \hat{\mathrm{R}}^\hat{n}(\hat{x}, \hat{h}^{(1)})) = 1$
 
-for some samples $\hat{n} \in \mathbb{N}; \hat{h}^{(1)}, \hat{x} \subseteq \mathbb{N}$. Then $\hat{\mathrm{R}}$ is our Turing machine.
+for some samples $\hat{n} \in \mathbb{N}; \hat{h}^{(1)}, \hat{x} \subseteq \mathbb{N}$ via observation e.g. $\mathrm{I_2}(\mathrm{I_1})$. Then $\hat{\mathrm{R}}$ is our Turing machine.
 
 In fact, $\hat{\mathrm{R}}$ is a non-deterministic Turing machine if we do not constrain the probability to 1.
 
-Intuition: $\mathrm{\hat{R}}$ is a function that makes qualia "rewritable".
-
 $\square$
+
+**Intuition:** $\mathrm{\hat{R}}$ is a function that makes qualia "rewritable", but note, $\mathrm{\hat{R}}$ has not been defined. It may itself be observation and qualia.
 
 ---
 
