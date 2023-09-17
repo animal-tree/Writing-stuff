@@ -57,7 +57,7 @@ $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$
 
 $\mathrm{U}$ is the Uniform distribution.
 
-$n \in \mathbb {N}$, and $o(x) \neq o(y)$. $x, y$ themselves are qualia.
+$n \in \mathbb {N}$, and $o(x) \neq o(y)$. $x, y$ themselves are qualia, justified by the observability limits.
 
 $h$ is a theoretical memory and global context window to not assume fully-observed Markovian dynamics.
 
