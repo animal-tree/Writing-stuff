@@ -133,6 +133,16 @@ $\lim_{n \to +\infty} \Omega_n = \Omega_0$
 
 TBA
 
+This can be expressed geometrically as an arrow of time on a radius-expanding circle.
+
+Or algebraically, perhaps as such:
+
+$n = \sin{\pi\frac{t}{t+1}}$.
+
+where $t$ is our time dimension.
+
+Expanding spacetime and curvature in general relativity suggest that, if this is true, $n$ constitutes all dimensons of spacetime, not just the time dimension. Self-creation is a novel theory for why the universe demonstrates this phenomenon.
+
 **Contextualization**
 
 **Proof** (outline)
