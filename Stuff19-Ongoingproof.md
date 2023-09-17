@@ -10,35 +10,35 @@
 
 Whatever this function is define it as $o$. Let's give it infinite equivalents, again by definition:
 
-**Definition 1**: $Q_1 = Q_2 = \cdots = o$ is observation.
+**Definition 1**: $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$ is observation.
 
 This "set", or grouping, may be considered distinct. We will define this interpretation as Qualia.
 
-**Definition 2**: $\mathbb{Q} = Q_\mathbb{N}$.
+**Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
 where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite.
 
 ---
 
-**Theorem 2:** $\exists Q_i, \forall i \in \mathbb{N}$. Each of these variables exists.
+**Theorem 2:** $\exists \mathrm{I_i}, \forall i \in \mathbb{N}$. Each of these variables exists.
 
 **Proof:** 
 
 $o$ is defined as observation. By Theorem 1, $\exists o$. 
 
-By definition 1, $Q_1 = Q_2 = \cdots = o$.
+By definition 1, $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$.
 
-By equivalence, $\exists Q_{i \in \mathbb{N}}$. $\square$ 
+By equivalence, $\exists \mathrm{I}_{i \in \mathbb{N}}$. $\square$ 
 
 ---
 
 **Axiom 1:** This is the function of observation.
 
-$Q_i(Q_j) = j$
+$\mathrm{I_i}(\mathrm{I_j}) = j$
 
-$Q_i(Q_I^n(Q_j)) = (I, j)$
+$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = (I, j)$
 
-where $Q_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
+where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
 Notice there is no contradiction to the earlier definitions, theorems, and proof steps.
 
@@ -57,7 +57,7 @@ $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(1)}) \vert y) \neq \mathrm{U}$
 
 $\mathrm{U}$ is the Uniform distribution.
 
-$n \in \mathbb {N}$, and $o(x) \neq o(y)$, assuming $x, y$ themselves are observations.
+$n \in \mathbb {N}$, and $o(x) \neq o(y)$. $x, y$ themselves are observations.
 
 $h$ is a theoretical memory and global context window to not assume fully-observed Markovian dynamics.
 
@@ -73,7 +73,7 @@ $\exists \sim$,
 
 where a "sampler" exists, or if the dynamics system is deterministic, a "decider."
 
-Under causality, this and $\hat{\mathrm{R}} \sim \mathrm{R}$ will also need causes attributed to it.
+Under causality, this and $\mathrm{R}$ and $\hat{\mathrm{R}} \sim \mathrm{R}$ will also need causes attributed to it.
 
 One last interpretation: 
 
@@ -95,9 +95,9 @@ Observation $o$ exists. Under causality, there must be a non-uniform distributio
 
 **Proof**:
 
-1. $Q_2(Q_1)$
-2. $Q_3(Q_2(Q_1))$
-3. $Q_4(Q_3(Q_2(Q_1)))$
+1. $\mathrm{I_2}(\mathrm{I_1})$
+2. $\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1}))$
+3. $\mathrm{I_4}(\mathrm{I_3}(\mathrm{I_2}(\mathrm{I_1})))$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\vdots$  
 
