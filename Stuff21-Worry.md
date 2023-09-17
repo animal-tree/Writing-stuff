@@ -45,3 +45,5 @@ But the point is we have natural emotional heuristics that CAN, if they are to b
 We also have rationality, ever-growing, to help us where those emotions can't: with each other.
 
 Those symbiotic grammars aren't always good.
+
+Or the yare and I just don't get it yet.
