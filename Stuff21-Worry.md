@@ -46,4 +46,10 @@ We also have rationality, ever-growing, to help us where those emotions can't: w
 
 Those symbiotic grammars aren't always good.
 
+---
+
 Or they are and I just don't get it yet.
+
+---
+
+Denote the bars as different archetypes.
