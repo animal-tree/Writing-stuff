@@ -28,7 +28,7 @@ $\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subset \mathbb{N}$
 
 By implication of equivalence:
 
-$\mathrm{I_1} \leftrightarrow \mathrm{I_2} \leftrightarrow \cdots \rightarrow o$
+$\mathrm{I_1} \leftrightarrow \mathrm{I_2} \leftrightarrow \cdots \leftrightarrow o$
 
 Then
 
