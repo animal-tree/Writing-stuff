@@ -82,7 +82,7 @@ Notice there is no contradiction to this in the definition of equivalence.
 
 In 1a, $K$ is selected by choice mechanism:
 
-Some quala feel better than others:
+Some qualia feel better than others:
 
 $K =  \max\limits_K \mathbf{P}(\mathrm{I}_L \vert \mathrm{I}_K)$,
 
