@@ -16,6 +16,8 @@ $\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \
 
 qualia are the "distinguishing traits".
 
+$\mathbb{N}$ are not strictly the natural numbers and may not be infinite.
+
 ---
 
 **Theorem 2:** Mutual causality.
