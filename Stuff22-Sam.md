@@ -80,11 +80,11 @@ Notice there is no contradiction to this in the definition of equivalence.
 
 **1d:** Choice.
 
-In 1a, $K$ is selected by choice mechanism:
+In 1b, $K$ is selected by choice mechanism:
 
 Some qualia feel better than others:
 
-$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L \vert \mathrm{I}_K)$,
+$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
 
 where $L$ is some objectively good qualia' without loss of generality.
 
