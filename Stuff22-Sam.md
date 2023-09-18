@@ -14,7 +14,7 @@ These are just variables to describe the same constant.
 
 $\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \subseteq \mathbb{N}$ will be referred to as qualia, lowercase.
 
-qualia $\mathbb{N}$ are the "distinguishing traits", not necessarily the natural numbers.
+qualia $\mathbb{N}$ are the "distinguishing traits", not necessarily the natural numbers, represented as such here.
 
 ---
 
