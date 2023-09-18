@@ -425,7 +425,7 @@ This is a neural network at the fabric of the universe.
 
 ---
 
-The actual derivation would be sampling particles from Gaussians and optimizing their branching-probability wave-duality paths, from each local collision as a convolved function, to each non-local trajectory as a probabilistic variational optimization like beam search, but I'm sick and tired of thinking about this.
+**The actual derivation would be sampling particles from Gaussians and optimizing their branching-probability wave-duality paths, from each local collision as a convolved function, to each non-local trajectory as a probabilistic variational optimization like beam search, but I'm sick and tired of thinking about this.**
 
 ---
 
