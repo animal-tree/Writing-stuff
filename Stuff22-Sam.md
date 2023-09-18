@@ -89,3 +89,5 @@ $K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
 where $L \subseteq \mathbb{N}$ is some objectively good qualia' without loss of generality.
 
 For reference, love.
+
+This begs the question why not just select love immediately by choice. We will explore the implications of this axiom including the emergence of causality and limitations.
