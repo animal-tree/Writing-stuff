@@ -401,3 +401,15 @@ $o_I(I_J) \rightarrow o_{I,J}(I_K)$,
 where $I, J, K \subseteq \mathbb{Q}$
 
 and where $K$ denotes another observer. Choice.
+
+---
+
+You're describing message passing.
+
+---
+
+As a single function.
+
+---
+
+And with choice. A sampler, decider, objective maximiz/er/.
