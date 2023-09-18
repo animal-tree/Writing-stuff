@@ -444,7 +444,7 @@ Everything is literalized. All these constructs are literalized. Every interpret
 
 Mysteries
 
-- Entanglement: ~Consciousness [^1]
+- Entanglement: Consciousness [^1]
 - Gravity / dark matter: self-creation / bouncing-happy-smiley-faces
 - Relativity: Yes, from a belief perspective with photon as choice of carrier signal for inter-body communication
 - Wave-particle duality: optimization
