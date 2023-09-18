@@ -371,3 +371,11 @@ Question: Why doesn't $\mathrm{I}$ just be the counting function? e.g.
 $\mathrm{I}(\mathrm{I}) = 1, \mathrm{I}(\mathrm{I}(\mathrm{I})) = 2,$ ...?
 
 Maybe "distinguishable trait" comes later into the proof.
+
+Here's what we propose.
+
+"What's that 'distinguishable trait'?" It's what we choose to observe.
+
+Choice, however, means a space of action to choose in. Can observers just observe anything they want? No, themselves yes, and doing so can even "count." If $\mathrm{I}_i(\mathrm{I}_i) = (i, i)$ are tuples not sets.
+
+But deriving space from choice and observation? Maybe with causality $\rightarrow$ limitted resources.
