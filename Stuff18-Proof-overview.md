@@ -387,3 +387,17 @@ It seems we're just saying "some numbers feel better than others." And
 $\mathrm{I}(\mathrm{I}) = 1, \mathrm{I}(\mathrm{I}(\mathrm{I})) = 2,$ ...
 
 could be used for the same purpose without the extreme roundabout of defining "distinguishably _different_" equivalents, and identifying them as one observation. 
+
+---
+
+Sure, but not for derivation of truth. 
+
+$\mathrm{I}(\mathrm{I}) \rightarrow 1$
+
+would give us a number.
+
+$o_I(I_J) -> o_{I,J}(I_K)$,
+
+where $I, J, K \subseteq \mathbb{Q}$
+
+and where $K$ denotes another observer. Choice.
