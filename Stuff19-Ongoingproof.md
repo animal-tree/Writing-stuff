@@ -16,7 +16,7 @@ This "set", or grouping, may be considered distinct. We will define this interpr
 
 **Definition 2**: $\mathbb{Q} = \mathrm{I}_\mathbb{N}$.
 
-where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite. Subsets and singletons will also be referred to as qualia.
+where $\mathbb{Q}$ is Qualia, $\mathbb{N}$ is qualia. $\mathbb{N}$ are analogous to but not necessarily the natural numbers, and may not be infinite. Subsets will also be referred to as qualia.
 
 ---
 
