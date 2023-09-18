@@ -30,7 +30,7 @@ We will now define and propose the function $o$.
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I,J}(\mathrm{I}_K)$,
 
-where $I, J, K \subseteq \mathbb{N}$
+where $I, J, K \subset \mathbb{N}$
 
 and where $I_K$ denotes another observer, equivalent to the original. $K$ is selected by choice mechanism:
 
