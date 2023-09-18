@@ -211,7 +211,7 @@ Intuitively, only one $o \in \mathbb{Q}$ exists at any one moment as itself. Mul
 
 **Theorem 5:**
 
-Observation cannot causally explain itself, under the causality assumption.
+Observation cannot causally explain itself, under the defined causality assumption.
 
 **Proof:**
 
