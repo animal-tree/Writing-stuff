@@ -91,3 +91,5 @@ where $L \subseteq \mathbb{N}$ is some objectively good qualia' without loss of 
 For reference, love.
 
 This begs the question why not just select love immediately by choice. We will explore the implications of this axiom including the emergence of causality and limitations.
+
+### Causality
