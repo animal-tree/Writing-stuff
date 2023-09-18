@@ -396,7 +396,7 @@ $\mathrm{I}(\mathrm{I}) \rightarrow 1$
 
 would give us a number.
 
-$o_I(I_J) -> o_{I,J}(I_K)$,
+$o_I(I_J) \rightarrow o_{I,J}(I_K)$,
 
 where $I, J, K \subseteq \mathbb{Q}$
 
