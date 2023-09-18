@@ -20,7 +20,7 @@ and
 
 $\mathrm{I_1} \leftarrow \mathrm{I_2} \leftarrow \cdots \leftarrow o$.
 
-$\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any subset $I \subset \mathbb{N}$ will be referred to as qualia, lowercase.
+$\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \subset \mathbb{N}$ will be referred to as qualia, lowercase.
 
 By equivalence, $\exists \mathbb{Q}$.
 
