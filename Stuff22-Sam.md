@@ -30,7 +30,7 @@ We will now define and propose the function $o$.
 
 **1a:** Observation observes itself.
 
-$\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I,J}(\mathrm{I}_K)$,
+$\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I \cup J}(\mathrm{I}_K)$,
 
 where $I, J, K \subset \mathbb{N}$
 
