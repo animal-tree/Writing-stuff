@@ -425,3 +425,11 @@ This is a neural network at the fabric of the universe.
 ---
 
 The actual derivation would be sampling particles from Gaussians and optimizing their branching-probability wave-duality paths, from each local collision as a convolved function, to each non-local trajectory as a probabilistic variational optimization like beam search, but I'm sick and tired of thinking about this.
+
+---
+
+What we’re talking about is someone who’s done all the work, has gotten no opportunity to do what he wants, and has been sick and ill for pretty much the whole time.
+
+---
+
+I also have a classical description for gravity theorized.
