@@ -34,11 +34,11 @@ By equivalence, $\exists \mathrm{I}_{i \in \mathbb{N}}$. $\square$
 
 **Axiom 1a:** This is the function of observation.
 
-$\mathrm{I_i}(\mathrm{I_i}) = \langle i \rangle $
+$\mathrm{I_i}(\mathrm{I_i}) = i$
 
-$\mathrm{I_i}(\mathrm{I_j}) = \langle j \rangle $
+$\mathrm{I_i}(\mathrm{I_j}) = j$
 
-$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \langle I, j \rangle$
+$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = I, j$
 
 are sets where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
@@ -48,11 +48,11 @@ $\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
 
 $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j}))$
 
-**Consequence:** Uniqueness. 
+---
 
 $\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
 
-Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely:
+**Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely:
 
 By Axiom 1a:
 
