@@ -1,30 +1,52 @@
-# Observer: Sam
+### Observation
 
 **Theorem 1:** Observation exists.
 
 **Proof:** "I observe." $\square$
 
-Whatever this function is, call it $o$. By theorem 1, $\exists o$.
+Whatever this function is, call it $o$. By Theorem 1, $\exists o$.
 
-**Definition:** Qualia and qualia. Every variable equivalent.
+**Definition 1:** Qualia and qualia. Every variable equivalent.
 
 $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
 These are just variables to describe the same constant.
 
-By implication, we have:
+$\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \subset \mathbb{N}$ will be referred to as qualia, lowercase.
+
+qualia $\mathbb{N}$ are the "distinguishing traits", not necessarily the natural numbers.
+
+---
+
+**Theorem 2:** Mutual causality.
+
+Every Qualia implies every other Qualia.
+
+$\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subset \mathbb{N}$
+
+**Proof:**
+
+By implication of equivalence:
+
+$\mathrm{I_1} \leftrightarrow \mathrm{I_2} \leftrightarrow \cdots \rightarrow o$
+
+Then
 
 $\mathrm{I_1} \rightarrow \mathrm{I_2} \rightarrow \cdots \rightarrow o$
 
-and
+$\mathrm{I_1} \leftarrow \mathrm{I_2} \leftarrow \cdots \leftarrow o$. $\square$
 
-$\mathrm{I_1} \leftarrow \mathrm{I_2} \leftarrow \cdots \leftarrow o$.
+---
 
-$\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \subset \mathbb{N}$ will be referred to as qualia, lowercase.
+**Theorem 3:** Qualia exists.
 
-By equivalence, $\exists \mathbb{Q}$.
+$\exists \mathbb{Q}$.
 
-We will now define and propose the function $o$.
+**Proof:**
+
+$\exists o$. By equivalence, $\exists \mathbb{Q}$. $\square$
+
+---
 
 **Axiom 1:** 
 
@@ -51,5 +73,3 @@ In other words, Qualia are distinguishable in the domain of observation.
 $K$ is selected by choice mechanism:
 
 something something probably axiom about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
-
-
