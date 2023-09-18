@@ -38,3 +38,7 @@ something something probably axiom about some qualia feeling better than others 
 
 "Disambiguated Qualia uniqueness." would mean what I did [here](Stuff19-Ongoingproof.md)
 
+$\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
+
+$\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \not\rightarrow \mathrm{I}_I(\mathrm{I}_K)$
+
