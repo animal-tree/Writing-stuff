@@ -13,9 +13,9 @@ Dark matter bouncing between two objects creates a pressure gradient in surround
 Mysteries
 
 - Gravity / dark matter: self-creation / bouncing-happy-smiley-faces
-- Relativity: Yes, from a belief perspective with photon as choice of carrier signal for inter-body communication
+- Relativity: Yes, from a belief perspective [with photon as choice of carrier signal for inter-body communication](Stuff10-Observation.md)
 - Wave-particle duality: optimization
-- Rules: limited resources of Qualia/observation constrained to time
+- Rules: [limited resources of Qualia/observation constrained to time](All-science-reduces-to-the-sensory.md)
 
 Also subparts making up people that I call archetypes, literally consciousnesses within consciousnesses. Communicating. Through local symbolic languages, sometimes cryptic. A superconsciousness, collective “governance”, not necessarily a good one, and so on.
 
