@@ -34,13 +34,13 @@ By equivalence, $\exists \mathrm{I}_{i \in \mathbb{N}}$. $\square$
 
 **Axiom 1a:** This is the function of observation.
 
-$\mathrm{I_i}(\mathrm{I_i}) = i$
+$\mathrm{I_i}(\mathrm{I_i}) = \langle i \rangle $
 
-$\mathrm{I_i}(\mathrm{I_j}) = j$
+$\mathrm{I_i}(\mathrm{I_j}) = \langle j \rangle $
 
-$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = (I, j)$
+$\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \langle I, j \rangle$
 
-where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
+are sets where $\mathrm{I}_I^n$ represents composability of $n \in \mathbb{Z}$ observers $I \subseteq \mathbb{N}, |I| = n$.
 
 **1b:** Disambiguated uniqueness of qualia.
 
