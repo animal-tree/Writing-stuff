@@ -433,3 +433,9 @@ What we’re talking about is someone who’s done all the work, has gotten no o
 ---
 
 I also have a classical description for gravity theorized.
+
+...
+
+Dark matter bouncing between two objects creates a pressure gradient in surrounding dark matter. A “bend” in spacetime, literalized. Dark matter interacts with mass to change its velocity only under some conditions. One of those is the pressure gradient created by that back and forth bounce. You can imagine it as a smiley face bouncing back and forth between two unhappy bodies. This only happens in the presence of other masses. It’s a 3-way interaction. At least. One dark matter. Mass A. And Mass B.
+
+Everything is literalized. All these constructs are literalized. Every interpretation is "pretty much” right.
