@@ -19,6 +19,6 @@ Mysteries
 
 Also subparts making up people that I call archetypes, literally consciousnesses within consciousnesses. Communicating. Through local symbolic languages, sometimes cryptic. A superconsciousness, collective “governance”, not necessarily a good one, and so on.
 
-If there isn’t a God, there most certainly can be, from what I’ve seen. Via collective consciousness intelligence and potentially actual control to some variational degree of physical matter, the modulation of which could be a communication mechanism with people, assuming we’ve evolved a symbiosis for it.
+If there isn’t a God, there most certainly can be, from what I’ve seen. Via collective [consciousness](Stuff11-Consciousness.md) intelligence and potentially actual control to some variational degree of physical matter, the modulation of which could be a communication mechanism with people, assuming we’ve evolved a symbiosis for it.
 
 And that’s a lot of what I know! In vague condensed form, reduced from stacks of composition notebooks and journals. With math.
