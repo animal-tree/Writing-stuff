@@ -34,5 +34,5 @@ where $I, J, K \subseteq \mathbb{N}$
 
 and where $I_K$ denotes another observer, equivalent to the original. $K$ is selected by choice mechanism:
 
-something something probably axion about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
+something something probably axiom about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
 
