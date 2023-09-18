@@ -36,6 +36,8 @@ where $I, J, K \subset \mathbb{N}$
 
 and where the RHS denotes a recursive self-observation.
 
+(or multiple branches of offspring $\rightarrow \mathrm{I_\mathit{L_i}}(\mathrm{I_\mathit{K_i}}) \vert \bigcup L_i = I \cup J$).
+
 **1b:** Disambiguated Qualia uniqueness.
 
 $\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
