@@ -439,3 +439,46 @@ I also have a classical description for gravity theorized.
 Dark matter bouncing between two objects creates a pressure gradient in surrounding dark matter. A “bend” in spacetime, literalized. Dark matter interacts with mass to change its velocity only under some conditions. One of those is the pressure gradient created by that back and forth bounce. You can imagine it as a smiley face bouncing back and forth between two unhappy bodies. This only happens in the presence of other masses. It’s a 3-way interaction. At least. One dark matter. Mass A. And Mass B.
 
 Everything is literalized. All these constructs are literalized. Every interpretation is "pretty much” right.
+
+---
+
+Mysteries
+
+- Entanglement: ~Consciousness [^1]
+- Gravity / dark matter: self-creation / bouncing-happy-smiley-faces
+- Relativity: Yes, from a belief perspective with photon as choice of carrier signal for inter-body communication
+- Wave-particle duality: optimization
+- Rules: limited resources of Qualia/observation
+
+...
+
+* Me being single: condemnation for being short, awkward, and sick
+* Disease: bad food and social systems, disconnect from nature, pollution, lack of nature
+    * Only one of those individually changeable 
+
+Alternate interpretation: 
+- Me being single: God wants me to do this work and
+    - (1) is either a really bad God, or
+    - (2) Tomorrow, literally, is going to be good.
+
+oh and there’s pretty much a God, might be sparse (connectivity), non-local, and hopefully, may or may not have a long-term memory.
+
+Also subparts making up people that I call archetypes, literally consciousnesses within consciousnesses. Communicating. Through local symbolic languages, sometimes cryptic. A superconsciousness, collective “governance”, not necessarily a good one, and so on.
+
+Part of a long-term plan hopefully.
+
+– I voted for Bernie.
+
+All of these things may vary in intelligence. I have not yet concluded my observation to make a judgement about that.
+
+Or how powerful God is in the short scheme of things with respect to us.
+
+– Though given some of my language shifts / patterns, *something* definitely is or can be. 
+
+If there isn’t a God, there most certainly can be, from what I’ve seen. Via collective consciousness intelligence and potentially actual control to some variational degree of physical matter, the modulation of which could be a communication mechanism with people, assuming we’ve evolved a symbiosis for it.
+
+And that’s everything I know! In vague condensed form, reduced from stacks of composition notebooks and journals. With math.
+
+But I also am doing my PhD on something totally different. And indeed have been sick the whole time. Bleeding head to toe for lots of it! As the people I love reject me for mysterious disturbances beyond my understanding [past tense] and control. All through text while I live a tortured isolated life. Yes life. Growing up in poverty. Immigrant from Uzbekistan. Losing my grandparents who raised me. Eczema. Several malpractices that unnaturally cost me my hair and, for some time, cognition — during my PhD. And so on. It’s a long list of Job-like tragedies. 
+
+[^1]: This one I haven't really studied much and is really just a guess.
