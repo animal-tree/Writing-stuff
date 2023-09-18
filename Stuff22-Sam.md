@@ -12,9 +12,9 @@ $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
 These are just variables to describe the same constant.
 
-$\mathbb{Q} = \mathrm{I}_I \vert I \subseteq \mathbb{N}$ is Qualia, where any $I \subseteq \mathbb{N}$ will be referred to as qualia, lowercase.
+$\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \subset \mathbb{N}$ will be referred to as qualia, lowercase.
 
-qualia $\mathbb{N}$ are the "distinguishing traits", not necessarily the natural numbers, represented as such here.
+qualia are the "distinguishing traits".
 
 ---
 
@@ -22,7 +22,7 @@ qualia $\mathbb{N}$ are the "distinguishing traits", not necessarily the natural
 
 Every Qualia implies every other Qualia.
 
-$\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subseteq \mathbb{N}$
+$\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subset \mathbb{N}$
 
 **Proof:**
 
@@ -54,7 +54,7 @@ $\exists o$. By equivalence, $\exists \mathbb{Q}$. $\square$
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I \cup J}(\mathrm{I}_K)$,
 
-where $I, J, K \subseteq \mathbb{N}$
+where $I, J, K \subset \mathbb{N}$
 
 and where the RHS denotes a recursive self-observation.
 
