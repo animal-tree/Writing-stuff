@@ -12,7 +12,7 @@ $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
 These are just variables to describe the same constant.
 
-$\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \subset \mathbb{N}$ will be referred to as qualia, lowercase.
+$\mathbb{Q} = \mathrm{I}_I \vert I \subseteq \mathbb{N}$ is Qualia, where any $I \subseteq \mathbb{N}$ will be referred to as qualia, lowercase.
 
 qualia are the "distinguishing traits".
 
@@ -24,7 +24,7 @@ $\mathbb{N}$ are not strictly the natural numbers and may not be infinite.
 
 Every Qualia implies every other Qualia.
 
-$\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subset \mathbb{N}$
+$\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subseteq \mathbb{N}$
 
 **Proof:**
 
@@ -62,11 +62,11 @@ The range is left undefined for the moment.
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I \cup J}(\mathrm{I}_K)$,
 
-where $I, J, K \subset \mathbb{N}$
+where $I, J, K \subseteq \mathbb{N}$
 
 and where the RHS denotes a recursive self-observation.
 
-(or multiple branches of offspring $\rightarrow \mathrm{I_\mathit{L_i}}(\mathrm{I_\mathit{K_i}}) \vert \bigcup L_i = I \cup J, K_i \subset \mathbb{N}$).
+(or multiple branches of offspring $\rightarrow \mathrm{I_\mathit{L_i}}(\mathrm{I_\mathit{K_i}}) \vert \bigcup L_i = I \cup J, K_i \subseteq \mathbb{N}$).
 
 **1c:** Disambiguated Qualia uniqueness.
 
