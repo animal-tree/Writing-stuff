@@ -26,17 +26,23 @@ By equivalence, $\exists \mathbb{Q}$.
 
 We will now define and propose the function $o$.
 
-**Axiom 1:** Disambiguated Qualia uniqueness.
+**Axiom 1:** 
+
+**1a:** Observation observes itself.
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I,J}(\mathrm{I}_K)$,
 
 where $I, J, K \subset \mathbb{N}$
 
-and where $I_K$ denotes a recursive self-observation.
+and where the RHS denotes a recursive self-observation.
+
+**1b:** Disambiguated Qualia uniqueness.
 
 $\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \not\rightarrow \mathrm{I}_I(\mathrm{I}_K)$
+
+**1c:** Choice.
 
 $K$ is selected by choice mechanism:
 
