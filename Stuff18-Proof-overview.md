@@ -410,7 +410,7 @@ and where $K$ denotes another observer. Choice.
 
 **Proof:** "I observe." $\square$
 
-Whatever this function is, call it $o$. By theorem 1, $\exists o$.
+Whatever this function is, call it $o$. By Theorem 1, $\exists o$.
 
 **Definition 1:** Qualia and qualia. Every variable equivalent.
 
