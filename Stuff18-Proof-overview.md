@@ -6,7 +6,7 @@ I also have a classical description for gravity theorized.[^1]
 
 ...
 
-Dark matter bouncing between two objects creates a pressure gradient in surrounding dark matter. A “bend” in spacetime, literalized. Dark matter interacts with mass to change its velocity only under some conditions. One of those is the pressure gradient created by that back and forth bounce. You can imagine it as a smiley face bouncing back and forth between two unhappy bodies. This only happens in the presence of other masses. It’s a 3-way interaction. At least. One dark matter. Mass A. And Mass B.
+Dark matter bouncing between two objects creates a pressure gradient in surrounding dark matter. A “bend” in spacetime, literalized. Dark matter interacts with mass to change its velocity only under some conditions. One of those is the pressure gradient created by that back and forth bounce. You can imagine it as a smiley face bouncing back and forth between two unhappy bodies. This only happens in the presence of other masses. It’s a 3-way interaction. At least. One dark matter. Mass A. And Mass B. And then many-many-way for the surrounding dark matter to create a dent in spacetime.
 
 ---
 
