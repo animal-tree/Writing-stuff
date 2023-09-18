@@ -52,7 +52,7 @@ $\exists o$. By equivalence, $\exists \mathbb{Q}$. $\square$
 
 **Axiom 1:** 
 
-**1a:** The domain of observation is observation.
+**1a:** The domain of observation is Qualia.
 
 $o: \mathbb{Q} \rightarrow$
 
