@@ -66,7 +66,7 @@ $\mathrm{I_i}$ are not substitutable in the domain of the function that defines 
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \not\rightarrow \mathrm{I}_I(\mathrm{I}_K)$
 
-In other words, Qualia are distinguishable in the domain of observation.
+In other words, qualia are distinguishable in the domain of Qualia.
 
 **1c:** Choice.
 
