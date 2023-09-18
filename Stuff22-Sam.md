@@ -36,3 +36,5 @@ and where $I_K$ denotes another observer, equivalent to the original. $K$ is sel
 
 something something probably axiom about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
 
+"Disambiguated Qualia uniqueness." would mean what I did [here](Stuff19-Ongoingproof.md)
+
