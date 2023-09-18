@@ -386,4 +386,4 @@ It seems we're just saying "some numbers feel better than others." And
 
 $\mathrm{I}(\mathrm{I}) = 1, \mathrm{I}(\mathrm{I}(\mathrm{I})) = 2,$ ...
 
-could be used for the same purpose without the extreme roundabout of defining "distinguishably _different_" equivalents, and identifying them as one observation. That is more debatable than just defining observation as a counting function.
+could be used for the same purpose without the extreme roundabout of defining "distinguishably _different_" equivalents, and identifying them as one observation. That is more debatable than just defining observation as a counting function. Deductively I mean.
