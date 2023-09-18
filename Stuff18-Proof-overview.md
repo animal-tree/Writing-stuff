@@ -450,7 +450,7 @@ $\exists \mathbb{Q}$.
 
 **Proof:**
 
-$\exists o$. By equivalence, $\exists \mathbb{Q}$ $\square$
+$\exists o$. By equivalence, $\exists \mathbb{Q}$. $\square$
 
 ---
 
