@@ -379,3 +379,11 @@ Here's what we propose.
 Choice, however, means a space of action to choose in. Can observers just observe anything they want? No, themselves yes, and doing so can even "count." If $\mathrm{I}_i(\mathrm{I}_i) = (i, i)$ are tuples not sets.
 
 But deriving space from choice and observation? Maybe with causality $\rightarrow$ limitted resources.
+
+---
+
+It seems we're just saying "some numbers feel better than others." And 
+
+$\mathrm{I}(\mathrm{I}) = 1, \mathrm{I}(\mathrm{I}(\mathrm{I})) = 2,$ ...
+
+could be used for the same purpose without the extreme roundabout of defining "distinguishably _different_" equivalents, and identifying them as one observation. That is more debatable than just defining observation as a counting function.
