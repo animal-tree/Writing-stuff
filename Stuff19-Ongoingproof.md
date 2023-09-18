@@ -34,8 +34,6 @@ By equivalence, $\exists \mathrm{I}_{i \in \mathbb{N}}$. $\square$
 
 **Axiom 1a:** This is the function of observation.
 
-$\mathrm{I_i}(\mathrm{I_i}) = i$
-
 $\mathrm{I_i}(\mathrm{I_j}) = j$
 
 $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = I, j$
