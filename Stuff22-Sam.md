@@ -84,7 +84,7 @@ In 1a, $K$ is selected by choice mechanism:
 
 Some quala feel better than others:
 
-$\mathbf{P}(\mathrm{I}_L \vert \mathrm{I}_K)$,
+$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L \vert \mathrm{I}_K)$,
 
 where $L$ is some objectively good qualia' without loss of generality.
 
