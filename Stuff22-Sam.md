@@ -32,13 +32,14 @@ $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I,J}(\math
 
 where $I, J, K \subset \mathbb{N}$
 
-and where $I_K$ denotes another observer, equivalent to the original. $K$ is selected by choice mechanism:
-
-something something probably axiom about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
-
-"Disambiguated Qualia uniqueness." would mean what I did [here](Stuff19-Ongoingproof.md)
+and where $I_K$ denotes a recursive self-observation.
 
 $\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \not\rightarrow \mathrm{I}_I(\mathrm{I}_K)$
+
+$K$ is selected by choice mechanism:
+
+something something probably axiom about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
+
 
