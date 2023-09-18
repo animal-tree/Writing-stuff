@@ -48,11 +48,11 @@ $\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_i}(\mathrm{I_j})$
 
 $\mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j})) = \mathrm{I_i}(\mathrm{I}_I^n(\mathrm{I_j}))$
 
----
+**Consequence:** Uniqueness. 
 
 $\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
 
-**Uniqueness:** Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely:
+Each observer, at any one observation, can only observe one set of defined qualia, disambiguated, uniquely:
 
 By Axiom 1a:
 
