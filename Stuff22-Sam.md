@@ -82,4 +82,10 @@ Notice there is no contradiction to this in the definition of equivalence.
 
 In 1a, $K$ is selected by choice mechanism:
 
-something something probably axiom about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
+Some quala feel better than others:
+
+$\mathbf{P}(\mathrm{I}_L \vert \mathrm{I}_K)$,
+
+where $L$ is some objectively good qualia' without loss of generality.
+
+For reference, love.
