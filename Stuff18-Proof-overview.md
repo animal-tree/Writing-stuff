@@ -413,3 +413,7 @@ As a single function.
 ---
 
 And with choice. A sampler, decider, objective maximiz/er/.
+
+---
+
+The sampling can be probabilistic. 
