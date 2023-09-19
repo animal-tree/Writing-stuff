@@ -31,3 +31,33 @@ So what limits qualia?
 $\mathbb{N}$ is finite and is bound to return to its causal state.
 
 Does this spell doom and gloom? No, because Qualia, while dependent on qualia, is not finite...
+
+Let us be more precise.
+
+---
+
+**Axiom 2:** Some qualia feel better than others.
+
+We have an objective:
+
+$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
+
+where $L \subseteq \mathbb{N}$ is some objectively good feeling.
+
+For reference, Love.
+
+This begs the question why not just select Love immediately by choice. Giving rise to
+
+**Axiom 3:** $\mathbb{N}$ is finite.
+
+**Theorem 2:** Qualia is constrained.
+
+**Proof:**
+
+By Definition 2, the Qualia implication graph must cycle. Therefore it can never "pause" in one state of being except its original state. Furthermore, it cannot ever get trapped into a sub-cycle.
+
+Since there is a finite set of qualia by Axiom 3, Qualia must always create new qualia into infinity or die, indeed something it can do by the existing definitions and axioms. Its original state, is death, existence but without qualia. Hence a "pause" there would mean permanent death. $\square$
+
+This causes it to, unambiguously, be constrained, giving rise to a yet-undetermined laws of physics and an optimization problem.
+
+---
