@@ -590,7 +590,9 @@ Unless the identity graph were fully-connected. But, under the mathematical ambi
 
 ---
 
-**Definition 2:**
+**Definition 2:** Disambiguated Qualia uniqueness.
+
+$\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
 
 $\mathrm{I_i}(\mathrm{I_j}) \not\rightarrow_1 \mathrm{I_i}$.
 
@@ -611,4 +613,8 @@ qualia are the "distinguishing traits".
 $\mathbb{N}$ are not strictly the natural numbers and may not be infinite.
 
 ---
+
+In other words, qualia are distinguishable in the domain of observers in Qualia.
+
+Notice there is no contradiction to this in the definition of equivalence or Qualia/qualia or the function of $\mathrm{I}$.
 
