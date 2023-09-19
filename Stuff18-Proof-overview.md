@@ -592,5 +592,5 @@ $\mathrm{I_i}(\mathrm{I_j}) \not\rightarrow_1 \mathrm{I_i}$.
 
 $\mathrm{I_i}(\mathrm{I_j})$ does *not* imply $\mathrm{I_i}$ in one deductive step,
 
-where \rightarrow_n denotes the number of deductive steps $n \in \mathbb{N}$. We have now obtained the natural numbers mind you!
+where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}$. We have now obtained the natural numbers mind you!
 
