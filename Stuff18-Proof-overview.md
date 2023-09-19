@@ -540,7 +540,7 @@ We may need some more axioms along the way, but for now, let's see how far we ca
 
 **Definition 1:** Observation. 
 
-Let *o = I* be observation. Every variable equivalent:
+Let *o = \mathrm{I}* be observation. Every variable equivalent:
 
 $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
