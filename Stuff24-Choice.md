@@ -23,3 +23,9 @@ There is also a second assumption:
 **Axiom 2:** Some qualia feel better than others.
 
 This is a theory about the fundamental nature of reality. $\mathbb{N}$ is the natural number set, but a very different one than the natural numbers.
+
+So what limits qualia?
+
+**Axiom 3:** $\mathbb{N}$ is finite.
+
+$\mathbb{N}$ is finite and is bound to return to its causal state.
