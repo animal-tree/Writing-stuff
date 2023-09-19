@@ -13,3 +13,7 @@ Consciousness is collisions in everything. You are conscious because somehow tho
 There are many more questions to ask, not just the ones hinted at (collective consciousness? intelligence in the fabric of spacetime?)
 
 For example, less interesting but to stay on theme (consciousness as a physical feeling in everything), what does your computer feel as its algorithmic binary zips and zaps of electrons change through its web of metallic logic gates? Most likely, nothing the rest of the universe doesn't sort of feel. It's not human(-like) consciousness.
+
+But, at some grander level, maybe it is?
+
+Neither is your arm or leg.
