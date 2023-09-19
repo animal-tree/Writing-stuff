@@ -818,4 +818,12 @@ However, if the movie or show has nudity, during those 3 months, avoid it.
 
 I also weened onto these thing consecutively. First, quitting things, then once that stabilized, diet.
 
-Note: I did all this and more for years.
+Note: I did all this and more for years. in order to recover from:
+
+(1) hair loss
+
+and
+
+(2) brain damage.
+
+Neither of which I may have fully recovered from. But both induced by medical malpractice by qualified professional doctors, and notably also (in tandem not excluding), insurance.
