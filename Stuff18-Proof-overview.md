@@ -618,3 +618,7 @@ In other words, qualia are distinguishable in the domain of observers in Qualia.
 
 Notice there is no contradiction to this in the definition of equivalence or Qualia/qualia or the function of $o = \mathrm{I}$.
 
+**Theorem 1:** Furthermore, $\exists \mathbb{Q}$.
+
+**Proof:** $\exists o$. By definition of equivalence, $\exists \mathbb{Q}$. $\square$
+
