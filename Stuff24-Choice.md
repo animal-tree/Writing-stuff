@@ -18,7 +18,7 @@ What we're talking about is a universe with an undefined principle of choice. On
 
 However, $\mathrm{I}'s$ choice patterns have to depend on something. And at the conclusion of the cyclicality trajectory, whatever that something is (spoiler: qualia) returns to its base original state. And therefore any accumulated knowledge or trajectory optimization strategies gets lost. 
 
-There is also a second asumption:
+There is also a second assumption:
 
 **Axiom 2:** Some qualia feel better than others.
 
