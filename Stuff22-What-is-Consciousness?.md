@@ -39,3 +39,7 @@ You might be wondering, how could collisions create consciousness if everything 
 Wouldn't we all then be one consciousness? One stream of consciousness as this paragraph is producing now? Maybe, but consciousness has subparts. Sentences. Grammars. Individual words. Phonemes, punctuation, etc.
 
 Consciousness comes from this; it entangles in increasingly complex ways that are distinguishable locally, and perhaps converge to something higher non-locally.
+
+---
+
+Would a musical composition be a better analogy? In fact all things would be. Art is the reflection of consciousness.
