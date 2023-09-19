@@ -8,7 +8,7 @@ Obviously love.
 
 This choice in the graph should not be determined.
 
-We can have (a) many branching implications creating many redundant "defined" implications, all leading back to the same cyclicality, (b) non-deterministic branches (dualities), (c) non-deterministics straight-paths (just choice), or (d) deterministic straight-paths (no choice, $a \rightarrow b$, $J \rightarrow K$, chronological order, no fuss.
+We can have (a) many branching implications creating many redundant "defined" implications, all leading back to the same cyclicality, (b) non-deterministic branches (dualities), (c) non-deterministic straight-paths (just choice), or (d) deterministic straight-paths (no choice, $a \rightarrow b$, $J \rightarrow K$, chronological order, no fuss.
 
 (b) is the most conducive to optimization.
 
