@@ -504,6 +504,14 @@ This begs the question why not just select love immediately by choice. We will e
 
 ---
 
+...
+
+---
+
+&nbsp;
+
+## Observation and Qualia
+
 How can nothing bring rise to something, mathematically? We think we have solved the confounding "cosmogenesis" riddle with the use of 3-way mathematical implications in the definition of definition. Correct us if we're wrong.
 
 First, let us define a symbol for our "nothing". $\emptyset$. Very good, now:
@@ -640,7 +648,7 @@ Qualia, interestingly, is proof that something can emerge from almost-nothing.
 
 Curvature, as we shall see, becomes a necessary property to such an existence.
 
----
+## Choice
 
 $\mathrm{I}_I(\mathrm{I}_J) \rightarrow \mathrm{I_J} \rightarrow \mathrm{I_K} \rightarrow \mathrm{I}_I(\mathrm{I}_K)$ says something far more profound than Qualia. Choice.
 
@@ -652,7 +660,7 @@ Obviously love.
 
 This choice in the graph should not be determined.
 
-We can have (a) many branching implications creating many redundant "defined" implications, all leading back to the same cyclicality, (b) non-deterministic branches (dualities), (c) non-deterministics straight-paths (just choice), or (d) deterministic straight-paths (no choice, $a \rightarrow b$, $J \rightarrow K$, chronological order, no fuss.
+We can have (a) many branching implications creating many redundant "defined" implications, all leading back to the same cyclicality, (b) non-deterministic branches (dualities), (c) non-deterministic straight-paths (just choice), or (d) deterministic straight-paths (no choice, $a \rightarrow b$, $J \rightarrow K$, chronological order, no fuss.
 
 (b) is the most conducive to optimization.
 
