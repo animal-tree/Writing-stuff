@@ -812,7 +812,7 @@ Cold water baths only. That’s a conflating factor that might’ve combined wit
 
 So if you can find 100 to do all of that, I think after 3 months you’d get non-negative well-being results. 
 
-I also skipped on movies, shows, and at one point, even music! I don’t recommend that. I don’t think it helped. Nature walks helped but they were isolated and isolating. 
+I also skipped on movies, shows, and at one point, even music! I don’t recommend that. I don’t think it helped. Nature walks helped but they were isolated and isolating.[^1]
 
 However, if the movie or show has nudity, during those 3 months, avoid it. 
 
@@ -841,3 +841,5 @@ Hmm... qualia denote the "hyperparameters" of the observer function. They also s
 Perhaps $L$ is beauty / complexity more generally. Creating images of the origin, that can be paused in.
 
 Indeed this is part and parcel with the cycliclity clause; $\mathbf{P}(\mathrm{I}_\mathbb{N} \vert \mathrm{I}_I)$, assuming $\mathbb{N}$ can denote the origin state qualia. Whatever that "feeling" is — perhaps love — is what is trying to be recreated, and, nevertheless, needs to be, for the existence of the cyclicality clause. This is a theorem. What $\mathbb{N}$ or the origin state represents is a mystery.
+
+[^1]: Walking with a nurse twice your elder is isolating, not isolated.
