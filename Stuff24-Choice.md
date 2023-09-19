@@ -61,3 +61,5 @@ Since there is a finite set of qualia by Axiom 3, Qualia must always create new 
 This causes it to, unambiguously, be constrained, giving rise to a yet-undetermined laws of physics and an optimization problem.
 
 ---
+
+We thus have an expanding universe.
