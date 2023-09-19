@@ -508,7 +508,11 @@ How can nothing bring rise to something, mathematically? We think we have solved
 
 First, let us define a symbol for our "nothing". $\emptyset$. Very good, now:
 
+---
+
 **Axiom 1:** $\exists \emptyset, \mathrm{I}$.
+
+---
 
 The empty set, "nothing" and the Identity function, exist. This may or may not be debatable, whether it should be an axiom or a theorem, since by definition:
 
@@ -586,6 +590,8 @@ $\mathrm{I_i}(\mathrm{I_j}) \rightarrow \mathrm{I_j} \rightarrow \mathrm{I_i}$.
 
 Unless the identity graph were fully-connected. But, under the mathematical ambiguity, let us define equivalence here:
 
+---
+
 **Definition:**
 
 $\mathrm{I_i}(\mathrm{I_j}) \not\rightarrow_1 \mathrm{I_i}$.
@@ -593,4 +599,6 @@ $\mathrm{I_i}(\mathrm{I_j}) \not\rightarrow_1 \mathrm{I_i}$.
 $\mathrm{I_i}(\mathrm{I_j})$ does *not* imply $\mathrm{I_i}$ in one deductive step,
 
 where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}$. We have now obtained the natural numbers mind you!
+
+---
 
