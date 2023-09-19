@@ -6,3 +6,12 @@ What if we make the wrong choice about what to "observe"? Should $J$ transition 
 
 Obviously love.
 
+This choice in the graph should not be determined.
+
+We can have (a) many branching implications creating many redundant "defined" implications, all leading back to the same cyclicality, (b) non-deterministic branches (dualities), (c) non-deterministics straight-paths (just choice), or (d) deterministic straight-paths (no choice, $a \rightarrow b$, $J \rightarrow K$, chronological order, no fuss.
+
+(b) is the most conducive to optimization.
+
+Let's explore that in more depth.
+
+What we're talking about is a universe with an undefined principle of choice. One of those, displays a wave-particle duality pattern of branching choices.
