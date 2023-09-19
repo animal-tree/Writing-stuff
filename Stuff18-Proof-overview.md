@@ -558,7 +558,7 @@ suggesting a simple equivalence with no secret-catch. Let's however unfold this:
 
 $\mathrm{I_i}(\mathrm{I_j}) \leftrightarrow \mathrm{I_j} \leftrightarrow \mathrm{I_k} \leftrightarrow \mathrm{I_i}(\mathrm{I_k})$
 
-From here, through the use of cycles, we will see how "something" can arise from nothing. In fact, this is at the basis of all math. Every deduction is premised on *defined* axioms and implications. The theorems derived from them all reduce to "by definition" and yet many branching paths and interpretations, useful ones to the real world, emerge from exploring nothing more, mathematically speaking, than definition. "What is deifnition", philosophically speaking. Perhaps it is something that arises from the real world, the existence of many within equivalence.
+From here, through the use of cycles, we will see how "something" can arise from nothing. In fact, this is at the basis of all math. Every deduction is premised on *defined* axioms and implications. The theorems derived from them all reduce to "by definition" and yet many branching paths and interpretations, useful ones to the real world, emerge from exploring nothing more, mathematically speaking, than definition. "What is definition?", philosophically speaking. Perhaps it is something that arises from the real world, the existence of many within equivalence.
 
 One way to satisfy the earlier defined equivalence is:
 
