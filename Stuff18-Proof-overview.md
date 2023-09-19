@@ -538,15 +538,13 @@ We may need some more axioms along the way, but for now, let's see how far we ca
 
 ---
 
-**Definition 1:** Qualia and qualia.
+**Definition 1:** Observation. 
 
-$\mathbb{Q} = \mathrm{I}_I \vert I \subseteq \mathbb{N}$ is Qualia, where any $I \subseteq \mathbb{N}$ will be referred to as qualia, lowercase.
+Let *o = I* be observation. Every variable equivalent:
+
+$\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
 These are just variables to describe the same constant.
-
-qualia are the "distinguishing traits".
-
-$\mathbb{N}$ are not strictly the natural numbers and may not be infinite.
 
 ---
 
@@ -599,6 +597,18 @@ $\mathrm{I_i}(\mathrm{I_j}) \not\rightarrow_1 \mathrm{I_i}$.
 $\mathrm{I_i}(\mathrm{I_j})$ does *not* imply $\mathrm{I_i}$ in one deductive step,
 
 where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}$. We have now obtained the natural numbers mind you!
+
+---
+
+**Definition 2:** Qualia and qualia.
+
+$\mathbb{Q} = \mathrm{I}_I \vert I \subseteq \mathbb{N}$ is Qualia, where any $I \subseteq \mathbb{N}$ will be referred to as qualia, lowercase.
+
+These are just variables to describe the same constant.
+
+qualia are the "distinguishing traits".
+
+$\mathbb{N}$ are not strictly the natural numbers and may not be infinite.
 
 ---
 
