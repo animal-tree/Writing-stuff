@@ -31,3 +31,11 @@ Here's a thought experiment.
 What if you drew in a flipbook every precise detail of a human-brain. A *biig* flipbook. Paper and regular pen. Then you flipped its pages. From time $t$ to time $t + 1$. Would that hand-drawing on paper be conscious? Could you, produce human-consciousness by drawing on a paper with pen?
 
 By my interpretation, that flipbook would be as conscious as a flipbook with pen ink on it, not as a human.
+
+---
+
+You might be wondering, how could collisions create consciousness if everything collides? Literally everything in observable space is connected, through atoms, space, etc.
+
+Wouldn't we all then be one consciousness? One stream of consciousness as this paragraph is producing now? Maybe, but consciousness has subparts. Sentences. Grammars. Individual words. Phonemes, punctuation, etc.
+
+Consciousness comes from this; it entangles in increasingly complex ways that are distinguishable locally, and perhaps converge to something higher non-locally.
