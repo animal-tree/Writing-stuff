@@ -52,6 +52,6 @@ A musical symphony is a single piece with many distinguishable arrangements and 
 
 A "mixture of experts" model in deep learning is an ensemble of smaller subparts aggregated into one bigger one, no less independent as they are whole.
 
-And that brings us to the brain, a composition of neurons all firing independently yet — quite self-provingly —  creating a single consciousness.
+And that brings us to the brain, a composition of neurons all firing independently yet — quite provably —  creating a single consciousness.
 
-Is the universe a brain, as limited physically and constrined to its mechanics as ours? Are we just neurons in that brain? Yes, I think so.
+Is the universe a brain, as limited physically and constrained to its mechanics as ours? Are we just neurons in that brain? Yes, I think so.
