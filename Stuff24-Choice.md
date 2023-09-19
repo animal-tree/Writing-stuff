@@ -15,3 +15,11 @@ We can have (a) many branching implications creating many redundant "defined" im
 Let's explore that in more depth.
 
 What we're talking about is a universe with an undefined principle of choice. One of those, displays a wave-particle duality pattern of branching choices.
+
+However, $\mathrm{I}$'s$ choice patterns have to depend on something. And at the conclusion of the cyclicality trajectory, whatever that something is (spoiler: qualia) returns to its base original state. And therefore any accumulated knowledge or trajectory optimization strategies gets lost. 
+
+There is also a second asumption:
+
+**Axiom 2:** Some qualia feel better than others.
+
+This is a theory about the fundamental nature of reality. $\mathrm{N}$ is the natural number set, but a very different one than the natural numbers.
