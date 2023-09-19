@@ -70,4 +70,4 @@ Before language and its nasty ways. Note I didn't intend to make the "wholly" pu
 
 ---
 
-It’s interesting that this amasses in the way it does. Like dark matter. The center of the universe, universe, gravity, blanketing the whole of space and time, in which the fermions “bend”. Proof time.
+It’s interesting that this amasses in the way it does. Like dark matter. The center of the universe, universe, gravity, blanketing the whole of space and time, in which the fermions “bend”. Proof time. [I wrote this as stream of consciousness. It is however sleep time.]
