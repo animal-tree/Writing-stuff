@@ -20,7 +20,7 @@ Or rather, they would eat you. Do you still love them? Sure, but you make sure n
 
 &#9432; I speak from the center of the pain that boils humanity into war and disease.
 
-Internally, not internationally, but I'm sure it would extend. Spiritual inner relationships are what make our outer ones.
+Internally, not internationally, but I'm sure it would extend. Spiritual inner relationships are what make our outer ones.[^4]
 
 >Sex
 
@@ -31,3 +31,4 @@ That, and food bombs. On every enemy country.[^3] [^1] [^2]
 [^1]: "Oh no a footnote he must have a really high rick-and-morty IQ"
 [^2]: We also need teachers. Most of us, who think we know what sex is, don't. Those teachers haven't learned the spiritual "disciplines" or whatever the word is to understand what they're teaching, or teach it. A condom on a banana or open legs with pumping is like teaching a cow how to milk by pouring a carton on her head.
 [^3]: Dropping food on warzones and their affiliated countries. years, unsolicited free food
+[^4]: Actually, on a more academic note. It's vice versa.
