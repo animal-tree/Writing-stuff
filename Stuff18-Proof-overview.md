@@ -635,3 +635,5 @@ By Axiom 1 (using the empty set), $\exists \mathbb{Q}$. $\square$
 ---
 
 "Does a set "exist"?" That's another question we can ask. Mathematically, it is a convenient organizing tool for describing many subparts at once. Each of the subparts exists by equivalence to $I$, therefore $\exists \mathbb{Q}$, by which we mean: the subparts exist.
+
+Qualia, interestingly, is proof that something can emerge from almost-nothing.
