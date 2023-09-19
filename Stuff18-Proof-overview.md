@@ -544,9 +544,9 @@ Let $o = \mathrm{I}$ be observation. Every variable equivalent:
 
 $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
-These are just variables to describe the same constant.
-
 Furthermore, $o = \mathrm{I}_I, \forall I \subseteq \mathbb{N}$.
+
+These are just variables to describe the same constant.
 
 ---
 
