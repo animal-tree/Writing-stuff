@@ -16,11 +16,13 @@ Unfortunately, under the conditions that you put most humans, they probably woul
 
 Or rather, they would eat you. Do you still love them? Sure, but you make sure not to starve them or repress them or systemically abuse them. We are the only repressed animal in the animal kingdom. We are the most intelligent, and have somehow put ourselves at the bottom of the only metric that counts. 
 
-I speak from the center of the pain that boils humanity into war and disease.
+---
 
-This is a prescription for war and disease, if you need any more motivation. [Edit: internally, not internationally, but I'm sure it would extend spiritually in ways that can't be perceived right now]
+&#9432; I speak from the center of the pain that boils humanity into war and disease.
 
-That, and food bombs. On every enemy country.[^3] [^1] [^2] [^4]
+Internally, not internationally, but I'm sure it would extend. Spiritual inner relationships are what make our outer ones.
+
+That, and food bombs. On every enemy country.[^3] [^1] [^2]
 
 [^1]: "Oh no a footnote he must have a really high rick-and-morty IQ"
 [^2]: We also need teachers. Most of us, who think we know what sex is, don't. Those teachers haven't learned the spiritual "disciplines" or whatever the word is to understand what they're teaching, or teach it. A condom on a banana or open legs with pumping is like teaching a cow how to milk by pouring a carton on her head.
