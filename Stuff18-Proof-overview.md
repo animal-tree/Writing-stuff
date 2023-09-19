@@ -803,3 +803,17 @@ Generally speaking, all food should be free. That's step 1. Just donate 50% of S
 Big disclaimer: Some of this is hyperbole and my actual instructions would be much longer and better-recommended. But you get the gist of it. Strict diet and no porn. I'd also add meditation.
 
 Only volunteers, obviously. No coercion. Sample size 100, increase from there if the results are profound. Also, key metrics like blood analyses will radically deviate from expected. new metrics and null hypotheses will have to be determined. The key evaluatum is reported wellbeing, cognition, mental energy, and physical energy. That includes mood and social satisfication, relationship satisfaction, etc.
+
+-
+
+Other key considerations (these are excluded since I think they correlated negatively with my health):
+
+Cold water baths only. That’s a conflating factor that might’ve combined with the others in my experiments that led to my hair regrowth and other things. 
+
+So if you can find 100 to do all of that, I think after 3 months you’d get non-negative well-being results. 
+
+I also skipped on movies, shows, and at one point, even music! I don’t recommend that. I don’t think it helped. Nature walks helped but they were isolated and isolating. 
+
+However, if the movie or show has nudity, during those 3 months, avoid it. 
+
+I also weened onto these thing consecutively. First, quitting things, then once that stabilized, diet.
