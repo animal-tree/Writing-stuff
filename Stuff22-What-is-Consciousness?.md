@@ -55,3 +55,7 @@ A "mixture of experts" model in deep learning is an ensemble of smaller subparts
 And that brings us to the brain, a composition of neurons all firing independently yet — quite provably —  creating a single consciousness.
 
 Is the universe a brain, as limited physically and constrained to its mechanics as ours? Are we just neurons in that brain? Yes, I think so.
+
+---
+
+However, we are also its arms, legs, and eyes. And ourselves, as we are, wholly.
