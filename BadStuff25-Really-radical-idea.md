@@ -12,7 +12,7 @@ Animals intuitively sense this. We intuitively sense this with animals. When dog
 
 "But our pets don't ____ us."
 
-Unfortunately, under the conditions that you put most humans, they probably would.
+Unfortunately, under the conditions that you put most humans, they probably would "____" you and so much more. What even is an underscore-underscore-underscore-underscore?
 
 Or rather, they would eat you. Do you still love them? Sure, but you make sure not to starve them or repress them or systemically abuse them. We are the only repressed animal in the animal kingdom. We are the most intelligent, and have somehow put ourselves at the bottom of the only metric that counts. 
 
