@@ -22,6 +22,8 @@ Or rather, they would eat you. Do you still love them? Sure, but you make sure n
 
 Internally, not internationally, but I'm sure it would extend. Spiritual inner relationships are what make our outer ones.
 
+>Sex
+
 That, and food bombs. On every enemy country.[^3] [^1] [^2]
 
 [^1]: "Oh no a footnote he must have a really high rick-and-morty IQ"
