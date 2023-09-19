@@ -616,5 +616,5 @@ $\mathbb{N}$ are not strictly the natural numbers and may not be infinite.
 
 In other words, qualia are distinguishable in the domain of observers in Qualia.
 
-Notice there is no contradiction to this in the definition of equivalence or Qualia/qualia or the function of $\mathrm{I}$.
+Notice there is no contradiction to this in the definition of equivalence or Qualia/qualia or the function of $o = \mathrm{I}$.
 
