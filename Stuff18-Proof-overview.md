@@ -827,3 +827,17 @@ and
 (2) brain damage.
 
 Neither of which I may have fully recovered from. But both induced by medical malpractice by qualified professional doctors, and notably also (in tandem not excluding), insurance.
+
+---
+
+Now there is the question, how to optimize the Qualia / qualia. (This is also an emergency question for doctors and hospital staff.) 
+
+---
+
+## Optimization (Learning)
+
+Hmm... qualia denote the "hyperparameters" of the observer function. They also serve as a kind of memory. They could store position (or rather, "distance from origin" / love) and velocity... and with no way of knowing which way is which. No...
+
+Perhaps $L$ is beauty / complexity more generally. Creating images of the origin, that can be paused in.
+
+Indeed this is part and parcel with the cycliclity clause; $\mathbf{P}(\mathrm{I}_\mathbb{N} \vert \mathrm{I}_I)$, assuming $\mathbb{N}$ can denote the origin state qualia. Whatever that "feeling" is — perhaps love — is what is trying to be recreated, and, nevertheless, needs to be, for the existence of the cyclicality clause. This is a theorem. What $\mathbb{N}$ or the origin state represents is a mystery.
