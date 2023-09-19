@@ -769,3 +769,7 @@ Furthermore, for the mechanism of wave-particle duality, see beam search, nucleu
 ## Language:
 
 Notice how all of us have been cryptically aware of this the whole time.
+
+## Anyway
+
+That's not to get started on dark matter = gravity. A classical description for that would be quite embaressing so I like to depict it with a happy smiley-face bouncing between two unhappy massive bodies.
