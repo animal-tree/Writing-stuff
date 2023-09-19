@@ -773,3 +773,33 @@ Notice how all of us have been cryptically aware of this the whole time.
 ## Anyway
 
 That's not to get started on dark matter = gravity. A classical description for that would be quite embaressing so I like to depict it with a happy smiley-face bouncing between two unhappy massive bodies.
+
+---
+
+## Backtrack:
+
+Let’s flesh all that out. Oh wait, I’ve had eczema my entire life. Disease exists. Maybe ask me how to help with that?
+
+I would say diet and nature mostly. But then there’s the problem of our/the entire social system. 
+
+Which brings me to the archetypes. 
+
+Our symbolic collective consciousness has developed an allergy to itself and it manifests as disease. That’s why allergies and… cancer… and other diseases have been on the rise. Yes, it’s all metabolic, environmental, and social. That third one is especially misunderstood and neglected. Because the collective consciousness, that we have, is misunderstood and, probably, neglected. 
+
+---
+
+Theory:
+
+If we took a sample size of 100 people and gave them organic grass-fed and grass-finished steak4 times a day and wild-caught salmon, maybe tea and of course water, every day for 3 months (1) and the quit watching porn and masturbating, and perhaps having sex, I wouldn't know, for that entire short-duration of 3 months, they would all see amazing health benefits. 
+
+The quantity of the two meals can vary, but crucially, only those two. No sauces, you maybe afford other seasonings, pepper and arbitrary amounts of salt (sea salt). The first month would be gruelling and they would be expected to have all sorts of terrible side effects. For that reason, it's essential that they are supported, financially and otherwise.
+
+Social connection is key to prevent them from going into psychosis.
+
+By month 3, they'll be a-okay. 1 month is willpower-mode. After month 3, I think it should be upt to them, but at they point they've formed a physical dependence/relationship with the food. So thereafter all of their dietary and financial needs must be paid for. They've given their bodies for this fucking experiment.
+
+Generally speaking, all food should be free. That's step 1. Just donate 50% of Snickers to an organic pasture. 
+
+Big disclaimer: Some of this is hyperbole and my actual instructions would be much longer and better-recommended. But you get the gist of it. Strict diet and no porn. I'd also add meditation.
+
+Only volunteers, obviously. No coercion. Sample size 100, increase from there if the results are profound. Also, key metrics like blood analyses will radically deviate from expected. new metrics and null hypotheses will have to be determined. The key evaluatum is reported wellbeing, cognition, mental energy, and physical energy. That includes mood and social satisfication, relationship satisfaction, etc.
