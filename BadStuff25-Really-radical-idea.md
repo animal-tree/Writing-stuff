@@ -24,6 +24,8 @@ Internally, not internationally, but I'm sure it would extend. Spiritual inner r
 
 >Sex
 
+Get grinding
+
 That, and food bombs. On every enemy country.[^3] [^1] [^2]
 
 [^1]: "Oh no a footnote he must have a really high rick-and-morty IQ"
