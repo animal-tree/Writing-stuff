@@ -6,7 +6,7 @@ We need more
 
 Our fantasies show us the distance between ourselves and nature. If you need movies, or porn, that distance is truer than the lie that says you are condemned to hide this part of yourself from expression. The same goes with blocked. We are one neural network. It can only function when the nodes are not hemorrhaged. 
 
-What is meant by "real-life porn"? Thank you for asking. In my opinion, it's not what we see in porn. In my opinion it's the scarier things that we are not brave enough to express about ourselves with others, everything we repress in ourselves and others. Connection, intimacy, love. And touch. Touch is the only language we need. Beaches with bonfires where everyone is allowed with sex and love-making as normal and encouraged. Educational in-nature love-making between peers, as commonplace and public and not shunned as going swimming.
+What is meant by "real-life porn"? Thank you for asking. In my opinion, it's not what we see in porn. In my opinion it's the scarier things that we are not brave enough to express about ourselves with others, everything we repress in ourselves and others. Connection, intimacy, love. And touch. Touch is the only language we need. Beaches with bonfires where everyone is allowed with sex and love-making as normal and encouraged. Educational in-nature love-making between peers, as commonplace and public and not shunned as going swimming.[^5]
 
 Animals intuitively sense this. We intuitively sense this with animals. When dogs run up to us to lick us, or a cat rubs her head against our ankle, we understand the gesture and interpret it, through a common language. Our common language for those gestures between human and human would separate us, categorically, from the rest of nature. We have that perspective with animal, but not with each other. How many of you would say "I love animals more than people." Most of us. 
 
@@ -33,3 +33,4 @@ That, and food bombs. On every enemy country.[^3] [^1] [^2]
 [^3]: Dropping food on warzones and their affiliated countries. years, unsolicited free food
 [^4]: Actually, on a more academic note. It's vice versa.
   This deserves its own thesis.
+[^5]: Orgies but sacred and ritualized
