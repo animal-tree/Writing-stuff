@@ -10,7 +10,7 @@ What is meant by "real-life porn"? Thank you for asking. In my opinion, it's not
 
 Animals intuitively sense this. We intuitively sense this with animals. When dogs run up to us to lick us, or a cat rubs her head against our ankle, we understand the gesture and interpret it, through a common language. Our common language for those gestures between human and human would separate us, categorically, from the rest of nature. We have that perspective with animal, but not with each other. How many of you would say "I love animals more than people." Most of us. 
 
-"But our pets don't rape us."
+"But our pets don't ____ us."
 
 Unfortunately, under the conditions that you put most humans, they probably would.
 
