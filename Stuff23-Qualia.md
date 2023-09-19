@@ -1,4 +1,4 @@
-How can nothing bring rise to something, mathematically? We think we have solved the confounding "cosmogenesis" riddle with the use of 3-way mathematical implications in the definition of definition. Correct us if we're wrong.
+How can nothing bring rise to something, mathematically? We think we have solved the confounding "cosmogenesis" riddle with the use of >3-way mathematical implications in the definition of definition. Correct us if we're wrong.
 
 First, let us define a symbol for our "nothing". $\emptyset$. Very good, now:
 
