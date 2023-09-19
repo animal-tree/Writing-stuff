@@ -22,4 +22,4 @@ There is also a second assumption:
 
 **Axiom 2:** Some qualia feel better than others.
 
-This is a theory about the fundamental nature of reality. $\mathrm{N}$ is the natural number set, but a very different one than the natural numbers.
+This is a theory about the fundamental nature of reality. $\mathbb{N}$ is the natural number set, but a very different one than the natural numbers.
