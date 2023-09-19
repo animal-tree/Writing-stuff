@@ -46,7 +46,7 @@ Would a musical composition be a better analogy? In fact all things would be. Ar
 
 ---
 
-"All the world's a stage" hints at the existence of characetrs within an ensemble of some greater production; we are actors in the role of God. 
+"All the world's a stage" hints at the existence of characters within an ensemble of some greater production; we are actors in the role of God. 
 
 A musical symphony is single piece with many distinguishable arangements and parts, performers and instruments.
 
