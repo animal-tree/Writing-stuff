@@ -735,3 +735,33 @@ No.
 Big no.
 
 $o = \mathrm{I} = \mathrm{I}_I, \forall I \subseteq \mathbb{N}$. We're all in this together. $\square \square$
+
+## Translations
+
+If every observer observed every other observer, we would have a cyclical convergence. 
+
+Thus each observer needs a finite window. Hence we get rise to space. But why locality? Why not have each observer observe randomly or in some strange sparsely-connected zig-zag pattern? 
+
+Because, in all likelihood, that would not be as optimizable. 
+
+Translation equivariance  means a learned pattern can be repeated across space. Each observer can — and by definition must — behave identically, with respect to their relative qualia, which, as we shall see, becomes spatial position, velocity, etc. Due to finite resources, any non-permanent sub-cycle determining the behavior of the particle must be attributable resources which we can regard as… “computation power” or capacity. The “will” of God is limited. This is the reason for, though expanding, conservation laws. 
+
+Photons, gluons and so on compose those non-permanent sub-cycles. 
+
+The question is how do they stick together and demonstrate behaviors like gravity, electromagnetism, and so forth?
+
+Well, hate to break it to you but the mechanism is much simpler and unified. Gravity is dark matter, entanglement is consciousness, the mother of all beings, and classical descriptions of both quantum and relative behaviors are possible. Under, specifically, a belief perspective. However, in the absolute sense, they are illusions created by reference frame shifts and some poorly understood mathematical axioms. 
+
+For example,
+
+## Experiments:
+
+The confusing behavior of quantum erasure and the double slit experiment can be explained by the dual interaction of (1) measurement bias, and (2) wave-particle duality indeed existing, for the defined purpose, in the cyclical graph traversal, of optimizing the universe’s qualia. 
+
+Each measurement creates an entangled particle whose quantum state “truncates.” This happens because of limited resources. 
+
+As each particle collides, it’s wave-branching truncates to a more defined/observed reality. 
+
+Truncation is key to efficient optimization: see “sparse attention”. 
+
+Furthermore, for the mechanism of wave-particle duality, see beam search, nucleus sampling, etc. other truncation strategies. 
