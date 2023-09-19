@@ -59,3 +59,7 @@ Is the universe a brain, as limited physically and constrained to its mechanics 
 ---
 
 However, we are also its arms, legs, and eyes. And ourselves, as we are, wholly.
+
+---
+
+What is consciousness then? It's the alpha and Omega! The alpha particle at the smallest scale of the universe. And the $\Omega$ at the whole of it that makes up matter, from which all of it "fragmented", before any fermament, before any production of stars.
