@@ -43,3 +43,15 @@ Consciousness comes from this; it entangles in increasingly complex ways that ar
 ---
 
 Would a musical composition be a better analogy? In fact all things would be. Art is the reflection of consciousness.
+
+---
+
+"All the world's a stage" hints at the existence of characetrs within an ensemble of some greater production; we are actors in the role of God. 
+
+A musical symphony is single piece with many distinguishable arangements and parts, performers and instruments.
+
+A "mixture of experts" model in deep learning isan ensemble of smaller subparts aggregated into one bigger one,no less independent as they are whole.
+
+And that brings us to the brain: A composition of neurons all firing independently yet — quite provably —  creating a single consciousness.
+
+Is the universe a brain, as limited physically and constrined to its mechanics as ours? Are we just neurons in that brain? Yes, I think so.
