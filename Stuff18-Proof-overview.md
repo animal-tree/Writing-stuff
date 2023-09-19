@@ -626,7 +626,7 @@ Notice there is no contradiction to this in the definition of equivalence or Qua
 
 **Proof:** By Axiom 1 and Definition 1, $\exists o$. 
 
-$o = \mathrm{I}_I, \forall I \subseteq \mathbb{N}$.
+$o = \mathrm{I}_I, \forall I \subseteq \mathbb{N}$,
 
 By definition of equivalence, $\exists \mathbb{Q}$. $\square$
 
