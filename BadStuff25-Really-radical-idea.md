@@ -32,3 +32,4 @@ That, and food bombs. On every enemy country.[^3] [^1] [^2]
 [^2]: We also need teachers. Most of us, who think we know what sex is, don't. Those teachers haven't learned the spiritual "disciplines" or whatever the word is to understand what they're teaching, or teach it. A condom on a banana or open legs with pumping is like teaching a cow how to milk by pouring a carton on her head.
 [^3]: Dropping food on warzones and their affiliated countries. years, unsolicited free food
 [^4]: Actually, on a more academic note. It's vice versa.
+  This deserves its own thesis.
