@@ -765,3 +765,7 @@ As each particle collides, it’s wave-branching truncates to a more defined/obs
 Truncation is key to efficient optimization: see “sparse attention”. 
 
 Furthermore, for the mechanism of wave-particle duality, see beam search, nucleus sampling, etc. other truncation strategies. 
+
+## Language:
+
+Notice how all of us have been cryptically aware of this the whole time.
