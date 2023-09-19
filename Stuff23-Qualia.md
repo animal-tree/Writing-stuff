@@ -14,7 +14,7 @@ $\mathrm{I}(\emptyset) = \emptyset$
 
 is not self-contradicting. Can a function "exist"?
 
-To that end, we will argue yes, by noting the function of observation. 'I observe." Whatever this function is, perhaps we can equate it to $\mathrm{I}$ the Identity function. By analogy, if not, in a moment... literally.
+To that end, we will argue yes, by noting the function of observation. "I observe." Whatever this function is, perhaps we can equate it to $\mathrm{I}$ the Identity function. By analogy, if not, in a moment... literally.
 
 For that matter, an elementary particle, something that is *presumed*, axiomatically, to exist without justifying cause, hence "elementary", is itself a function with a quantum state that affects and determines the functions of other elementary particles. Perhaps... in a moment... we will equate it to $\mathrm{I}$ as well.
 
