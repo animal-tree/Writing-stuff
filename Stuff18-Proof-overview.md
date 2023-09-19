@@ -590,7 +590,7 @@ Unless the identity graph were fully-connected. But, under the mathematical ambi
 
 ---
 
-**Definition:**
+**Definition 2:**
 
 $\mathrm{I_i}(\mathrm{I_j}) \not\rightarrow_1 \mathrm{I_i}$.
 
@@ -600,7 +600,7 @@ where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}$. 
 
 ---
 
-**Definition 2:** Qualia and qualia.
+**Definition 3:** Qualia and qualia.
 
 $\mathbb{Q} = \mathrm{I}_I \vert I \subseteq \mathbb{N}$ is Qualia, where any $I \subseteq \mathbb{N}$ will be referred to as qualia, lowercase.
 
