@@ -546,6 +546,8 @@ $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
 These are just variables to describe the same constant.
 
+Furthermore, $o = \mathrm{I}_I, \forall I \subseteq \mathbb{N}$.
+
 ---
 
 Since $\exists \mathrm{I}$, we can now play around with $\mathrm{I}(\mathrm{I}) = \mathrm{I}$ and variations of it using Qualia $\mathrm{I_i}(\mathrm{I_j}) = \mathrm{I_j}$.
@@ -620,5 +622,9 @@ Notice there is no contradiction to this in the definition of equivalence or Qua
 
 **Theorem 1:** Furthermore, $\exists \mathbb{Q}$.
 
-**Proof:** $\exists o$. By definition of equivalence, $\exists \mathbb{Q}$. $\square$
+**Proof:** By Axiom 1 and Definition 1, $\exists o$. 
+
+$o = \mathrm{I}_I, \forall I \subseteq \mathbb{N}$.
+
+By definition of equivalence, $\exists \mathbb{Q}$. $\square$
 
