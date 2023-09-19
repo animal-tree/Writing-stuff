@@ -16,7 +16,7 @@ Let's explore that in more depth.
 
 What we're talking about is a universe with an undefined principle of choice. One of those, displays a wave-particle duality pattern of branching choices.
 
-However, $\mathrm{I}$'s$ choice patterns have to depend on something. And at the conclusion of the cyclicality trajectory, whatever that something is (spoiler: qualia) returns to its base original state. And therefore any accumulated knowledge or trajectory optimization strategies gets lost. 
+However, $\mathrm{I}'s$ choice patterns have to depend on something. And at the conclusion of the cyclicality trajectory, whatever that something is (spoiler: qualia) returns to its base original state. And therefore any accumulated knowledge or trajectory optimization strategies gets lost. 
 
 There is also a second asumption:
 
