@@ -726,3 +726,12 @@ Backtrack. How did we go from cyclic, not-fully-connected graphs to observers "c
 
 But in what space? In what velocity, inertia, etc. etc. etc.? The arising of these things seems like a giant leap in our story-building logic.
 
+No offense to all of physics.
+
+Okay some offense. We are competing after all... aren't we?
+
+No.
+
+Big no.
+
+$o = \mathrm{I} = \mathrm{I}_I, \forall I \subseteq \mathbb{N}$. We're all in this together. $\square \square$
