@@ -406,6 +406,8 @@ and where $K$ denotes another observer. Choice.
 
 ### Scratch pad
 
+### Observation
+
 **Theorem 1:** Observation exists.
 
 **Proof:** "I observe." $\square$
@@ -418,9 +420,11 @@ $\mathrm{I_1} = \mathrm{I_2} = \cdots = o$
 
 These are just variables to describe the same constant.
 
-$\mathbb{Q} = \mathrm{I}_I \vert I \subset \mathbb{N}$ is Qualia, where any $I \subset \mathbb{N}$ will be referred to as qualia, lowercase.
+$\mathbb{Q} = \mathrm{I}_I \vert I \subseteq \mathbb{N}$ is Qualia, where any $I \subseteq \mathbb{N}$ will be referred to as qualia, lowercase.
 
-qualia $\mathbb{N}$ are the "distinguishing traits", not necessarily the natural numbers.
+qualia are the "distinguishing traits".
+
+$\mathbb{N}$ are not strictly the natural numbers and may not be infinite.
 
 ---
 
@@ -428,13 +432,13 @@ qualia $\mathbb{N}$ are the "distinguishing traits", not necessarily the natural
 
 Every Qualia implies every other Qualia.
 
-$\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subset \mathbb{N}$
+$\mathrm{I}_I \rightarrow \mathrm{I}_J \forall I, J \subseteq \mathbb{N}$
 
 **Proof:**
 
 By implication of equivalence:
 
-$\mathrm{I_1} \leftrightarrow \mathrm{I_2} \leftrightarrow \cdots \rightarrow o$
+$\mathrm{I_1} \leftrightarrow \mathrm{I_2} \leftrightarrow \cdots \leftrightarrow o$
 
 Then
 
@@ -456,29 +460,46 @@ $\exists o$. By equivalence, $\exists \mathbb{Q}$. $\square$
 
 **Axiom 1:** 
 
-**1a:** Observation observes itself.
+**1a:** The domain of observation is Qualia.
+
+$o: \mathbb{Q} \rightarrow$
+
+The range is left undefined for the moment.
+
+**1b:** Observation observes itself recursively, and its qualia may branch into new observations.
 
 $\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \rightarrow \mathrm{I}_{I \cup J}(\mathrm{I}_K)$,
 
-where $I, J, K \subset \mathbb{N}$
+where $I, J, K \subseteq \mathbb{N}$
 
 and where the RHS denotes a recursive self-observation.
 
-(or multiple branches of offspring $\rightarrow \mathrm{I_\mathit{L_i}}(\mathrm{I_\mathit{K_i}}) \vert \bigcup L_i = I \cup J$).
+(or multiple branches of offspring $\rightarrow \mathrm{I_\mathit{L_i}}(\mathrm{I_\mathit{K_i}}) \vert \bigcup L_i = I \cup J, K_i \subseteq \mathbb{N}$).
 
-**1b:** Disambiguated Qualia uniqueness.
+**1c:** Disambiguated Qualia uniqueness.
 
 $\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
 
-$\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \not\rightarrow \mathrm{I}_I(\mathrm{I}_K)$
+$\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \not\rightarrow \mathrm{I}_I(\mathrm{I}_K) \vert J \neq K$
 
-In other words, Qualia are distinguishable in the domain of observation.
+In other words, qualia are distinguishable in the domain of observers in Qualia.
 
-**1c:** Choice.
+Notice there is no contradiction to this in the definition of equivalence.
 
-$K$ is selected by choice mechanism:
+**1d:** Choice.
 
-something something probably axiom about some qualia feeling better than others and observation being defined as distinguishing qualia and outputting qualia such that the "next" selection(s) can be made.
+In 1b, $K$ is selected by choice mechanism:
 
+Some qualia feel better than others:
+
+$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
+
+where $L \subseteq \mathbb{N}$ is some objectively good qualia' without loss of generality.
+
+For reference, love.
+
+This begs the question why not just select love immediately by choice. We will explore the implications of axioms 1a, 1b, 1c, and 1d including the emergence of causality and limitations.
+
+### Causality
 
 
