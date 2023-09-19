@@ -50,7 +50,7 @@ Would a musical composition be a better analogy? In fact all things would be. Ar
 
 A musical symphony is a single piece with many distinguishable arrangements and parts, performers and instruments.
 
-A "mixture of experts" model in deep learning isan ensemble of smaller subparts aggregated into one bigger one,no less independent as they are whole.
+A "mixture of experts" model in deep learning is an ensemble of smaller subparts aggregated into one bigger one, no less independent as they are whole.
 
 And that brings us to the brain: A composition of neurons all firing independently yet — quite provably —  creating a single consciousness.
 
