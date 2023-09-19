@@ -578,7 +578,7 @@ The cycle justifies all of the other arrows and satisfies the definition of equi
 
 Under the ambiguities that remain, $\mathrm{I}$ can be defined different behaviors in addition to the ones already defined. In fact they must be, for mathematical soundness. For example:
 
-does $\mathrm{I_i}(\mathrm{I_j}) \rightarrow \mathrm{I_i}?
+does $\mathrm{I_i}(\mathrm{I_j}) \rightarrow \mathrm{I_i}$?
 
 The answer is yes, but not *before* 
 
