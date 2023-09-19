@@ -33,4 +33,4 @@ That, and food bombs. On every enemy country.[^3] [^1] [^2]
 [^3]: Dropping food on warzones and their affiliated countries. years, unsolicited free food
 [^4]: Actually, on a more academic note. It's vice versa.
   This deserves its own thesis.
-[^5]: Orgies but sacred and ritualized, meaning educational and innocent, or full blown-out drum-circle bananas 
+[^5]: Orgies but sacred and ritualized, meaning educational and innocent, promoting relationships; or full blown-out drum-circle bananas 
