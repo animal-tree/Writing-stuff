@@ -18,17 +18,17 @@ Or rather, they would eat you. Do you still love them? Sure, but you make sure n
 
 I speak from the center of the pain that boils humanity into war and disease.
 
-“Imagine all the people” meant /this/, disambiguated.
+~~“Imagine all the people” meant /this/, disambiguated.~~
 
-I argued my mom into letting our cat outside, and it made her life richer and now she loves it because of course she does. Some things are so obvious once they are executed that I won’t even get credit for the progressive thinking years later. You’ll all think “no duh.”[^1]
+~~I argued my mom into letting our cat outside, and it made her life richer and now she loves it because of course she does. Some things are so obvious once they are executed that I won’t even get credit for the progressive thinking years later. You’ll all think “no duh.”~~[^1]
 
-This is a prescription for war and disease, if you need any more motivation.
+This is a prescription for war and disease, if you need any more motivation. (Edit: internally, not internationally, but I'm sure it would extend spiritually in ways that can't be perceived right now)
 
 That, and food bombs. On every enemy country.[^4]
 
 
 
-Awakening is when everyone is forgiven. Wisdom is acting in times of inaction. [^2] [^3] [^5]
+~~Awakening is when everyone is forgiven. Wisdom is acting in times of inaction.~~ [^2] [^3] [^5]
 
 [^1]: This is not a metaphor with multiple interpretations. My cat likes to go outside. Meaning: I can understand the perspective of my mom, fear of my cat getting run over by a car or something, but it's worth the risk for my cat and I believe in her to not run into the streets and get run over by cars, and to run and escape if something suspicious did arise. It happens. No denying. But that should not condemn my cat any more than it should a little kid, to being imprisoned. Curiously, she started meowing just now, requesting to go outside. Quite annoyingly.
 [^2]: "Oh no a footnote he must have a really high rick-and-morty IQ" — remember, war and peace are solvable.
