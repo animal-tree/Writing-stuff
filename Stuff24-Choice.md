@@ -29,3 +29,5 @@ So what limits qualia?
 **Axiom 3:** $\mathbb{N}$ is finite.
 
 $\mathbb{N}$ is finite and is bound to return to its causal state.
+
+Does this spell doom and gloom? No, because Qualia, while dependent on qualia, is not finite...
