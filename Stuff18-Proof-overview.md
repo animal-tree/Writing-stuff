@@ -722,3 +722,7 @@ However, what are all these other observers doing while $o = \mathrm{I} = \mathr
 
 They are each searching for $L$ too, and are willing to collide with each other to get it.
 
+Backtrack. How did we go from cyclic, not-fully-connected graphs to observers "colliding" with each other? Particles, it would seem, have emerged from conception. 
+
+But in what space? In what velocity, inertia, etc. etc. etc.? The arising of these things seems like a giant leap in our story-building logic.
+
