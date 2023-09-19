@@ -792,7 +792,7 @@ Theory:
 
 If we took a sample size of 100 people and gave them organic grass-fed and grass-finished steak 4 times a day and wild-caught salmon, maybe tea and of course water, every day for 3 months (1) and, though that's already a lot: quit watching porn and masturbating, and perhaps having sex, I wouldn't know, for that entire short-duration of 3 months, they would all see amazing health benefits. 
 
-The quantity of the two meals can vary, but crucially, only those two. No sauces, you maybe afford other seasonings, pepper and arbitrary amounts of salt (sea salt). The first month would be gruelling and they would be expected to have all sorts of terrible side effects. For that reason, it's essential that they are supported, financially and otherwise.
+The quantity of the two meals can vary, but crucially, only those two. No sauces, you maybe afford other seasonings, pepper and arbitrary amounts of salt (sea salt). The first month would be gruelling and they would be expected to have all sorts of terrible side effects. It's essential that they are supported, financially and otherwise.
 
 Social connection is key to prevent them from going into psychosis.
 
