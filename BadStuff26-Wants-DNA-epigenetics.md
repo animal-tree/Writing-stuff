@@ -37,3 +37,9 @@ It must be impossible to control the conscious mind. Choice belongs to its defin
 ---
 
 No, perhaps it's because it's decentralized.^
+
+Perhaps:
+
+(1) because a choice-system is necessary in times of unexplored wisdom
+(2) complexity of backpropagating conscious rational experience to the body
+(3) conflicting interests of decentralized forces
