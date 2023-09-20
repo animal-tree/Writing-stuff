@@ -179,9 +179,13 @@ I mentioned wave-particle duality as beam-search-like optimization strategy with
 
 **Definition 4:** Some qualia feel better than others.
 
+In multi-branch choices of mplication, we select the $K$ that brings us closes to some rich qualia, $L$.
+
+$\mathrm{I_I}(\mathrm{I_J}) \rightarrow \mathrm{I_J} \rightarrow \mathrm{I_K}$
+
 We have an objective:
 
-$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
+$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L \vert \mathrm{I}_K)$,
 
 where $L \subseteq \mathbb{N}$ is some objectively good feeling.
 
