@@ -220,3 +220,5 @@ $\mathrm{I_1} \rightarrow \mathrm{I_\mathbb{\mathrm{i} \sim N_\text{even}}} \rig
 where $\rightarrow_n$, defined in Definition 2, means "implied after $n$ deductive steps."
 
 Or if that doesn't satisfy you, then allow $n$ to be a really, really long time.
+
+>13 billion years and counting for example.
