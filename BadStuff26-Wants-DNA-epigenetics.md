@@ -6,6 +6,6 @@ What is the purpose of the rational mind then?
 
 Ah, it is to be… memory? For the emotions? No… It is to give the emotions “experience”? But then it is the emotions that are unconscious and you as the conscious being, experiencing them.
 
-Your mind a compression system for biologically-rooted unconscious emotional intelligence.
+Your mind is a compression system for biologically-rooted unconscious emotional intelligence.
 
 And that doesn't mean that biologically-rooted intelligence can't change. Or there would not be the existence of epigenetics.
