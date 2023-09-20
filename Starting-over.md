@@ -200,3 +200,9 @@ The goal is to reach a classical description of the universe, with its mysteriou
 ---
 
 To get to that we need at least a Turing machine deducible from these ambiguities of equivalence. Thus far, I believe, we have a [finite automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton) $M = (\mathbb{Q}, \mathbb{N}, \delta, \mathrm{I}_1, \mathrm{I}_1)$ with unspecified teleological-optimization of transition function $\delta$. Getting there shouldn't be [too hard](https://www.cs.utep.edu/vladik/2018/tr18-54.pdf), but we may need infinity on our side.
+
+Here is an example of a finite automaton that allows even numbers followed by odd numbers, alternating:
+
+$\mathrm{I_1} \rightarrow \mathrm{I_1}(\mathrm{I_\mathbb{N_\text{even}}}) \rightarrow \mathrm{I_\mathbb{N_\text{even}}} \rightarrow I_\mathbb{N_\text{odd}} \rightarrow \mathrm{I_1}(\mathrm{I_\mathbb{N_\text{odd}}}) \rightarrow \mathrm{I_\mathbb{N_\text{odd}}} \rightarrow \mathrm{I_1}$.
+
+Hence even numbers are always "observed" before odd numbers and they cycle. Observations are the alphabet, the observers are states. Note: we have not defined the range of observation yet, so $M$ has put $\mathbb{N}$ in its place, suggesting the observers output qualia.
