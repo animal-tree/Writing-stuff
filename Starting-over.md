@@ -207,4 +207,4 @@ $\mathrm{I_1} \rightarrow \mathrm{I_\mathbb{\mathit{i} \sim N_\text{even}}} \rig
 
 Hence even numbers are always "observed" before odd numbers and they cycle. Observations are the alphabet, the observers are states. Note: we have not defined the range of observation yet, so $M$ has put $\mathbb{N}$ in its place, suggesting the observers output qualia.
 
-To get this into a finite automaton we may need a clause that says "eventually" the sink state will be the origin. Meanwhile new states can be created or cycled through to simulate a sink state into the infinitum.
+To get this into a finite automaton we may need a clause that says "eventually" the sink state will be the origin. Meanwhile new states can be created or cycled through to simulate a sink state into the infinitum. Thus the universe does not end for such an automaton, but expands.
