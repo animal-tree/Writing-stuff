@@ -12,4 +12,4 @@ And that doesn't mean that biologically-rooted intelligence can't change. Or the
 
 ---
 
-Yes, a computer is conscious. A Bible, a Harry Potter book, your shoe is conscious. For clarity, when I say conscious and unconscious I mean the human-like conscious that singularizes into you.
+Yes, a computer is conscious. A Bible, a Harry Potter book, your shoe is conscious. For clarity, when I say [conscious and unconscious](Stuff22-What-is-consciousness?.md) I mean the human-like conscious that singularizes into you.
