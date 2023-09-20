@@ -221,4 +221,4 @@ where $\rightarrow_n$, defined in Definition 2, means "implied after $n$ deducti
 
 Or if that doesn't satisfy you, then allow $n$ to be a really, really long time.
 
->13 billion years and counting for example.
+$>$ 13 billion years and counting for example.
