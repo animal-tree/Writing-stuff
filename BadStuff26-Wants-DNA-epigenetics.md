@@ -9,3 +9,7 @@ Ah, it is to be… memory? For the emotions? No… It is to give the emotions �
 Your mind is a compression system for biologically-rooted unconscious emotional intelligence.
 
 And that doesn't mean that biologically-rooted intelligence can't change. Or there would not be the existence of epigenetics.
+
+---
+
+Yes, a computer is conscious. A Bible, a Harry Potter book, your shoe is conscious. For clarity, when I say conscious and unconscious I mean the human-like conscious that singularizes into you.
