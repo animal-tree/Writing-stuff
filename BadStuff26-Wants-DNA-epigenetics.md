@@ -17,3 +17,19 @@ Yes, a computer is conscious. A Bible, a Harry Potter book, your shoe is conscio
 ---
 
 How do these intense biological-wisdoms get passed down from human to human? By a sperm cell? No, that would be impressive. Mostly through the mother's womb. But perhaps other modes of communication exist that pass the knowledge and wisdom of the father and his ancestors, along as well.
+
+---
+
+Me: So is conflict a battle of genetics and epigenetics? The epigenetics on the side of your rational mind?
+
+My inner Jane archetype: Biology knows best.
+
+Someone: Then, pardon the interruption, why do we have free will?
+
+My inner Jane archetype: Because biology knows it’s better [that way — the experience. But how so?].
+
+How so?
+
+~~It must be smarter.~~
+
+It must be impossible to control the conscious mind. Choice belongs to its definition.
