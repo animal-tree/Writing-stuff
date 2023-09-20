@@ -210,3 +210,5 @@ Hence even numbers are always "observed" before odd numbers and they cycle. Obse
 To get this into arbitrary finite automata we may need a clause that says "eventually" the sink state will be the origin. Meanwhile new states can be created or cycled through to simulate a sink state into the infinitum. Thus the universe does not end for such an automaton, but expands.
 
 The proof of this is beyond the scope of my brain.
+
+However, via multiple branches from the same state allowed, this seems trivial.
