@@ -171,7 +171,7 @@ Curvature, as we shall see, becomes a necessary property to such an existence.
 
 ## Idk
 
-So a lot of room has been opened up for defining previously-ambiguous regions of deduction that all hold equally well mathematically. The "implication graph" emerging as a multi-interpretable data structure just from simple equivalence is a big deal. It means we can now, without loss of generality, explore many definitions of its construction. Perhaps infinite possible ones. The only rule is that there must be at least one cycle back to the origin from every node, in order to satisfy equivalence. We have thus expanded equivalence into (a) causality and (b) self-creation.
+So a lot of room has been opened up for defining previously-ambiguous regions of deduction that all hold equally well mathematically. The "implication graph" emerging as a multi-interpretable data structure just from simple equivalence is a big deal. It means we can now, without loss of generality, explore many definitions of its construction. Perhaps infinite possible ones. The only rule is that there must be at least one cycle back to the origin, eventually, from every node, in order to satisfy equivalence. We have thus expanded equivalence into (a) causality and (b) self-creation.
 
 ## Teleology
 
