@@ -125,11 +125,11 @@ Unless the identity graph were fully-connected. But, under the mathematical ambi
 
 $\mathrm{I}_I$ are not substitutable in the domain of the function that defines their equivalence.
 
-$\mathrm{I_\mathit{i}}(\mathrm{I_\mathit{j}}) \not\rightarrow_1 \mathrm{I_\mathit{k}} \vert j \neq k$.
+$\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}}) \not\rightarrow_1 \mathrm{I_\mathit{K}} \vert J \neq K$.
 
-$\mathrm{I_\mathit{i}}(\mathrm{I_\mathit{j}})$ does *not* imply $\mathrm{I_\mathit{k}}$ in one deductive step,
+$\mathrm{I_\mathit{I}}(\mathrm{I_\mathit{J}})$ does *not* imply $\mathrm{I_\mathit{K}}$ in one deductive step,
 
-where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}, j \neq k$. 
+where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}, J \neq K$. 
 
 ---
 
