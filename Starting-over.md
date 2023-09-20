@@ -8,6 +8,8 @@ I also have a classical description for gravity theorized.
 
 Dark matter bouncing between two objects creates a pressure gradient in surrounding dark matter. A “bend” in spacetime, literalized. Dark matter interacts with mass to change its velocity only under some conditions. One of those is the pressure gradient created by that back and forth bounce. You can imagine it as a smiley face bouncing back and forth between two unhappy bodies. Besides dark matter, this only happens as 2-way or more interaction between masses, and then N-way with surrounding dark matter. Surounding dark matter. Mass A. And Mass B. That's why it's illuded physicists. It's an N-body problem. Velocity changes as a result of dark matter bouncing between two masses and causing a dent and pressure gradient in surrounding dark matter, under specific conditions.
 
+The answer to why this happens in the first place is starting to flesh out below. And the math about the specific conditions (there are multiple local "rules" that can be conceived) to satisfy  classical description are in my journal somehwere and I can probably reconstruct them.
+
 ---
 
 Mysteries
