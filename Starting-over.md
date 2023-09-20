@@ -123,13 +123,13 @@ Unless the identity graph were fully-connected. But, under the mathematical ambi
 
 **Definition 2:** Disambiguated Qualia uniqueness.
 
-$\mathrm{I_i}$ are not substitutable in the domain of the function that defines their equivalence.
+$\mathrm{I}_I$ are not substitutable in the domain of the function that defines their equivalence.
 
-$\mathrm{I_i}(\mathrm{I_j}) \not\rightarrow_1 \mathrm{I_k} \vert j \neq k$.
+$\mathrm{I_\mathit{i}}(\mathrm{I_\mathit{j}}) \not\rightarrow_1 \mathrm{I_\mathit{k}} \vert j \neq k$.
 
-$\mathrm{I_i}(\mathrm{I_j})$ does *not* imply $\mathrm{I_i}$ in one deductive step,
+$\mathrm{I_i}(\mathrm{I_j})$ does *not* imply $\mathrm{I_k}$ in one deductive step,
 
-where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}$. 
+where $\rightarrow_n$ denotes the number of deductive steps $n \in \mathbb{N}, j \neq k$. 
 
 ---
 
