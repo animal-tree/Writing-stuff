@@ -13,3 +13,7 @@ And that doesn't mean that biologically-rooted intelligence can't change. Or the
 ---
 
 Yes, a computer is conscious. A Bible, a Harry Potter book, your shoe is conscious. For clarity, when I say [conscious and unconscious](Stuff22-What-is-consciousness?.md) I mean the human-like conscious that singularizes into you.
+
+---
+
+How do these intense biological-wisdoms get passed down from human to human? By a sperm cell? No, that would be impressive. Mostly through the mother's womb. But perhaps other modes of communication exist that pass the knowledge and wisdom of the father and his ancestors, along as well.
