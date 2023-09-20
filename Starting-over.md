@@ -199,4 +199,4 @@ The goal is to reach a classical description of the universe, with its mysteriou
 
 ---
 
-To get to that we need at least a Turing machine deducible from these ambiguities of equivalence. Thus far, I believe, we have a [finite automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton) $M = (\mathbb{Q}, \mathbb{N}, \delta, \mathrm{I}_1, \mathrm{I}_1)$ with unspecified teleological-optimization of transition function $\delta$. Getting there shouldn't be [too hard](https://www.cs.utep.edu/vladik/2018/tr18-54.pdf).
+To get to that we need at least a Turing machine deducible from these ambiguities of equivalence. Thus far, I believe, we have a [finite automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton) $M = (\mathbb{Q}, \mathbb{N}, \delta, \mathrm{I}_1, \mathrm{I}_1)$ with unspecified teleological-optimization of transition function $\delta$. Getting there shouldn't be [too hard](https://www.cs.utep.edu/vladik/2018/tr18-54.pdf), but we may need infinity on our side.
