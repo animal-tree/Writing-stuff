@@ -184,3 +184,5 @@ We have an objective:
 $K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
 
 where $L \subseteq \mathbb{N}$ is some objectively good feeling.
+
+It's a definition since "qualia" is not a mathematical object that's been defined before and these areas of math are otherwise ambiguous.
