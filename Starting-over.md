@@ -172,3 +172,15 @@ Curvature, as we shall see, becomes a necessary property to such an existence.
 ## Idk
 
 So a lot of room has been opened up for defining previously-ambiguous regions of deduction that all hold equally well mathematically. The "implication graph" emerging as a multi-interpretable data structure just from simple equivalence is a big deal. It means we can now, without loss of generality, explore many definitions of its construction. Perhaps infinite possible ones. The only rule is that there must be at least one cycle back to the origin from every node, in order to satisfy equivalence. We have thus expanded equivalence into (a) causality and (b) self-creation.
+
+## Teleology
+
+I mentioned wave-particle duality as beam-search-like optimization strategy with truncation for truncating improbable branches (those that haven't been "observed" / collided with as much), but optimization assumes an objective being optimized. That objective is qualia. See here for example, expanding from the above deduction:
+
+**Definition 4:** Some qualia feel better than others.
+
+We have an objective:
+
+$K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
+
+where $L \subseteq \mathbb{N}$ is some objectively good feeling.
