@@ -196,3 +196,7 @@ It's a definition since "qualia" is not a mathematical object that's been define
 Notice so far these are all just disambiguating definitions of equivalence, including what might motivate the selection of any $K$ at all. If you believe in definition or "equivalence", then somewhere in the definitions of those is ambiguity that we are now compartmentalizing into a data structure of Qualia. Other ways to disambiguate it exist, but have not been proposed.
 
 The goal is to reach a classical description of the universe, with its mysterious quantum and relative phenomena explained by (a) optimization needs, and (b) belief/perspective systems. One such need, for any causality to exist at all is self-cyclicality (self-creation), otherwise causality would contradict itself for not having a cause. Above we derive that, literally, and hint that this cyclicality property necessary in self-consistent causal spacetime is connected to curvature, and might be the reason for the classical interpretation of that curvature, proposed here, as an N-body interaction with dark matter.
+
+---
+
+To get to that we need at least a Turing machine deducible from these ambiguities of equivalence. Thus far, I believe, we have a [finite automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton) $M = (\mathbb{Q}, \mathbb{N}, \delta, \mathrm{I}_1, \mathrm{I}_1)$ with unspecified teleological-optimization of transition function $\delta$. Getting there shouldn't be [too hard](https://www.cs.utep.edu/vladik/2018/tr18-54.pdf).
