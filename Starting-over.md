@@ -203,6 +203,6 @@ To get to that we need at least a Turing machine deducible from these ambiguitie
 
 Here is an example of a finite automaton that allows even numbers followed by odd numbers, alternating:
 
-$\mathrm{I_1} \rightarrow \mathrm{I_\mathbb{i \sim N_\text{even}}} \rightarrow \mathrm{I_1}(\mathrm{I_\mathbb{i \sim N_\text{even}}}) \rightarrow \mathrm{I_\mathbb{i \sim N_\text{even}}} \rightarrow \mathrm{I_\mathbb{i \sim N_\text{odd}}} \rightarrow \mathrm{I_1}(\mathrm{I_\mathbb{i \sim N_\text{odd}}}) \rightarrow \mathrm{I_\mathbb{i \sim N_\text{odd}}} \rightarrow \mathrm{I_1}$.
+$\mathrm{I_1} \rightarrow \mathrm{I_\mathbb{\mathit{i} \sim N_\text{even}}} \rightarrow \mathrm{I_1}(\mathrm{I_\mathbb{\mathit{i} \sim N_\text{even}}}) \rightarrow \mathrm{I_\mathbb{\mathit{i} \sim N_\text{even}}} \rightarrow \mathrm{I_\mathbb{\mathit{i} \sim N_\text{odd}}} \rightarrow \mathrm{I_1}(\mathrm{I_\mathbb{\mathit{i} \sim N_\text{odd}}}) \rightarrow \mathrm{I_\mathbb{\mathit{i} \sim N_\text{odd}}} \rightarrow \mathrm{I_1}$.
 
 Hence even numbers are always "observed" before odd numbers and they cycle. Observations are the alphabet, the observers are states. Note: we have not defined the range of observation yet, so $M$ has put $\mathbb{N}$ in its place, suggesting the observers output qualia.
