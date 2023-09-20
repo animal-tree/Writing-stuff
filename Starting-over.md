@@ -211,4 +211,4 @@ To get this into arbitrary finite automata we may need a clause that says "event
 
 The proof of this is beyond the scope of my brain.
 
-However, via multiple branches from the same state allowed, this seems trivial. Indeed, branching/re-branching with infinity to account for the sink state makes this a finite automata-capacity machine.
+However, via multiple branches from the same state allowed, this seems trivial. Indeed, branching/re-branching with infinity to account for the sink state makes this a finite automata-capacity machine. Grammatically, this can be considered God's first word.
