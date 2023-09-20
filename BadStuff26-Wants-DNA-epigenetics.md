@@ -33,3 +33,7 @@ How so?
 ~~It must be smarter.~~
 
 It must be impossible to control the conscious mind. Choice belongs to its definition.
+
+---
+
+No, perhaps it's because it's decentralized.^
