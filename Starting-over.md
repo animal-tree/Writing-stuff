@@ -185,4 +185,6 @@ $K =  \max\limits_K \mathbf{P}(\mathrm{I}_L(\cdot) \vert \mathrm{I}_K)$,
 
 where $L \subseteq \mathbb{N}$ is some objectively good feeling.
 
-It's a definition since "qualia" is not a mathematical object that's been defined before and these areas of math are otherwise ambiguous.
+---
+
+It's a definition since "qualia" is not a mathematical object that's been defined before and these areas of math are otherwise ambiguous. Whether that's how the universe works, it can be an axiom or not. "I observe" / "I feel" are proven statements, so somewhere in the universe these dynamics exist. If they happen to derive the actual properties and behaviors of the universe, then we can say, yeah, that's probably it. I don't see any other non-religious theories for cosmogenesis. The Big Bang theory is not an origin theory. It's a microseconds-from-origin theory. No one knows how that condensed cosmic soup emerged into existence, or why.
