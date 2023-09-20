@@ -46,6 +46,4 @@ Perhaps:
 
 (2) complexity of backpropagating conscious rational experience to the body
 
-(3) conflicting interests of centraliz_*ing*_ decentralized forces (as time progresses) case in point the arangement of this essay into 3 bullet points
-
-Well, the "latter-half" of it.
+(3) conflicting interests of centraliz_*ing*_ decentralized forces (as time progresses). case in point the arrangement of this essay into 3 bullet points
