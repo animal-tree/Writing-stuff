@@ -222,7 +222,3 @@ where $\rightarrow_n$, defined in Definition 2, means "implied after $n$ deducti
 Or if that doesn't satisfy you, then allow $n$ to be a really, really long time.
 
 $>$ 13 billion years and counting for example.
-
----
-
-The empty set is the closest symbol to what we can conceptualize as literally "nothing" and the Identity function is, perhaps, at least within feasible reason, an innate natural operator. Too simple? Too abstract? Yes. But nevertheless, I'm not sure within the bounds of logical reasoning there is another way to conceive of this. If anything, the fact that we've shown a finite automaton would not be a contradiction to a fairly reasonable "nothing"-origin conception, is a kind-of profound result for deduction.
