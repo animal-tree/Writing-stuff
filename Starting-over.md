@@ -222,3 +222,15 @@ where $\rightarrow_n$, defined in Definition 2, means "implied after $n$ deducti
 Or if that doesn't satisfy you, then allow $n$ to be a really, really long time.
 
 $>$ 13 billion years and counting for example.
+
+---
+
+Now to construct the Turing machine. In a Turing machine, the "controls" are start ($\mathrm{S}$), move right ($\mathrm{R}$), move left ($\mathrm{L}$), halt ($\mathrm{H}$). At each position we may read/write a value from the alphabet $I \subseteq \mathbb{N}$ or the empty symbol $\emptyset$.
+
+For great examples and background, see [here](https://www.cs.utep.edu/vladik/2018/tr18-54.pdf).
+
+In the above link, we also learn that a Turing machine can be easily represented with two stacks (or [one queue](https://en.wikipedia.org/wiki/Queue_automaton#:~:text=A%20queue%20machine%2C%20queue%20automaton,same%20class%20of%20formal%20languages.)) and a finite automaton like the kind we've already constructed.
+
+Later, we will see if we can extend this to a non-deterministic Turing machine.
+
+All from the available ambiguities of $\exists \emptyset, \mathrm{I}$! See as the empty set is the closest symbol to what we can conceptualize as literally "nothing" and the Identity function is, perhaps, at least within feasible reason, an innate mathematical operator, these are not far stretches as axioms for the origin of something out of nothing. Too simple? Too abstract? Yes. But nevertheless, I'm not sure within the bounds of logical reasoning there is another way to conceive of this mysterious seeming-contradiction. If anything, the fact that we've shown a finite automaton would not be a contradiction to a fairly reasonable conception of "nothing" existing, is a kind-of profound result for deduction.
