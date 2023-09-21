@@ -225,18 +225,4 @@ $>$ 13 billion years and counting for example.
 
 ---
 
-> All from the available ambiguities of $\exists \emptyset, \mathrm{I}$! See, as the empty set is the closest symbol to what we can conceptualize as literally "nothing" and the Identity function is, perhaps, at least within feasible reason, an innate natural operator, these are not far stretches as axioms for the origin of something out of nothing. Too simple? Too abstract? Yes. But nevertheless, I'm not sure within the bounds of logical reasoning there is another way to conceive of this mysterious seeming-contradiction. If anything, the fact that we've shown a finite automaton would not be a contradiction to a fairly reasonable conception of "nothing" existing, is a kind-of profound result for deduction.
-
-Later, we will see if we can extend this to a Turing machine. My belief in this, though the deductive soundness fine, is low.
-
-> This is actually too overwhelming for me. If I do it it's because of huge spiritual aid. I can't stand theory or systems or math or computers for that matter. And my PhD has devolved into being about a library. This has been a tragic devolution from ideas that were once original and new, and havee been proven since mayny times over. I built the second variant of transformers for example. That is, not counting if Schmidhuber's was the first. But hospitalizations and many events, including something inside me — an active pressure not to — telling me not to go through... my PhD has turned out to be a "major ML library". That's not good. I don't like derivative things. I like calculus, but I don't like derivative things. I had long-term memory in mind. I had a GATO-type multi-tasker planned for my thesis. I had biologically inspired neurons that were more efficient than LSTM cells and I never got to go through with that. So, so much more. I came up with my own backprop. I did these mini-Perceivers before Perceivers existed. I came up with RL algorithms that I could still do. There were so many insights and revelations. But this nutty stuff and something inside me has kept me from getting credit on any of it. No amount of context will explain to you who I am. I have to show and prove or be doomed to Walter-White like (before he broke bad) de-creditization.
->
-> I genuinely hate the abstract feeling of this. There's a perspective to it that is gone from my life.
-
-You know what's missing? 
-
-(1) Nature. To do this is a contradiction to nature. It's an isolated task for an isolated person who has nothing to gain and has already lost everything.
-
-For some reason "it's arrested development" comes to mind. Perhaps!
-
-Oh wait I do have a comedic version of this somewhere in my journals.
+The empty set is the closest symbol to what we can conceptualize as literally "nothing" and the Identity function is, perhaps, at least within feasible reason, an innate natural operator. Too simple? Too abstract? Yes. But nevertheless, I'm not sure within the bounds of logical reasoning there is another way to conceive of this. If anything, the fact that we've shown a finite automaton would not be a contradiction to a fairly reasonable "nothing"-origin conception, is a kind-of profound result for deduction.
