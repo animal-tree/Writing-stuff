@@ -238,3 +238,5 @@ You know what's missing?
 (1) Nature. To do this is a contradiction to nature. It's an isolated task for an isolated person who has nothing to gain and has already lost everything.
 
 For some reason "it's arrested development" comes to mind. Perhaps!
+
+Oh wait I do have a comedic version of this somewhere in my journals.
