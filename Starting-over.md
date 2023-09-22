@@ -234,7 +234,3 @@ Idk, I'm skeptical about this image and the existence of a "now" head assumed in
 Why don't we just define $\mathrm{I}$ exactly as we would an elementary particle, but now we have a reason for believing they could arise axiomatically from "nothing" or a reasonably close conception of it.
 
 > See, as the empty set is the closest symbol to what we can conceptualize as literally "nothing" and the Identity function is, perhaps, at least within reason, an innate natural operator, these are not far stretches as axioms for the origin of something out of nothing. Too simple? Too abstract? Yes. But within the bounds of logical reasoning. We've shown a finite automaton would not be a contradiction to a fairly reasonable conception of a $\emptyset, \mathrm{I}$-dual origin.
-
----
-
-A 1D universe for example would be a circular spring.As our deductive steps progressed along that spring, to keep from cycling back to the origin, the spring would have to increase in radius proportionally to the amount it increases in length/circumference.
