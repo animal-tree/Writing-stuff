@@ -230,3 +230,5 @@ Constructing a read/writable Turing-machine tape is also quite easy, given the e
 However, as the implication graph cycles through the spatial dimensions (or spirals rather), it must land on the "next" deductive step point in time. To keep such a cycle going while connecting its extrema back to the origin requires the expansion of the spacetime dimensions as well since they are intertwined as one arrow.
 
 Idk, I'm skeptical about this image and the existence of a "now" head assumed in this construct.
+
+Why don't we just define $\mathrm{I}$ exactly as we would an elementary particle, but now we have a reason for believing they could arise axiomatically from "nothing" or a reasonably close conception of it.
