@@ -222,3 +222,7 @@ where $\rightarrow_n$, defined in Definition 2, means "implied after $n$ deducti
 Or if that doesn't satisfy you, then allow $n$ to be a really, really long time.
 
 $>$ 13 billion years and counting for example.
+
+---
+
+Constructing a read/writable Turing-machine tape is also quite easy, given the expressiveness of our language. In one sentence that language is: "And implication graph that connects every node, by one or more deductive step, including the origin, with a position on that graph demarking "now."" That means, as time expands and the "now" head (analogous to a Turing machine head) moves forward in time, the implication graph downstream can expand with extra nodes distancin "now" from the origin. Each now point can branch rings describing X-coordinates, Y-coordinates, and Z-coordinates, whose qualia from step to step can update as they are recopied and implied to with each time increment. These fully-connected coordinate rings, expanding outward with the arrow of time, can denote our Turing-tape, or, more intuitively, space.
