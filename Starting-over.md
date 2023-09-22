@@ -232,3 +232,5 @@ However, as the implication graph cycles through the spatial dimensions (or spir
 Idk, I'm skeptical about this image and the existence of a "now" head assumed in this construct.
 
 Why don't we just define $\mathrm{I}$ exactly as we would an elementary particle, but now we have a reason for believing they could arise axiomatically from "nothing" or a reasonably close conception of it.
+
+> See, as the empty set is the closest symbol to what we can conceptualize as literally "nothing" and the Identity function is, perhaps, at least within reason, an innate natural operator, these are not far stretches as axioms for the origin of something out of nothing. Too simple? Too abstract? Yes. But within the bounds of logical reasoning. If anything, the fact that we've shown a finite automaton would not be a contradiction to a fairly reasonable conception of a "nothing"-origin, is a kind-of profound result for deduction.
