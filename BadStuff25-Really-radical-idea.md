@@ -1,6 +1,6 @@
 Right to die.
 
-(1) Without a safe, dignified death option, people are forced to resort to methods like jumping out of hotel balconies or in front of trains. These deaths are nt only traumatizing for the victim, but create / disperse that pre-existing trauma to witnesses. Even if someone obtains access to a safe and painless suicide method, it's still isolated and undignified and comes as a surprise to the family and loved ones.
+(1) Without a safe, dignified death option, people are forced to resort to methods like jumping out of hotel balconies or in front of trains. These deaths are not only potentially agonizing for the suicide-victim, but create / disperse that pre-existing trauma to witnesses. Even if someone obtains access to a safe and painless suicide method, it's still isolated and undignified and comes as a surprise to the family and loved ones.
 
 (2) My-body-my-choice.
 
