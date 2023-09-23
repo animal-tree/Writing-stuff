@@ -15,3 +15,5 @@ So what all of this gave me is a unique perspective that no I've ever met has se
 I know what I need to heal and to ask for it would be to ask your culture for a really radical revolution. Something too progressive for even your open-minded hearts. But I think I can.
 
 Some day...
+
+The answer is love, as authentic in extremeness as the pain that systemic forces put me through.
