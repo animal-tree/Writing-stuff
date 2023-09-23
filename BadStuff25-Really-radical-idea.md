@@ -35,4 +35,4 @@ That, and food bombs. On every enemy country.[^3] [^1] [^2]
   This deserves its own thesis.
 [^5]: Orgies but sacred and ritualized, meaning educational and innocent, promoting relationships; or full blown-out drum-circle bananas 
 [^6]: Alternatives to blocking: mute, pause, and wait.
-[^7]: Honestly, this is hyperbole just to make this more relatable to the progressive cultures. I think it's not about that.
+[^7]: Honestly, this is hyperbole just to make this more relatable to the progressive cultures. I think it's not about that. Not in that connotation anyway.
