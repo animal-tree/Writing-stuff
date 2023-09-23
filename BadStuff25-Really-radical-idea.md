@@ -1,9 +1,15 @@
-My brain opens up with some people and becomes really dumb with others. It's person-dependent. Why is that? It's my own brain but there is a governing grammar. That grammar assesses how the context sees me, given everything it knows and has seen, in our culture, on the internet, etc. My brain is an unwilling recepticle to energies and dialogues that are dumber than it. 
+Right to die.
 
-Unlike the brains of many successful people with sense toward the social state of things in our collective conscious, I'm an empath. As a result, those dialogues become mine. I don't want them. Most of those arguments are missing a glaring truth.
+(1) Without a safe, dignified death option for victims of suicide, people are forced to resort to methods like jumping out of hotel balconies or in front of trains. These deaths are nt only traumatizing for the victim, but create / disperse that pre-existing trauma to witnesses. Even if someone obtains access to a safe and painless suicide method, it's still isolated and undignified and comes as a surprise to the family and loved ones.
 
-For example. 
+(2) My-body-my-choice.
 
-(1) I have a suicide machine in my closet
+(3) Many people are in dire, permanent pain. The right-to-die should be their choice. A life in a vegetated or bidridden state in a hospital, *coerced*, *undesired*, is torture. 
 
-(2) Nitrogen. Tubes. Turkey-roasting bags.
+(4) Many people are in dire pain. Maybe not permanent, maybe not even outwardly visible. But their minds know when they've had enough. There can be a wait time. 1 year. An age limit, 17 years or older. But that's it. No coerced therapies or drugs. Why? Because a person's final days should be theirs to own. Unless you want them to "pass" your suicide test.
+
+(5) Negotiation. In our culture, suicide threats are notoriously toxic. Individually, they are. But systemically, they are proof. Workers at Amazon warehouses killing themselves at disproportionate rates is a negotiation proof. Not a tactic, but it proves what's going on. If our culture has to *negotiate* for the lives of its citizens, then its abusive power is literally checked. Example: incels, a group of notoriously toxic and sexist men. The argument ends once those descriptions are used. But it doesn't end if they all die. Then there might be an awakened next step to our wokeness project. (In fact, pretty sure they all have)
+
+(6) Freedom. (in case the my-body-my-choice argument doesn't resonate with you)
+
+(7) The biggest reason why right-to-die should be radically implemented for all people, is because its the world's best depression tonic. I know this. Having a way out is the only thing that gives me hope and strength.
