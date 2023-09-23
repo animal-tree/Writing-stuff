@@ -19,3 +19,7 @@ Some day...
 The answer is love, as authentic in extremeness as the pain that systemic forces put me through.
 
 the ideas i would propose however would be betrayed by you in a heartbeat. [you'd shit on them with rick-and-morty memes or whatever and turn it into irony](https://github.com/animal-tree/Writing-stuff/blob/9a7e80fee87edc73184e09d64f0d1bd561318279/BadStuff25-Really-radical-idea.md).
+
+Note: I cured my own eczema two years ago. It was because of your food
+
+and extreme anxiety of being poor, alienated, perpetually sick, and forced to do things against my emotional wisdom
