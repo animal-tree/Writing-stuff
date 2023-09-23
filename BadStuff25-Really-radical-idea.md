@@ -24,7 +24,7 @@ Internally, not internationally, but I'm sure it would extend. Spiritual inner r
 
 >Sex
 
-Get grinding [7^]
+Get grinding [^7]
 
 That, and food bombs. On every enemy country.[^3] [^1] [^2]
 
