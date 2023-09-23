@@ -1,38 +1,17 @@
-We need more
+I can envision something others can't. This perhaps comes from my background. I grew up in poverty, surrounded by stress, and without a dad. I had grandparents and my mom, and sister, and two cousins, and uncle. My grandparents, mom, sister and me shared one apartment. It was safe and full of love. A big part of me is pulling for me to screw up writing this because I want to express something radical. Coming from a guy the impression of this part of me — of this part of my brain, our brain — is "he's a predator by nature." I'm not. I never have been and never will be. But this part of me from the depths of our culture wants to tell me that I am. And you know what? As an immigrant coming from a culture where "priviledge" meant having a toilet... some of this modern language is bullshit.
 
-(1) real-life "porn"
+So excuse the fact that I'm a guy and let me say this because the perspective that i have — moving from Uzbekistan, growing up with my grandparents — is pretty unique.
 
-(2) no blocking each other [^6]
+I have seen love in the safe throes of my apartment, where my garndparents and mom, and sister, were there for me. I have not seen it outside.
 
-Our fantasies show us the distance between ourselves and nature. If you need movies, or porn, that distance is truer than the lie that says you are condemned to hide this part of yourself from expression. The same goes with blocked. We are one neural network. It can only function when the nodes are not hemorrhaged. 
+I had eczema as a kid. Severe eczema. Bleeding head to toe eczema. Like perhaps you couldn't imagine. But to this day there are severe outbreaks of it that are so bad I have crawl in order to move, and i can't unbend my arms without that itching scathing pain.
 
-What is meant by "real-life porn"? Thank you for asking. In my opinion, it's not what we see in porn. In my opinion it's the scarier things that we are not brave enough to express about ourselves with others, everything we repress in ourselves and others. Connection, intimacy, love. And touch. Touch is the only language we need. Beaches with bonfires where everyone is allowed with sex and love-making as normal and encouraged. Educational in-nature love-making between peers, as commonplace and public and not shunned as going swimming.[^5]
+I also grew up mis-named. My birth name is Seamón or Soema, or the Americanized: Sim'on or Shimon. In Hebrew these names mean wisdom. In the Kabbalic teachings, two types of wisdom: seeing as the complement to hearing, hearing as the complement to seeing. But it was mistranslated. I grew up as "semen." from 3ish/4 to 11th grade, my name was legally Semen. Every bully and teacher and substitute teacher knew it. No one told me I could get a lawyer let alone a lawyer would do the process of changing the name for free! My mom to this day thinks it wouldn't have been possible before 11th grade, for free anyway. And we were poor. Lower-lower class poor. 
 
-Animals intuitively sense this. We intuitively sense this with animals. When dogs run up to us to lick us, or a cat rubs her head against our ankle, we understand the gesture and interpret it, through a common language. Our common language for those gestures between human and human would separate us, categorically, from the rest of nature. We have that perspective with animal, but not with each other. How many of you would say "I love animals more than people." Most of us. 
+Maybe a lawyer and court would've sympathized with a kid wanting to change his name from "Semen", maybe not. But of course, it shaped me. Into being the odd weird "semen" that I am today. Anyway, I like Sam. Because Sam in all the fantasies and mythos' of modern time means "innocence." "Samwell", "Samwise", "Sam". It means "this person has a wisdom, but from the good of his heart, not his intelligence." It means "this person is naive, but he has a good heart." I like the name Sam. "Shimon" means "this person is wise through his intelligence." It's true, but it's not me all the time as, from this writing, you perhaps can see. I like "Sam" though.
 
-"But our pets don't ____ us."
+So what all of this gave me is a unique perspective that no I've ever met has seemed to share or understand. It's a dichotomy, between that inner love safety of my apartment and the extreme hardships we were faced with outside. I see all of you as enemies at some *deeply* rooted psychological level, that I can't change.
 
-Unfortunately, under the conditions that you put most humans, they probably would "____" you and so much more. What even is an underscore-underscore-underscore-underscore? I've never heard of it and didn't vote for it.
+I know what I need to heal and to ask for it would be to ask your culture for a really radical revolution. Something too progressive for even your open-minded hearts. But I think I can.
 
-Or rather, they would eat you. Do you still love them? Sure, but you make sure not to starve them or repress them or systemically abuse them. We are the only repressed animal in the animal kingdom. We are the most intelligent, and have somehow put ourselves at the bottom of the only metric that counts. 
-
----
-
-&#9432; I speak from the center of the pain that boils humanity into war and disease.
-
-Internally, not internationally, but I'm sure it would extend. Spiritual inner relationships are what make our outer ones.[^4]
-
->Sex
-
-Get grinding [^7]
-
-That, and food bombs. On every enemy country.[^3] [^1] [^2]
-
-[^1]: "Oh no a footnote he must have a really high rick-and-morty IQ"
-[^2]: We also need teachers. Most of us, who think we know what sex is, don't. Those teachers haven't learned the spiritual "disciplines" or whatever the word is to understand what they're teaching, or teach it. A condom on a banana or open legs with pumping is like teaching a cow how to milk by pouring a carton on her head.
-[^3]: Dropping food on warzones and their affiliated countries. years, unsolicited free food
-[^4]: Actually, on a more academic note. It's vice versa.
-  This deserves its own thesis.
-[^5]: Orgies but sacred and ritualized, meaning educational and innocent, promoting relationships; or full blown-out drum-circle bananas 
-[^6]: Alternatives to blocking: mute, pause, and wait.
-[^7]: Honestly, this is hyperbole just to make this more relatable to the progressive cultures. I think it's not about that. Not in that connotation anyway.
+Some day...
