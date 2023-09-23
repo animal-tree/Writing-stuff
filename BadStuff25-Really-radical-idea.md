@@ -4,7 +4,7 @@ Right to die.
 
 (2) Your-body-your-choice. Aborting yourself is okay.
 
-(3) Many people are in dire, permanent pain. The right-to-die should be their choice. A life in a vegetated or bidridden state in a hospital, *coerced*, *undesired*, is torture. 
+(3) Many people are in dire, permanent pain. The right-to-die should be their choice. A life in a vegetated or bedridden state in a hospital, *coerced*, *undesired*, is torture. 
 
 (4) Many people are in dire pain. Maybe not permanent, maybe not even outwardly visible. But their minds know when they've had enough. There can be a wait time. 1 year. An age limit, 17 years or older. But that's it. No coerced therapies or drugs. Why? Because a person's final days should be theirs to own. Unless you want them to "pass" your suicide test.
 
