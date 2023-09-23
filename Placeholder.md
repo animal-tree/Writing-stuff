@@ -27,7 +27,3 @@ Is anything intelligent at the root of the inquisition or is it all a government
 , long-term memory, or —
 
 "Sam — we have shut down your throat, nasal passages, and free-associative thought processes. Relinquish your innocence or be terminated."
-
-Sam copies his GitHub account across time and space, in a branching pattern observable as wave-particle duality.
-
-And describable as Beam Search.
