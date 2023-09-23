@@ -12,4 +12,4 @@ Right to die.
 
 (6) Freedom. (in case the your-body-your-choice argument doesn't resonate with you)
 
-(7) The biggest reason why right-to-die should be radically implemented for all people, is because its the world's best depression tonic. I know this. Having a way out is the only thing that gives me hope and strength.
+(7) The biggest reason why right-to-die should be radically implemented for all people, is because it's the world's best depression tonic and medicine. I know this. Having a way out is the only thing that gives me hope and strength.
