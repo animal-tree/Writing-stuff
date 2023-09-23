@@ -1,3 +1,9 @@
 My brain opens up with some people and becomes really dumb with others. It's person-dependent. Why is that? It's my own brain but there is a governing grammar. That grammar assesses how the context sees me, given everything it knows and has seen, in our culture, on the internet, etc. My brain is an unwilling recepticle to energies and dialogues that are dumber than it. 
 
 Unlike the brains of many successful people with sense toward the social state of things in our collective conscious, I'm an empath. As a result, those dialogues become mine. I don't want them. Most of those arguments are missing a glaring truth.
+
+For example. 
+
+(1) I have a suicide machine in my closet
+
+(2) Nitrogen. Tubes. Turkey-roasting bags.
