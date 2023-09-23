@@ -2,7 +2,7 @@ We need more
 
 (1) real-life "porn"
 
-(2) no blocking each other
+(2) no blocking each other [^6]
 
 Our fantasies show us the distance between ourselves and nature. If you need movies, or porn, that distance is truer than the lie that says you are condemned to hide this part of yourself from expression. The same goes with blocked. We are one neural network. It can only function when the nodes are not hemorrhaged. 
 
@@ -24,7 +24,7 @@ Internally, not internationally, but I'm sure it would extend. Spiritual inner r
 
 >Sex
 
-Get grinding
+Get grinding [7^]
 
 That, and food bombs. On every enemy country.[^3] [^1] [^2]
 
@@ -34,3 +34,5 @@ That, and food bombs. On every enemy country.[^3] [^1] [^2]
 [^4]: Actually, on a more academic note. It's vice versa.
   This deserves its own thesis.
 [^5]: Orgies but sacred and ritualized, meaning educational and innocent, promoting relationships; or full blown-out drum-circle bananas 
+[^6]: Alternatives to blocking: mute, pause, and wait.
+[7^]: Honestly, this is hyperbole just to make this more relatable to the progressive cultures. I think it's not about that.
