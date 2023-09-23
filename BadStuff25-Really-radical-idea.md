@@ -17,3 +17,5 @@ I know what I need to heal and to ask for it would be to ask your culture for a 
 Some day...
 
 The answer is love, as authentic in extremeness as the pain that systemic forces put me through.
+
+the ideas i would propose however would be betrayed by you in a heartbeat. you'd shit on them with rick-and-morty memes or whatever and turn it into irony.
