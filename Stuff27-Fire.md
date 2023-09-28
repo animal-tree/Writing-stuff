@@ -28,7 +28,7 @@ So fire is water? Yes, electricy water. It is possible. It’s water with some e
 
 That’s fire !
 
-That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter. 
+> That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter. 
 
 ---
 
