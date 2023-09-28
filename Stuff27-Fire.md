@@ -36,4 +36,4 @@ But if the fire is hot enough, as in magnesium fires, then you need something re
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
 
-:(
+:( i being a tree cannot breathe and am being deforested :deciduous_tree:
