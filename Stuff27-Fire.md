@@ -28,4 +28,4 @@ So fire is water? Yes, electricy water. It is possible. It’s water with some e
 
 That’s fire !
 
-That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter.
+That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter. If the fire is hot enough, as in magnesium fires, the water can actually fuel it. To eliminate a fire that hot, all you can do is smother it with something really dry, like powder copper, that isn't water or CO2, to separate the reactants from the oxygen frenzying it.
