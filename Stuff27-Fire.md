@@ -1,7 +1,4 @@
-
-
-
-The idea of saying everything is one is counterintuitive to most peoples.
+The idea of saying everything is one is counterintuitive to most people.
 
 It’s like saying “fire is water.”
 
