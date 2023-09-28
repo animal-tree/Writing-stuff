@@ -12,7 +12,7 @@ Those compounds are called hydrocarbons, in the case of, for example, wood. Wood
 
 Now when you rub them together hard and long enough with enough friction, you can rupture those bonds! After all, they’re held together quite precariously by gravity and electromagnetism and all that. Squeeze ‘em hard enough and they’ll more-or-less split.
 
-So you rub two sticks together, say, using the bow-drill method (for fire making), and you rupture those hydrocarbons into hydrogens and carbons. Now the hydrogen will bond with the oxygen (if you’re lucky), that is, in the air, and the carbon will bond with the oxygen (if you’re unlucky), and this all-around RE-bonding tends to leave excess electrons that shoot off like knives into your eyes — and also potentially into other atoms and hydrocarbons. So now that emission is what you see. It’s a spark!
+So you rub two sticks together, say, using the bow-drill method (for fire making), and you rupture those hydrocarbons into hydrogens and carbons. Now the hydrogen will bond with the oxygen (if you’re lucky), that is, in the air, and the carbon will bond with the oxygen (if you’re unlucky), and this all-around reconfigured bonding tends to leave excess electrons that shoot off like knives into your eyes — and also potentially into other atoms and hydrocarbons. So now that emission is what you see. It’s a spark!
 
 If enough hydrocarbons are hanging around, say you put the ember in some tinder, now those little hailstorms will trigger a chain reaction. Like knives, they’ll cut through the other hydrocarbons present, creating instability — and more shooting electrons. 
 
