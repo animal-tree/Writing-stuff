@@ -32,7 +32,7 @@ That swarm of electrons keeps the reaction going. It's why it feels hot and why 
 
 ---
 
-But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. 
+But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, that energy came from the sun, not as deuterium ("heavy water")-infused fission or fusion, but as clean renewable non-proliferable solar.
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
 
