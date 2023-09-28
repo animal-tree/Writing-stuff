@@ -32,8 +32,4 @@ That’s fire !
 
 ---
 
-But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the fissuring hydrogen of the sun.
-
-Lots of oxidizable things can produce shiny colors, or "fire". Those fires are not like the kind we encountered in our ancestors' days. They are far from the primitive notion of fire in nature. They are useful for technology and industry.
-
-Fire, in any primitive-sense, is water.
+But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the fissuring hydrogen of the sun, or the fusion of hydrogens via the use of deuterium ("heavy water").
