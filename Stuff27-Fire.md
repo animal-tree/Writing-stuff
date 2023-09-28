@@ -36,7 +36,7 @@ But if the fire is hot enough, as in magnesium fires, then you need something re
 
 Making, further detail on my reasoning, somewhat dangerous to proliferate, depending on the context and wisdom of the audience. 
 
-A culture that respects nature would not make atomic bombs.
+A culture that respects nature would not make atomic bombs. Goal: respect nature.
 
 ---
 
