@@ -20,7 +20,7 @@ Meanwhile, those broken off hydrogens bonded to oxygen — you know what they ar
 
 Now the carbons on the other hand can also bond with oxygen. And that creates CO2. Meanwhile, some non-combustible elements in the mix (since non-charcoal wood for example is composed combustibly of more than just hydrocarbons) create ash and, its rising form, lifted by those rising gasses and water, smoke. 
 
-(But does that mean fire is also CO2? Depending on the composition, maybe, [though not necessarily](https://www.quora.com/Can-you-burn-something-without-producing-CO2) and [varies](https://theconversation.com/curious-kids-if-steam-contains-water-what-does-smoke-from-fire-contain-172505) — in rare not-everyday cases, [maybe theoretically neither](https://www.google.com/search?client=safari&rls=en&q=oxidations+that+produce+fire&ie=UTF-8&oe=UTF-8#ip=1); since it's ambiguous, the arguably best way to conceptualize it is the water as flame and the CO2 being the carrier of the soot that produces smoke)
+(But does that mean fire is also CO2? Depending on the composition, maybe, [though not necessarily](https://www.quora.com/Can-you-burn-something-without-producing-CO2) and [varies])
 
 “Electriquey steam with some residue” — FIRE — in 5 words.
 
@@ -28,4 +28,4 @@ So fire is water? Yes, electricy water. It is possible. It’s water with some e
 
 That’s fire !
 
-That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter. But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it.
+That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter. But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree.
