@@ -36,6 +36,8 @@ But if the fire is hot enough, as in magnesium fires, then you need something re
 
 Making, further detail on my reasoning, somewhat dangerous to proliferate, depending on the context and wisdom of the audience. 
 
+A culture that respects nature would not make atomic bombs.
+
 ---
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
