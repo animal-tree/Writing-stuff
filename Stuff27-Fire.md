@@ -34,7 +34,7 @@ That swarm of electrons keeps the reaction going. It's why it feels hot and why 
 
 But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom of hydrogen. Or in the case of recent fusion breakthroughs, deuterium ("heavy water"), and fission [actually](https://en.wikipedia.org/wiki/CANDU_reactor).
 
-Making, further detail on my reasoning, somewhat dangerous to proliferate. 
+Making, further detail on my reasoning, somewhat dangerous to proliferate, depending on the context and wisdom of the audience. 
 
 ---
 
