@@ -36,6 +36,8 @@ But if the fire is hot enough, as in magnesium fires, then you need something re
 
 Making it somewhat dangerous to proliferate. 
 
+---
+
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
 
 That is the Null Hypothesis by which I define words. There was a time by the way [when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!).
