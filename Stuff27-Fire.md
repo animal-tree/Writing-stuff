@@ -18,7 +18,9 @@ If enough hydrocarbons are hanging around, say you put the ember in some tinder,
 
 Meanwhile, those broken off hydrogens bonded to oxygen — you know what they are? Water! Water vapor technically. Steam, if you like, with its composition of oxygen and hydrogen amidst a hailstorm of electrons. That “electricy water” is fire. 
 
-Now the carbons on the other hand can also bond with oxygen. And that (approximately) creates smoke. Meanwhile, some non-combustible elements in the mix (since non-charcoal wood for example is composed of more than just hydrocarbons) create ash. 
+Now the carbons on the other hand can also bond with oxygen. And that creates CO2. Meanwhile, some non-combustible elements in the mix (since non-charcoal wood for example is composed of more than just hydrocarbons) create ash and, its rising form, lifted by those rising gasses and water, smoke. 
+
+(But does that mean fire is also CO2? Depending on the composition, maybe. //)
 
 “Electriquey steam with some residue” — FIRE — in 5 words.
 
