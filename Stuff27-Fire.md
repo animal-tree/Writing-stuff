@@ -28,9 +28,11 @@ So fire is water? Yes, electricy water. It is possible. It’s water with some e
 
 That’s fire !
 
-Lots of oxidizable things can produce shiny colors, or "fire". Those fires are not like the kind we encountered in our ancestors' days. They are far from the primitive notion of fire in nature.
+That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter. 
 
-That swarm of electrons keeps the reaction going. It's why it feels hot and why the hydrogens and oxygens are energized to bond in the first place, where for example ordinary atmospheric hydrogen and oxygen might not, or for that matter water. Water at room temperature is pretty good at shutting those electrons down. So is CO2 for that matter. But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the fissuring hydrogen of the sun.
+---
+
+But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the fissuring hydrogen of the sun.
 
 Lots of oxidizable things can produce shiny colors, or "fire". Those fires are not like the kind we encountered in our ancestors' days. They are far from the primitive notion of fire in nature. They are useful for technology and industry.
 
