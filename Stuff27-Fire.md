@@ -32,14 +32,8 @@ That swarm of electrons keeps the reaction going. It's why it feels hot and why 
 
 ---
 
-But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Fission, fusion, and solar may seem like good alternatives to fire. Indeed, 1 of those 3 is. Man-induced fission and fusion, via deuterium ("heavy water") can seem like the safest panacea of energy of all. But solar is nature's mother. Solar, while technically fusion involving "heavy water"(!), and also usable in industry, is less wasteful in the longrun. If we need to split the atom to create Snickers bars, so be it. (Why do we need that much power?).
+But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom of hydrogen as in the controlled atomic bomb power of nuclear fission, or man-induced fusion: via the use of deuterium ("heavy water"). That is, water with one extra neutron.
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
 
-:( i being a tree cannot breathe and am being deforested :deciduous_tree:
-
----
-
-"Prove it"
-
-<Proceeds to prove that he, Sam, is a tree>
+That is the Null Hypothesis by which I define words. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!).
