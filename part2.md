@@ -29,3 +29,5 @@ The point is, splitting the atom is a lot work. It also makes nature kind of ugl
 ---
 
 But, in all earnesty, my writing comes from different psychological sources and the full scope of my opinion would be, that technology sufficiently advanced, does become and is magic.
+
+...furthermore, maybe the need for drunkenness and high-sugar-content snacks shouldn't be the mandated alchemy of what gets those oxytocin blazing.
