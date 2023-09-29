@@ -25,3 +25,7 @@ We can get by with solar.
 We might have to sacrifice Snickers bars, maybe. But most of what we want and need can be delivered with pure solar + Maybe some Elon-Musk shingles.
 
 The point is, splitting the atom is a lot work. It also makes nature kind of ugly. Fusing it is even more work, and automating that is even farther off. All that manpower and money and personal cost could be used to guarentee everyone everything: family and friends and home and love and food and drink and community and sex and oxytocin and spirit. Magic. We could be giving ourselves magic. Today. We're powerful enough.
+
+---
+
+But, in all earnesty, my writing comes from different psychological sources and the full scope of my opinion would be, that technology sufficiently advanced, does become and is magic.
