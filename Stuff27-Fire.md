@@ -32,12 +32,12 @@ That swarm of electrons keeps the reaction going. It's why it feels hot and why 
 
 ---
 
-But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom of hydrogen as in the controlled atomic bomb power of nuclear fission, or man-induced fusion: via the use of deuterium ("heavy water"). That is, water with one extra neutron, whose, and I say this with caution, knife-cut can act a bit like an electron in causing some disarray, if misused — a far deviation from the innocent days of nature.[^1] [^2] [^3]
+But if the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water can actually fuel it. Though in fires like that, water doesn't come into the picture and we're just dealing with magnesium and all the pollution needed to get it burning to such a hot degree. Unless, for example, that temperature were reached by the energy of the sun, whose hydrogens "fuse" into helium, or by the rupture of the atom of hydrogen as in the controlled atomic bomb power of nuclear fission, or man-induced fusion: via the use of deuterium ("heavy water"). That is, water with one extra neutron, whose, and I say this with caution, knife-cut can act a bit like an electron in causing some disarray, if misused — a far deviation from the innocent days of nature.[^1]
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe.
 
 That is the Null Hypothesis by which I define words. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!).
 
 [^1]: कालोऽस्मि लोकक्षयकृत्प्रवृद्धो
-[^2]: "I am time, the destroyer of the worlds, grown up" / "I am time, which has grown up to destroy the world" (Google Translate)
-[^3]: "Now, I am an old man, and I am not worthy to be called a priest" (Glosbe)./
+    "I am time, the destroyer of the worlds, grown up" / "I am time, which has grown up to destroy the world" (Google Translate)
+    "Now, I am an old man, and I am not worthy to be called a priest" (Glosbe)./
