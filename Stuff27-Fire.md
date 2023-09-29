@@ -40,4 +40,4 @@ That is the Null Hypothesis by which I define words. [There was a time by the wa
 
 [^1]: कालोऽस्मि लोकक्षयकृत्प्रवृद्धो
 [^2]: "I am time, the destroyer of the worlds, grown up" / "I am time, which has grown up to destroy the world" (Google Translate)
-[^3]: "Now I am an old man, and I am not worthy to be called a priest." (Glosbe)
+[^3]: "Now I am an old man, and I am not worthy to be called a priest" (Glosbe)./
