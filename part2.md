@@ -8,7 +8,7 @@ Fire is a tool that has led to the development of human civilization. From the s
 
 Nature is not a tool andjust because we can, just because it's powerful, doesn't mean it's good. Not always.
 
-Fire is devastating. No doubt about that. But in the scope of human history, it has proven to be one of our closest most essential ties. Nature governs us with the understanding that fire is part and parcel with humankind. But we revere that tool. We treat it as the centerpeice (bonfires), we roast marshmellows over it and tell each other drunkenly we love each other. That's good. And we hold it sacred in some way.
+Fire is devastating. No doubt about that. But in the scope of human history, it has proven to be one of our closest most essential friends. Nature governs us with the understanding that fire is part and parcel with humankind. But we revere that tool. We treat it as the centerpeice (bonfires), we roast marshmellows over it and tell each other drunkenly we love each other. That's good. And we hold it sacred in some way.
 
 But as technology advances, it becomes more and more distinguishable from magic. "Ah, but that's heresy! Everyone knows fire is magic and any technology sufficiently advanced is indistinguishable from magic. Everyone knows that!"
 
