@@ -4,7 +4,7 @@ Is that too extreme? Was the position that "fire is water" not extreme enough fo
 
 Fire is a tool that has led to the development of human civilization. From the splitting of the hydrocarbon to the splitting of the atom. Soon, the fusions of hydrogens and deuteriums and tritiums. But not without cost to the beauty of nature. Let me explain.
 
-"Nature is a tool. We should hack and saw and chizzle it until we subdue and it's subdued into submission!" - that is the philosophy of the times.
+"Nature is a tool. We should hack and saw and chizzle it until we subdue and it's subdued into submission!" - that is the philosophy of the time.
 
 Nature is not a tool andjust because we can, just because it's powerful, doesn't mean it's good. Not always.
 
