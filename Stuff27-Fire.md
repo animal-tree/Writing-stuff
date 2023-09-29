@@ -58,6 +58,6 @@ Thus, by odd fortune, in the guise of misfortune, we've arrived to the steel age
 
 well, there's another use for fire. Electricity. Electromagnetism. Communication through light waves such as the ones broadcasting to your cellphone and internet right now.
 
-How does that alchemy happen? Motors and oscillators, more or less. Motors powered, usually, by fire (of coal or oil) and oscillators powered by the electrical currents converted from that motor's spinning magnetic pull.
+How does that alchemy happen? Motors and oscillators, more or less. Motors powered, usually, by fire (of the hydrocarbons in coal or fossil fuel / oil) and oscillators powered by the electrical currents converted from that motor's spinning magnetic voltage-conduction.
 
 [^1]: [the garden of eden](https://en.wikipedia.org/wiki/Garden_of_Eden), now [time](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate), the destroyer of worlds, emblazed 
