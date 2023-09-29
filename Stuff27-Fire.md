@@ -38,4 +38,4 @@ Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive 
 
 That is the Null Hypothesis by which I define words. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!).
 
-[^1]: कालो अस्मी लोक क्षाय कृतप्रविधो [translates to](https://blog.shabda.co/2021/05/21/on-the-problem-of-sanskrit-translations/) "Black is the world that has been destroyed." It is randomly generated. Here is the [non-accidentally referenced Bhagavad Gita quote](https://www.gitasupersite.iitk.ac.in/srimad?htrskd=1&httyn=1&htshg=1&scsh=1&choos=&&language=dv&field_chapter_value=11&field_nsutra_value=32) and [various machine translations](https://glosbe.com/sa/en/कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो).
+[^1]: कालो अस्मी लोक क्षाय कृतप्रविधो
