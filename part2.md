@@ -18,10 +18,10 @@ Is that 100% reality?
 
 Anyway, that technology looks less like magic and more like lies. At that point, we have to consider whether it's possible to recharacterize.
 
-But what worries me actually is that much of it, despite being esteemed by the highest of the highest in our society, is unecessary.
+But what worries me actually is that much of it, despite being held in reverence by academic elite, is unnecessary.
 
 We can get by with solar.
 
-We might have to sacrifice Snickers bars, maybe, but most of what we want and need can be delivered with pure solar. Maybe some Elon-Musk shingles.
+We might have to sacrifice Snickers bars, maybe. But most of what we want and need can be delivered with pure solar + Maybe some Elon-Musk shingles.
 
-The point is, splitting the atom is a lot work. It also makes nature kind of ugly. Fusing it is even more work, and automating that is even further off. All that manpower and money and time could be used to gaurentee everyone everything: family and friends and home and love and food and drink and community and sex and oxytocin and spirit. Magic. We could be giving ourselves magic. Today. We're powerful enough.
+The point is, splitting the atom is a lot work. It also makes nature kind of ugly. Fusing it is even more work, and automating that is even farther off. All that manpower and money and personal cost could be used to guarentee everyone everything: family and friends and home and love and food and drink and community and sex and oxytocin and spirit. Magic. We could be giving ourselves magic. Today. We're powerful enough.
