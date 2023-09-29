@@ -38,4 +38,4 @@ Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive 
 
 That is the Null Hypothesis by which I define words. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!).
 
-[^1]: कालो अस्मी लोक क्षाय कृतप्रविधो
+[^1]: कालोऽस्मि लोकक्षयकृत्प्रवृद्धो
