@@ -16,4 +16,10 @@ This definition, while hacky, generalizes to every other definition and deductiv
 
 It is more general.
 
-Note, these "definitions" literally equate linguistic words with values such as existence/truth or implications as $A = B$. Something about this is wrong. $A = B$ is not what's happening.
+Note, these "definitions" literally equate linguistic words with values such as existence/truth or implications as $A = B$. Something about this is wrong. $A = B$ is not what's happening. Wait. So a definition is equivalence. But we're equating linguistic words such as "axiom" with... $\exists$? A mathematical operator. Okay. So axiom = $\exists A$. Axiom is the application of an operator to a statement. It could be said axiom ($A$) $\rightarrow_1 ($\exists A$).  
+
+equivalence (A = B) = $A \rightarrow_n B$ and $B \rightarrow_m A$, now  equating two statements. This can also be written $(A = B) \rightarrow_1 (A \rightarrow_n B, B \rightarrow_m A)$.
+
+and so on...
+
+higher-order logics I guess.
