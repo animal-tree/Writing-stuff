@@ -2,13 +2,13 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 
 **Definition 1.** $($ Axiom  $A ) =_1 (\exists A)$.
 
-**Definition 2.** $($ Definition $A = B) =_1 (\exists (A = B))$. 
+**Definition 2.** $($ Definition $A =_1 B) =_1 (\exists (A =_1 B))$. 
 
 **Definition 3.** $($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A =_1 B$ substitutes the traditional equality operator:
 
 Traditional equivalence $(A =_1 B) = (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
-For example, $(A \rightarrow_2 B) = (A \rightarrow_1 o \rightarrow_1 B)$ for some mandatory intermediary $o$.
+For example, $(A \rightarrow_2 C) = (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
 
 **Definition 4.** $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
 
@@ -16,7 +16,7 @@ For example, $(A \rightarrow_2 B) = (A \rightarrow_1 o \rightarrow_1 B)$ for som
 
 ---
 
-$A$ and $B$ are anything defined... other such variables with other such definitions. Anything defined.
+$A$ and $B$ are anything defined... 
 
 Traditional equivalence is fully generalized to by this more-general definition of equivalence, meaning any previous use of equivalence may, to the best of our ability to tell, be substituted with this new one.
 
