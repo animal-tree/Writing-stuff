@@ -18,7 +18,7 @@ It is more general.
 
 ---
 
-$A$ and $B$ are any statement whose contents are defined.
+$A$ and $B$ are any statement whose contents and operators are defined.
 
 This can maybe be written:
 
