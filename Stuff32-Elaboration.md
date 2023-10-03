@@ -22,12 +22,12 @@ $A$ and $B$ are any statement whose contents are defined.
 
 This can maybe be written:
 
-**Definition 1.** $\text{Axiom } A\text{''} = \exists A = \text{``} A \text{ is true''}.$
+**Definition 1.** $($ Axiom  $A ) = (\exists A)$.
 
-**Definition 2.** A definition $A = B$ = $\exists (A = B)$. 
+**Definition 2.** $($ Definition $A = B) = (\exists (A = B)$. 
 
-**Definition 3.** Equivalence $A = B$ = $A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N}$, where $n, m$ are deductive steps such that one must precede the other consecutively.
+**Definition 3.** $($ Equivalence $A = B) = (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps such that one must precede the other consecutively.
 
-**Definition 4.** Implication $A \rightarrow_1 B$ = $\exists A \rightarrow_1 \exists B$.
+**Definition 4.** $($ Implication $A \rightarrow_1 B) = (\exists A \rightarrow_1 \exists B)$.
 
-**Definition 5.** Deduction/proof $A \rightarrow_n B$ = $\exists A$ \rightarrow_n \exists B$.
+**Definition 5.** $($ Deduction/proof $A \rightarrow_n B) = (\exists A \rightarrow_n \exists B)$.
