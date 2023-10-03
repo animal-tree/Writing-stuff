@@ -24,7 +24,7 @@ This can maybe be written:
 
 **Definition 1.** $($ Axiom  $A ) = (\exists A)$.
 
-**Definition 2.** $($ Definition $A = B) = (\exists (A = B)$. 
+**Definition 2.** $($ Definition $A = B) = (\exists (A = B))$. 
 
 **Definition 3.** $($ Equivalence $A = B) = (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively.
 
