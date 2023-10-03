@@ -16,7 +16,7 @@ For example, $(A \rightarrow_2 B) = (A \rightarrow_1 o \rightarrow_1 B)$ for som
 
 ---
 
-$A$ and $B$ are any statement whose contents and operators are defined. Philosophically, it's hard to gauge how to define those. They merely "are". Placeholders. Variables algebraically substituting something more defined. Anything defined.
+$A$ and $B$ are any statement whose contents and operators are defined. Philosophically, it's hard to gauge how to define that. They merely "are". Placeholders. Variables algebraically substituting something more defined. Anything defined.
 
 Traditional equivalence is fully generalized to by this more-general definition of equivalence, meaning any previous use of equivalence may, to the best of our ability to tell, be substituted with this new one.
 
