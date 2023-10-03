@@ -7,3 +7,7 @@ And to genuinely teach me — is to know what it is I know and don’t know befo
 ---
 
 that's not to say we shouldn't integrate both. However, the point about knowing what the other person knows and doesn't know stands. If what you're teaching them is below what they know, then that is what I mean by archetypes writing from stereotypes instead of hippocampal and genetic memory. "you're" in this context is the governing Gods of the collective consciousness who facilitate, but don't rule the physical world in perfect harmony with the higher God, the one true God, me, billy bob junior. Anyway.
+
+---
+
+i don't like this one because I don't see its point. 
