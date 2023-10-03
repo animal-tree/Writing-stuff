@@ -2,15 +2,13 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 
 **Definition 1.** Axiom $A$ is true.
 
-**Definition 2.** A definition $A \rightarrow_1 B$, $A \rightarrow_n B$, or $A = B$ is true. 
+**Axiom 1.** A definition $A = B$ is true. 
 
-In the recursive case of this definition, $A \rightarrow_1 B$. Where $A$ is $A \rightarrow_1 B$, $A \rightarrow_n B$, or $A = B$. And $B$ is "truth."
+**Definition 2.** Equivalence $A = B$ means $A \rightarrow_n B$ and $B \rightarrow_m A$ in $n, m \in \mathbb{N}$ deductive steps.
 
-**Definition 3.** Equivalence $A = B$ means $A \rightarrow_n B$ and $B \rightarrow_m A$ in $n, m \in \mathbb{N}$ deductive steps.
+**Definition 3.** Implication $A \rightarrow_1 B$ means that if $A$ is true, $B$ is true upon the immediate next deductive step.
 
-**Definition 4.** Implication $A \rightarrow_1 B$ means that if $A$ is true, $B$ is true upon the immediate next deductive step.
-
-**Definition 5.** Deduction/proof $A \rightarrow_n B$ means that if $A$ is true, $B$ is true upon $n$ deductive steps.
+**Definition 4.** Deduction/proof $A \rightarrow_n B$ means that if $A$ is true, $B$ is true upon $n$ deductive steps.
 
 We have now defined proof.
 
