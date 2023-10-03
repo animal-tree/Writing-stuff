@@ -13,3 +13,5 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 We have now defined proof.
 
 This definition, while hacky, generalizes to every other definition and deductive process.
+
+It is more general.
