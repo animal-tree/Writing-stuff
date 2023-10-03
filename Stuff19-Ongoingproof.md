@@ -265,19 +265,29 @@ Scratch all that. Starting over.
 
 $A, B, C$ are anything defined... 
 
-**Definition 1.** $($ Axiom  $A ) =_1 (\exists A)$.
+**Definition 1.** Axiom.
 
-**Definition 2.** $($ Definition $A =_1 B) =_1 (\exists (A =_1 B))$. 
+$($ Axiom  $A ) =_1 (\exists A)$.
 
-**Definition 3.** $($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A =_1 B$ substitutes the traditional equality operator:
+**Definition 2.** Definition.
+
+$($ Definition $A =_1 B) =_1 (\exists (A =_1 B))$. 
+
+**Definition 3.** Equivalence.
+
+$($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A =_1 B$ substitutes the traditional equality operator:
 
 Traditional equivalence $(A =_1 B) =_1 (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
 For example, $(A \rightarrow_2 C) =_1 (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
 
-**Definition 4.** $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
+**Definition 4.** Implication.
 
-**Definition 5.** $($ Deduction/proof $A \rightarrow B) =_1 (A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
+$($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
+
+**Definition 5.** Proof.
+
+$($ Deduction/proof/theorem $A \rightarrow B) =_1 (A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
 
 ---
 
