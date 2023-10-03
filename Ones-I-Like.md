@@ -1,6 +1,6 @@
 This is just a collection of pieces that I've written on this GitHub that I like. - Sam
 
-### Telepathy
+### Telepathy (Archetypal Madness)
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
 
@@ -92,7 +92,7 @@ To what being might we be thumbs on some ungodly control stick?
 
 And, with neuromorphic computers, can we one day approach synthesizing human-like consciousness? Answer: we're not close. But we might be able to grow it in a lab. but we might want to double-think that.
 
-The little gadget monster of animal-tree's GitHub account's profile picture, was in fact — backstory — *grown* in a lab. This myth now exists as representation, but besides the stirring bumps and gigglies of your brain, no, that representation, drawn in precise detail on my profile, is not human-like conscious.
+The little gadget monster of this GitHub account's profile picture, was in fact — backstory — *grown* in a lab. This myth now exists as representation, but besides the stirring bumps and gigglies of your brain, no, that representation, drawn in precise detail on my profile, is not human-like conscious.
 
 Here's a thought experiment.
 
