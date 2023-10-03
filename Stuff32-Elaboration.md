@@ -39,3 +39,5 @@ For example, $(A \rightarrow_2 B) = (A \rightarrow_1 o \rightarrow_1 B)$ for som
 ---
 
 Traditional equivalence is fully generalized to by this more-general definition of equivalence, meaning any previous use of equivalence may, to the best of our ability to tell, be substituted with this new one.
+
+Likewise, any implication $A \rightarrow B$ can be substituted with $A \rightarrow_n B$ for any $n \in \mathbb{N}$ w.l.o.g.
