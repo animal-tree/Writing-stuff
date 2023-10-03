@@ -6,13 +6,13 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 
 **Definition 3.** $($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A =_1 B$ substitutes the traditional equality operator:
 
-Traditional equivalence $(A =_1 B) = (A \rightarrow_1 B, B \rightarrow_1 A)$.
+Traditional equivalence $(A =_1 B) =_1 (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
-For example, $(A \rightarrow_2 C) = (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
+For example, $(A \rightarrow_2 C) =_1 (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
 
 **Definition 4.** $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
 
-**Definition 5.** $($ Deduction/proof $A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
+**Definition 5.** $($ Deduction/proof $A \rightarrow B) =_1 (A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
 
 ---
 
