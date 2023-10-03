@@ -26,7 +26,9 @@ This can maybe be written:
 
 **Definition 2.** $($ Definition $A = B) =_1 (\exists (A = B))$. 
 
-**Definition 3.** $($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $=_1$ means the traditional equality operator.
+**Definition 3.** $($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A =_1 B$ substitutes the traditional equality operator:
+
+Traditional equivalence $(A =_1 B) = (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
 **Definition 4.** $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
 
