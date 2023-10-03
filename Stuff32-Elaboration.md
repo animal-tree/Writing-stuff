@@ -35,3 +35,7 @@ For example, $(A \rightarrow_2 B) = (A \rightarrow_1 o \rightarrow_1 B)$ for som
 **Definition 4.** $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
 
 **Definition 5.** $($ Deduction/proof $A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
+
+---
+
+Traditional equivalence is fully generalized to by this more-general definition of equivalence, meaning any previous use of equivalence may, to the best of our ability to tell, be substituted with this new one.
