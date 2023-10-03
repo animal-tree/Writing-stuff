@@ -2,7 +2,7 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 
 **Definition 1.** Axiom $A$ is true.
 
-**Definition 2.** A definition "A is equivalent to B" $A = B$ is true.
+**Definition 2.** A definition $A \rightarrow_1 B$ is true. "true" in the case of this definition is $B$.
 
 **Definition 3.** Equivalence $A = B$ means $A \rightarrow_n B$ and $B \rightarrow_m A$ in $n, m \in \mathbb{N}$ deductive steps.
 
@@ -13,3 +13,5 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 We have now defined proof.
 
 This definition, while hacky, generalizes to every other definition and deductive process.
+
+It's more general and gives us an out out of our deductive cycles... sort of.
