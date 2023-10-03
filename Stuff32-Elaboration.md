@@ -26,4 +26,4 @@ Likewise, any implication $A \rightarrow B$ can be substituted with $A \rightarr
 
 Later (on the next episode of Doctor Who, seeing as we just literally hacked time): 
 
-**Definition 3 (Modified).** $0 \leq \mathbb{P}(A \rightarrow_n B) \leq 1$  can be non-deterministic.
+**Definition 3 (Modified).** $0 \leq \mathbf{P}(A \rightarrow_n B) \leq 1$  can be non-deterministic.
