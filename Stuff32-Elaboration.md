@@ -16,4 +16,4 @@ This definition, while hacky, generalizes to every other definition and deductiv
 
 It is more general.
 
-Note, these "definitions" literally equate linguistic words with values such as existence/truth or implications as $A = B$.
+Note, these "definitions" literally equate linguistic words with values such as existence/truth or implications as $A = B$. Something about this is wrong. $A = B$ is not what's happening.
