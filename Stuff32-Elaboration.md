@@ -21,3 +21,9 @@ $A$ and $B$ are anything defined...
 Traditional equivalence is fully generalized to by this more-general definition of equivalence, meaning any previous use of equivalence may, to the best of our ability to tell, be substituted with this new one.
 
 Likewise, any implication $A \rightarrow B$ can be substituted with $A \rightarrow_n B$ for any $n \in \mathbb{N}$ w.l.o.g..
+
+---
+
+Later (on the next episode of Doctor Who, seeing as we just literally hacked time): 
+
+**Definition 3 (Modified).** $0 \leq \mathbb{P}(A \rightarrow_n B) \leq 1$  can be non-deterministic.
