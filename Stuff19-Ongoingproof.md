@@ -254,3 +254,38 @@ Self-creation is a novel theory for why the universe demonstrates this phenomeno
 **Theorem 6:** Causality gives us a teleological objective
 
 **Theorem 7:** Causality implies limited resources
+
+---
+
+Scratch all that. Starting over.
+
+# Begin
+
+## Part 1
+
+$A, B, C$ are anything defined... 
+
+**Definition 1.** $($ Axiom  $A ) =_1 (\exists A)$.
+
+**Definition 2.** $($ Definition $A =_1 B) =_1 (\exists (A =_1 B))$. 
+
+**Definition 3.** $($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A =_1 B$ substitutes the traditional equality operator:
+
+Traditional equivalence $(A =_1 B) =_1 (A \rightarrow_1 B, B \rightarrow_1 A)$.
+
+For example, $(A \rightarrow_2 C) =_1 (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
+
+**Definition 4.** $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
+
+**Definition 5.** $($ Deduction/proof $A \rightarrow B) =_1 (A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
+
+---
+
+Note 1: Traditional equivalence is fully generalized to by this more-general definition of equivalence, meaning any previous use of equivalence may, to the best of our ability to tell, be substituted with this new one.
+
+Note 2: Likewise, any implication $A \rightarrow B$ can be substituted with $A \rightarrow_n B$ for any $n \in \mathbb{N}$ w.l.o.g..
+
+## Part 2
+
+**Definition 3 (Modified).** $0 \leq \mathbf{P}(A \rightarrow_n B) \leq 1$  can be non-deterministic.
+
