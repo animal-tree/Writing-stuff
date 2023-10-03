@@ -2,7 +2,9 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 
 **Definition 1.** Axiom $A$ is true.
 
-**Definition 2.** A definition $A \rightarrow_1 B$ is true. "true" in the case of this definition is $B$.
+**Definition 2.** A definition $A \rightarrow_1 B$, $A \rightarrow_n B$, or $A = B$ is true. 
+
+In the recursive case of this definition, $A \rightarrow_1 B$. Where $A$ is $A \rightarrow_1 B$, $A \rightarrow_n B$, or $A = B$. And $B$ is "truth."
 
 **Definition 3.** Equivalence $A = B$ means $A \rightarrow_n B$ and $B \rightarrow_m A$ in $n, m \in \mathbb{N}$ deductive steps.
 
