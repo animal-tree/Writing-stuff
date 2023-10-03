@@ -11,3 +11,5 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 **Definition 5.** Deduction/proof $A \rightarrow_n B$ means that if $A$ is true, $B$ is true upon $n$ deductive steps.
 
 We have now defined proof.
+
+This definition, while hacky, generalizes to every other definition and deductive process.
