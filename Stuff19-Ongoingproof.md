@@ -287,7 +287,7 @@ $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
 
 **Definition 5.** Proof.
 
-$($ Deduction/proof/theorem $A \rightarrow B) =_1 (A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
+$($ Deduction/theorem/proof $A \rightarrow B) =_1 (A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
 
 ---
 
