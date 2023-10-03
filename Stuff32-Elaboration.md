@@ -30,6 +30,8 @@ This can maybe be written:
 
 Traditional equivalence $(A =_1 B) = (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
+For example, $(A \rightarrow_2 B) = (A \rightarrow_1 o \rightarrow_1 B)$ for some mandatory intermediary $o$.
+
 **Definition 4.** $($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
 
 **Definition 5.** $($ Deduction/proof $A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
