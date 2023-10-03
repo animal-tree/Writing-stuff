@@ -2,7 +2,7 @@ I am Chenliang, Sam's advisor. He writes this with telepathic interference from 
 
 Alright. Given $A = B$, we know $A \rightarrow B$ and $B \rightarrow A$. We don't know *when* $A \rightarrow B$. Is it in $1$ deductive step $A \rightarrow_1 B$? Is it in $n$ deductive steps $A \rightarrow_n B$. From this, we get a cheap hacky way to derive something out of literally nothing.
 
-Let us start with nothing $\emptyset_0$.
+Let us start with nothing $\emptyset$.
 
 Don't regard it as the empty set. Don't regard it at all.
 
