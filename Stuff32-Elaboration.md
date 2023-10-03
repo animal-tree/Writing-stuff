@@ -15,3 +15,5 @@ We have now defined proof.
 This definition, while hacky, generalizes to every other definition and deductive process.
 
 It is more general.
+
+Note, these "definitions" literally equate linguistic words with values such as existence/truth or implications as $A = B$.
