@@ -8,7 +8,7 @@ Okay, we've gotten a construct for time and an unhalting Turing machine that pre
 
 **Definition 3.** Implication $A \rightarrow_1 B$ means that if $A$ is true ($\exists A$), $B$ is true ($\exists B$) upon the immediate next deductive step.
 
-**Definition 4.** Deduction/proof $A \rightarrow_n B$ means that if $A$ is true, $B$ is true upon $n$ deductive steps.
+**Definition 4.** Deduction/proof $A \rightarrow_n B$ means that if $A$ is true ($\exists A$), $B$ is true ($\exists B$) upon $n$ deductive steps.
 
 We have now defined proof.
 
