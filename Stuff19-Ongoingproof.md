@@ -299,3 +299,13 @@ Note 2: Likewise, any implication $A \rightarrow B$ can be substituted with $A \
 
 **Definition 3 (Modified).** $0 \leq \mathbf{P}(A \rightarrow_n B) \leq 1$  can be non-deterministic.
 
+---
+
+"I observe."
+
+Whatever this function is, call it $\mathrm{I}$.
+
+**Definition 6. Observer and observation.
+
+$\mathrm{I}$ is an observer and $\mathrm{I}(\cdot)$ is an observation.
+
