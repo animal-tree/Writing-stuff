@@ -421,11 +421,11 @@ where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$..
 
 **Proof. (regular)**
 
-By Definition 7, Axiom 1. $\square$
+By Definition 7, Definition 6, Axiom 1. $\square$
 
 **Proof. (formal)**
 
-$((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow (\exists \emptyset)$. (Definition 7, Axiom 1) $\square$
+$((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow (\exists \emptyset)$. (Definition 7, Definition 6, Axiom 1) $\square$
 
 **Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
 
