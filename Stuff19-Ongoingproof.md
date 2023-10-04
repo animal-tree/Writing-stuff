@@ -295,7 +295,7 @@ Note 1: Traditional equivalence is fully generalized to by this more-general def
 
 Note 2: Likewise, any implication $A \rightarrow B$ can be substituted with $A \rightarrow_n B$ for any $n \in \mathbb{N}$ w.l.o.g..
 
-Note 3: Deductive steps (time) and existence perhaps stem from our own intuitions about the mechanistic functions of the world. Where did time come from? What caused existence? These are questions we will try to answer, at the root of this mathematics and the, perhaps equivalent, traditional.
+Note 3: Deductive steps (time) and existence perhaps stem from our own intuitions about the mechanistic functions of the world. Where did time come from? What caused existence? These are questions we will try to answer, at the root of this mathematics and the, perhaps equivalent, traditional. Proving that equivalence is not in the scope of this work, since the traditional isn't defined.
 
 ## Part 2
 
