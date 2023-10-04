@@ -295,6 +295,8 @@ Note 1: Traditional equivalence is fully generalized to by this more-general def
 
 Note 2: Likewise, any implication $A \rightarrow B$ can be substituted with $A \rightarrow_n B$ for any $n \in \mathbb{N}$ w.l.o.g..
 
+Note 3: The assumptions at the root of these definitions is Time. And the existence of existence.
+
 ## Part 2
 
 **Definition 3 (Modified).** $0 \leq \mathbf{P}(A \rightarrow_n B) \leq 1$  can be non-deterministic.
