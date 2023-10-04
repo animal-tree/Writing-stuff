@@ -305,7 +305,7 @@ Note 2: Likewise, any implication $A \rightarrow B$ can be substituted with $A \
 
 Whatever this function is, call it $\mathrm{I}$.
 
-**Definition 6. Observer and observation.
+**Definition 6.** Observer and observation.
 
-$\mathrm{I}$ is an observer and $\mathrm{I}(\cdot)$ is an observation.
+$($ Observer $) =_1 (\mathrm{I}), ($ Observation $) =_1 (\mathrm{I}(\cdot))$.
 
