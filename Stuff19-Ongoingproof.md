@@ -391,7 +391,7 @@ Note 3: Deductive steps (time) $\rightarrow$ and existence $\exists$ perhaps ste
 
 $($ Sets of anything defined... $(A, B, ...))$ $\coloneqq ((A, B, ...))$
 
-denoted by parentheticals.
+denoted by parentheticals. $A$ is a single hypothetical.
 
 **Definition 7.** Sets of existence.
 
