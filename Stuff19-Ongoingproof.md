@@ -419,19 +419,33 @@ where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$..
 
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
-**Proof.**
+**Proof. (regular)**
+
+By Definition 7, Axiom 1. $\square$
+
+**Proof. (formal)**
 
 $((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow (\exists \emptyset)$. (Definition 7, Axiom 1) $\square$
 
 **Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
 
-**Proof.**
+**Proof. (regular)**
+
+By Theorem 1, Definition 8. $\square$
+
+**Proof. (formal)**
 
 $((\exists \emptyset), (\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 8) $\square$
 
 **Theorem 3.** The universe exists. $\exists \Omega$.
 
-**Proof.**
+**Proof. (regular)**
+
+$\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \Omega^{(0)}$ by Definition 9.
+
+$\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$ by Definition 8 equivalence. $\exists \rightarrow_n$ by Axiom 2. $\exists \Omega^{(n)}$ by Axiom 1. $\square$
+
+**Proof. (formal)**
 
 $((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow (\exists \Omega^{(0)})$. (Theorem 1, Definition 9)
 
