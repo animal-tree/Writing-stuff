@@ -531,3 +531,7 @@ Since each particle can observe only so many branching paths, the search space a
 
 (7) wave-particle duality and beam search
 
+---
+
+There are many reasons a teleology could emerge. One is evolutionary survival.
+
