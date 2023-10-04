@@ -457,6 +457,14 @@ Note: the existence of an "existence set" is debatable. But, it is so assumed in
 
 We have thereby "defined" nothing. (Definition 8). Without loss of generality, it could be defined as something else. Anything else. Whatever "nothing" is.
 
+But maybe "nothing" isn't? Maybe "nothing" is the undefined.
+
+...then define it as that. Its only use is as an arbitrary subscript-able variable.
+
+We have, however, assumed variables/definitions (e.g. hypotheticals). There are some recursive definitions here, yes. Technically not prohibited. But also easily falsifiable. Find a proof or deductive logic that doesn't fit into this framework.
+
+(And in such a case it might be easy to amend the current framework).
+
 ## Part 3
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
