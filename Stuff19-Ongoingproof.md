@@ -277,7 +277,7 @@ $($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$.
 
 $($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A \coloneqq B$ substitutes the traditional equality operator:
 
-Traditional equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
+Instantaneous equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
 For example, $(A \rightarrow_2 C) \coloneqq (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
 
@@ -287,7 +287,7 @@ $($ Implication $A \rightarrow_1 B) \coloneqq (\exists A \rightarrow_1 \exists B
 
 **Definition 5.** Proof.
 
-$($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \coloneqq (\exists A \rightarrow_n \exists B)$.
+$($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \coloneqq (\exists A \rightarrow_n \exists B)$ for some $n \in \mathbb{N}$.
 
 ---
 
@@ -323,7 +323,7 @@ $(\exists x) \coloneqq (\exists \mathrm{I}(x))$.
 
 $($ Natural numbers $) \coloneqq (\mathbb{N})$
 
-are not necessarily *the* natural numbers or immediately infinite.
+are not necessarily *the* natural numbers or immediately infinite in one deductive step.
 
 **Definition 8.** Nothing and its equivalents.
 
