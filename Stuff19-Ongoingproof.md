@@ -309,9 +309,31 @@ Whatever this function is, call it $\mathrm{I}$.
 
 $($ Observer $) =_1 (\mathrm{I}), ($ Observation $) =_1 (\mathrm{I}(\cdot))$.
 
-**Theorem 6.** $\exists I$.
+**Theorem 1.** $\exists \mathrm{I}$.
 
 **Proof.**
 
 "I observe." $\square$
+
+**Axiom 1.** Existence is defined by observation.
+
+$(\exists x) =_1 (\exists \mathrm{I}(x))$.
+
+**Definition 7.** Natural numbers.
+
+$($ Natural numbers $) =_1 (\mathbb{N})$
+
+are not necessarily *the* natural numbers or infinite.
+
+**Definition 8.** Nothing and its equivalents.
+
+$($ Nothing $\emptyset) =_1 (\emptyset_K) \vert \forall K \subseteq \mathbb{N}$.
+
+Call this set $(\emptyset^\mathbb{N}) =_1 \langle \emptyset_K \vert K \subseteq \mathbb{N} \rangle$.
+
+**Theorem 2.** $\exists \mathrm{I}(\emptyset)$ and $\exists \mathrm{I}(\mathrm{I})$ and $\exists \mathrm{I}(\hat{\emptyset}) \forall \hat{\emptyset} \in \emptyset^\mathbb{N}$.
+
+**Proof.**
+
+By Theorem 6 and Axiom 1. $\square$
 
