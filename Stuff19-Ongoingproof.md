@@ -405,15 +405,17 @@ $\Omega^{(0)} \coloneqq \emptyset$.
 
 $\Omega^{(n)} \coloneqq \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle$.
 
+$n \in \mathbb{N}$.
+
 **Definition 10.** Qualia.
 
 $\rightarrow_{n+1} \coloneqq \mathrm{Q}(\Omega^{(n)})$,
 
-where $\mathrm{Q}$ is Qualia.
+where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$..
 
 **Axiom 1.** Any set of existence $S$ exists. $\exists S$.
 
-**Axiom 2.** Qualia (time) exists. $\exists \rightarrow_n$.
+**Axiom 2.** Qualia (time) exists. $\exists \rightarrow_n, n \in \mathbb{N}$.
 
 **Theorem 1.** The universe exists. $\exists \Omega$.
 
