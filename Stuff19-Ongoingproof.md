@@ -309,3 +309,9 @@ Whatever this function is, call it $\mathrm{I}$.
 
 $($ Observer $) =_1 (\mathrm{I}), ($ Observation $) =_1 (\mathrm{I}(\cdot))$.
 
+**Theorem 6.** $\exists I$.
+
+**Proof.**
+
+"I observe." $\square$
+
