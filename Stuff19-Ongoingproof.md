@@ -405,15 +405,17 @@ $\Omega^{(0)} \coloneqq \emptyset$.
 
 $\Omega^{(n)} \coloneqq (\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n)$.
 
-**Axiom 1.** Existence exists. e.g. $\exists \emptyset$.
+**Definition 10.** Qualia.
 
-**Axiom 2.** Qualia.
+Qualia is the time/causality/deduction function.
 
-$\rightarrow_n \coloneqq \mathrm{Q}(\Omega^{(n)})$.
+$\rightarrow_n \coloneqq \mathrm{Q}(\Omega^{(n)})$,
 
-$\exists \rightarrow_n$.
+where $\mathrm{Q}$ is Qualia.
 
-$\mathrm{Q}$ is Qualia.
+**Axiom 1.** Any set of existence $S$ exists. $\exists S$.
+
+**Axiom 2.** Qualia (time) exists. $\exists \rightarrow_n$.
 
 **Theorem 1.** The universe exists. $\exists \Omega$.
 
@@ -421,6 +423,6 @@ $\mathrm{Q}$ is Qualia.
 
 $\exists \emptyset \coloneqq \Omega^{(0)}$ by Axiom 1.
 
-$\exists \Omega^{(n)}$ by Definition 8 equivalence, Axiom 1, and Definition 5 deduction. $\square$
+$\exists \Omega^{(n)}$ by Definition 8 equivalence, Axiom 1, and Definition 5 deduction. And Axiom 2. $\square$
 
 
