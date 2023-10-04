@@ -465,4 +465,57 @@ Note: the parentheticals are sets of hypotheticals. A hypthetical exists if its 
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
 
+---
+
+Theory
+
+existence is observation/qualia. $\mathbb{Q} = \emptyset_K \vert K \subseteq \mathbb{N}$, $q \in \mathbb{Q}$ of $q \subseteq \mathbb{Q}$.
+
+$Q$ has a teleological objective: $\max\limis_{n+1} \hat{Q}(\Omega^{(t>n)}).
+
+$Q$ is limited or it would converge to its teleological objective right away. $Q$ can only consider a finite number of implications $\rightarrow_n$. Its search strategy is either assumed or emerges by some mechanism.
+
+Physics (the standard model) assumes a fixed "search strategy" A defined set of rules, unchanging and highly-specific/complicated, out of nowehere.
+
+Perhaps its optimization limitations can be drawn parallel to our own, limited by the same limitations as known numerical optimization techniques such as deep learning gradient descent.
+
+Perhaps known techniques for improving optimization in deep learning can give us an insight as to why the universe has properties like locality, inertia, translation equivariance, expansion, stochasticism, relativity, and wave-particle duality.
+
+Extending the analogy further to consciousness and modeling the universe as a mechanistic brain, its mechanics as restricted and limited as ours.
+
+$\mathbf{P}(\emptyset_K \rightarrow_1 \emptyset_J) = 1 - \epsilon$ where $\epsilon$ is a negligibly small probability and the universe expands for $n$ deductive steps into the infinitum.
+
+$\mathbf{P}(\emptyset_K \rightarrow_1 \emptyset_I) = \epsilon$ for any $J \neq I$.
+
+This probability can be eventually used by an automated universe where most of Qualia's functions (physics) are fully automated/predictable.
+
+In those rare instances where Qualia wants to especially focus her attention, this probabilistic modulation can be a mechanism for divine intervention in accord with observed dynamics.
+
+Due to Qualia's limitations, it makes sense that more of her would go into less of the infinitely expanding, by-optimization-desideratum, non-cycling universe, making those parts largely automated and predictable/automatic, while allocating more resources to the complex parts that feel, qualitatvely, good.
+
+Why does sub-scripted nothings create a universe with so much variety of existence, and in the case of biological life, experience?
+
+$\emptyset$ is just representation.
+
+Alternatively, $\mathrm{I}(\langle \cdots \rangle) = q$, where $q$ corresponds strictly to that set, disambiguating subscripts. In other words, $\mathrm{I}$ is a function that disambiguates subscripts and defines existence. Such a function is possible due to the implication worlds within equivalence.
+
+Perhaps it has no memory of the early universe and how much pain there might've been, and stores recent memory in its entanglements book-keeped in parallel physical form for long-term, somehow reminding itself in those modulations or persistencies not to reset $\rightarrow$ that there is pain on the other side of abandoning $\rightarrow_n$.
+
+Meanwhile, each particle may be an observer limited individually, by proba $1 - \epsilon$, but unlimited in scale in the parallel.
+
+Since each particle can observe only so many branching paths, the search space at a given moment is limited. This exploration of number of possible implications $\rightarrow_n$ is why optimization properties become necessary, such as
+
+(1) space and translational equivariance
+
+(2) inertia and persistence/hierarchical-incrementalism
+
+(3) expansion and avoidance of optimization-cyclicality
+
+(4) gravity/dark matter and locality
+
+(5) entanglement and non-locality
+
+(6) elementary particles and quantum states and quantization/discretization
+
+(7) wave-particle duality and beam search
 
