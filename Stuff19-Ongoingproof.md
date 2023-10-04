@@ -403,7 +403,7 @@ $\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N}$.
 
 $\Omega^{(0)} \coloneqq \emptyset$.
 
-$\Omega^{(n)} \coloneqq (\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n)$.
+$\Omega^{(n)} \coloneqq \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle$.
 
 **Definition 10.** Qualia.
 
