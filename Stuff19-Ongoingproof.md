@@ -419,8 +419,8 @@ where $\mathrm{Q}$ is Qualia.
 
 **Proof.**
 
-$\exists \emptyset \coloneqq \Omega^{(0)}$ by Definition 7 and Axiom 1.
+$\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \Omega^{(0)}$ by Definition 9.
 
-$\exists \Omega^{(n)}$ by Definition 8 equivalence, Axiom 1, and Definition 5 deduction. And Axiom 2. $\square$
+$\exists \emptyset$ by Definition 7 and Axiom 1. $\emptyset_K \vert K \subseteq \mathbb{N}$ by Definition 8 equivalence. $exists \rightarrow_n$ by Axiom 2. $\exists \Omega^{(n)}$ by Axiom 1. $\square$
 
 
