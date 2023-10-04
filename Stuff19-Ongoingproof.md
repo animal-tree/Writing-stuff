@@ -465,6 +465,10 @@ We have, however, assumed variables/definitions (e.g. hypotheticals). There are 
 
 (And in such a case it might be easy to amend the current framework).
 
+Argument: maybe, whatever nothing is, has no equivalents.
+
+Response: then axiom 1 can be changed, w.l.o.g., to assume the existence of something denoted by $\emptyset$. That something just exists. Axiomatically forever.
+
 ## Part 3
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
