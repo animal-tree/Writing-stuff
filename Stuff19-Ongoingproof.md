@@ -407,7 +407,7 @@ The empty existence set $\emptyset \coloneqq \langle \rangle$.
 
 **Definition 9.** Nothing equivalents.
 
-$\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N}$.
+$\emptyset = \emptyset_K \forall K \subseteq \mathbb{N}$.
 
 **Definition 10.** The universe.
 
@@ -439,7 +439,7 @@ $((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow 
 
 **Proof.**
 
-$((\exists \emptyset), (\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 9) $\square$
+$((\exists \emptyset), (\emptyset = \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 9) $\square$
 
 **Theorem 3.** The universe exists. $\exists \Omega$.
 
