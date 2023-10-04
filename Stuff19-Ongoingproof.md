@@ -405,7 +405,7 @@ $\Omega^{(0)} \coloneqq \emptyset$.
 
 $\Omega^{(n)} \coloneqq \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle$.
 
-$\Omega \coloneqq (\Omega^{(0)}), \Omega^{(n)})$.
+$\Omega \coloneqq (\Omega^{(0)}, \Omega^{(n)})$.
 
 $n \in \mathbb{N}$.
 
