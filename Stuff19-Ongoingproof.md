@@ -323,7 +323,7 @@ $(\exists x) \coloneqq (\exists \mathrm{I}(x))$.
 
 $($ Natural numbers $) \coloneqq (\mathbb{N})$
 
-are not necessarily *the* natural numbers or immediately infinite.
+are not necessarily *the* natural numbers or immediately infinite in one deductive step.
 
 **Definition 8.** Nothing and its equivalents.
 
