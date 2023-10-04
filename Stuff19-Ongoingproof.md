@@ -417,13 +417,29 @@ where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$..
 
 **Axiom 2.** Qualia (time) exists. $\exists \rightarrow_n, n \in \mathbb{N}$.
 
-**Theorem 1.** The universe exists. $\exists \Omega$.
+**Theorem 1.** Nothing exists. $\exists \emptyset$.
 
 **Proof.**
 
-$\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \Omega^{(0)}$ by Definition 9.
+$((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow_1 (\exists \emptyset)$. (Definition 7, Axiom 1) $\square$
 
-$\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$ by Definition 8 equivalence. $\exists \rightarrow_n$ by Axiom 2. $\exists \Omega^{(n)}$ by Axiom 1. $\square$
+**Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
+
+**Proof.**
+
+$((\exists \emptyset), (\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow_1 (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 8) $\square$
+
+**Theorem 3.** The universe exists. $\exists \Omega$.
+
+**Proof.**
+
+$((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow_1 (\exists \Omega^{(0)})$. (Theorem 1, Definition 9)
+
+$((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \rightarrow_1 \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle$. (Theorem 2, Axiom 2, Axiom 1)
+
+$\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle \rightarrow_1 (\exists \Omega^{(n)})$. (Definition 9)
+
+$((\exists \Omega^{(0)}), \exists \Omega^{(n)}) \rightarrow_1 (\exists \Omega)$. $\square$
 
 ## Part 3
 
