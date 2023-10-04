@@ -419,7 +419,7 @@ where $\mathrm{Q}$ is Qualia.
 
 **Proof.**
 
-$\exists \emptyset \coloneqq \Omega^{(0)}$ by Axiom 1.
+$\exists \emptyset \coloneqq \Omega^{(0)}$ by Definition 7 and Axiom 1.
 
 $\exists \Omega^{(n)}$ by Definition 8 equivalence, Axiom 1, and Definition 5 deduction. And Axiom 2. $\square$
 
