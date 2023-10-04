@@ -471,7 +471,7 @@ Argument: maybe, whatever nothing is, has no equivalents.
 
 Response: then axiom 1 can be changed, w.l.o.g., to assume the existence of something denoted by $\emptyset$. That something just exists. Axiomatically forever.
 
-However, though unecessary, we would lose an explanation for the existence of existence. Axiom 1 currently assumes both.
+However, though unnecessary, we would lose an explanation for the existence of existence. Axiom 1 currently assumes both.
 
 ## Part 3
 
