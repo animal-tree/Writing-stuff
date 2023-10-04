@@ -421,25 +421,25 @@ where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$..
 
 **Proof.**
 
-$((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow_1 (\exists \emptyset)$. (Definition 7, Axiom 1) $\square$
+$((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow (\exists \emptyset)$. (Definition 7, Axiom 1) $\square$
 
 **Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
 
 **Proof.**
 
-$((\exists \emptyset), (\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow_1 (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 8) $\square$
+$((\exists \emptyset), (\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 8) $\square$
 
 **Theorem 3.** The universe exists. $\exists \Omega$.
 
 **Proof.**
 
-$((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow_1 (\exists \Omega^{(0)})$. (Theorem 1, Definition 9)
+$((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow (\exists \Omega^{(0)})$. (Theorem 1, Definition 9)
 
-$((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \rightarrow_1 \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle$. (Theorem 2, Axiom 2, Axiom 1)
+$((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \rightarrow \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle$. (Theorem 2, Axiom 2, Axiom 1)
 
-$\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle \rightarrow_1 (\exists \Omega^{(n)})$. (Definition 9)
+$\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_1 \rangle \rightarrow (\exists \Omega^{(n)})$. (Definition 9)
 
-$((\exists \Omega^{(0)}), \exists \Omega^{(n)}) \rightarrow_1 (\exists \Omega)$. $\square$
+$((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$. $\square$
 
 ## Part 3
 
