@@ -463,7 +463,7 @@ But maybe "nothing" isn't? Maybe "nothing" is the undefined.
 
 ...then define it as that. Its only use is as an arbitrary subscript-able variable.
 
-We have, however, assumed variables/definitions (e.g. hypotheticals). There are some recursive definitions here, yes. Technically not prohibited. But also easily falsifiable. Find a proof or deductive logic that doesn't fit into this framework.
+We have, however, assumed subscripts (e.g. variables/hypotheticals, Definition 6). There are some recursive definitions here, yes. Technically not prohibited. But also easily falsifiable. Find a proof or deductive logic that doesn't fit into this framework.
 
 (And in such a case it might be easy to amend the current framework).
 
