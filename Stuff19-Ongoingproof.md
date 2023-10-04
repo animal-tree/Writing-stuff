@@ -267,27 +267,27 @@ $A, B, C$ are anything defined...
 
 **Definition 1.** Axiom.
 
-$($ Axiom  $A ) =_1 (\exists A)$.
+$($ Axiom  $A ) \coloneqq (\exists A)$.
 
 **Definition 2.** Definition.
 
-$($ Definition $A =_1 B) =_1 (\exists (A =_1 B))$. 
+$($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$. 
 
 **Definition 3.** Equivalence.
 
-$($ Equivalence $A = B) =_1 (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A =_1 B$ substitutes the traditional equality operator:
+$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. $A \coloneqq B$ substitutes the traditional equality operator:
 
-Traditional equivalence $(A =_1 B) =_1 (A \rightarrow_1 B, B \rightarrow_1 A)$.
+Traditional equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
-For example, $(A \rightarrow_2 C) =_1 (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
+For example, $(A \rightarrow_2 C) \coloneqq (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
 
 **Definition 4.** Implication.
 
-$($ Implication $A \rightarrow_1 B) =_1 (\exists A \rightarrow_1 \exists B)$.
+$($ Implication $A \rightarrow_1 B) \coloneqq (\exists A \rightarrow_1 \exists B)$.
 
 **Definition 5.** Proof.
 
-$($ Deduction/theorem/proof $A \rightarrow B) =_1 (A \rightarrow_n B) =_1 (\exists A \rightarrow_n \exists B)$.
+$($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \coloneqq (\exists A \rightarrow_n \exists B)$.
 
 ---
 
@@ -307,7 +307,7 @@ Whatever this function is, call it $\mathrm{I}$.
 
 **Definition 6.** Observer and observation.
 
-$($ Observer $) =_1 (\mathrm{I}), ($ Observation $) =_1 (\mathrm{I}(\cdot))$.
+$($ Observer $) \coloneqq (\mathrm{I}), ($ Observation $) \coloneqq (\mathrm{I}(\cdot))$.
 
 **Theorem 1.** $\exists \mathrm{I}$.
 
@@ -317,19 +317,19 @@ $($ Observer $) =_1 (\mathrm{I}), ($ Observation $) =_1 (\mathrm{I}(\cdot))$.
 
 **Axiom 1.** Existence is defined by observation.
 
-$(\exists x) =_1 (\exists \mathrm{I}(x))$.
+$(\exists x) \coloneqq (\exists \mathrm{I}(x))$.
 
 **Definition 7.** Natural numbers.
 
-$($ Natural numbers $) =_1 (\mathbb{N})$
+$($ Natural numbers $) \coloneqq (\mathbb{N})$
 
 are not necessarily *the* natural numbers or infinite.
 
 **Definition 8.** Nothing and its equivalents.
 
-$($ Nothing $\emptyset) =_1 (\emptyset_K) \vert \forall K \subseteq \mathbb{N}$.
+$($ Nothing $\emptyset) \coloneqq (\emptyset_K) \vert \forall K \subseteq \mathbb{N}$.
 
-Call this set $(\emptyset^\mathbb{N}) =_1 \langle \emptyset_K \vert K \subseteq \mathbb{N} \rangle$.
+Call this set $(\emptyset^\mathbb{N}) \coloneqq \langle \emptyset_K \vert K \subseteq \mathbb{N} \rangle$.
 
 **Theorem 2.** $\exists \mathrm{I}(\emptyset)$ and $\exists \mathrm{I}(\mathrm{I})$ and $\exists \mathrm{I}(\hat{\emptyset}) \forall \hat{\emptyset} \in \emptyset^\mathbb{N}$.
 
