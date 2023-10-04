@@ -339,5 +339,7 @@ Call this set $(\emptyset^\mathbb{N}) \coloneqq \langle \emptyset_K \vert K \sub
 
 By Theorem 1, Axiom 1, and Definition 8. $\square$
 
+Note: "Nothing" existing is technically an axiom. Can just use $\mathrm{I}$ maybe and its equivalents.
+
 
 
