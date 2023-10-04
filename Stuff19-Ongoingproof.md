@@ -387,33 +387,41 @@ Note 3: Deductive steps (time) $\rightarrow$ and existence $\exists$ perhaps ste
 
 ## Part 2
 
-**Definition 6.** Sets of existence.
+**Definition 6.** Hypotheticals.
 
-$(\langle X_1, X_2, ... \rangle) \coloneqq (\exists X_1, X_2, ...)$.
+$($ Sets of anything defined... $(A, B, ...))$ $\coloneqq ((A, B, ...))$
 
-**Definition 7.** Nothing.
+denoted by parentheticals.
+
+**Definition 7.** Sets of existence.
+
+$(\langle X_1, X_2, ... \rangle) \coloneqq (\exists X_1, X_2, ...)$
+
+hypotheticals whose elements exist.
+
+**Definition 8.** Nothing.
 
 The empty existence set $\emptyset \coloneqq \langle \rangle$.
 
-**Definition 8.** Nothing equivalents.
+**Definition 9.** Nothing equivalents.
 
 $\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N}$.
 
-**Definition 9.** The universe.
+**Definition 10.** The universe.
 
 $\Omega^{(0)} \coloneqq \emptyset$.
 
-$\Omega^{(n)} \coloneqq \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle$.
+$\Omega^{(n)} \coloneqq (( \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K ), \rightarrow_n)$.
 
 $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(n)})$.
 
 $n \in \mathbb{N}$.
 
-**Definition 10.** Qualia.
+**Definition 11.** Qualia.
 
 $\rightarrow_{n+1} \coloneqq \mathrm{Q}(\Omega^{(n)})$,
 
-where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$..
+where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$.
 
 **Axiom 1.** Any set of existence $S$ exists. $\exists S$.
 
@@ -421,33 +429,19 @@ where $\mathrm{Q}$ is Qualia, $n \in \mathbb{N}$..
 
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
-**Proof. (regular)**
-
-By Definition 7, Definition 6, Axiom 1. $\square$
-
-**Proof. (formal)**
+**Proof.**
 
 $((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow (\exists \emptyset)$. (Definition 7, Definition 6, Axiom 1) $\square$
 
 **Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
 
-**Proof. (regular)**
-
-By Theorem 1, Definition 8. $\square$
-
-**Proof. (formal)**
+**Proof.**
 
 $((\exists \emptyset), (\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 8) $\square$
 
 **Theorem 3.** The universe exists. $\exists \Omega$.
 
-**Proof. (regular)**
-
-$\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \Omega^{(0)}$ by Definition 9.
-
-$\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$ by Definition 8 equivalence. $\exists \rightarrow_n$ by Axiom 2. $\exists \Omega^{(n)}$ by Axiom 1. $\square$
-
-**Proof. (formal)**
+**Proof.**
 
 $((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow (\exists \Omega^{(0)})$. (Theorem 1, Definition 9)
 
@@ -456,10 +450,6 @@ $((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \
 $\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_1 \rangle \rightarrow (\exists \Omega^{(n)})$. (Definition 9)
 
 $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$. (Definition 9) $\square$
-
----
-
-Note: the parentheticals are sets of hypotheticals. A hypthetical exists if its elements exist.
 
 ## Part 3
 
