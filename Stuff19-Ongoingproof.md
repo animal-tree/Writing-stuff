@@ -343,3 +343,84 @@ Note: "Nothing" existing is technically an axiom. Can just use $\mathrm{I}$ mayb
 
 
 
+---
+
+Scratch all that. Starting over.
+
+# Begin
+
+## Part 1
+
+$A, B, C$ are anything defined... 
+
+**Definition 1.** Axiom.
+
+$($ Axiom  $A ) \coloneqq (\exists A)$.
+
+**Definition 2.** Definition.
+
+$($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$. 
+
+**Definition 3.** Equivalence.
+
+$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n, m$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. 
+
+Instantaneous equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
+
+For example, $(A \rightarrow_2 C) \coloneqq (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
+
+**Definition 4.** Implication.
+
+$($ Implication $A \rightarrow_1 B) \coloneqq (\exists A \rightarrow_1 \exists B)$.
+
+**Definition 5.** Proof.
+
+$($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \coloneqq (\exists A \rightarrow_n \exists B)$ for some $n \in \mathbb{N}$.
+
+---
+
+Note 1: Traditional equivalence is fully generalized to by this more-general definition of equivalence, meaning any previous use of equivalence may, to the best of our ability to tell, be substituted with this new one.
+
+Note 2: Likewise, any implication $A \rightarrow B$ can be substituted with $A \rightarrow_n B$ for any $n \in \mathbb{N}$ w.l.o.g..
+
+Note 3: Deductive steps (time) $\rightarrow$ and existence $\exists$ perhaps stem from our own intuitions about the mechanistic functions of the world. Where did time come from? What caused existence? These are questions we will try to answer, at the root of this mathematics and the, perhaps equivalent, traditional. 
+
+## Part 2
+
+**Definition 6.** Sets of existence.
+
+$(\langle X_1, X_2, ... \rangle) \coloneqq (\exists X_1, X_2, ...)$.
+
+**Definition 7.** Nothing.
+
+The empty existence set $\emptyset \coloneqq \langle \rangle$.
+
+**Definition 8.** Nothing equivalents.
+
+$\emptyset \coloneqq \emptyset_K \forall K \subseteq \mathbb{N}$.
+
+**Definition 9.** The universe.
+
+$\Omega^{(0)} \coloneqq \emptyset$.
+
+$\Omega^{(n)} \coloneqq (\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n)$.
+
+**Axiom 1.** Existence exists. e.g. $\exists \emptyset$.
+
+**Axiom 2.** Qualia.
+
+$\rightarrow_n \coloneqq \mathrm{Q}(\Omega^{(n)})$.
+
+$\exists \rightarrow_n$.
+
+$\mathrm{Q}$ is Qualia.
+
+**Theorem 1.** The universe exists. $\exists \Omega$.
+
+**Proof.**
+
+$\exists \emptyset \coloneqq \Omega^{(0)}$ by Axiom 1.
+
+$\exists \Omega^{(n)}$ by Definition 8 equivalence, Axiom 1, and Definition 5 deduction. $\square$
+
+
