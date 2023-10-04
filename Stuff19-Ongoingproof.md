@@ -457,6 +457,10 @@ $\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarr
 
 $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$. (Definition 9) $\square$
 
+---
+
+Note: the parentheticals are sets of hypotheticals. A hypthetical exists if its elements exist.
+
 ## Part 3
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
