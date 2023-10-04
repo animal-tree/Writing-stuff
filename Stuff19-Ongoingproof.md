@@ -407,9 +407,7 @@ $\Omega^{(n)} \coloneqq (\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omeg
 
 **Definition 10.** Qualia.
 
-Qualia is the time/causality/deduction function.
-
-$\rightarrow_n \coloneqq \mathrm{Q}(\Omega^{(n)})$,
+$\rightarrow_{n+1} \coloneqq \mathrm{Q}(\Omega^{(n)})$,
 
 where $\mathrm{Q}$ is Qualia.
 
