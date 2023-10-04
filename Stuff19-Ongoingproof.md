@@ -335,5 +335,5 @@ Call this set $(\emptyset^\mathbb{N}) \coloneqq \langle \emptyset_K \vert K \sub
 
 **Proof.**
 
-By Theorem 6 and Axiom 1. $\square$
+By Theorem 1, Axiom 1, and Definition 8. $\square$
 
