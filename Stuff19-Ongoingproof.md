@@ -405,6 +405,8 @@ $\Omega^{(0)} \coloneqq \emptyset$.
 
 $\Omega^{(n)} \coloneqq \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n\rangle$.
 
+$\Omega \coloneqq (\Omega^{(0)}), \Omega^{(n)})$.
+
 $n \in \mathbb{N}$.
 
 **Definition 10.** Qualia.
@@ -453,7 +455,7 @@ $((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \
 
 $\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_1 \rangle \rightarrow (\exists \Omega^{(n)})$. (Definition 9)
 
-$((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$. $\square$
+$((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$. (Definition 9) $\square$
 
 ## Part 3
 
