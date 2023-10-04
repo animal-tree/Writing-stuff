@@ -425,4 +425,8 @@ $\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \Omega^{(0)}$ by Defin
 
 $\exists \emptyset$ by Definition 7 and Axiom 1. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$ by Definition 8 equivalence. $\exists \rightarrow_n$ by Axiom 2. $\exists \Omega^{(n)}$ by Axiom 1. $\square$
 
+## Part 3
+
+We will now show our universe can be represented with this grammar by providing a simple boilerplate.
+
 
