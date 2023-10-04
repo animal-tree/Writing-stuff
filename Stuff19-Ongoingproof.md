@@ -469,9 +469,9 @@ We will now show our universe can be represented with this grammar by providing 
 
 Theory
 
-existence is observation/qualia. $\mathbb{Q} = \emptyset_K \vert K \subseteq \mathbb{N}$, $q \in \mathbb{Q}$ of $q \subseteq \mathbb{Q}$.
+existence is observation/qualia. $\mathbb{Q} = \emptyset_K \vert K \subseteq \mathbb{N}$, $q \in \mathbb{Q}$ of $q \subseteq \mathbb{Q}$
 
-$Q$ has a teleological objective: $\max\limis_{n+1} \hat{Q}(\Omega^{(t>n)}).
+$Q$ has a teleological objective: $\max\limits_{n+1} \hat{Q}(\Omega^{(t>n)})$.
 
 $Q$ is limited or it would converge to its teleological objective right away. $Q$ can only consider a finite number of implications $\rightarrow_n$. Its search strategy is either assumed or emerges by some mechanism.
 
