@@ -455,6 +455,8 @@ $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$.
 
 Note: the existence of an "existence set" is debatable. But, it is so assumed in Axiom 1.
 
+We have thereby "defined" nothing. (Definition 8). Without loss of generality, it could be defined as something else. Anything else. Whatever "nothing" is.
+
 ## Part 3
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
