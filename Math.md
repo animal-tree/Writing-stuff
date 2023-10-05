@@ -128,7 +128,9 @@ $n \in \mathbb{N}$.
 
 **Proof.**
 
-$(\langle\langle\rangle\rangle \coloneqq ())  \rightarrow (\exists \langle\rangle)$. (Axiom 1, Definition 7)
+$((), (\langle\langle\rangle\rangle \coloneqq ()))  \rightarrow (\langle\langle\rangle\rangle)$. (Axiom 1)
+
+$(\langle\langle\rangle\rangle)  \rightarrow (\exists \langle\rangle)$. (Definition 7)
 
 $((\emptyset \coloneqq \langle \rangle), (\exists \langle\rangle)) \rightarrow (\exists \emptyset)$. (Definition 8) $\square$
 
@@ -162,7 +164,7 @@ At each time step modify one bit $\emptyset_{\tau,i} \rightarrow \emptyset_{-\ta
 
 $\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square$
 
-**Theorem 5.** An almost Turing-equivalent universe (sans halting) can arise from nothing, assuming just the properties of deduction: existence of existence and cause.
+**Theorem 5.** An almost Turing-equivalent universe (sans halting) can arise from nothing, assuming just the properties of deduction: existence of existence and cause, defining nothing as the empty set of existence.
 
 **Proof.**
 
