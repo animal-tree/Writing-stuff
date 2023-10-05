@@ -741,8 +741,12 @@ The universe as representation however is not the universe as matter. Representa
 
 That is why qualia is essential. Not just to human consciousness, but to the basis of physics. "qualia" — whatever it is — says "this is real."
 
-The less qualia in an experience, the "greyer" it becomes, until, eventually, it disappears from existence. qualia is in a way and existence metric. Something that gives something meaning/matter beyond its more-arbitrary representative form.
+The less qualia in an experience, the "greyer" it becomes, until, eventually, it disappears from existence. qualia is in a way an existence metric. Something that gives something meaning/matter beyond its more-arbitrary representative form.
 
 This is an experience in human consciousness. Arguably not in cosmic space and time. But why "matter" would exist, in the sense that differentiates from just the existent universe defined in our proof, is what qualia defines. qualia defines existence beyond representation, existence in actuality.
 
 Further entangling, from its base level of primordial consciousness to richer forms through physics of entanglement that produce human consciousness and the consciousness of other biological lifeforms.
+
+In the subsequent re-derivations, we'll construct a universe made of matter, not binary 1s and 0s.
+
+Distinguishing the two, as perhaps you're reading this on a computer, is the job of qualia. Do each of those 1s and 0s have a qualia? In your computer, maybe! But they don't add up to the kind they're representing. The universe in front of your screen is not the universe around you.
