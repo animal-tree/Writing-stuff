@@ -61,3 +61,107 @@ Treating each other as random variables.
 Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
 
 Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
+
+# Formally
+
+**Definition 1.** Axiom.
+
+$($ Axiom  $A ) \coloneqq (\exists A)$.
+
+**Definition 2.** Definition.
+
+$($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$. 
+
+**Definition 3.** Equivalence.
+
+$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n-1, m-1$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. 
+
+Instantaneous equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
+
+For example, $(A \rightarrow_2 C) \coloneqq (A \rightarrow_1 B \rightarrow_1 C)$ for some mandatory intermediary $B$.
+
+**Definition 4.** Implication.
+
+$($ Implication $A \rightarrow_1 B) \coloneqq (\exists A \rightarrow_1 \exists B)$.
+
+**Definition 5.** Proof.
+
+$($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \coloneqq (\exists A \rightarrow_n \exists B)$ for some $n \in \mathbb{N}$.
+
+**Definition 6.** Hypotheticals.
+
+$($ Sets of anything defined... $(A, B, ...))$ $\coloneqq ((A, B, ...))$
+
+denoted by parentheticals. 
+
+$A$ is a single hypothetical.
+
+**Definition 7.** Sets of existence.
+
+$(\langle X_1, X_2, ... \rangle) \coloneqq (\exists X_1, X_2, ...)$
+
+hypotheticals whose elements exist.
+
+**Definition 8.** Nothing.
+
+The empty existence set $\emptyset \coloneqq \langle \rangle$.
+
+**Definition 9.** Nothing equivalents.
+
+$\emptyset = \emptyset_K \forall K \subseteq \mathbb{N}$.
+
+**Definition 10.** The universe.
+
+$\Omega^{(0)} \coloneqq \emptyset$.
+
+$\Omega^{(n)} \coloneqq (( \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K ), \rightarrow_n)$.
+
+$\Omega \coloneqq (\Omega^{(0)}, \Omega^{(n)})$.
+
+$n \in \mathbb{N}$.
+
+**Axiom 1.** Any set of existence $S$ exists. $\exists S$.
+
+**Axiom 2.** Time exists. $\exists \rightarrow_n, n \in \mathbb{N}$.
+
+**Theorem 1.** Nothing exists. $\exists \emptyset$.
+
+**Proof.**
+
+$((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow (\exists \emptyset)$. (Definition 8, Definition 7, Axiom 1) $\square$
+
+**Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
+
+**Proof.**
+
+$((\exists \emptyset), (\emptyset = \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 9) $\square$
+
+**Theorem 3.** The universe exists. $\exists \Omega$.
+
+**Proof.**
+
+$((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow (\exists \Omega^{(0)})$. (Theorem 1, Definition 10)
+
+$((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \rightarrow \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle$. (Theorem 2, Axiom 2, Axiom 1)
+
+$\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle \rightarrow (\exists \Omega^{(n)})$. (Definition 10)
+
+$((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$. (Definition 10) $\square$
+
+**Theorem 4.** The universe $\Omega$ is at least a non-halting or cyclical Turing machine. 
+
+**Proof.**
+
+Construct a tape of binary zeroes and ones $\emptyset_{0,i}, \emptyset_{1,i}$ where $i$ denotes the position on the tape. 
+
+$\emptyset \rightarrow_1 \emptyset_{\tau,i} \forall i \in \mathbb{N}$.
+
+At each time step modify one bit $\emptyset_{\tau,i} \rightarrow \emptyset_{-\tau + 1,i}$. Now, complete the equivalence cycle of Definition 9 by the following limit:
+
+$\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square$
+
+**Theorem 5.** A Turing-equivalent universe can arise from nothing, assuming just the properties of deduction: an existing set of existence and time.
+
+**Proof.**
+
+By Theorem 4. $\square$
