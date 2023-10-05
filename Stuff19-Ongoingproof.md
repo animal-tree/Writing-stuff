@@ -473,6 +473,26 @@ Response: then axiom 1 can be changed, w.l.o.g., to assume the existence of some
 
 However, though unnecessary, we would lose an explanation for the existence of existence. Axiom 1 currently assumes both.
 
+---
+
+**Theorem 3.** The universe is at least a non-halting Turing machine. 
+
+**Proof.**
+
+Construct a tape of binary zeroes and ones $\emptyset_{0,i}, \emptyset_{1,i}$ where $i$ denotes the position on the tape. 
+
+$\emptyset \rightarrow_1 \emptyset_{\tau,i} \forall i \in \mathbb{N}$.
+
+At each time step modify one bit $\emptyset_{\tau,i} \rightarrow \emptyset_{-\tau + 1,i}$. Now, complete the equivalence cycle of Definition 9 by the following limit:
+
+$\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square$
+
+---
+
+Question: how to prove this with implications by the definition of proof?
+
+Easy: Define a Turing machine as a hypothetical and show that this definition is equivalent to that hypothetical.
+
 ## Part 3
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
