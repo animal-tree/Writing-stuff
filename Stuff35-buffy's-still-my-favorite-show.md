@@ -42,6 +42,16 @@ Fringe science is fun, ain't it?
 
 That doesn't begin to cover it! Archetypes within archetypes. Heroes and villains within heroes. Ooh, and Buffy the Vampire Slayer!
 
+---
+
+The modulations are how the bullies communicate.
+
+The ambiguities are how the superconscious communicate — sometimes.
+
+The superconscious override the bullies and communicate through modulations as well, to accord with higher plans when the conscious will is not a willing or knowing participant. So are there bullies? I don’t know. Kind of. They take time through a mechanical process. 
+
+Parts govern the government, but the government, in the infinitum, governs the parts.
+
 [^1]: Collectives within collectives. Sub-collectives can conflict with sub-collectives. THE collective is, probably, not the problem.
 
 [^2]: And ambiguities. Conveying many things that get picked up by the conscious-unconscious and superconscious.
