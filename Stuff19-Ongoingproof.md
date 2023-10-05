@@ -737,7 +737,7 @@ By Theorem 4. $\square$
 
 However, a Turing-equivalent grammar assumes someone defining the "word" of the grammar. Why would it be "this" universe instead of some other Turing-equivalent universe?
 
-The universe as representation however is not the universe as matter. Representation, while convincing, has no qualia. It makes no sense why/how these nothings and their somehow-distinguishable equivalents, as they chain together through the inner-worlds of deduction, actually bring rise to sensation and reality. We have a theoretical model, capable of representing the universe, but not an insight as to why the universe *matters* beyond just numerical nothings.
+The universe as representation however is not the universe as matter. Representation, while convincing, has no qualia. It makes no sense why/how these nothings and their somehow-distinguishable equivalents, as they chain together through the inner-worlds of deduction, actually bring rise to sensation and reality. We have a theoretical model, capable of representing the universe by the known laws of physics. But not an insight as to why the universe *matters* beyond just numerical nothings.
 
 That is why qualia is essential. Not just to human consciousness, but to the basis of physics. "qualia" — whatever it is — says "this is real."
 
