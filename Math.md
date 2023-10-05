@@ -128,7 +128,7 @@ $n \in \mathbb{N}$.
 
 **Proof.**
 
-$(\langle\langle\rangle\rangle \coloneqq ())  \rightarrow (\exists \langle\rangle)$. (Axiom 1)
+$(\langle\langle\rangle\rangle \coloneqq ())  \rightarrow (\exists \langle\rangle)$. (Axiom 1, Definition 7)
 
 $((\emptyset \coloneqq \langle \rangle), (\exists \langle\rangle)) \rightarrow (\exists \emptyset)$. (Definition 8) $\square$
 
