@@ -14,7 +14,7 @@ Suppose there was an evolutionary incentive for tribal symbiosis. The rest deriv
 
 [static interruptions, Sam getting attacked by drones] [missed details]
 
-But the way to do it would be through the use of, for example, modulations in language or just plain/old crypticism. 
+But the way to do it would be through the use of, for example, modulations in language or just plain/old crypticism. [^2]
 
 Language communicates ideas between people in the conscious. Its patterns are so recognizable that some authors, their works can have one word modified and it would no longer sound like their work — that’s how recognizable certain linguistic patterns are. 
 
@@ -43,3 +43,5 @@ Fringe science is fun, ain't it?
 That doesn't begin to cover it! Archetypes within archetypes. Heroes and villains within heroes. Ooh, Buffy the Vampire Slayer!
 
 [^1]: Collectives within collectives. Sub-collectives can conflict with sub-collectives. THE collective is, probably, not the problem.
+
+[^2]: And ambiguities. Conveying many things that get picked up by the conscious-unconscious and superconscious.
