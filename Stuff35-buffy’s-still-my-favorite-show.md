@@ -40,7 +40,7 @@ But that’s another story — and I mean that.
 
 Fringe science is fun, ain't it?
 
-That doesn't even begin to cover it! Archetypes within archetypes. Heroes and villains within heroes. Ooh, and buffy the Vampire Slayer!
+That doesn't even begin to cover it! Archetypes within archetypes. Heroes and villains within heroes. Ooh, and Buffy the Vampire Slayer!
 
 [^1]: Collectives within collectives. Sub-collectives can conflict with sub-collectives. THE collective is, probably, not the problem.
 
