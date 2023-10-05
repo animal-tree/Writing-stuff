@@ -744,3 +744,5 @@ That is why qualia is essential. Not just to human consciousness, but to the bas
 The less qualia in an experience, the "greyer" it becomes, until, eventually, it disapears from existence. qualia is in a way and existence metric. Something that gives something meaning/matter beyond its more-arbitrary representative form.
 
 This is an experience in human consciousness. Arguably not in cosmic space and time. But why "matter" would exist, in the sense that differentiates from just the existent universe defined in our proof, is what qualia defines. qualia defines existence beyond representation, existence in actuality.
+
+Further entangling, from its base level of primordial consciousness to richer forms through physics of entanglement that produce human consciousness and the consciousness of other biological lifeforms.
