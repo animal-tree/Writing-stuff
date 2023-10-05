@@ -475,7 +475,7 @@ However, though unnecessary, we would lose an explanation for the existence of e
 
 ---
 
-**Theorem 3.** The universe is at least a non-halting Turing machine. 
+**Theorem 4.** The universe $\Omega$ is at least a non-halting Turing machine. 
 
 **Proof.**
 
