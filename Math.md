@@ -120,15 +120,17 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(n)})$.
 
 $n \in \mathbb{N}$.
 
-**Axiom 1.** Any set of existence $S$ exists. $\exists S$.
+**Axiom 1.** Existence exists. $\langle\langle X_1, X_2, ... \rangle\rangle \coloneqq (\exists X_1, X_2, ...)$.
 
-**Axiom 2.** Time exists. $\exists \rightarrow_n, n \in \mathbb{N}$.
+**Axiom 2.** Cause exists. $\exists \rightarrow$.
 
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
 **Proof.**
 
-$((\emptyset \coloneqq \langle \rangle), (\exists \langle \rangle)) \rightarrow (\exists \emptyset)$. (Definition 8, Definition 7, Axiom 1) $\square$
+$(\langle\langle\rangle\rangle \coloneqq ())  \rightarrow (\exists \langle\rangle)$. (Axiom 1)
+
+$((\emptyset \coloneqq \langle \rangle), (\exists \langle\rangle)) \rightarrow (\exists \emptyset)$. (Definition 8) $\square$
 
 **Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
 
@@ -160,7 +162,7 @@ At each time step modify one bit $\emptyset_{\tau,i} \rightarrow \emptyset_{-\ta
 
 $\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square$
 
-**Theorem 5.** A Turing-equivalent universe can arise from nothing, assuming just the properties of deduction: an existing set of existence and time.
+**Theorem 5.** A Turing-equivalent universe can arise from nothing, assuming just the properties of deduction: existence of existence and cause.
 
 **Proof.**
 
