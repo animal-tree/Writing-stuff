@@ -24,7 +24,7 @@ One more item:
 
 This one requires its own focus because the threat of disease is not even slightly independent to the threats of the other three. Therefore this item is not axiomatic, but deductive, entangled causally with those 3 factors and others. Extreme cold or heat (1), pollution (1), dryness or drought (1), bad or poisonous foods (2), and bacterial and viral “wild predators" at the microscopic scale (3) are major causes of disease.
 
-While alopathy battles the microscopic predators already at war within/with the biomes of the body, exercise, good diet, plenty of time in nature, good social systems are like a stakewall. The pharmaceutical industry gets far more money though (and bigger total land grants, and more employees) than the national parks services.
+While alopathy battles the microscopic predators already at war within/with the biome of the body, exercise, good diet, plenty of time in nature, good social systems are like a stakewall. The pharmaceutical industry gets far more money though (and bigger total land grants, and more employees) than the national parks services.
 
 In my belief, disease could be seriously mitigated if people were afforded healthier social and economic structures, good food, and deeper connection with un-polluted nature. Due to the entanglement of this factor with so many other factors, it’s hard to say what actually is axiomatic and what never-before-tried combinations of changes (social, economic, dietary, and so forth) would be considered sufficient for humanity global health. It’s also impossible to define where that line would be. Would a long, healthy, happy life for everyone be the finish-marker? Or must we cure death altogether? These questions cannot be addressed in this thesis.
 
