@@ -162,7 +162,7 @@ At each time step modify one bit $\emptyset_{\tau,i} \rightarrow \emptyset_{-\ta
 
 $\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square$
 
-**Theorem 5.** An almost Turing-equivalent universe can arise from nothing, assuming just the properties of deduction: existence of existence and cause.
+**Theorem 5.** An almost Turing-equivalent universe (sans halting) can arise from nothing, assuming just the properties of deduction: existence of existence and cause.
 
 **Proof.**
 
