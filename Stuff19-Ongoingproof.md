@@ -503,7 +503,7 @@ Of course, we are assuming each $\emptyset_I$ has a unique qualia... well, not y
 
 **Proof.**
 
-By Theorem 4.
+By Theorem 4. $\square$
 
 ## Part 3
 
