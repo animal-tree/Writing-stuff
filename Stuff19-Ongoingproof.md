@@ -493,6 +493,10 @@ Question: how to prove this with implications by the definition of proof?
 
 Easy: Define a Turing machine as a hypothetical and show that this definition is equivalent to that hypothetical.
 
+---
+
+Of course, we are assuming each $\emptyset_I$ has a unique qualia...
+
 ## Part 3
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
