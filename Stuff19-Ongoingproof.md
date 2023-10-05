@@ -495,7 +495,7 @@ Easy: Define a Turing machine as a hypothetical and show that this definition is
 
 ---
 
-Of course, we are assuming each $\emptyset_I$ has a unique qualia...
+Of course, we are assuming each $\emptyset_I$ has a unique qualia... well, not yet. But that raises the important question: How to get qualitative existence from this array of suspiciously distinguishable equivalents? ...
 
 ## Part 3
 
