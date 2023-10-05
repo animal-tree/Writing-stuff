@@ -497,6 +497,14 @@ Easy: Define a Turing machine as a hypothetical and show that this definition is
 
 Of course, we are assuming each $\emptyset_I$ has a unique qualia... well, not yet. But that raises the important question: How to get qualitative existence from this array of suspiciously distinguishable equivalents? ...
 
+---
+
+**Theorem 5.** A Turing-equivalent universe can arise from nothing, assuming just the properties of deduction: an existing set of existence and time.
+
+**Proof.**
+
+By Theorem 4.
+
 ## Part 3
 
 We will now show our universe can be represented with this grammar by providing a simple boilerplate.
