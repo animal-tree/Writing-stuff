@@ -535,3 +535,56 @@ Since each particle can observe only so many branching paths, the search space a
 
 There are many reasons a teleology could emerge. One is evolutionary survival.
 
+### Part 4
+
+One way to describe it as I re-gathered my thoughts from my journals:
+
+Each particle weighs each other particle (or it’s linear projection) by inverse Euclidean distance. That’s it, but the heads represent branching realities of that particle, branching velocities to which that particle’s position is added. They are sampled from, the velocities, as Gaussians, and each get a truncation point for interacting that accumulates, somehow a la beam search. 
+
+This accumulation and truncation can be exactly like beam search, nucleus sampling, or something more “entangled”. 
+
+This entanglement we believe is responsible for higher orders of consciousness, that is, richer and more complex forms of the observation/qualia at the basis of the universe. 
+
+Question: how does beam search work?
+
+It truncates the lowest probability words, branching from the top N, at each time point. 
+
+They can however accumulate over layers/time points? 
+
+They can but that’d be redundant… unless we were preserving over multiple time points and time horizons to give wp duality a memory. 
+
+These richer temporal entanglements might’ve what human consciousness is, where consciousness is, at its basic form, the collision between observers, two particles. 
+
+Consciousness as collisions, each collision has a feeling called “qualia”. Each entangled collision has a richer feeling called consciousness, and eventually, richer human consciousness, paired together with the patterned brain activity of the brain and its corresponding voltages, hormonal explosions, chemical reactions, neurotransmitter exchanges, and electromagnetic field all that generate from its murky depths in your skull. Metaphors un-intended!
+
+But that is consciousness. 
+
+The ambiguities of language, however, are another thing. 
+
+---
+
+Wave-particle duality and entanglement.
+
+Describing it, in terms of $\emptyset$ and $\rightarrow$ and $Q$ and $\Omega$:
+
+$\emptyset_{x, v, \tau, i, k} \rightarrow_1 \emptyset_{x + \frac{v}{c}, v, \tau, i, k}$
+
+if collision:
+
+$\emptyset_{x, v, \tau, i, k} \rightarrow_1 \emptyset_{x + \frac{v'}{c}, v', \tau, i, k+\hat{k}}$,
+
+where $v$ depends on $v, \hat{v}$.
+
+$x, v, c \in \mathbb{N}, \frac{1}{c} \leq v \leq c$.
+
+truncate w.r.t. $i$ top-N $k$.
+
+But no way to get subscripts (qualia) of $\emptyset$. Thus have to use $\mathrm{I}$ an observer / the Identity function to be able to create a custom equivalence graph for singular and colliding (double) existences.
+
+Can we prove that in order to do this we need $\emptyset$ to be a function
+
+$\rightarrow$ an existence function, not non-existence.
+
+Furthermore, $x$ needs to be circular coordinates (e.g. defined by a unit vector or just implied as such).
+
+Collision: $\mathrm{I}(\mathrm{I_{\mathit{x, v, \tau, i, k}}}) \coloneqq \mathrm{I}(\mathrm{I_{\mathit{x', v', \tau', i', k'}}})$.
