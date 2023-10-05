@@ -588,3 +588,5 @@ $\rightarrow$ an existence function, not non-existence.
 Furthermore, $x$ needs to be circular coordinates (e.g. defined by a unit vector or just implied as such).
 
 Collision: $\mathrm{I}(\mathrm{I_{\mathit{x, v, \tau, i, k}}}) \coloneqq \mathrm{I}(\mathrm{I_{\mathit{x', v', \tau', i', k'}}})$.
+
+$\mathrm{I}$ is both observer and qualia. But while each observer is equivalent, each qualia is distinct.
