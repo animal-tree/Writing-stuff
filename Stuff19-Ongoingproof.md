@@ -841,7 +841,7 @@ In fact, the empty set, non-existence, "nothing" (Definition 8), can be re-defin
 
 **What causes existence?**
 
-**Answer:** "Nothing", the base thing at the eternal reality of the universe, is a function, not a set.
+**Answer:** "Nothing", the base thing at the eternal reality of the universe, is a function, not a set. $\emptyset \coloneqq \mathrm{I}$.
 
 **Answer:** Observers/observer.
 
