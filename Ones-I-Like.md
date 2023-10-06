@@ -206,6 +206,8 @@ $\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square
 
 By Theorem 4. $\square$
 
+---
+
 However, a Turing-equivalent grammar assumes someone defining the "word" of the grammar. Why would it be "this" universe instead of some other Turing-equivalent universe?
 
 ### What is Consciousness?
