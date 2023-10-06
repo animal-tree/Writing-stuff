@@ -625,7 +625,7 @@ $\mathrm{I}$ is both observer and qualia. But while each observer is equivalent,
 
 # From the ground up
 
-Starting over
+Go:
 
 ---
 
