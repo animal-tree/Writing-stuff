@@ -18,4 +18,4 @@ I think the universe, analogously, recycles itself piecemeal so that it doesn’
 
 I mean it can also have a yin-yang type one-creates-the-other back-and-forth. But that's just cyclicality with less colors. Not in a bad way. Minimal — ahhhhh
 
-Disclaimer: I don't recommend doing this  for your sleep schedule. Ever. Camping and healthy daytime eating, I do recommend. And note "nap" means something else in European countries. Er, it means long sleep as opposed to the correct American meaning defined by God (see I didnt forget to mention Him in this), is: short sleep. "sleep lightly or briefly, especially during the day." - Google.com
+~~Disclaimer: I don't recommend doing this  for your sleep schedule. Ever. Camping and healthy daytime eating, I do recommend. And note "nap" means something else in European countries. Er, it means long sleep as opposed to the correct American meaning defined by God (see I didnt forget to mention Him in this), is: short sleep. "sleep lightly or briefly, especially during the day." - Google.com~~
