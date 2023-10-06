@@ -853,6 +853,6 @@ $\rightarrow_{n+1} = \max\limits_{\rightarrow_{n+1}} q(\Omega^{(t \geq n)})$.
 
 **Answer:** Qualia (uppercase). Next up.
 
-There are many reasons a teleological purpose could emerge. One is survival. Another is the presence of pain amid the everything-qualia that is emergent from teh random application of $\mathrm{I}$.
+There are many reasons a teleological purpose could emerge. One is evolutionary survival. Another is the presence of pain qualia amid the everything/anything that is emergent from the random application of $\mathrm{I}$, or for that matter, desire. Objective reality with an objective.
 
 ---
