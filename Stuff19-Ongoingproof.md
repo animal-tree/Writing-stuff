@@ -802,3 +802,11 @@ Now we point to each nothing with an observer $\mathrm{I}_{v, \tau, k, , i}$ let
 We can then change this implication graph how. Well, we can cycle back to the observers from their corresponding point in space but how ! Each deductive step needs to update the implication graph. One point in space only has an outgoing arrow to it corresponding observer situated in it via an ingoing arrow.
 
 At each deductive step, this whole graph updates, how, by Qualia I guess. Then the cycle is completed by making each outgoing arrow probabilistic, potentially back to $\emptyset$. Er, the observer in this case can be represented as well by the $\emptyset$. An arrow needs to be able to delete and update the next arrow. Then the outgoing arrow can simultaneously point to a new observer and sets its outgoing spatial arrow. It can also delete the previous observer outgoing arrow, thereby translating the observer across space.
+
+---
+
+Existence can be defined as a recursive function w.l.o.g., specifically the Identity function.
+
+$\mathrm{I} \circ \cdots \circ \mathrm{I}(\emptyset) = \emptyset$.
+
+Where each "observation" by the Identity function (the "observer") signifies existence. Furthermore, by defining it as such we can more intuitively justfy the "realness" of reality/matter over representation. This is what qualia is. Infinite self-observation by a self-observing observer, thus making its many self-observation equivalents distinguishably unique by this mysterious property, in the existence of definition, of qualia.
