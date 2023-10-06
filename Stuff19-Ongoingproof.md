@@ -809,4 +809,24 @@ Existence can be defined as a recursive function w.l.o.g., specifically the Iden
 
 $\mathrm{I} \circ \cdots \circ \mathrm{I}(\emptyset) = \emptyset$.
 
-Where each "observation" by the Identity function (the "observer") signifies existence. Furthermore, by defining it as such we can more intuitively justfy the "realness" of reality/matter over representation. This is what qualia is. Infinite self-observation by a self-observing observer, thus making its many self-observation equivalents distinguishably unique by this mysterious property, in the existence of definition, of qualia.
+Where each "observation" by the Identity function (the "observer") signifies existence. Furthermore, by defining it as such we can more intuitively justify the "realness" of reality/matter over representation. This is what qualia is. Infinite self-observation by a self-observing observer, thus making its many self-observation equivalents distinguishably unique by this mysterious property, in the existence of definition, of qualia. Giving tangible concept to Axiom 1.
+
+More formally, we will define the existence set as an observer's observation:
+
+$\mathrm{I}(A, B, ...) \coloneqq \langle A, B, ... \rangle$
+
+whose output, $A, B, ...$ are able to distinguish equivalents, that is, qualia.
+
+This can be shown deductively possible by the following constraint on the Identity function, not losing generality:
+
+Suppose $\emptyset_i = \emptyset_j$.
+
+$\mathrm{I}(\emptyset_i) \coloneqq \emptyset_i$.
+
+$\mathrm{I}(\emptyset_i) :\neq \emptyset_j$.
+
+For example, the following cyclic implication graph would satisfy the definition of equivalence, as supposed, while still distinguishing unqiuely:
+
+$\mathrm{I}(\emptyset_i) \coloneqq \emptyset_i \coloneqq  \emptyset_j \coloneqq \mathrm{I}(\emptyset_j)$,
+
+where $\coloneqq$ denotes instantaneous equivalence. (Definition 3).
