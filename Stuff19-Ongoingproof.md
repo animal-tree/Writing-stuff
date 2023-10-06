@@ -693,7 +693,7 @@ $n \in \mathbb{N}$.
 
 **Proof.**
 
-$(((\langle\rangle) \coloneqq (())), ()) \rightarrow (\langle\rangle)$. (Definition 7)
+$(()) \rightarrow (\langle\rangle)$. (Definition 7)
 
 $(\langle\rangle)  \rightarrow (\langle\langle\rangle\rangle)$. (Axiom 1)
 
