@@ -739,7 +739,9 @@ $\emptyset_{\tau,j,t} \rightarrow_1 \emptyset_{\tau,j,t+1}$.
 
 Now, complete the equivalence cycle of Definition 9 by the following limit:
 
-$\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$. $\square$
+$\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$. 
+
+The infinitum allows us to leave the potential cyclicality of the universe a mystery. $\square$
 
 **Theorem 5.** A universe capable of simulating a Turing machine can arise from nothing, assuming just the properties of deduction: existence of existence and cause, defining nothing as the empty set of existence.
 
