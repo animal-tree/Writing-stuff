@@ -752,3 +752,39 @@ Further entangling, from its base level of primordial consciousness to richer fo
 In the subsequent re-derivations, we'll construct a universe made of matter, not binary 1s and 0s.
 
 Distinguishing the two, as perhaps you're reading this on a computer, is the job of qualia. Do each of those 1s and 0s have a qualia? In your computer, maybe! But they don't add up to the kind they're representing. The universe in front of your screen is not the universe around you.
+
+---
+
+(1) I will be in your spot.
+
+(2) You will be in my spot.
+
+(3) We will be in — same spot.
+
+$A \vert B \vert C \rightarrow$ collision.
+
+But we need an observer function, something that distinguishes nothings and their subscripts (e.g. position).
+
+However, for some reason, $\emptyset$ needs to be the observer function? Using $\emptyset$ defeats the power of the implication graph, I suppose?
+
+As in,
+
+$\emptyset \rightarrow \emptyset_X \rightarrow \mathrm{I}(\emptyset_X) \rightarrow \emptyset_X \rightarrow \emptyset$
+
+gives us only one observation.
+
+We can then transition to other observations by arbitrary choice of $\emptyset_{X'}$.
+
+So how to pre-define this is unclear. We have a cyclical loop. However, we can introduce probability as our solution,
+
+where since $\emptyset_X \rightarrow \emptyset_{X'}$ between observers is probabilistic, the graph, eventually, as long as it extends into the infinitum, converges every node back to every other node.
+
+But in the meantime, the implication graph can be pretty defined. With transitions from $\emptyset_{x,v} \rightarrow \emptyset_{x+v,v}$ for example. $c$ is used to give each increment a waiting duration, but we'll get to that later.
+
+Why use an observer at all? Why not just transition between sets of $\emptyset$?
+
+Well, observer with subscripts wouldlet us output anything we want, meaning an observation of multiple subscripts can output an observer with a subset of those subscripts, but I suppose $\emptyset$ can do that too?
+
+Perhaps $Q$ can just pick which $\emptyset$ to truncate. i.e. each pair has a probibilistic implication, or multiple implications.
+
+What if two observers somehow observed each other? And then their own subscripts changed accordingly, probabilistically and with branching implications that could somehow, e.g. by $Q$, be truncated per-observer.
