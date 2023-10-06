@@ -847,7 +847,9 @@ In fact, the empty set, non-existence, "nothing" (Definition 8), can be re-defin
 
 **What is cause?**
 
-**Answer:** A teleological purpose. $\rightarrow_n = \mathrm{Q}(\Omega^{(n)})$.
+**Answer:** A teleological purpose. $\rightarrow_n = \mathrm{Q}(\Omega^{(n)})$. Or better:
+
+$\rightarrow_{n+1} = \max\limits_{\rightarrow_{n+1}} q(\Omega^{(t \geq n)})$.
 
 **Answer:** Qualia (uppercase). Next up.
 
