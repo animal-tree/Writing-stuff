@@ -830,3 +830,17 @@ For example, the following cyclic implication graph would satisfy the definition
 $\mathrm{I}(\emptyset_i) \coloneqq \emptyset_i \coloneqq  \emptyset_j \coloneqq \mathrm{I}(\emptyset_j)$,
 
 where $\coloneqq$ denotes instantaneous equivalence. (Definition 3).
+
+In fact, the empty set, non-existence, "nothing" (Definition 8), can be re-defined as $\mathrm{I}$. Leaving us with nothing but a self-observing observer, who existence is self-distinguishing (qualia).
+
+**What is existence?**
+
+**Answer:** Distinguishable definition.
+
+**Answer:** qualia/observation.
+
+**What causes existence?**
+
+**Answer:** "Nothing", the base thing at the eternal reality of the universe, is a function, not a set.
+
+**Answer:** Observers/observer.
