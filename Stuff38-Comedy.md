@@ -15,3 +15,5 @@ So one other way to fix your sleep schedule, if you’re waking up really late�
 But one other way, and I think this is how the universe works, is to cycle parts at a time. Gradually shift into naps here and there, eventually get your whole sleep phase in order, at night, as you follow the most important steps: waking-time steak and 24/7 sun/star-shiney outdoors.
 
 I think the universe, analogously, recycles itself piecemeal so that it doesn’t have to actually do that scary, terrible Samsara thing. Probabilistic modulations, here and there, while the rest of it stays pretty much in tact. It’s like, from time to time I create my great grandfather’s thumb.
+
+I mean it can also have a yin-yang type one-creates-the-other back-and-forth.
