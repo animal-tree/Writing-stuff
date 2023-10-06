@@ -788,3 +788,15 @@ Well, observer with subscripts wouldlet us output anything we want, meaning an o
 Perhaps $Q$ can just pick which $\emptyset$ to truncate. i.e. each pair has a probibilistic implication, or multiple implications.
 
 What if two observers somehow observed each other? And then their own subscripts changed accordingly, probabilistically and with branching implications that could somehow, e.g. by $Q$, be truncated per-observer.
+
+---
+
+The previous formulation gets usas far as a non-halting Turing machine, but this one more intuitively models the physics of the universe able to directly — without solely binary 1s and 0s on a Turing machine tape — represent the universe. That is, without a tape of just individually changing binary bits — a representation that would be ugly and hard to relate to our actual real world. The below formulation "collides" particles with other particles and directly expresses forces of interaction, velocity, and wave-particle duality. As well as observation, qualia, and entanglement that can express how rich experiences of human consciousness can form through the intricate complexities emergeable from this model.
+
+What if we represent space with nothings $\emptyset_{x,y,z}$.
+
+Now we point to each nothing with an observer $\mathrm{I}_{v, \tau, k, , i}$ let's say.
+
+We can then change this implication graph how. Well, we can cycle back to the observers from their corresponding point in space but how ! Each deductive step needs to update the implication graph. One point in space only has an outgoing arrow to it corresponding observer situated in it via an ingoing arrow.
+
+At each deductive step, this whole graph updates, how, by Qualia I guess. Then the cycle is completed by making each outgoing arrow probabilistic, potentially back to $\emptyset$. Er, the observer in this case can be represented as well by the $\emptyset$. An arrow needs to be able to delete and update the next arrow. Then the outgoing arrow can simultaneously point to a new observer and sets its outgoing spatial arrow. It can also delete the previous observer outgoing arrow, thereby translating the observer across space.
