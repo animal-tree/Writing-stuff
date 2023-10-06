@@ -685,7 +685,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(n)})$.
 
 $n \in \mathbb{N}$.
 
-**Axiom 1.** Existence exists. $\langle\langle X_1, X_2, ... \rangle\rangle \coloneqq (\exists X_1, X_2, ...)$.
+**Axiom 1.** Existence exists. $\langle X_1, X_2, ... \rangle \coloneqq \langle\langle X_1, X_2, ... \rangle\rangle$.
 
 **Axiom 2.** Cause exists. $\exists \rightarrow$.
 
@@ -693,7 +693,11 @@ $n \in \mathbb{N}$.
 
 **Proof.**
 
-$((), (\langle\langle\rangle\rangle \coloneqq ()))  \rightarrow (\langle\langle\rangle\rangle)$. (Axiom 1)
+$\langle\rangle \coloneqq ()$. (Definition 7)
+
+$() \rightarrow \langle\rangle$. (Definition 3, Definition 5)
+
+$(\langle\rangle)  \rightarrow (\langle\langle\rangle\rangle)$. (Axiom 1)
 
 $(\langle\langle\rangle\rangle)  \rightarrow (\exists \langle\rangle)$. (Definition 7)
 
