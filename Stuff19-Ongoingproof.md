@@ -844,3 +844,11 @@ In fact, the empty set, non-existence, "nothing" (Definition 8), can be re-defin
 **Answer:** "Nothing", the base thing at the eternal reality of the universe, is a function, not a set.
 
 **Answer:** Observers/observer.
+
+**What is cause?**
+
+**Answer:** A teleological purpose.
+
+**Answer:** Qualia (uppercase). Next up.
+
+---
