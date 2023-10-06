@@ -853,4 +853,6 @@ $\rightarrow_{n+1} = \max\limits_{\rightarrow_{n+1}} q(\Omega^{(t \geq n)})$.
 
 **Answer:** Qualia (uppercase). Next up.
 
+There are many reasons a teleological purpose could emerge. One is survival.
+
 ---
