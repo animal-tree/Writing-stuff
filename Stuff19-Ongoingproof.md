@@ -693,9 +693,9 @@ $n \in \mathbb{N}$.
 
 **Proof.**
 
-$\langle\rangle \coloneqq ()$. (Definition 7)
+$(\langle\rangle) \coloneqq (())$. (Definition 7)
 
-$() \rightarrow \langle\rangle$. (Definition 3, Definition 5)
+$(()) \rightarrow (\langle\rangle)$. (Definition 3, Definition 5)
 
 $(\langle\rangle)  \rightarrow (\langle\langle\rangle\rangle)$. (Axiom 1)
 
