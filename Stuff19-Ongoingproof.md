@@ -719,19 +719,29 @@ $\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarr
 
 $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\exists \Omega)$. (Definition 10) $\square$
 
-**Theorem 4.** The universe $\Omega$ is at least a non-halting or cyclical Turing machine. 
+**Theorem 4.** The universe $\Omega$ is at least a non-halting Turing machine. 
 
 **Proof.**
 
-Construct a tape of binary zeroes and ones $\emptyset_{0,i}, \emptyset_{1,i}$ where $i$ denotes the position on the tape. 
+Construct a tape of binary zeroes and ones $\emptyset_{0,i, t}, \emptyset_{1,i, t}$ where $i$ denotes the position on the tape and $t$ denotes the time point.
 
-$\emptyset \rightarrow_1 \emptyset_{\tau,i} \forall i \in \mathbb{N}$.
+$\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \in \mathbb{N}, \tau \in (0, 1)$.
 
-At each time step modify one bit $\emptyset_{\tau,i} \rightarrow \emptyset_{-\tau + 1,i}$. Now, complete the equivalence cycle of Definition 9 by the following limit:
+This is the initial state, defined by $\tau$.
 
-$\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square$
+At each time step modify one bit 
 
-**Theorem 5.** An almost Turing-equivalent universe (sans halting) can arise from nothing, assuming just the properties of deduction: existence of existence and cause, defining nothing as the empty set of existence.
+$\emptyset_{\tau,i,t} \rightarrow_1 \emptyset_{-\tau + 1,i,t+1}$
+
+or "stay":
+
+$\emptyset_{\tau,j,t} \rightarrow_1 \emptyset_{\tau,j,t+1}$.
+
+Now, complete the equivalence cycle of Definition 9 by the following limit:
+
+$\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$. $\square$
+
+**Theorem 5.** A universe capable of simulating a Turing machine can arise from nothing, assuming just the properties of deduction: existence of existence and cause, defining nothing as the empty set of existence.
 
 **Proof.**
 
