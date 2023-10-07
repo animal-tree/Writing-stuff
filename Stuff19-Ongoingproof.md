@@ -921,6 +921,28 @@ As for where *cause* came from, that is based on the premise that these qualia, 
 
 ---
 
+Each $\mathrm{I}$ observes the space around it (whatever t wants technically)
+
+When they observe each other, stuff happens
+
+They collide and bounce, for example
+
+it feels good
+
+Now, to define that, we need space
+
+$\langle$square image with space$\rangle$
+
+Each $\mathrm{I}$ can imply a point in space and that implication can imply a next point in space recursively forever and so on
+
+but when $\mathrm{I}$s meet, they can change their own and each others' implication graph
+
+Observation changes ones own implications, but in mutually identical ways
+
+Now, this becomes a problem
+
+_
+
 Okay, so we have a Turing machine type grammar, but it's ugly and unintuitive to actual physics.
 
 Actual physics: particles interacting, in space, etc.
@@ -943,13 +965,23 @@ where $v'$ is a new collision velocity.
 
 Actually, $\mathrm{I}$ can apply to itself and its neighbors.
 
+_
+
+The way $\mathrm{I}$ applies to itself, is, it always does — this is deduction — somehow.
+
+Then to its neighbors I'm not sure
+
+ambiguity pertaining to outgoing branches.
+
+That ambiguity is resolved by $\mathrm{I_\mathit{j}}$ and $\mathrm{I_\mathit{x}}$ respectively, with $\mathrm{I_\mathit{i}}$ and $\mathrm{I_\mathit{x}}$ respectively, and $\mathrm{I_\mathit{v}}$ and $\mathrm{I_\mathit{v'}}$
+
 ---
 
 But now we have a conflict, how do we ensure cyclicality?
 
 We can...
 
-each $\mathrm{I}$ probabilistially branches from $\mathrm{I} and to it.
+each $\mathrm{I}$ probabilistially branches from $\mathrm{I}$ and to it.
 
 So, probability becomes relevant upon conflicting outgoing branches. Am I *you* or *you*? To be alive and dead at the same time, a probabilistic coin flip is needed. Over the infinitum, they all equate to $\mathrm{I}$, completing the equivalence cycle.
 
