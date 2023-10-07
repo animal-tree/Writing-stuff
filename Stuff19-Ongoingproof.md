@@ -888,3 +888,7 @@ Then each neuron can residually connect back to the previous. Each crossing redu
 We will now construct this as an MHDPA!
 
 While the past exists concurrent to the present, infinitely more of the recent past exists than the long-term. This infinity creates the present moment — meaning we are far less trapped in the past than we are in the now.
+
+Multi-branch without probability, makes it hard to argue the existence of a present moment. 
+
+But can nevertheless suffice to make the Turing machine run into the infinitum, as branch simultaneously resurrects and progresses.
