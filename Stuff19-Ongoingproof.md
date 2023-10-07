@@ -892,3 +892,9 @@ While the past exists concurrent to the present, infinitely more of the recent p
 Multi-branch without probability, makes it hard to argue the existence of a present moment. 
 
 But can nevertheless suffice to make the Turing machine run into the infinitum, as branch simultaneously resurrects and progresses.
+
+Maybe there's a finite number of branches, hences depleting branch weights, dying dendrites. But, those dendrite ressurect — oh! in probability to the newer. Maybe a finite probability total but an infinite continuous density, distributed across spacetime. So that density because more present. Meanwhile it can further automate parts and expand those automated parts, as the densities concentrate ever stronger into regions of the now with the most qualia. (qualia $\approx$ that density). 
+
+Just spitballing my thoughts from 2018 in this new deductive context.
+
+Ah, and that's relevant: Qualia's memory, eixstence, becomes ever more concentrated in the here and now, earth, humans, as the rest of it can un-densely become automated, cheap, more or less "grey"... matter.
