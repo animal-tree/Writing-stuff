@@ -940,3 +940,5 @@ Pairwise, it states $(\mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{x}} \col
 $(\mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{x+v}}, \mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{v'}})$
 
 where $v'$ is a new collision velocity.
+
+Actually, $\mathrm{I}$ can apply to itself and its neighbors.
