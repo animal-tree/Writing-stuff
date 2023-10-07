@@ -952,3 +952,13 @@ We can...
 each $\mathrm{I}$ probabilistially branches from $\mathrm{I} and to it.
 
 So, probability becomes relevant upon conflicting outgoing branches. Am I *you* or *you*? To be alive and dead at the same time, a probabilistic coin flip is needed. Over the infinitum, they all equate to $\mathrm{I}$, completing the equivalence cycle.
+
+---
+
+We have self-creating graphs that exist because the definition of definition says so. All equivalent hypotheticals become an existent object. All of their equivalents become super-universes in tandem that provably exist. 
+
+So we don't need nothing or Axiom 1.
+
+Definition exists as a hypothetical and an existence. Whatever definition is, define it as $\mathrm{I}$. It is a function that deduces one variable to another, and back, in one deductive step. What does it mean that a definition exists? Whatever it is, that’s our axiom. That function. Causally relating two things back and forth. Bidirectional causality (I cause you, you cause me) is therefore free. Whatever this bidirectional causality is (call it yin-yang if you want), it exists and means its equivalents to other such graphs of self-causality or just bidirectional, also exist. Each a universe.
+
+Definition defines itself. From that arise universes. From Qualia, arise universe.
