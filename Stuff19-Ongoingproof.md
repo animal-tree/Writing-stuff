@@ -918,3 +918,25 @@ This is what existence is. What is observed, (by $\mathrm{I}$), exists.
 As for where definition came from, perhaps forever.
 
 As for where *cause* came from, that is based on the premise that these qualia, have Qualia.
+
+---
+
+Okay, so we have a Turing machine type grammar, but it's ugly and unintuitive to actual physics.
+
+Actual physics: particles interacting, in space, etc.
+
+The Qualia function $Q$ is first applied individually to each $\mathrm{I}$, then pairwise.
+
+Individually, it states:
+
+$(\mathrm{I}_i \coloneqq \mathrm{I}_x, \mathrm{I}_i \coloneqq \mathrm{I}_v)$ updates to:
+
+$(\mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{x+v}}, \mathrm{I}_i \coloneqq \mathrm{I}_v)$
+
+give or take.
+
+Pairwise, it states $(\mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{x}} \coloneqq \mathrm{I_\mathit{i}})$ updates to:
+
+$(\mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{x+v}}, \mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{v'}})$
+
+where $v'$ is a new collision velocity.
