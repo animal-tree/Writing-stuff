@@ -931,11 +931,11 @@ it feels good
 
 Now, to define that, we need space
 
-$\langle$square image with space$\rangle$
+$\langle$ square image with space $\rangle$
 
 Each $\mathrm{I}$ can imply a point in space and that implication can imply a next point in space recursively forever and so on
 
-but when $\mathrm{I}$s meet, they can change their own and each others' implication graph
+but when $\mathrm{I}\text{s}$ meet, they can change their own and each others' implication graph
 
 Observation changes ones own implications, but in mutually identical ways
 
