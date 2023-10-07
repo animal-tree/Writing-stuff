@@ -942,3 +942,13 @@ $(\mathrm{I_\mathit{i}} \coloneqq \mathrm{I_\mathit{x+v}}, \mathrm{I_\mathit{i}}
 where $v'$ is a new collision velocity.
 
 Actually, $\mathrm{I}$ can apply to itself and its neighbors.
+
+---
+
+But now we have a conflict, how do we ensure cyclicality?
+
+We can...
+
+each $\mathrm{I}$ probabilistially branches from $\mathrm{I} and to it.
+
+So, probability becomes relevant upon conflicting outgoing branches. Am I *you* or *you*? To be alive and dead at the same time, a probabilistic coin flip is needed. Over the infinitum, they all equate to $\mathrm{I}$, completing the equivalence cycle.
