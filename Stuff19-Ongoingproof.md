@@ -868,3 +868,23 @@ $\rightarrow_{n+1} = \max\limits_{\rightarrow_{n+1}} q(\Omega^{(t \geq n)})$.
 There are many reasons a teleological purpose could emerge. One is evolutionary survival. Another is the presence of pain qualia amid the everything/anything that is emergent from the random application of $\mathrm{I}$, or for that matter, desire. Objective reality with an objective.
 
 ---
+
+What différentiates multi-branch implication from probabilistic selection. If nothing, then good Clear-ish definition of multi-branched search. Maybe.
+
+But maybe, multi-branch just implies all of it and it all exists concurrently to deductive step n. Therefore bit modifications repeat in the same pattern they did before as if by time travel for all branches in concurrency, no not in concurency, not unless they cycles at different times. If they cycle as different times, then the tape at deductive step n becomes undefined. Are there two tapes now, a new copy for every bit and every cycle perhaps at every deductive step concurrent to the expansion into the time infinitum?
+
+Deductive step n becomes undefined. Or rather the precise tape does.
+
+In that way the past technically exists concurrently to the future. Infinitely recycling while the future begins anew. So yes, every moment is an eternity. Kind of. If the branches are dynamic they can create anew to after the last cycle point — fatalism let’s say and have the probability of that cycling decrease on the next round?
+
+Never mind.
+
+Maybe the edges get weaker every time they’re crossed. Dendrites. 
+
+$\Omega^{(n)}$ includes all the branches of $\rightarrow_n$. The nodes can be neurons who “fire” into one branch or another depending on a probability.
+
+Then each neuron can residually connect back to the previous. Each crossing reduces the probability of that branch but never brings it back down to 0, but then we would eventually cycle all the way back to the origin infinitely many times though a smaller infinity than recent memory. Thus we have a higher proportion of recent traversals, as all traversals increase in frequency. Thus this gives us more priority — infinitely more — in the recent.
+
+We will now construct this as an MHDPA!
+
+While the past exists concurrent to the present, infinitely more of the recent past exists than the long-term. This infinity creates the present moment — meaning we are far less trapped in the past than we are in the now.
