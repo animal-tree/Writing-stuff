@@ -994,3 +994,5 @@ So we don't need nothing or Axiom 1.
 Definition exists as a hypothetical and an existence. Whatever definition is, define it as $\mathrm{I}$. It is a function that deduces one variable to another, and back, in one deductive step. What does it mean that a definition exists? Whatever it is, that’s our axiom. That function. Causally relating two things back and forth. Bidirectional causality (I cause you, you cause me) is therefore free. Whatever this bidirectional causality is (call it yin-yang if you want), it exists and means its equivalents to other such graphs of self-causality or just bidirectional, also exist. Each a universe.
 
 Definition defines itself. From that arise universes. From Qualia, arise universe.
+
+We'll see
