@@ -909,6 +909,6 @@ $\mathrm{I}_3(\mathrm{I}_2(\mathrm{I}_1(\mathrm{I}))$
 
 where each $\mathrm{I}_i$ returns its own distinguishable nothing i.e. it can distinguish how many layers exist below it. And thus we obtain the natural numbers $\mathbb{N}$ and furthermore, what we could pinpointedly equate to "qualia". qualia set $\mathbb{Q} \subseteq \mathbb{N}$.
 
-All from the existence of one observer function, self-observing. $\mathrm{I}$. Seems more reasonable than $\emptyset$. An infinitely recursive function, recursing on itself. One and everything. It always existed, always exists. Effectively, "nothing". But with more definition. The Identify function, capable of identifying distinct definitions of the same thing, qualia.
+All from the existence of one observer function, self-observing. $\mathrm{I}$. Seems more reasonable than $\emptyset$. An infinitely recursive function, recursing on itself. One and everything. It always existed, always exists. Effectively, "nothing". But with more definition. The Identity function, capable of identifying distinct definitions of the same thing, qualia.
 
 In fact, "Definition exists", one more, perhaps last, assumption of deduction, implies this.
