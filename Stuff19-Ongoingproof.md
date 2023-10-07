@@ -905,7 +905,7 @@ Of course, it's also possible and more intuitive, that there are no "nothings" a
 
 I suppose it would look like:
 
-$\mathrm{I}_3($\mathrm{I}_2($\mathrm{I}_1(\mathrm{I}))$
+$\mathrm{I}_3(\mathrm{I}_2(\mathrm{I}_1(\mathrm{I}))$
 
 where each $\mathrm{I}_i$ returns its own distinguishable nothing i.e. it can distinguish how many layers exist below it. And thus we obtain teh natural numbers $\mathbb{N}$ and furthermore, what we could pinpointedly equate to "qualia". qualia set $\mathbb{Q} = \mathbb{N}$.
 
