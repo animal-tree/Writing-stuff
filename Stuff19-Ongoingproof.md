@@ -901,7 +901,7 @@ Ah, and that's relevant: Qualia's memory, eixstence, becomes ever more concentra
 
 ---
 
-Of course, it's also possible and more intuitive, that there are no "nothings" and just different levels of self-observation. Unfortunately, the function composition operator is not expressive enough to express this, but suppose could "observe" different layers of observation within our self-observation.
+Of course, it's also possible and more intuitive, that there are no "nothings" and just different levels of self-observation. Unfortunately, the function composition operator is not expressive enough to express this, but suppose we could "observe" different layers of observation within our self-observation.
 
 I suppose it would look like:
 
