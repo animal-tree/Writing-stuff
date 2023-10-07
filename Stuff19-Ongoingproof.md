@@ -912,3 +912,9 @@ where each $\mathrm{I}_i$ returns its own distinguishable nothing i.e. it can di
 All from the existence of one observer function, self-observing. $\mathrm{I}$. Seems more reasonable than $\emptyset$. An infinitely recursive function, recursing on itself. One and everything. It always existed, always exists. Effectively, "nothing". But with more definition. The Identity function, capable of identifying distinct definitions of the same thing, qualia.
 
 In fact, "Definition exists", one more, perhaps last, assumption of deduction, implies this.
+
+This is what existence is. What is observed, (by $\mathrm{I}$), exists.
+
+As for where definition came from, perhaps forever.
+
+As for where *cause* came from, that is based on the premise that these qualia, have Qualia.
