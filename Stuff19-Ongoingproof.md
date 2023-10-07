@@ -898,3 +898,15 @@ Maybe there's a finite number of branches, hences depleting branch weights, dyin
 Just spitballing my thoughts from 2018 in this new deductive context.
 
 Ah, and that's relevant: Qualia's memory, eixstence, becomes ever more concentrated in the here and now, earth, humans, as the rest of it can un-densely become automated, cheap, more or less "grey"... matter.
+
+---
+
+Of course, it's also possible and more intuitive, that there are no "nothings" and just different levels of self-observation. Unfortunately, the function composition operator is not expressive enough to express this, but suppose could "observe" different layers of observation within our self-observation.
+
+I suppose it would look like:
+
+$\mathrm{I}_3($\mathrm{I}_2($\mathrm{I}_1($\mathrm{I}))$
+
+where each $\mathrm{I}_i$ returns its own distinguishable nothing i.e. it can distinguish how many layers exist below it. And thus we obtain teh natural numbers $\mathbb{N}$ and furthermore, what we could pinpointedly equate to "qualia". qualia set $\mathbb{Q} = \mathbb{N}$.
+
+All from the existence of one observer function, self-observing. $\mathbb{N}{I}$. Seems more reasonable than $\emptyset$. An infinitely recursive function, recursing on itself. One and everything. It always existed, always exists. Effectively, "nothing". But with more definition. The Identify function, capable of identifying distinct definitions of the same thing, qualia.
