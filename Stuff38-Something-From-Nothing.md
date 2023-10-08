@@ -185,3 +185,5 @@ Thus creating a limited set of definitions at each recursive step $n$, not easil
 Perhaps, further in consideration, Axiom 1 can "create" Axiom 2 and Axiom 2 can "create" Axiom 1, each depending only on the definition of definition, axiomatically assumed without axiom I guess.
 
 As a matter of fact, for a recursive function to be defined and it exist, it must be actively recursing.
+
+Piecing these together, we could probably derive a non-axiomatic universe, but I want to move on to the question of what the deducer is, that is, why THE laws of physics instead of some other laws of physics?
