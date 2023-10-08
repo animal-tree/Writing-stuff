@@ -156,4 +156,4 @@ By Theorem 4. $\square$
 
 ---
 
-We thus obtain a directed Hamiltonian circuit.
+We thus obtain a directed Hamiltonian circuit (potentially expanding in real-time).
