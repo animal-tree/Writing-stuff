@@ -183,3 +183,5 @@ $\exists(\emptyset_i) = (\exists\emptyset_i, \exists(\emptyset_j))$,
 Thus creating a limited set of definitions at each recursive step $n$, not easily denoted in the expressivity of recursive functional form. We can denote that $n\text{th}$ recursive step set of existence, and perhaps each source and sink to each existence, as $\Omega^{(n)}$ PERHAPS allowing us to derive a universe from nothing but definition and the axiom that this existence function, as described, exists.
 
 Perhaps, further in consideration, Axiom 1 can "create" Axiom 2 and Axiom 2 can "create" Axiom 1, each depending only on the definition of definition, axiomatically assumed without axiom I guess.
+
+As a matter of fact, for a recursive function to be defined and it exist, it must be actively recursing.
