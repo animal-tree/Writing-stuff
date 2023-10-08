@@ -162,7 +162,7 @@ We thus obtain a directed Hamiltonian circuit (potentially expanding in real-tim
 
 Hypothetically, how far can we get without axioms?
 
-Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypothetics $A, B$, $A \coloneqq B$ "exists" (is true).
+Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypotheticals $A, B$, $A \coloneqq B$ "exists" (is true).
 
 From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents:
 
