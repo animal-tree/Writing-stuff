@@ -156,4 +156,4 @@ By Theorem 4. $\square$
 
 ---
 
-We thus obtain a directed Hamiltonian circuit (potentially expanding in real-time) with edges that may be defined as non-deterministic, whose grammatical "word" is chosen by the deducer.
+We thus obtain a directed Hamiltonian circuit (potentially expanding in real-time) with edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the deducer.
