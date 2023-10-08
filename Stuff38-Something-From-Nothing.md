@@ -156,4 +156,4 @@ By Theorem 4. $\square$
 
 ---
 
-Note: This was written by Sam Lerman.
+We thus obtain a directed Hamiltonian circuit.
