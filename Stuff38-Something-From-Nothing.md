@@ -157,3 +157,27 @@ By Theorem 4. $\square$
 ---
 
 We thus obtain a directed Hamiltonian circuit (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the deducer.
+
+---
+
+Hypothetically, how far can we get without axioms?
+
+Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypothetics $A, B$, $A \coloneqq B$ "exists" (is true).
+
+From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents:
+
+$\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
+
+So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what is definition?" Perhaps there is a set of all possible definitions. Each equivalent can be regarded a unique number on the natural number scale $\mathbb{N}$ and each non-equivalent given its own dimension of equivalents $\mathbb{N}^\mathbb{N}$. We thus obtain the natural numbers and vector spaces. The way they relate to each other is by implication with respect to each dimension: some order, for example:
+
+$1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
+
+with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the Hamiltonian circuit.
+
+Instead, we could discard causality and Axiom 2.
+
+Instead, let's define existence as a recursive function. Its input is any definition, chosen by a deducer, and its output is the existence of that definition paired with a recursion to a new application of itself to a new definition.
+
+$\exists(\emptyset_i) = (\exists\emptyset_i, \exists(\emptyset_j))$,
+
+Thus creating a limited set of definitions at each recursive step $n$, not easily denoted in the expressivity of recursive functional form. We can denote that $n\text{th}$ recursive step set of existence, and perhaps each source and sink to each existence, as $\Omega^{(n)}$ PERHAPS allowing us to derive a universe from nothing but definition and the axiom that this existence function, as described, exists.
