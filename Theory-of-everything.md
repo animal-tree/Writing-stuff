@@ -62,4 +62,4 @@ Main experiment idea: What's great about this model is, all of this can be simul
 
 [^2]: The truncation score, dependent on particle interaction (that is ,"measurement"), can explain the double-slit experiment's differences between measured-pathway screen-pattern and un-measured-pathway screen-pattern. Truncation based on interaction collapses the branching realities to the most-measured branches corresponding with, for example, the slit where the measurement occured.
 
-[^4]: I don't cover this much except for the first experiment idea. But to infer *of* it, we may look in unlikely patterns, whose implausibility (p-value) falls below 0.05, as with any scientific methodology.
+[^4]: I don't cover this much except for the first experiment idea. But to infer *of* it, we may look in unlikely patterns, with implausibility (p-value) below 0.05, as with any scientific methodology. Synchronicity of higher-level statistical events is harder to measure and evaluate, but such deviations are where Null Hypotheses are needed to obtain these sorts of p-values of cosmic intervention at the macro scale. "Synchronicity" formalized.
