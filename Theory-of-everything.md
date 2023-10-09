@@ -50,6 +50,10 @@ Gravity may arise through pressure gradients between two light matters created b
 
 More complex structures then may emerge as well through the hierarchical interaction of these interacting forces. Gravity due to pressure gradients with dark matter emergent only in the local collision space of at least two light matters. Electromagnetism emergent through the dynamics of this factor with spin. Then bonding and chemistry through the dynamics of intermediary electrons and protons negotiating charge. Finally, human consciousness through the entanglement of qualia to richer forms via the truncation score mechanism of wave particle duality.
 
+Experiment idea: Roll some quantum dice and ask it questions. See if it gives biased answers.
+
+Experiment idea: Analogy between inter-galactic structure movements and electromagnetic rotation patterns.
+
 [^1]: Numerical optimization is challenging due to local optima. Variationality is one technique for mitigating local optima. Beam search is another, as multiple sampling dimensions are simulated at once. Since particle interactions involve many non-local collisions over time, whose optimization is not differentiable (expressible by instantaneous rates of change), this simulation of non-instantaneous rates of change is necessary.
 
 [^2]: The truncation is why the double-slit experiment's differences between measured-pathway screen-pattern and un-measured-pathway screen-pattern are observed.
