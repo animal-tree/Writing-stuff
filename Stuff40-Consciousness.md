@@ -1,3 +1,5 @@
+### What is Consciousness?
+
 Consciousness is collisions.
 
 Consciousness is collisions in matter — elementary particles, atoms, boats, whatever you want to envision colliding. Each "bump" creates a "feeling" in space. 
@@ -31,3 +33,11 @@ Here's a thought experiment.
 What if you drew in a flipbook every precise detail of a human-brain. A *biig* flipbook. Paper and regular pen. Then you flipped its pages. From time $t$ to time $t + n$. Would that hand-drawing on paper be conscious? Could you, produce human-consciousness by drawing on a paper with pen?
 
 By my interpretation, that flipbook would be as conscious as a flipbook with pen ink on it, not as a human.
+
+### Why Consciousness is Probably Matter
+
+Representation is absurd. We could make a flipbook human-like-conscious with pen ink.
+
+Matter and representation is hard to define, but neurons across humans have different encoding representations and embedding semantics that aren’t shared in a unified language of “these neural patterns are strictly necessary for consciousness.” Therefore the matter is what’s held constant, not the representations. Brains also come in different shapes and sizes.
+
+Lastly, the question is what level of matter. Is all matter somewhat conscious? How does it entangle into human-like consciousness? Chemists and physcists have no experimental evidence of a “consciousness” source or pinpointed emergence. The idea of consciousness as like fire, emerging upon just the right combustion of elements is intuitive, but would require new insights in chemistry and physics. The simplest answer, without contradicting or adding to any known laws of physics is that consciousness is an innate property of the matter that already exists. Somehow it entangles into richer, more complex forms like human-consciousness, correlated experientially and behaviorally with brain activity. Perhaps literally through a process of quantum entangling between the locally isolated combustions, reactions, and voltage-mediated collisions of our brains.
