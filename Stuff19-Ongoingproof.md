@@ -1,3 +1,5 @@
+Note: Most of this document is defunct.
+
 # Observation
 
 **Theorem 1:** Observation exists.
