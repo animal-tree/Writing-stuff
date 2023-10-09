@@ -160,7 +160,7 @@ By Theorem 4. $\square$
 
 We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the deducer.
 
----
+# Afterward
 
 Hypothetically, how far can we get without axioms?
 
@@ -189,3 +189,7 @@ Perhaps, further in consideration, Axiom 1 can "create" Axiom 2 and Axiom 2 can 
 As a matter of fact, for a recursive function to be defined and it exist, it must be actively recursing.
 
 Piecing these together, we could probably derive a non-axiomatic universe, but I want to move on to the question of what the deducer is, that is, why THE laws of physics instead of some other laws of physics?
+
+---
+
+Note: no matter what, as long as there is a definition or an axiom, there is *something* andso what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause.
