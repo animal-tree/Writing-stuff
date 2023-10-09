@@ -58,4 +58,4 @@ Main experiment idea: What's great about this model is, all of this can be simul
 
 [^1]: Numerical optimization is challenging due to local optima. Variationality is one technique for mitigating local optima. Beam search is another, as multiple sampling dimensions are simulated at once. Since particle interactions involve many non-local collisions over time, whose optimization is not differentiable (expressible by instantaneous rates of change), this simulation of non-instantaneous rates of change is necessary.
 
-[^2]: The truncation is why the double-slit experiment's differences between measured-pathway screen-pattern and un-measured-pathway screen-pattern are observed.
+[^2]: The truncation score, dependent on particle interaction (that is ,"measurement"), can explain the double-slit experiment's differences between measured-pathway screen-pattern and un-measured-pathway screen-pattern.
