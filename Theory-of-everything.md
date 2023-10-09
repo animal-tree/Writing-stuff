@@ -54,6 +54,8 @@ Experiment idea: Roll some quantum dice and ask it questions. See if it gives bi
 
 Experiment idea: Analogy between inter-galactic structure movements and electromagnetic rotation patterns.
 
+Main experiment idea: What's great about this model is, all of this can be simulated.
+
 [^1]: Numerical optimization is challenging due to local optima. Variationality is one technique for mitigating local optima. Beam search is another, as multiple sampling dimensions are simulated at once. Since particle interactions involve many non-local collisions over time, whose optimization is not differentiable (expressible by instantaneous rates of change), this simulation of non-instantaneous rates of change is necessary.
 
 [^2]: The truncation is why the double-slit experiment's differences between measured-pathway screen-pattern and un-measured-pathway screen-pattern are observed.
