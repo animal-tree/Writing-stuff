@@ -156,7 +156,7 @@ By Theorem 4. $\square$
 
 ---
 
-We thus obtain a directed Hamiltonian circuit (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the deducer.
+We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the deducer.
 
 ---
 
@@ -172,7 +172,7 @@ So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what
 
 $1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
 
-with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the Hamiltonian circuit.
+with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the strongly connected directed graph.
 
 Instead, we could discard causality and Axiom 2.
 
