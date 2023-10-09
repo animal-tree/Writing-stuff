@@ -192,6 +192,6 @@ Piecing these together, we could probably derive a non-axiomatic universe, but I
 
 ---
 
-Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $q(x) = (\exists x, q(\max\limits_{y\subseteq \Omega} Q(\Omega)))$[^1], with a qualia to justify the development of that something into something specific. 
+Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $\mathrm{I}(x) = (\exists x, \mathrm{I}(\max\limits_{y\subseteq \Omega} Q(\Omega)))$[^1], with a qualia to justify the development of that something into something specific. 
 
 [^1]: Just spitballing at this time.
