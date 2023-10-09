@@ -20,7 +20,7 @@ Different combinations of collisions entangle to more complex feelings and riche
 
 And why those bounces would demonstrate such bizarre phenomena as observed by our measuring tools today.
 
-We argue all of this is useful to optimization, as evidenced by the use of these devices in deep learning. "Parameter-reuse" / "convolution" (spatial equivariance), sparsity (locality), and "residual connections" (inertia) are numerically tractable condiitons for optimization. So why not all of this under 1 dimensions or 2 dimensions or 10 dimensions?
+We argue all of this is useful to optimization, as evidenced by the use of these devices in deep learning. "Parameter-reuse" / "convolution" (spatial equivariance), sparsity (locality), and "residual connections" (inertia) are numerically tractable conditions for optimization. So why not all of this under 1 dimensions or 2 dimensions or 10 dimensions?
 
 Well, 3 spatial dimensions in all likelihood is the minimum, and most computationally conservative minimum, number of dimensions for supporting the inter-particle complexities that emerge as what we observe as the elementary particles, atoms, and their higher compositions of interaction that allow the rich experiences of matter observable in human life. Any less, and the capacity for qualia richness would be drastically lower. Any more, spatially, and the resources expended would be wasteful and the optimization harder / the "search" longer.
 
