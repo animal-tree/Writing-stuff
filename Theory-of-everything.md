@@ -54,7 +54,7 @@ Experiment idea: Roll some quantum dice and ask it questions. See if it gives bi
 
 Experiment idea: Analogy between inter-galactic structure movements and electromagnetic rotation patterns.
 
-Main experiment idea: What's great about this model is, all of this can be simulated and we can arrive at a classical description of universe phenomena.
+Main experiment idea: What's great about this model is, all of this can be simulated and we can arrive at a classical description of universe phenomena. It's fully differentiable, and thanks to wave-particle duality, accounts for non-local optimization constraints.
 
 [^3]: For computational efficiency, one may be sampled as the designated representative at that time point capable of colliding.
 
