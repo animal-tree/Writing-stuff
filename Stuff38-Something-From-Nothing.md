@@ -158,7 +158,7 @@ By Theorem 4. $\square$
 
 ---
 
-We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the deducer.
+We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
 
 # Afterward
 
