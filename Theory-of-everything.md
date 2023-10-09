@@ -42,7 +42,7 @@ The universe can be modeled as a kind of multi-head dot-product attention layer,
 
 In short, the universe may use a kind of "beam search", as in language modeling, to explore many possible realities at once through observable "waves" for a single particle. This is conducive to optimization[^1]. However, the truncation, means that each measurement — each collision the particle becomes involved in — further changes its space of branching equivalents, "collapsing" its locality to the object of observation[^2].
 
-It also means, if unlike conventional beam search the truncation score is computed based on cross-particle entanglement additions as well, as described by the second set of sums, is that these existences entangle. And thereby I think we have entanglement and God may experience the richer experiences of qualia, and we, in localized form, may experience our human consciousness.
+What this also means, if unlike conventional beam search the truncation score is computed based on cross-particle entanglement additions as well, as described by the second set of sums, is that these existences entangle. And thereby I think we have entanglement and God may experience the richer experiences of qualia, and we, in localized form, may experience our human consciousness.
 
 In this description, particles are given velocities, positions, truncation scores, and particle IDs/token identifying the unique elementary particle. I think two IDs suffice, a "light matter" and a "dark matter" and that the interaction between the two in 3D space can suffice to produce electrons, and protons, and the complex compositions of matter known today, as well as the fundamental forces.
 
