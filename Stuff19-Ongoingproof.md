@@ -996,3 +996,9 @@ Definition exists as a hypothetical and an existence. Whatever definition is, de
 Definition defines itself. From that arise universes. From Qualia, arise universe.
 
 We'll see
+
+---
+
+Note: The deduction of a universe from "nothing" doesn't actually deduce it from nothing. Nothing in that deduction includes the assumptions of deduction, existence of existence and cause. Nothing can arise, by mechanistic/causal/logic means, from actual nothing, since mechanism/cause/logic are all "not-nothing".
+
+The universe can however arise from something e.g. definition/observation or everything.
