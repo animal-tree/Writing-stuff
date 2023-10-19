@@ -6,7 +6,7 @@ Consciousness is collisions in matter — elementary particles, atoms, boats, wh
 
 Therefore as you read this, your computer — perhaps where you're reading it — is "feeling" the *whirring* of electrons. It's — probably — nothing like human consciousness, and in its current form never will be.
 
-That's not to say it can't be. The open/close logic gates of a computer do parallel the biological activate-and-spike neuron. ("activate" is borrowing jargon from "AI").
+That's not to say it can't be. The open/close logic gates of a computer do parallel the biological integrate-and-fire neuron.
 
 However, its composition of silicon and physical metals is *not* the same combo of bumps and giggles that your brain goes through, not the same hormonal explosions, or spinal zaps, or neurotransmitter ooglidoos.
 
