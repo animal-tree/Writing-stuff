@@ -121,7 +121,7 @@ Right now it is hard for me to make the argument that there is singular arc of t
 > 
 > With faculty fully aware of these happenings, and not addressing any of it.
 > 
-> it is a systemic injustice, undeniably. PhD students should not be allowed to be fired in their 6th year for "not enough papers", especially with two published papers. Their second reason, after they changed their minds, was a 20-minute zoom meeting, with a brand new committee. Nothing unethical happened during that meeting. They then failed to respond to my assertion of this, except for one committee member, who admitted, on email-record, that he didn't even remember that meeting. (he thought I was someone else, i presume). The further systemic injustice is the medical practice and malpractice conditions that the university IS responsible for.
+> it is a systemic injustice, undeniably. PhD students should not be allowed to be fired in their 6th year for "not enough papers", especially with two published papers. Their second reason, after they changed their minds, was a 20-minute zoom meeting, with a brand new committee. Nothing unethical happened during that meeting. They then failed to respond to my assertion of this, except for one committee member, who admitted, on email-record, that he didn't even remember that meeting. (he thought I was someone else, i infer). The further systemic injustice is the medical practice and malpractice conditions that the university IS responsible for.
 >
 > What justice means in this case is me not getting fired and getting a, huge, settlement pay for the malpractices and, potentially, worker's rights abuses.
 
