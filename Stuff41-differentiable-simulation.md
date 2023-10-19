@@ -115,8 +115,6 @@ Since my funding has been cut off, I can't run this simple experiment.
 
 Right now it is hard for me to make the argument that there is singular arc of time that bends the universe toward justice. Here is the excerpt from the email I sent together with these writings to administrators and grad students alike:
 
-> However, if you are interested in protesting the unjust firing of me, Sam Lerman, please email GradsAlliance@yahoo.com / AllianceGrads@gmail.com. 
-> 
 > I have been through both medical abuse and worker’s rights abuse, severely, blood oozing / mutilation / full-body-induced-alopecia severity, trauma and coercion.
 > 
 > With faculty fully aware of these happenings, and not addressing any of it.
