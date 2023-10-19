@@ -1,6 +1,6 @@
 > As of July 24th, I was fired from my PhD. I am worried about being scooped and not being given due credit. 
 >
-> This note includes an actual formalized theory of wave-particle duality (formalized in the sense of AI). 
+> This note includes an actual formalized [theory](https://github.com/animal-tree/Writing-stuff/blob/main/Theory-of-everything.md) of wave-particle duality (formalized in the sense of AI). 
 >
 > Thus far very crude. Just to prove I have it, basically. But the idea stands and I actually believe it’s right. 
 >
@@ -99,11 +99,11 @@ It's too bad I didn't have time to elaborate on differentiable gravity.
 
 To run this experiment, we may use a differentiable learned algorithm or a classical description.
 
-Simply put, two randomly position "particles" in a batch of random initializations are optimized, within a swarm of surrounding dark matter, to converge to follow a defined trajectory in accord with the laws of physical gravity.
+Simply put, two randomly positioned "particles" in a batch of random initializations are optimized, within a swarm of surrounding dark matter, to converge to follow a defined trajectory in accord with the laws of physical gravity.
 
 Next, we can describe electromagnetism, by picking a dense field of light particles and another dense field of light particles, both surrounded by dark particles and optimize for their convergence and divergence in position along the attractive and repulsive directions respectively.
 
-The learned local interactions of the model can give us a classical description of quantum gravity. Meanwhile, a symbolic one can be imagined: darks particles of spin A having no effect on light particles; dark particles of spin B having an effect on light particles. Then, whose dark matter is of spin A and whose dark matter is of spin B depends on whether an interaction has occured with a light particle. If it has, it collides, bounces, and propogates as a wave spin B. With each collision between dark matter, that spin B can diminish according to an inverse square law. 
+The learned local interactions of the model can give us a classical description of quantum gravity. Meanwhile, a symbolic one can be imagined: dark particles of spin A having no effect on light particles; dark particles of spin B having an effect on light particles. Then, whose dark matter is of spin A and whose dark matter is of spin B depends on whether an interaction has occured with a light particle. If it has, it collides, bounces, and propogates as a wave spin B. With each collision between dark matter, that spin B can diminish according to an inverse square law. 
 
 As for electromagnetism, this operation and interaction would likely require a simulation to explain, since it most likely depends on the orbit-like rotation and revolution pattern of particle systems, as they interact, in the same way, with dark matter.
 
