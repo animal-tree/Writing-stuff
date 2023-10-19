@@ -1,6 +1,6 @@
 > As of July 24th, I was fired from my PhD. I am worried about being scooped and not being given due credit. 
 >
-> This note includes an actual formalized [theory](https://github.com/animal-tree/Writing-stuff/blob/main/Theory-of-everything.md) of wave-particle duality (formalized in the sense of AI). 
+> This note includes an actual formalized theory of wave-particle duality (formalized in the sense of AI). 
 >
 > Thus far very crude. Just to prove I have it, basically. Not even as super precise as I could make it if I had time and funding to implement it first before formalizing the math. But the idea stands and I actually believe it’s right. 
 >
