@@ -111,4 +111,20 @@ We thus obtain through complex systems of potentially just two token IDs, quantu
 
 Since my funding has been cut off, I can't run this simple experiment.
 
+Justice & qualia in the universe
+
+Right now it is hard for me to make the argument that there is singular arc of time that bends the universe toward justice. Here is the excerpt from the email I sent together with these writings to administrators and grad students alike:
+
+> However, if you are interested in protesting the unjust firing of me, Sam Lerman, please email GradsAlliance@yahoo.com / AllianceGrads@gmail.com. 
+> 
+> I have been through both medical abuse and worker’s rights abuse, severely, blood oozing / mutilation / full-body-induced-alopecia severity, trauma and coercion.
+> 
+> With faculty fully aware of these happenings, and not addressing any of it.
+> 
+> it is a systemic injustice, undeniably. PhD students should not be allowed to be fired in their 6th year for "not enough papers", especially with two published papers. Their second reason, after they changed their minds, was a 20-minute zoom meeting, with a brand new committee. Nothing unethical happened during that meeting. They then failed to respond to my assertion of this, except for one committee member, who admitted, on email-record, that he didn't even remember that meeting. (he thought I was someone else, i presume). The further systemic injustice is the medical practice and malpractice conditions that the university IS responsible for.
+>
+> What justice means in this case is me not getting fired and getting a, huge, settlement pay for the malpractices and, potentially, worker's rights abuses.
+
+For anyone thinking I've played the long-game con of losing all my hair, eyebrows, and eyelashes, and bleeding head to toe, just to extort my university with fake research suggestions, PLEASE, test this yourself and credit me. 
+
 [^1]: Not yet. in progress.
