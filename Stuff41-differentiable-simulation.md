@@ -127,6 +127,8 @@ Right now it is hard for me to make the argument that there is singular arc of t
 >
 > I couldn’t even take a medical leave because I have massive student loan debt from my undergrad at U of R. Yes, I have massive debt, that is subsidized for only as long as I’m a student because of my family’s poverty. In fact, it was approved to be cancelled $20,000 by Biden’s student debt cancellation plan because I was funded by the Pell Grant (in my undergrad; today I'm actually one of the authors of the major NSF grant that was funding me — er, minimum wage as a PhD student). My family immigrated from Uzbekistan when I was 4 as Jewish refugees. We have since faced SO MUCH injustice in THIS country. Me and my mom. Just us. My grandparents died. My sister is a nurse at RGH.
 >
+> Regarding medical malpractices, I’ll describe one to start e.g. insurance situation, university-provided no-less, mis-handling by both doctor and I-believe university-commissioned drug-provider. Prescribed for eczema, cut me off spontaneously 6 months in, doctor was nowhere, I lost all of my hair.
+>
 > Reply to me ([s.lerman@yahoo.com](mailto:s.lerman@yahoo.com)) or email here ([GradsAlliance@yahoo.com](mailto:GradsAlliance@yahoo.com)) or ([urgraduatecollective@gmail.com](mailto:urgraduatecollective@gmail.com)) if you can help somehow.
 
 For anyone thinking I've played the long-game con of losing all my hair, eyebrows, and eyelashes, and bleeding head to toe, just to extort my university with fake research suggestions, PLEASE, test this yourself and credit me. 
