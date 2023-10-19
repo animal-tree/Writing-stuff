@@ -117,7 +117,7 @@ Since my funding has been cut off, I can't run this simple experiment.
 
 Right now it is hard for me to make the argument that there is singular arc of time that bends the universe toward justice. Here is the excerpt from the email I sent together with these writings to administrators and grad students alike:
 
-> Optimizing qualia (grads alliance)
+> <Subject line: Optimizing qualia (grads alliance)>
 >
 > I have been through both medical abuse and worker’s rights abuse, severely, blood oozing / flesh-ripping / GABA down-regulated hellfire / literally getting run over by my own wheelchair / full-body-induced-alopecia severity, trauma and coercion.
 > 
