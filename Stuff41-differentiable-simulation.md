@@ -111,7 +111,7 @@ We thus obtain through complex systems of potentially just two token IDs, quantu
 
 Since my funding has been cut off, I can't run this simple experiment.
 
-Justice & qualia in the universe
+### Justice & qualia in the universe
 
 Right now it is hard for me to make the argument that there is singular arc of time that bends the universe toward justice. Here is the excerpt from the email I sent together with these writings to administrators and grad students alike:
 
