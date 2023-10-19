@@ -2,7 +2,7 @@
 >
 > This note includes an actual formalized [theory](https://github.com/animal-tree/Writing-stuff/blob/main/Theory-of-everything.md) of wave-particle duality (formalized in the sense of AI). 
 >
-> Thus far very crude. Just to prove I have it, basically. But the idea stands and I actually believe it’s right. 
+> Thus far very crude. Just to prove I have it, basically. Not even as super precise as I could make it if I had time and funding to implement it first before formalizing the math. But the idea stands and I actually believe it’s right. 
 >
 > It’s unfortunately wishy-washy thus far on entanglement and I don’t elaborate exactly how it explains the result of at least the first of the double slit experiments, or how it connects to [consciousness](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff40-Consciousness.md) and unfortunately, all of the other vast array of physics I think I’ve figured out in much simpler terms than others (knowing at this point you don’t believe me, but read the piece called “[fire](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff27-Fire.md)” to see an example of the simplified way I understand things and maybe that’ll prove as evidence that I have other simplified ways of understanding other domains)
 >
