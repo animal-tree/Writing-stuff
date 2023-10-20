@@ -2,7 +2,7 @@ I wrote this entirely with a stream of consciousness language model and don't id
 
 Some points of fact just to keep some consistency:
 
-- I do like Buffy
+- I do like Buffy[^1]
   
 ---
 
@@ -37,3 +37,5 @@ Anyway, it'd be a pretty bad show if all of those threads, developing from seaso
 ---
 
 I think storytellers are "mini Gods". That we parallel processes of God's own logics. That, story is a higher-order logic not known yet , intellectually/academically, by man.
+
+[^1]: I am worried these language models are critiquing the person who's authoring them.
