@@ -1,3 +1,11 @@
+I wrote this entirely with a stream of consciousness language model and don't identify with any of the words:
+
+Some points of fact just to keep some consistency:
+
+- I do like Buffy
+  
+---
+
 How I would write the end of Buffy, the show whose 6th season was one of its best, and 7th declined spontaneously upon criticism from studio execs at the new broadcasting station and declining/stagnating ratings.
 
 When Buffy died in the 5th season and resurrected again at the hands of her friends, she drifted ever closer to Spike, who she hated but who helped her in season 5 massively, to save the world and Dawn, her sister. Now Buffy is back, out her grave, and expressing, subtly and then much less subtly, that she'd rather be in it. Death, as she reveals in the musical episode "Once More With feeling" was /heeaven/. Being back alive hurt and the only person who understood it was Spike. Spike loved Buffy and he was there for her, unconditionally. He proved to her again and again, and finally, at the end of season 6, he did the unprecedented: he cured his own vampirism. This has never happened. Not even with Angel. Angel, Buffy's first lover, the "vampire with a soul" who she killed when he lost it again. ("Then he had his own spinoff, which was pretty, pretty good", Angel and for some reason Larry David add. Okay fuck off). But angel had his soul restored by a gypsy.
