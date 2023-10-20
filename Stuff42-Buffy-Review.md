@@ -42,4 +42,6 @@ I think storytellers are "mini Gods". That we parallel processes of God's own lo
 
 This is still a bad draft and I rescind it.
 
+- Also, I fucking love Buffy
+
 [^1]: I am worried these language models are critiquing the person who's authoring them.
