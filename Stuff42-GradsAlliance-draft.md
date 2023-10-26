@@ -1,5 +1,5 @@
 If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](). Join this group and protest [my unjust firing](), negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, W2 workers status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court. Among other things, we propose that [universities are responsible for cancelling undergrad student debt](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/)[^1] in light of the Republican-led decision. Since graduate workers are the core of the university workforce, our negotiating power, when united, is unlimitted. Academic workforces, join **[here]()** to take the power that is yours.
 
-**I think it's a good platform:** if graduate students unite, we can cancel undergraduate student debt and negotiate for ourselves.
+**I think it's a good platform:** if graduate students unite, we can cancel undergraduate student debt and negotiate for ourselves. Most of us, in fact, are in undergraduate-student-debt.
 
 [^1]: That is almost enough to cancel all of its students' debt from just the budgetary surplus of a single year.
