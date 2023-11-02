@@ -11,3 +11,5 @@ It would seem not, if all of our senses are facilitated by neural representation
 That experience cannot be produced through representation. If it could, a flipbook could be made conscious by drawing neural patterns in it. Since pen ink on paper is an absurd conception of a human-like consciousness, we can, for the time being, rule it out. Therefore, if consciousness is not purely representation, it must in some portion be physical.
 
 Where in the physical universe these experiences occur could precisely correspond to our locations and our physical beings in physical spacetime, not as analogy. This is qualia, and it is a process of entanglement of the “lower-level” universe byte-code that physically IS — not represents — consciousness.
+
+That lowest-level form is simply matter. So "What makes something representational rather than physical?" Matter, yes. And by definition and consequence, qualia.
