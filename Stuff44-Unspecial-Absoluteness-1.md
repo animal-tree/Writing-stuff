@@ -109,7 +109,7 @@ However, since this value must also equal $ct$ owing to $x = ct$ a core assumpti
 
 $\frac{2t(v+c) \pm \sqrt{(2t(v+c))^2 - (8v^2t^2-8vt^2c)}}{4} = ct$.
 
-Solving for $v$ ( as can be verified by a Wolfram Alpha calculator for example), we get
+Solving for $v$ ( as can be verified by a [Wolfram Alpha calculator](https://www.wolframalpha.com/input?i=%28%28t*%28v+%2B+c%29%2F2%29%2B%28sqrt%28%282*t*c+-+2*t*+v%29%282*t*c+%2B+2*t*+v%29%29%2F4%29%29%2Fc%3Dt) for example), we get
 
 $v = c$.
 
