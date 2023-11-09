@@ -16,4 +16,4 @@ All quanta are the same thing and interact with each other in the same way. Howe
 
 Later, collisions can be extended to create waves of changing velocities, which get truncated based on number of subsequent interactions, to facilitate long-term non-local trajectory differentiability. A.K.A. wave-particle duality and entanglement, as observed in double-slit experiments.
 
-We will use this as a precursor to draw the singularizing process of qualia and consciousness.
+We will use this as a precursor to generally draw the singularizing process of qualia and consciousness.
