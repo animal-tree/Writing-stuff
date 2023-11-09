@@ -113,4 +113,4 @@ Solving for $v$ ( as can be verified by a Wolfram Alpha calculator for [example]
 
 $v = c$.
 
-Therefore, the axiom $x' = x - vt'$ suffices to disprove Einstein relativity for any $v \neq c$.
+Therefore, the axiom $x' = x - vt'$ suffices to disprove Einstein relativity for any $v \neq c$. $\square$
