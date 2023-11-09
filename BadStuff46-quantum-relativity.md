@@ -14,6 +14,6 @@ A simple rule between any two-pair of quanta based on their relative velocities 
 
 All quanta are the same thing and interact with each other in the same way. However, for simulation purposes, it might be beneficial to divide into dark matter and light matter, since fewer particles would be needed to simulate a local-classical description of gravity. Otherwise, multiple particles orbiting one another are needed to become distinguished from surrounding ones.
 
-Later, collisions can be extended to create waves of multiple sampled velocity, which get truncated based on number of subsequent interactions, to facilitate long-term non-local trajectory differentiability. A.K.A. wave-particle duality and entanglement, as observed in double-slit experiments.
+Later, collisions can be extended to create waves of multiple sampled velocity, which get truncated based on number of subsequent interactions, to facilitate long-term non-local trajectory differentiability A.K.A. wave-particle duality and entanglement, as observed in double-slit experiments.
 
-We will use this as a precursor to draw the singularizing process of qualia and consciousness.
+We will use this as a precursor to begin to understand by analogy the singularizing process of consciousness from lower-level collision qualia.
