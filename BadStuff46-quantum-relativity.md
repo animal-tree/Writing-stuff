@@ -18,4 +18,4 @@ Later, collisions can be extended to create waves of multiple sampled velocity, 
 
 We will use this as a precursor to begin to understand by analogy the singularizing process of consciousness from lower-level collision qualia.
 
-In all likelihood, the base-level collision rules will be much simpler than the full scope of what the neural network can learn, due to expected symmetries like conservation of linear and angular velocity (and perhaps spin) emerging to create simpler, more efficient computations, that perhaps give rise to expected conservation laws as pertaining to momenta and energy.
+In all likelihood, the final learned base-level collision rules will be much simpler than the full scope of what the neural network can learn, due to symmetries like conservation of linear and angular velocity (and perhaps spin) being sufficient and perhaps giving rise to expected conservation laws as pertaining to momenta and energy.
