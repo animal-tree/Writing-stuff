@@ -17,5 +17,3 @@ All quanta are the same thing and interact with each other in the same way. Howe
 Later, collisions can be extended to create waves of multiple sampled velocity, which get truncated based on number of subsequent interactions, to facilitate long-term non-local trajectory differentiability A.K.A. wave-particle duality and entanglement, as observed in double-slit experiments.
 
 We will use this as a precursor to begin to understand by analogy the singularizing process of consciousness from lower-level collision qualia.
-
-In all likelihood, the final learned base-level collision rules will be much simpler than the full scope of what the neural network can learn, due to symmetries like conservation of linear and angular velocity (and perhaps spin) being sufficient while also being more computationally efficient and perhaps giving rise to expected conservation laws as pertaining to momenta and energy.
