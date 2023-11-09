@@ -97,9 +97,9 @@ $\frac{c^2x^2 - v^2x^2}{c^2 + 2cv + v^2} = x^2 - 2xvt + v^2t^2$
 
 $\rightarrow \frac{x^2(c+v)(c-v)}{(v+c)(v+c)} = x^2 - 2xvt + v^2t^2$
 
-$\rightarrow x^2(c-v) = (x-vt)^2(c+v)
+$\rightarrow x^2(c-v) = (x-vt)^2(c+v)$
 
-$\rightarrow 2x^2 - 2xt(v+c) + (v^2t^2+vt^2c) = 0
+$\rightarrow 2x^2 - 2xt(v+c) + (v^2t^2+vt^2c) = 0$
 
 Solving for x, via quadratic equation:
 
