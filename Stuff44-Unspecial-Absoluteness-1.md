@@ -78,7 +78,9 @@ Never mind, this is impossible. The axiom $x' = x - vt'$ suffices to disprove Ei
 Given this diagram (and as assumed in many works actually), we see that $x' = x - vt'$.
 
 $x' = x - vt' = ct'$
+
 $\rightarrow t' = \frac{x}{c + v}$
+
 $\rightarrow x' = \frac{cx}{c + v}$
 
 However, if by the Einstein result, $x' = \frac{x - vt}{\sqrt{1 - \frac{v^2}{c^2}}}$:
