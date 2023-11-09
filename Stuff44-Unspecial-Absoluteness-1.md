@@ -81,7 +81,7 @@ $x' = x - vt' = ct'$
 $\rightarrow t' = \frac{x}{c + v}$
 $\rightarrow x' = \frac{cx}{c + v}$
 
-However, if by the Einstein result, $x' = \frac{x - vt}{\sqrt{1 - \frac{v^2}{c^2}}}$, we get
+However, if by the Einstein result, $x' = \frac{x - vt}{\sqrt{1 - \frac{v^2}{c^2}}}$:
 
 $\frac{cx}{c + v} = \frac{x - vt}{\sqrt{1 - \frac{v^2}{c^2}}}$.
 
