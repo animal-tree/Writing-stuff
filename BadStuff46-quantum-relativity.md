@@ -9,3 +9,5 @@ We present a quantum theory compatible with special relativity:
 7. Chaos and all of these quantum "things" are dark matter, defined at least by a 3-dimensional velocity and a 3-dimensional spin to keep track of orbital pattern.
 
 Goal: Simulate this with a differentiable physics universe to show emergent gravity, and directly derive that special relativity can emerge from this absolute formulation of linear and angular velocity tradeoffs creating relative time.
+
+A simple rule between any two-pair of quanta based on their relative velocities and spins should suffice to produce the effects of gravity and electromagnetism, mass and charge. Different emergent orbital and helical patterns may be regarded as "elementary" particles.
