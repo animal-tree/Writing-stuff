@@ -2,7 +2,7 @@ i think everything is photons and light is wave patterns — frequential pattern
 
 Those orbits are of the photons themselves, not the waves! Or else light would have charge.
 
-They also depend on sufficiently fast speed and small scale so as to align the quantum gearboxes at the photon level. Rotating just about anything wouldn't produce a noticeable charge since the massive bodies would rotate in such a way that would not significantly change the relative rotational patterns of the photons within.
+Rotating just about anything wouldn't produce a noticeable charge since the massive bodies would rotate in such a way that would not significantly change the relative rotational patterns of the photons within/without. Rotating EM waves also doesn't produce charge. But rotating photons (not EM waves) in a patterned regularity causes a frequency pattern in surrounding photons that is what we identify as EM waves / light.
 
 All are traveling at an instantaneous velocity of $c$; however that velocity can manifest linearly or angularly.
 
