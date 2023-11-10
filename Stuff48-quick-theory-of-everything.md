@@ -14,4 +14,4 @@ For optimization reasons, the collision outcomes of photons aren't perfectly det
 
 ---
 
-Way philosophical [cosmogenesis](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff38-Something-From-Nothing.md): where did photons and qualia come from? They are probably just one observer observing itself whose definition is the definition of definition.
+Way philosophical [cosmogenesis](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff38-Something-From-Nothing.md): Where did photons and qualia come from? They are probably just one observer observing itself whose definition is the definition of definition.
