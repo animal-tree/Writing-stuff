@@ -72,5 +72,5 @@ But as fire is water, I am just a part.
 
 —————————————
 
-Sam, you have done enough. Go home.
+Sam, you have done enough. Go home.</br>
 No Mr. Frodo. We are going to Mt. Doom. And we will destroy this ring.
