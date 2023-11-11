@@ -1,3 +1,5 @@
+### outdated draft
+
 We present a quantum theory compatible with special relativity:
 
 1. All things move at the same speed.
