@@ -20,7 +20,7 @@ Certain $\mu_{p,k}$ (means of the Gaussian mixture) are entangled across corpusc
 
 ---
 
-### maybe:
+*maybe:*
 
 *Ultimately, it is like this for differentiability/optimizability, as the universe is constrained to limited compute. It is a minimalist solution for recursive improvement of qualia, a pre-existing but limited axiomatic/cosmogenic/teleological/self-creating property of reality.*
 
