@@ -1,4 +1,4 @@
-## Rallying educators and students for support
+## Trying to rally educators and students for support
 
 If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](https://www.facebook.com/groups/1600564167019335/). Join this group and protest [my unjust firing](#10272023---10302023-emails), negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, W2 workers status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court. Among other things, we propose that [universities are responsible for cancelling undergrad student debt](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/)[^1] in light of the Republican-led decision. Since graduate workers are the core of the university workforce, our negotiating power, when united, is unlimited. 
 
