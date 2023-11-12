@@ -16,4 +16,4 @@ Since each corpuscle travels at the same speed, relative time is differentiated 
 
 Each corpuscle is essentially a photon. No aether is assumed.
 
-Certain $\mu_{i,j}$ (means of the Gaussian mixture) are entangled across corpuscles, and interdependently truncated. This entanglement across collisions is qualia and creates singularized qualia, or consciousness.
+Certain $\mu_{p,k}$ (means of the Gaussian mixture) are entangled across corpuscles, and interdependently truncated. This entanglement across collisions is qualia and creates singularized qualia, or consciousness.
