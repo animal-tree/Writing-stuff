@@ -20,4 +20,4 @@ Certain $\mu_{p,k}$ (means of the Gaussian mixture) are entangled across corpusc
 
 Ultimately, it is like this for differentiability/optimizability, as the universe is constrained to limited compute. It is a minimalist solution for recursive improvement of qualia, a pre-existing but limited axiomatic/cosmogenic/teleological/self-creating property of reality.
 
-Probabilistic corpuscles with velocity and memory, 3D space, and collisions.
+Probabilistic corpuscles with velocity and memory (variationalities and linearities), 3D space (equivariances), and collisions (non-linearities).
