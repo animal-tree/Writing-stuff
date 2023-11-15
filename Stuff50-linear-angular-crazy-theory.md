@@ -23,3 +23,5 @@ Maybe light in a vacuum is sampled uniformly randomly — isotropy — and light
 One question remains: why are photon velocities sampled "uniformly" when they are definitively traveling in one particle-like direction? Answer: it's not exactly uniform. The probability distribution is biased towards its direction of travel; however the other directions are frequentially sampled — hence it has a frequency. The faster relative speeds in one direction always "sum to 1" in the average case with all of the directions by the nature of it being a probability distribution. (this part is dubious)
 
 Maybe EM is when these photons form collision patterns with themselves. E.g. monkey-in-the-middle in a sphere of gravitationally attracted corpuscles.
+
+These and similar form an isotropic basis for an anisotropic universe. Menawhile, those that do not undergo time dilation (due to anisotropic orbits), perhaps length contraction (due to changing radii).
