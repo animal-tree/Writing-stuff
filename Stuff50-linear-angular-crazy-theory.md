@@ -28,4 +28,4 @@ These and similar form a relativistically-isotropic basis for a relativistically
 
 These former particles — photons —  exert no gravitational influence due to probability distributions focused inward (at the monkey(s)-in-the-middle).
 
-ooor $n \approx 0$. 
+ooor $n \approx 0$. How else would large masses form?
