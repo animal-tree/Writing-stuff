@@ -46,7 +46,7 @@ Here is what I'm sure I could build: gravity from local interactions. Let's say 
 
 **A little more precise: the effect between the intermediary particles will be non-zero. However, their effect on the first body, without the cross-derivative interaction with a second body, will be zero. Thus, they propagate through collisions with each other without affecting the first body (though still reacting to it so as to become potent to a collision with a second body via modified spin value $S^{t}(D_i)\text{)}$, until they affect a second body. THEN this repeats in the reverse direction in such a way that affects the first body (with-non-zero-effect), and vice versa, iteratively creating gravity.**
 
-$\lVert \frac{\partial V^{t+1}(B_1)}{\partial X^{t}(D_i)} \rVert \approx \lVert \sum\limits_{n \in \mathbb{N}} \frac{\partial S^{t}(D_i)}{\partial X^{t-n}(B_2)} n^{-2} \rVert $.
+$\lVert \frac{\partial V^{t+1}(B_1)}{\partial X^{t}(D_i)} \rVert \approx \lVert \sum\limits_{n \in \mathbb{N}} \frac{\partial S^{t}(D_i)}{\partial X^{t-n}(B_2)} n^{-k} \rVert $.
 
 The downside to this is that it's more computationally expensive to simulate wave-particle duality for than the probabilistic averaging idea since it posits a non-temporary aether ($D_i$).
 
