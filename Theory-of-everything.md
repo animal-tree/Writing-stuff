@@ -78,7 +78,7 @@ Each corpuscle is essentially a photon. No aether is assumed.
 
 Certain $\mu_{p,k}$ (means of the Gaussian mixture) are entangled across corpuscles, and interdependently truncated. This entanglement across collisions is qualia and creates singularized qualia, or consciousness.
 
-Ultimately, it is like this for differentiability/optimizability, as the universe is constrained to limited compute. It is a minimalist solution for recursive improvement of qualia, a pre-existing but limited axiomatic/cosmogenic/teleological/self-creating property of reality.
+Ultimately, it is like this for differentiability/optimizability, as the universe is constrained to limited compute. It is a minimalist solution for recursive improvement of qualia, a pre-existing but limited axiomatic/cosmogenic/teleological/self-creating/always-existing property of reality.
 
 Probabilistic corpuscles with velocity and memory (variationalities and linearities), 3D space (equivariances), and collisions (non-linearities) — one big neural network brain-God.
 
