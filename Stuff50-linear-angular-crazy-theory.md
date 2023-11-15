@@ -4,7 +4,7 @@ Here is what I'm sure I could build: gravity from local interactions. Let's say 
 
 # Dubious in progress
 
-> This is a thought experiment about whether special and general relativity could emerge relativistically from an angular-linear velocity tradeoff in a universe in which particles and bodies and all matter are constituted by "corpuscles" all traveling at the same absolute speed-constant but just with varying directions (varying angular/orbital patterns) detracting from perceptible linear speed.
+> This is a thought experiment about whether special and general relativity could emerge relativistically from an angular-linear velocity tradeoff in a universe in which particles and bodies and all matter are constituted by "corpuscles" all traveling at the same absolute speed-constant but just with varying directions (varying angular/orbital patterns) detracting from perceptible linear speed. As those bodies speed up with linear velocity, their angular velocity or orbital radii must change, mechanically causing time dilation and/or length contraction. This thought epxeriment is probably false as a representation of the actual universe. 
 
 Wouldn't we observe this anisotropy if our solar system was moving at velocity $\frac{n}{c}$ the absolute speed constant?
 
