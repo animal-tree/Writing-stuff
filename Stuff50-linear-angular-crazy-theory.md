@@ -27,3 +27,5 @@ Maybe EM is when these photons form collision patterns with themselves. E.g. mon
 These and similar form a relativistically-isotropic basis for a relativistically-anisotropic universe. Meanwhile, those particles that do not, undergo time dilation (due to anisotropic orbits), perhaps literal length contraction (due to changing radii).
 
 These former particles — photons —  exert no gravitational influence due to probability distributions focused inward (at the monkey(s)-in-the-middle).
+
+ooor $n \approx 0$. 
