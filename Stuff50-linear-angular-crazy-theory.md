@@ -29,3 +29,7 @@ These and similar form a relativistically-isotropic basis for a relativistically
 These former particles — photons —  exert no gravitational influence due to probability distributions focused inward (at the monkey(s)-in-the-middle).
 
 ooor $n \approx 0$. How else would large masses form?
+
+---
+
+This is the main flaw of the linear-angular velocity tradeoff hypothesis. While it probably can be used derive the Lorentz transformation from a relative perspective due to literal mechanical time dilation and length contraction, and it's easy to simulate in a computer program, it suggests that the light's behavior relative to different-velocity mediums would not be the same. This is, generally speaking true, but specifically it suggests that light's behavior would be anisotropic, different from one galactic direction than another, or different at daytime than nighttime, or in one season than another. 
