@@ -24,4 +24,4 @@ One question remains: why are photon velocities sampled "uniformly" when they ar
 
 Maybe EM is when these photons form collision patterns with themselves. E.g. monkey-in-the-middle in a sphere of gravitationally attracted corpuscles.
 
-These and similar form an isotropic basis for an anisotropic universe. Meanwhile, those that do not undergo time dilation (due to anisotropic orbits), perhaps literal length contraction (due to changing radii).
+These and similar form a relatively isotropic basis for a relatively anisotropic universe. Meanwhile, those that do not undergo time dilation (due to anisotropic orbits), perhaps literal length contraction (due to changing radii).
