@@ -46,4 +46,4 @@ Here is what I'm sure I could build: gravity from local interactions. Let's say 
 
 **A little more precise: the effect between the intermediary particles will be non-zero. However, their effect on the first body, without the cross-derivative interaction with a second body, will be zero. Thus, they propagate through collisions with each other without affecting the first body, until they affect a second body. THEN their spin value makes them affect each other in the reverse direction in such a way that affects the first body (with-non-zero-effect), and vice versa, likewise affecting the second body gravitationally.**
 
-The downside to this is that it's more computationally expensive to simulate wave-particle duality for than the probabilistic averaging idea since it posits an aether.
+The downside to this is that it's more computationally expensive to simulate wave-particle duality for than the probabilistic averaging idea since it posits a non-temporary aether.
