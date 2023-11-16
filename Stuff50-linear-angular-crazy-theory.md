@@ -46,11 +46,15 @@ Here is what I'm sure I could build: gravity from local interactions. Let's say 
 
 **A little more precise: the effect between the intermediary particles will be non-zero. However, their effect on the first body $B_1$, without the cross-derivative interaction with a second body $B_2$, will be zero. Thus, they propagate through collisions with each other without affecting the first body (though still reacting to it so as to become potent to a collision with a second body via modified spin value $S^{t}(D_i)\text{)}$, until they affect a second body. THEN this repeats in the reverse direction in such a way that affects the first body (with-non-zero-effect), and vice versa, iteratively creating gravity.**
 
-$M(B_1) \lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B_1) \rVert} \rVert \approx M(B_2) \sum\limits_{n \in \mathbb{N}} \lVert \frac{\partial S^{t}(D_i)}{\lVert \partial X^{t-n}(B_2) - X^{t}(B_1) \rVert} \rVert  n^{-2}$.
+$M(B_1) \lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B_1) \rVert} \rVert \approx M(B_2) \sum\limits_{n \in \mathbb{N}} \lVert \frac{\partial S^{t}(D_i)}{\partial \lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert} \rVert  n^{-2}$.
 
 Gravitational effect (LHS) on Body 1 ($B_1$) should be approximately equal to the recency of collision of an intermediary ($D_i$) with a second body ($B_2$). Otherwise, without Body 2, the intermediary should not affect the inertia of Body 1 (the RHS term approaches 0).
 
-The downside to this is that it's more computationally expensive to simulate wave-particle duality for than the probabilistic averaging idea since it posits a non-temporary aether ($D_i$).
+And the corss-derivative version:
+
+$\lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B_1) \rVert \partial \lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert} \rVert > 0$.
+
+The downside to these is that it's more computationally expensive to simulate wave-particle duality for than the probabilistic averaging idea since it posits a non-temporary aether ($D_i$).
 
 > Why this Galilean construction of quantum gravity would lead to special relativity makes no sense to me, unless the light matter and dark matter indeed were functionally distinct corpuscular matters, and the matter composing particles/bodies was constrained to a speed-constant (undergoing an angular-linear velocity shift, thereby time dilation and/or length contraction) while the obverse matter, composing light, were relatively bounded but absolutely unbounded... something like that could create the special-relativistic effects. Though, fitting wave-particle duality into that, under the interpretation that I'm aiming for — as an optimization mechanism for an intelligent universe — would be pretty intractable... unless it only applied to the corpuscular matter composing the particles/bodies and not that of light/gravity. But now we have a contradiction, since photons, which are particles, demonstrate a wave-particle duality. If they were composed of the particle/body-matter, then light's behavior would be anisotropic in this specially-relativistic construction. If they were composed of the gravity-matter, then light's behavior would be consistent but would not demonstrate a wave-particle duality pattern... well, I guess it could. By "intractable", perhaps I should say "inefficient." With enough compute, it would be tractable.
 
