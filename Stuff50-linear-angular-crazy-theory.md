@@ -50,9 +50,9 @@ $M(B_1) \lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B
 
 Gravitational effect (LHS) on Body 1 ($B_1$) should be approximately equal to the recency of collision of an intermediary ($D_i$) with a second body ($B_2$). Otherwise, without Body 2, the intermediary should not affect the inertia of Body 1 (the RHS term approaches 0).
 
-And the cross-derivative version:
+And the cross-derivative attempt:
 
-$\lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B_1) \rVert \partial \lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert} \rVert > 0$.
+$\sum\limits_{n \in \mathbb{N}} \lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B_1) \rVert \partial \lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert} \rVert \approx \sum\limits_{n \in \mathbb{N}} \frac{\lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert}{n^2}$.
 
 The downside to these is that it's more computationally expensive to simulate wave-particle duality for than the probabilistic averaging idea since it posits a non-temporary aether ($D_i$).
 
