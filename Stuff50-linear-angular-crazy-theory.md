@@ -52,7 +52,7 @@ Gravitational effect (LHS) on Body 1 ($B_1$) should be approximately equal to th
 
 And the cross-derivative attempt:
 
-$\sum\limits_{n \in \mathbb{N}} \lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B_1) \rVert \partial \lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert} \rVert \approx \sum\limits_{n \in \mathbb{N}} \frac{\lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert}{n^2 \lVert X^{t}(D_i) - X^{t}(B_1) \rVert}$.
+$M(B_1) \sum\limits_{n \in \mathbb{N}} \lVert \frac{\partial V^{t+1}(B_1)}{\partial \lVert X^{t}(D_i) - X^{t}(B_1) \rVert \partial \lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert} \rVert \approx M(B_2) \sum\limits_{n \in \mathbb{N}} \frac{\lVert X^{t-n}(B_2) - X^{t}(B_1) \rVert}{n^2 \lVert X^{t}(D_i) - X^{t}(B_1) \rVert}$.
 
 The downside to these is that it's more computationally expensive to simulate wave-particle duality for than the probabilistic averaging idea since it posits a non-temporary aether ($D_i$).
 
