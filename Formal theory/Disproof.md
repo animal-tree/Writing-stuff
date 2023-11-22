@@ -2,7 +2,7 @@
 
 Let us consider 4 reference frames. $K^{(1)}, K^{(2)}, K^{(3)},$ and $K^{(4)}$.
 
-We can compute the prediction of the Lorentz transformation (Einstein Special Relativity) from $K^{(i)}$ to $K^{(j)}$ as $L^{K^{(i)}}(K^{(j)}) = T(K^{j}), X(K^{(j)})$ for the time and space coordinates respectively.
+We can compute the prediction of the Lorentz transformation (Einstein Special Relativity) from $K^{(i)}$ to $K^{(j)}$ as $L^{K^{(i)}}(K^{(j)}) = T(K^{(j)}), X(K^{(j)})$ for the time and space coordinates respectively.
 
 All observers should agree upon their translations, if the Lorentz transformation is a valid description of the nature of relativity in any mathematical sense.
 
