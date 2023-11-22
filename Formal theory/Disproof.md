@@ -14,7 +14,7 @@ Without loss of generality, consider them walking in a single row, as if the x-a
 
 Their relative velocities are as follows:
 
-$V^{(K^{i})}(K^{(1)}) < V^{(K^{i})}(K^{(3)}) < V^{(K^{i})}(K^{(2)}) < V^{(K^{i})}(K^{(4)})$ from the perspective of all 4 observers $K^{(i)}$. Furthermore, from the perspective of $K^{(1)}$, observers 3 and 4 are moving in equal speeds in opposite directions.
+$V^{(K^{(i)})}(K^{(1)}) < V^{(K^{(i)})}(K^{(3)}) < V^{(K^{(i)})}(K^{(2)}) < V^{(K^{(i)})}(K^{(4)})$ from the perspective of all 4 observers $K^{(i)}$. Furthermore, from the perspective of $K^{(1)}$, observers 3 and 4 are moving in equal speeds in opposite directions.
 
 This scenario may be drawn geometrically from the perspective of each person to make the problem setup more clear.
 
