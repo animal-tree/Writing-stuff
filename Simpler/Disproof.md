@@ -14,7 +14,7 @@ Without loss of generality, consider them walking in a single row, as if the x-a
 
 Their relative velocities are as follows:
 
-$V^{(K^{(i)})}(K^{(1)}) < V^{(K^{(i)})}(K^{(3)}) < V^{(K^{(i)})}(K^{(2)}) < V^{(K^{(i)})}(K^{(4)})$ from the perspective of all 4 observers $K^{(i)}$. Furthermore, from the perspective of $K^{(1)}$, observers 3 and 4 are moving in equal speeds in opposite directions.
+$V^{(K^{(i)})}(K^{(1)}) < V^{(K^{(i)})}(K^{(3)}) < V^{(K^{(i)})}(K^{(2)}) < V^{(K^{(i)})}(K^{(4)})$ from the perspective of all 4 observers $K^{(i)}$. Furthermore, from the perspective of $K^{(1)}$, observers 2 and 4 are moving in equal speeds in opposite directions.
 
 This scenario may be drawn geometrically from the perspective of each person to make the problem setup more clear.
 
@@ -23,10 +23,10 @@ This scenario may be drawn geometrically from the perspective of each person to 
 $K^{(1)}$</br>
 • &nbsp;&nbsp;&nbsp; <⎯⎯• &nbsp;&nbsp;&nbsp; <⎯• &nbsp;&nbsp;&nbsp; •⎯⎯>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $K^{(3)}$</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $K^{(2)}$</br>
 <⎯-• &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp; •⎯> &nbsp;&nbsp;&nbsp; •⎯⎯>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $K^{(2)}$</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $K^{(3)}$</br>
 <⎯⎯• &nbsp;&nbsp;&nbsp; <⎯• &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp; •⎯>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $K^{(4)}$</br>
@@ -53,11 +53,11 @@ The constancy of the speed of light across all reference frames *in vacuo* has b
 
 ### Disproving the principle of relativity
 
-$K^{(1)} \leftrightarrow (K^{(3)}, K^{(4)}) \leftrightarrow K^{(2)}$
+$K^{(1)} \leftrightarrow (K^{(2)}, K^{(4)}) \leftrightarrow K^{(3)}$
 
 ### Disproving relative isotropy
 
-Isotropy says: "the laws of physics to the left are the laws of physics to the right." The predicted time dilation from the left is different from the predicted time dilation to the right (of observer $K^{(3)}$).
+Isotropy says: "the laws of physics to the left are the laws of physics to the right." The predicted time dilation from the left is different from the predicted time dilation to the right (of observer $K^{(3)}$, by observer $K^{(1)}$).
 
 <br>
 
