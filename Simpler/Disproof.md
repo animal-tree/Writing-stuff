@@ -81,6 +81,6 @@ Self-Comments:
 
 Be more clear: **Lorentz transformation for time dilation gives us *that observer’s own self-prediction values.* That means each one is predicting what  K2 is thinking. And what K4 is thinking about itself. If K1 predicts that K2 and K4 are a certain way (e.g. equal in time dilation), so should K3.** Be more clear about this.
 
-Note: this might hold not just for time dilation, but time and x as well. For time K2 and K4 should be the same, and for x, if isotropy holds and K1 is honest, then K3 should predict K2 and K4 to be the same.
+Note: this might hold not just for time dilation, but time and x as well. For time K2 and K4 should be the same, and for x, if isotropy holds and K1 is honest, then K3 should predict K2 and K4 abs-value to be the same.
 
 - T(), X() interestingly maps the whole reference frame.
