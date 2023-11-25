@@ -83,4 +83,4 @@ Be more clear: **Lorentz transformation for time dilation gives us *that observe
 
 Note: this might hold not just for time dilation, but time and x as well. For time K2 and K4 should be the same, and for x, if isotropy holds and K1 is honest, then K3 should predict K2 and K4 abs-value to be the same.
 
-- T(), X() interestingly maps the whole reference frame.
+- T(), X() interestingly maps the whole reference frame by the way
