@@ -87,7 +87,7 @@ Shouldn't K2 predict no relativistic effects of K4 then? And shouldn't 3 observe
 
 This proof overcomes relativity of simultaneity since at any time observers K2 and K4 should be measured the same by K3, according to K1.
 
-Add: Below I address common fallacies in the critiques of the theory of special relativity to make sure that this disproof is indeed a conclusive disproof and not a conjecture "paradox":
+Add: Below I address common fallacies in the critiques of the theory of special relativity to make sure that this disproof is indeed a conclusive disproof and not a conjectured "paradox":
 
 [^1]
 
