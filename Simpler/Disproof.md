@@ -85,4 +85,6 @@ Note: this might hold not just for time dilation, but time and x as well. For ti
 
 Shouldn't K2 predict no relativistic effects of K4 then? And shouldn't 3 observers then suffice to make this proof? (Probably)
 
-- T(), X() interestingly maps the whole reference frame by the way
+[^1]
+
+[^1]: Also note: T(), X() interestingly maps the whole reference frame by the way
