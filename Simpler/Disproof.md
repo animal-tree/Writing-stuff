@@ -83,6 +83,6 @@ Be more clear: **Lorentz transformation for time dilation gives us *that observe
 
 Note: this might hold not just for time dilation, but time and x as well. For time K2 and K4 should be the same, and for x, if isotropy holds and K1 is honest, then K3 should predict K2 and K4 abs-value to be the same.
 
-- Shouldn't K2 predict no relativistic effects of K4 then? And shouldn't 3 observers then suffice to make this proof? (Probably)
+Shouldn't K2 predict no relativistic effects of K4 then? And shouldn't 3 observers then suffice to make this proof? (Probably)
 
 - T(), X() interestingly maps the whole reference frame by the way
