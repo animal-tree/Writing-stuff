@@ -1,3 +1,5 @@
+(in progress. I'm actually trying to come up with one. But the one below succumbs to a relativity of simultaneity resolution)
+
 # Conclusive Disproof of Lorentz/Einstein Relativity
 
 Let us consider 4 reference frames. $K^{(1)}, K^{(2)}, K^{(3)},$ and $K^{(4)}$.
