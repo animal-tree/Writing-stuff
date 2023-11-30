@@ -1,1 +1,1 @@
-# Special Relativity Arises in a Corpuscular Universe
+# How Special Relativity Can Arise in a Corpuscular Universe
