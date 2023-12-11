@@ -16,13 +16,13 @@ Meanwhile a measuring rod remains the same in physical space (no length contract
 
 ### Speculative explanation for time dilation
 
-The perception of time dilation is perhaps possible due to a linear-angular velocity tradeoff of orbiting/bouncing sub-elementary particles all regularized to the same absolute speed constant $c$, that would be measured bi-directionally as $c$ from any reference frame (e.g. $K$ traveling at absolute speed $v$, a fraction of the speed constant emrgent from orbital and bouncing closed-loop patterns):
+The perception of time dilation is perhaps possible due to a linear-angular velocity tradeoff of orbiting/bouncing sub-elementary particles all regularized to the same absolute speed constant $c$, that would be measured bi-directionally as $c$ from any reference frame (e.g. $K$ traveling at absolute speed $v$, a fraction of the speed constant emergent from orbital and bouncing closed-loop patterns of said sub-elementary particles traveling at absolute speed $c$):
 
-In one direction:
+Perception of such particles in one direction:
 
 $c - v$
 
-In the other direction:
+Perception of such particles in the other direction:
 
 $c + v$
 
