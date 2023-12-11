@@ -36,4 +36,4 @@ Assuming Galilean relativity only.
 
 ---
 
-> It is also worth noting that the Lorentz transformation equations, and accordingly the rest of special relativity, can be derived from the combination of time dilation and length contraction, if such derivations are to be considered mathematically sound in tandem with their own postulate of the physical possibility of relativity.
+> It is also worth noting that the Lorentz transformation equations, and accordingly the rest of special relativity, can be derived from the combination of time dilation and length contraction, if such derivations are to be considered mathematically sound in tandem with their own postulate(s).
