@@ -8,4 +8,4 @@ $\rightarrow x' = \frac{vt'^2}{t} = \frac{v(\frac{t}{\sqrt{1 - \frac{v^2}{c^2}}}
 
 derived length contraction.
 
-
+Noting that reference frame $K'$ perceives itself to be traveling at velocity $0$, but its measuring units since accelerating to that speed have changed.
