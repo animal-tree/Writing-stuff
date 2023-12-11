@@ -28,7 +28,7 @@ $c_\text{right} = c - v$
 
 Then averaging the two in a bi-directional measurement, as (correct me if I'm wrong) is usually done in speed-of-light-constancy measurements:
 
-$\frac{c_\text{left} + c_\text{right}}{2} = \frac{(c + v) + (c - v)}{2} = c$
+$c_\text{measured} = \frac{c_\text{left} + c_\text{right}}{2} = \frac{(c + v) + (c - v)}{2} = c$
 
 despite the relative speed of these particles not being constant in both directions from reference frame $K$ perspective.
 
