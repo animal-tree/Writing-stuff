@@ -34,6 +34,8 @@ from any reference frame $K$ perspective, traveling at absolute $v$.
 
 Assuming Galilean relativity only.
 
+It is perhaps worth noting that absolute zero is relative in special relativity, but actually can exist here e.g. ice would not be water from different perspectives.
+
 ---
 
 > It is also worth noting that the Lorentz transformation equations, and accordingly the rest of special relativity, can be derived from the combination of time dilation and length contraction, if such derivations are to be considered mathematically sound in tandem with their own postulate(s).
