@@ -20,15 +20,15 @@ The perception of time dilation is perhaps possible due to a linear-angular velo
 
 Perception of such particles in one direction:
 
-$c - v$
+$c_\text{left} = c + v$
 
 Perception of such particles in the other direction:
 
-$c + v$
+$c_\text{right} = c - v$
 
 Then averaging the two in a bi-directional measurement, as (correct me if I'm wrong) is usually done in speed-of-light-constancy measurements:
 
-$\frac{(c - v) + (c + v)}{2} = c$
+$\frac{c_\text{left} + c_\text{right}}{2} = \frac{(c + v) + (c - v)}{2} = c$
 
 despite the relative speed of these particles not being constant in both directions from reference frame $K$ perspective.
 
