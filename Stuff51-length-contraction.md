@@ -30,4 +30,4 @@ Then averaging the two in a bi-directional measurement, as (correct me if I'm wr
 
 $\frac{(c - v) + (c + v)}{2} = c$
 
-despite the relative speed of light not necessarily being constant.
+despite the relative speed of light not being constant in both directions from reference frame $K$ perspective, nor constant with respect to any other reference frames of velocity $v' \neq \pm v$.
