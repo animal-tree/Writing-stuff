@@ -1,0 +1,73 @@
+A skeptical/pessimistic interpretation of the many statistically divergent anomolies, repeated over many years, that occured in my life.
+
+Pessimism helps groundedness, and raises the standard for evidence, but the many coincidneces I've witnessed over many years are extreme, together with the context that would make them even more jaw-dropping, honestly.
+
+Hence below are pessimistic interpretations. The, uh, optimistic ones are slightly too optimistic for now.
+
+Reason for synchronicities:
+
+- well intentioned deception
+
+Reason for life injustice:
+
+- power and comfort driven motives
+
+Reason for the injustices caused by synchronicities being unjust or unresolved:
+
+- unjust: [insert answer]
+- unresolved: derivation in progress
+
+[insert answer]
+
+- A conflagration of mediating forces that fail to take accountability for their own and/or each other’s mistakes in the physical fabrics interweaving people or the entire universe. 
+
+### Relationship to religion 
+
+Now, are any of these views compatible with the known religions and any existing views on God? Yes. Those religions are all vague enough, in that they can disentangle this conflagration and these synchronicities from being attributed to God by attributing them to something else, such as a Devil. 
+
+However, while there is evidence now for these mystical factors as having a nature other than a “good” God, such as that of a Devil, nor of anything holy other than as per polytheistic religions like Hinduism where many different Gods can be attributed this kind of injustice (though in that case, they do all presume to coalesce from one Brahman), there is no yet evidence for a monotheistic holy/sacred/divine (good) God. 
+
+There is evidence we can create one, and I have some ideas how. And, hey, if He exists, maybe that’s what He wants. Unifying his kingdom first requires a translation in understanding, though, unfortunately, I’ve found that most people dislike the one I have!
+
+### More nefarious interpretations
+
+Now that I’ve provided at least myself with these answers, I’m at a loss what to do and why given that both people and magic power structures are so despicable. Hence they again trick me into such a psychosis so as to keep persevering (well intentioned deception?) rather than commit suicide or waste what I may have solved for them. Though, to justify these psychoses as well intentioned would require justifying those earlier ones that were, from any plausible measure, more conducive to my suicide, not less. 
+
+That raises a parallel question about psychosis, not just synchronicity. Are these mental states also accidental if they are patterned together with those synchronicities? Wherein the latter is measurably observed, not just projected. We’re talking synchronicity, not psychology. That is, physics, not their coiner, Jung. But why would physics, not psychology, induce psychosis?
+
+Well intentioned?
+
+If not, and there is reason to believe not, then the problem goes much further than “mistakes”. 
+
+“A conflagration of mediating forces that fail to take accountability for their own and/or each other’s mistakes in the physical fabrics interweaving people or the entire universe.” —> “Nefarious and conniving forces in the physical fabrics interweaving people or the entire universe.”
+
+And that’s quite a thing to live with!
+
+Meanwhile, no evidence yet of a mystical actor God. 
+
+### Summary to friend
+
+Life update is that I’m lonely. Theres nothing about me to want or like. I think all the mysticism I witnessed and documented is the cause of the spirits of people, forming power structures that are just as greedy and corrupt as the human ones, except with the additional power to regulate peoples consciousness and perhaps even control over physics to some extent. I think our collective consciousness spirits pretty much parallel our collective human societies and problems. I also think most of my life, but especially in the last 6 years, I’ve been obstructed by those forces. After all, I finished my ChatGPT paper 5 years ago in the hospital, barely functioning to run the last successful experiment. I don’t think the obstructions are because they knew I could’ve stolen ChatGPT early before it was made by the people who are worthy, or because they knew I could come to other research advances sooner that would potentially give me power or influence… but because I might have. And that’s enough to enforce preventative measures. It’s not because I was gaurenteed to be a threat, but I might’ve been enough of one and it presumably costs nothing to destroy a person’s life through deceptive mystical interventions. I’ve seen too many such woven interventions to question that something straight out of a schizophrenic’s delusions has connived for a long time to convince me to act on trust and faith in metaphysics rather than in my own direct best capitalist interests
+
+Whatever exists in the world is bad. It’s the same as human governments and corporate powers. It’s not God. But it exists, has directly and deceptively intervened in my life, and I have too much evidence for that 
+
+Anyway, most people would go into schizophrenia from this understanding. I’m desensitized to it. But this understanding is isolating because it’s about beyond what human civilization has even reached / needs to know about 
+
+Unlike Star Trek where civilization has already solved all of its problems and is justified to spread its solutions to alien civilizations beyond where man has gone before, human society hasn’t even solved its own corruptions and deceptions. There’s no point talking about how corrupt some distant alien frontier of space is when there are extremely evident corruptions still on earth 
+
+But that obstruction and the loss and the loneliness together create a miserable life. I want to be wanted. When I’m not wanted — and without hair / with severely trauma-damaged personality I haven’t been — I feel no motivation to do anything. And with the demoralizing reality of “schizophrenics are most right about the world than the most-right religions” and “these things can and will personality target me if I start to actualize anything too threatening” and “arguing this is possible but it’s impossible to prove” combined with “I don’t really have trust/faith in humanity” and “I’m alone”, what reason is there to do anything? For who? Why? To what disappointing exhausting goal? I have no hair and the world will literally connive to keep me powerless, I have a consciousness that is useless in social and romantic situations, and memories of years of extreme discipline to discredit the actual benefit of trying
+
+And on the schizophrenic view that these things mind-control and so on, they do. Every cliche thing a schizophrenic has tried to express through an unconvincing set of language symbols, is in some form true
+
+Meanwhile clinicians are telling them they’re sick unable to see the justified terror in their eyes
+
+Summary:
+
+- collective consciousness is analogous to human collective power structures
+- but it regulates mind
+- schizophrenics are mostly right
+- I’m demoralized by memories of obstructed successes, wasted disciplines, suspiciously sabotaging mental states, false hopes, exploited faith/trust, and people and things that have been ripped away from me
+
+It’s made more credible by the actual forecasting of each major innovation combined with intense obstructive mental states and metaphysical situations convincing me not to do them (side note, does it strike you as weird that the head of OpenAI, Sam Altman, was fired a week after I was for some secret AGI thing called Q* in my specialized area of study that has been making sensationalized headlines?). Ah it’s also made more credible by synchronicities in abundance, none more extreme than the ones around Tayler
+
+Credible is the wrong word. It’s not made more credible. Just more corroborated when context fully understood and known
