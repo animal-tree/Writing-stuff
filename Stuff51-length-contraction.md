@@ -41,3 +41,5 @@ Both $K$ and the absolute are Galilean reference frames.
 ---
 
 > It is also worth noting that the Lorentz transformation equations, and accordingly the rest of special relativity, can be derived from the combination of time dilation and length contraction, if such derivations are to be considered mathematically sound in tandem with their own postulate(s).
+>
+> In case there is question as to why $v' = \frac{vt'}{t}$, this is derived from the fact that velocity is distance over time and the measuring units of $K'$ are scaled as follows: $v' = \frac{v}{\frac{t}{t'}}$.
