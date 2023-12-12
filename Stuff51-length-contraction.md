@@ -38,8 +38,6 @@ from any reference frame $K$ perspective, traveling at absolute $v$.
 
 Assuming Galilean relativity only.
 
-It is perhaps worth noting that absolute zero is relative in special relativity, but actually can exist here e.g. ice would not be water from different perspectives. If I vibrate fast enough, will the ice stationary 10 lightyears away melt? Probably not. Maybe from my perspective, but then me and the person next to me not vibrating would disagree on the observed measurement of that liquid vs. solid state, making quite a number of our predictions irreconcilably contradictory. Unless of course this is one of those strange, goofy paradoxes! But to make this more concrete, ... well, [next time on Doctor Who I guess.]
-
 ---
 
 > It is also worth noting that the Lorentz transformation equations, and accordingly the rest of special relativity, can be derived from the combination of time dilation and length contraction, if such derivations are to be considered mathematically sound in tandem with their own postulate(s).
