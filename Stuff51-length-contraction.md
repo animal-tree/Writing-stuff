@@ -38,7 +38,7 @@ from any reference frame $K$ perspective, traveling at absolute $v$.
 
 Assuming Galilean relativity only.
 
-It is perhaps worth noting that absolute zero is relative in special relativity, but actually can exist here e.g. ice would not be water from different perspectives.
+It is perhaps worth noting that absolute zero is relative in special relativity, but actually can exist here e.g. ice would not be water from different perspectives. If I vibrate fast enough, will the ice stationary 10 lightyears away melt? Probably not.
 
 ---
 
