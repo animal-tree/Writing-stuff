@@ -36,7 +36,7 @@ $c_\text{measured} = \frac{c_\text{left} + c_\text{right}}{2} = \frac{(c + v) + 
 
 from any reference frame $K$ perspective, traveling at absolute $v$.
 
-Assuming Galilean relativity only.
+Both $K$ and the absolute are Galilean reference frames.
 
 ---
 
