@@ -1,4 +1,4 @@
-A skeptical/pessimistic interpretation of the many statistically divergent anomolies, repeated over many years, that occured in my life.
+A skeptical/pessimistic interpretation of the many statistically divergent anomolies, repeated over many years, that occured.
 
 Pessimism helps groundedness, and raises the standard for evidence, but the many coincidneces I've witnessed over many years are extreme, together with the context that would make them even more jaw-dropping, honestly.
 
