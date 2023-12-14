@@ -58,7 +58,7 @@ $\rightarrow v' = \frac{vt}{t'}$.
 
 Combined with $v' = \frac{x'}{t'}$
 
-$\rightarrow \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v = v'$
+$\rightarrow v' = \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v$
 
 leads to a contradiction since if $x' = x$ and $v' = v$, then $t' = t$, no time dilation.
 
@@ -82,15 +82,21 @@ We have now derived length contraction, by assuming length measuring units that 
 
 **A:** Because it is easier to introduce a new $x'$ than a new $(\frac{\partial x}{\partial t'})'$.
 
-(Note: the above derived contradiction is false)
+$\rightarrow v' = \frac{vt}{t'}$.
+
+Combined with $v' = \frac{x'}{t'}$
+
+$\rightarrow v' = \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v$
+
+leads to a contradiction since if $x' = x$ and $v' = v$, then $t' = t$, no time dilation.
 
 **Argument:** Why not $v' =$ "something totally arbitrary"?
 
 **A:** The burden of justification is totally on you. You would have to match $x'$ to justify it.
 
-And, beware, that choice might contradict itself, (much like shown with the second most natural choice, $x' = x$, though maybe not)
+And, beware, that choice might contradict itself, much like shown with the second most natural choice, $x' = x$.
 
-However, since measuring units are ours to choose (and only ours), why and how would we choose something arbitrary when we have [edit: did] a proven simplest?
+However, since measuring units are ours to choose (and only ours), why and how would we choose something arbitrary when we have a proven simplest?
 
 **Argument:** Yes, but we have Fahrenheit instead of Celsius for example. It can happen.
 
