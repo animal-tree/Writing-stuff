@@ -95,3 +95,5 @@ However, since measuring units are ours to choose (and only ours), why and how w
 **Argument:** Yes, but we have Fahrenheit instead of Celsius for example. It can happen.
 
 **A:** Up to you, if you can find another $x', v'$ pair that satisfies all assumed equations, e.g. $x' = \frac{v't}{\sqrt{1 - \frac{v^2}{c^2}}}$ for any arbitrary $v'$. This would of course create an unnecessary level of complexity.
+
+**Argument:** $x = x'$.
