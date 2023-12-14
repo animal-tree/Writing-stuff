@@ -102,7 +102,7 @@ However, since measuring units are ours to choose (and only ours), why and how w
 
 **Argument:** That is false, in tandem with time dilation, without a very convenient measuring unit conversion, something not assumed.
 
-We have just disproven the compatibility of special relativity with the principle of relativity, or at least that assumption that $K'$ measures the motion of $K$ as $-v$, if we believe both the reality of time dilation and length contraction as more than measurement-unit error.
+**We have just disproven the compatibility of special relativity with the principle of relativity, or at least that assumption that $K'$ measures the motion of $K$ as $-v$, if we believe both the reality of time dilation and length contraction as more than measurement-unit error.**
 
 **A:** Weren't there Galilean assumptions made earlier? Maybe that's why.
 
