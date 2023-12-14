@@ -82,7 +82,7 @@ We have now derived length contraction, by assuming length measuring units that 
 
 **A:** Because it is easier to introduce a new $x'$ than a new $(\frac{\partial x}{\partial t'})'$.
 
-(Note: the above derived contradictions is false)
+(Note: the above derived contradiction is false)
 
 **Argument:** Why not $v' =$ "something totally arbitrary"?
 
