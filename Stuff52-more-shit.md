@@ -25,3 +25,73 @@ For this to be resolved, without assuming length contraction, we must invent a n
 So this $x'$, somehow, must correspond 1 step in $t'$ with one step in $x'$.
 
 And from that a velocity $v'$ can be defined (as $\frac{x'}{t'}$).
+
+This now leads to $v' = \frac{x'}{t'}$ with an unknown $x'$, but a known $t'$.
+
+We also know that $t'$ corresponds to $t$ by time dilation and $v'$ corresponds to $v$ somehow.
+
+Since neither $v'$ nor $x'$ are defined, we may choose them arbitrarily for as long as $v' = \frac{x'}{t'}$. That being said, we will make a principled argument for $v' = v$.
+
+$v'=v$ is the simplest choice (that, or $x'=x$). We have to choose at least one measuring unit paradigm, so one of these two, in any practical case, would be the most natural.
+
+Let's see what happens with $v' = v$.
+
+We get
+
+$v = \frac{x}{t} = v' = \frac{x'}{t'}$
+
+$\rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x}{\sqrt{1 - \frac{v^2}{c^2}}}
+
+length contraction.
+
+Now, if we assume $x' = x$:
+
+$v = \frac{x}{t} = \frac{x'}{t}$,
+
+and since $v' = \frac{x'}{t'}$,
+
+we have
+
+$x' = v't'$ and $v = \frac{vt'}{t}$
+
+$\rightarrow v' = \frac{vt}{t'}$.
+
+Combined with $v' = \frac{x'}{t'}$
+
+$\rightarrow \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v = v'
+
+leads to a contradiction since if $x' = x and v' = v$, then $t' = t$, no time dilation.
+
+### Summary
+
+**Q:** As time $t'$ increases, do clocks run faster or slower?
+
+**A:** Faster </br>(more time passes)
+
+**Q:** Therefore, if distance stays the same, how does velocity change?
+
+**A:** It slows down.
+
+**Q:** Now what if we allowed you to change the measuring units of distance so as to keep the velocity equal?
+
+**A:** $v = \frac{x}{t} = \frac{x'}{t'} \rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}}
+
+We have now derived length contraction, by assuming length measuring units that make velocities equal across reference frames.
+
+**Q:** Why choose $v = v'$ over $x = x'$?
+
+**A:** Because it is easier to introduce a new $x'$ than a new $(\frac{\partial x}{\partial t'})'$.
+
+(Note: the above derived contradictions is false)
+
+**Argument:** Why not $v' =$ "something totally arbitrary"?
+
+**A:** The burden of justification is totally on you. You would have to match $x'$ to justify it.
+
+And, beware, that choice might contradict itself, (much like shown with the second most natural choice, $x' = x$, though maybe not)
+
+However, since measuring units are ours to choose (and only ours), why and how would we choose something arbitrary when we have [edit: did] a proven simplest?
+
+**Argument:** Yes, but we have Fahrenheit instead of Celsius for example. It can happen.
+
+**A:** Up to you, if you can find another $x', v'$ pair that satisfies all assumed equations, e.g. $x' = \frac{v't}{\sqrt{1 - \frac{v^2}{c^2}}}$ for any arbitrary $v'$. This would of course create an unecessary level of complexity.
