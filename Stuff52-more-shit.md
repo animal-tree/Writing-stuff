@@ -52,7 +52,7 @@ and since $v' = \frac{x'}{t'}$,
 
 we have
 
-$x' = v't'$ and $v = \frac{vt'}{t}$
+$x' = v't'$ and $v = \frac{v't'}{t}$
 
 $\rightarrow v' = \frac{vt}{t'}$.
 
