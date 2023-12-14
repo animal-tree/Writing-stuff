@@ -101,3 +101,5 @@ However, since measuring units are ours to choose (and only ours), why and how w
 **Tentative Answer:** Yes, but the principle of relativity (the principle in every variation of special relativity, including ones that don't assume constancy of light), says that reference frame $K'$ perceives $K$ as moving at the velocity, $-v$. So equating $v = v'$ seems more consistent with that. 
 
 **Argument:** That is false, in tandem with time dilation, without a very convenient measuring unit conversion, something not assumed.
+
+We have just disproven the compatibility of special relativity with the principle of relativity, or at least that assumption that $K'$ measures the motion of $K$ as $-v$, if we believe both the reality of time dilation and length contraction as more than measurement-unit error.
