@@ -90,7 +90,7 @@ We have now derived length contraction, by assuming length measuring units that 
 
 And, beware, that choice might contradict itself, ~~much like shown with the second most natural choice, $x' = x$~~.
 
-However, since measuring units are ours to choose (and only ours), why and how would we choose something arbitrary when we have a [edit: did] proven simplest?
+However, since measuring units are ours to choose (and only ours), why and how would we choose something arbitrary when we have a (tied) proven simplest?
 
 **Argument:** Yes, but we have Fahrenheit instead of Celsius for example. It can happen.
 
