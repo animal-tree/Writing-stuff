@@ -84,16 +84,6 @@ We have now derived length contraction, by assuming length measuring units that 
 
 **A:** Because it is easier to introduce a new $x'$ than a new $(\frac{\partial x}{\partial t'})'$.
 
-$\rightarrow v' = \frac{vt}{t'}$.
-
-Combined with $v' = \frac{x'}{t'}$
-
-$\rightarrow v' = \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t} = v$
-
-leads to a contradiction since if $x' = x$ and $v' = v$, then $t' = t$, no time dilation.
-
-this contradiction argument is false because $\frac{\partial x'}{\partial t} \neq v'$. Never mind on this point.
-
 **Argument:** Why not $v' =$ "something totally arbitrary"?
 
 **A:** The burden of justification is totally on you. You would have to match $x'$ to justify it.
