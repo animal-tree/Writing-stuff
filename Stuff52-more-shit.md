@@ -58,9 +58,11 @@ $\rightarrow v' = \frac{vt}{t'}$.
 
 Combined with $v' = \frac{x'}{t'}$
 
-$\rightarrow v' = \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v$
+$\rightarrow v' = \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t} = v$
 
 leads to a contradiction since if $x' = x$ and $v' = v$, then $t' = t$, no time dilation.
+
+this contradiction argument is false because $\frac{\partial x'}{\partial t} \neq v'$. Never mind on this point.
 
 ### Summary
 
@@ -86,17 +88,19 @@ $\rightarrow v' = \frac{vt}{t'}$.
 
 Combined with $v' = \frac{x'}{t'}$
 
-$\rightarrow v' = \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v$
+$\rightarrow v' = \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x}{\partial t} = \frac{\partial x'}{\partial t} = v$
 
 leads to a contradiction since if $x' = x$ and $v' = v$, then $t' = t$, no time dilation.
+
+this contradiction argument is false because $\frac{\partial x'}{\partial t} \neq v'$. Never mind on this point.
 
 **Argument:** Why not $v' =$ "something totally arbitrary"?
 
 **A:** The burden of justification is totally on you. You would have to match $x'$ to justify it.
 
-And, beware, that choice might contradict itself, much like shown with the second most natural choice, $x' = x$.
+And, beware, that choice might contradict itself, ~~much like shown with the second most natural choice, $x' = x$~~.
 
-However, since measuring units are ours to choose (and only ours), why and how would we choose something arbitrary when we have a proven simplest?
+However, since measuring units are ours to choose (and only ours), why and how would we choose something arbitrary when we have a [edit: did] proven simplest?
 
 **Argument:** Yes, but we have Fahrenheit instead of Celsius for example. It can happen.
 
