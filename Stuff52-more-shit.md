@@ -97,3 +97,5 @@ However, since measuring units are ours to choose (and only ours), why and how w
 **A:** Up to you, if you can find another $x', v'$ pair that satisfies all assumed equations, e.g. $x' = \frac{v't}{\sqrt{1 - \frac{v^2}{c^2}}}$ for any arbitrary $v'$. This would of course create an unnecessary level of complexity.
 
 **Argument:** $x = x', v = \frac{v't'}{t}$.
+
+**Tentative Answer:** Yes, but the principle of relativity (the principle in every variation of special relativity, including ones that don't assume constancy of light), says that reference frame $K'$ perceives $K$ as moving at speed $-v$. So equating $v = v'$ seems more consistent with that. 
