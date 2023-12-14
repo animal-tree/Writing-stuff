@@ -76,7 +76,7 @@ this contradiction argument is false because $\frac{\partial x'}{\partial t} \ne
 
 **Q:** Now what if we allowed you to change the measuring units of distance so as to keep the velocity equal?
 
-**A:** $v = \frac{x}{t} = \frac{x'}{t'} \rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}}$
+**A:** $v = \frac{x}{t} = \frac{x'}{t'} \rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
 We have now derived length contraction, by assuming length measuring units that make velocities equal across reference frames.
 
