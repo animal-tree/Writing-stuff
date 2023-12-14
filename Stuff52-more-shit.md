@@ -40,7 +40,7 @@ We get
 
 $v = \frac{x}{t} = v' = \frac{x'}{t'}$
 
-$\rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x}{\sqrt{1 - \frac{v^2}{c^2}}}
+$\rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x}{\sqrt{1 - \frac{v^2}{c^2}}}$
 
 length contraction.
 
@@ -58,7 +58,7 @@ $\rightarrow v' = \frac{vt}{t'}$.
 
 Combined with $v' = \frac{x'}{t'}$
 
-$\rightarrow \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v = v'
+$\rightarrow \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v = v'$
 
 leads to a contradiction since if $x' = x and v' = v$, then $t' = t$, no time dilation.
 
@@ -74,7 +74,7 @@ leads to a contradiction since if $x' = x and v' = v$, then $t' = t$, no time di
 
 **Q:** Now what if we allowed you to change the measuring units of distance so as to keep the velocity equal?
 
-**A:** $v = \frac{x}{t} = \frac{x'}{t'} \rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}}
+**A:** $v = \frac{x}{t} = \frac{x'}{t'} \rightarrow x' = \frac{xt'}{t} = \frac{xt}{t\sqrt{1 - \frac{v^2}{c^2}}}$
 
 We have now derived length contraction, by assuming length measuring units that make velocities equal across reference frames.
 
