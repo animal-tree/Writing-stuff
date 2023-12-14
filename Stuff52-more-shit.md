@@ -107,3 +107,5 @@ However, since measuring units are ours to choose (and only ours), why and how w
 **A:** Weren't there Galilean assumptions made earlier? Maybe that's why.
 
 **Arg:** They weren't used.
+
+This... actually downgrades the existence of either time dilation or length contraction from theory to syllogism, by the way.
