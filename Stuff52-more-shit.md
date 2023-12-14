@@ -98,4 +98,4 @@ However, since measuring units are ours to choose (and only ours), why and how w
 
 **Argument:** $x = x', v = \frac{v't'}{t}$.
 
-**Tentative Answer:** Yes, but the principle of relativity (the principle in every variation of special relativity, including ones that don't assume constancy of light), says that reference frame $K'$ perceives $K$ as moving at speed $-v$. So equating $v = v'$ seems more consistent with that. 
+**Tentative Answer:** Yes, but the principle of relativity (the principle in every variation of special relativity, including ones that don't assume constancy of light), says that reference frame $K'$ perceives $K$ as moving at the velocity, $-v$. So equating $v = v'$ seems more consistent with that. 
