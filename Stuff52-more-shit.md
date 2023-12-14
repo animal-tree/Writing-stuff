@@ -60,7 +60,7 @@ Combined with $v' = \frac{x'}{t'}$
 
 $\rightarrow \frac{vt}{t'} = \frac{x'}{t'} \rightarrow x' = vt \rightarrow \frac{\partial x'}{\partial t} = v = v'$
 
-leads to a contradiction since if $x' = x and v' = v$, then $t' = t$, no time dilation.
+leads to a contradiction since if $x' = x$ and $v' = v$, then $t' = t$, no time dilation.
 
 ### Summary
 
