@@ -109,3 +109,7 @@ However, since measuring units are ours to choose (and only ours), why and how w
 **Arg:** They weren't used.
 
 This... actually downgrades the existence of either time dilation or length contraction from theory to syllogism, by the way.
+
+**A:** What if we say both time dilation and length contraction are true?
+
+**Arg:** I mean, the measuring unit conversion isn't optional. Then you'd end up with an even weirder equivalence, and conforming it to $v$ and $-v$ mutual perpsectives would contradict the fact that, that would be the case with no measuring-unit conversion. So, yeah.
