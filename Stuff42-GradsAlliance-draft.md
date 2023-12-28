@@ -6,8 +6,8 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 
 ## 10/27/2023 - 10/30/2023 emails
 
-> <Subject: Optimizing qualia (grads alliance)s></br>
-> <To: Grad department></br>
+> <Subject: Optimizing qualia (grads alliance)></br>
+> <To: CS grad department></br>
 > <From: me>
 >
 > I have been through both medical abuse and worker’s rights abuse, severely, blood oozing / flesh-ripping / GABA down-regulated hellfire / literally getting run over by my own wheelchair / full-body-induced-alopecia severity, trauma and coercion.
@@ -25,7 +25,7 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 > Reply to me (s.lerman@yahoo.com) or email here (GradsAlliance@yahoo.com) or (urgraduatecollective@gmail.com) if you can help somehow.
 
 > <Subject: Supporting students></br>
-> <To: Grad department></br>
+> <To: CS grad department></br>
 > <From: CS Chair>
 >
 > Dear colleagues,
@@ -39,7 +39,7 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 > Michael
 
 > <Subject: Re: [Grads] Supporting students></br>
-> <To: Grad department></br>
+> <To: CS grad department></br>
 > <From: me>
 >
 > Michael, can you clarify where in the PhD handbook it says that a student with two publications (one pending) may be dismissed, last-minute and without prior warning, for “not enough papers” in their 6th year? In the middle of a paper-review response, by the way. Pending, with positive reviews. And having had no begrudging or otherwise “tacit” negative relationship with their advisor. Purely on that reason: “not enough papers”.
