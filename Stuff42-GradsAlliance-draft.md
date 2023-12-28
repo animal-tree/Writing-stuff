@@ -66,10 +66,12 @@ Following this, one person in Chenliang's lab replied describing a similar exper
 
 > Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so.
 
-I didn't decline anything. The only "research" plan ever given me that I didn't follow was the aforementioned formatting advice that they didn't evaluate whether I did or not anyway. Otherwise, I painstakingly obeyed everything that was commanded for 6 years, and to reiterate: they all agreed that I could successfully defend my thesis that month. The reason they terminated me, perhaps insidiously, was simply my advisor not wanting to fund me any longer. 6 years of work and I was dismissed on a half-assed reason — actually, a changing set of reasons — on the bottom-line whim of one man. And the administrators stood behind it. Note: the University of Rochester just recently spent millions of dollars fighting to not fire one of its employees in a massive, nationally-sensationalized case. The hypocricy of demanding evidence in that case, where students objected to a professor's behavior, but providing none in this case, where a professor wants to save some money arbitrarily, starkly reveals how the University actually thinks about evidence-based decision making.
+I didn't decline anything. 
+
+The University of Rochester just recently spent millions of dollars fighting to not fire one of its employees in a massive, nationally-sensationalized case. The hypocricy of demanding evidence in that case, where students objected to a professor's behavior, but providing none in this case, where a professor wants to save some money arbitrarily, starkly reveals how the University actually thinks about evidence-based decision making.
 
 Here is how I replied:
 
 > Please provide evidence of research (not thesis-formatting) advice that was provided and not followed.
 
-They terminated me without addressing this in any way.
+They terminated me without addressing this in any way. I still haven't received a reply.
