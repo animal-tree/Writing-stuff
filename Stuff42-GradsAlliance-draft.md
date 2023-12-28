@@ -71,3 +71,5 @@ I didn't decline anything. Said committee didn't even remember me in that one an
 Note: the University of Rochester just recently spent millions of dollars fighting to not fire one of its employees in a massive, nationally-sensationalized case. 6 years of work and I was dismissed on a half-assed reason — actually, a changing set of reasons — on the bottom-line whim of one man. 
 
 The hypocricy of demanding evidence in the Florian Jaeger case, where students objected to a professor's behavior, but providing none in this case, where a professor wants to save some money arbitrarily, starkly reveals how the University actually thinks about evidence-based decision making.
+
+I painstakingly obeyed everything they commanded me to do for the last 6 years.
