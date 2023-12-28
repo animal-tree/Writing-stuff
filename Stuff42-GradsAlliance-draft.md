@@ -72,4 +72,4 @@ Note: the University of Rochester just recently spent millions of dollars fighti
 
 The hypocricy of demanding evidence in the Florian Jaeger case, where students objected to a professor's behavior, but providing none in this case, where a professor wants to save some money arbitrarily, starkly reveals how the University actually thinks about evidence-based decision making.
 
-I painstakingly obeyed everything they commanded me to do for the last 6 years.
+I painstakingly obeyed everything they commanded me to do for the last 6 years, amid hospitalizations and medical trauma. I also exerted unthinkable discipline to stay functional during those times, including daily meditation; daily yoga; daily freezing cold ice baths; sacrificing movies, tv shows, internet distraction, social media, even music;  strict diets ranging from steak-only to Paleo-Keto at the slackest; daily walks in nature; 70-hour weeks; and desperate attempts to socialize every week.
