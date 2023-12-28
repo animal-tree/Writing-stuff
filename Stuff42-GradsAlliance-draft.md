@@ -60,6 +60,8 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 >    
 > I was notified by Chenliang of the termination on July 24th, specifically that he would not support me “in the Fall”. Having no promise of funding (or an advisor), I emailed Chenliang and the committee members on August 10th to describe these events. Immediately, Chenliang replied with a lie, as well as the assertion that I could do my thesis if I just “formatted” it the way he recommended. I felt this would be a dishonest thesis, if I followed his advice, and then was terminated anyway this month due to my 6 years of research suddenly being “inconsistent.” I didn’t have enough for a thesis, in my opinion, and requested an extra year (out of 7) as well as reiterated the previously-mentioned situations, and of course the insanity of continuing to earnestly labor under an advisor who had just fired me and consciously/intentionally distorted truth. Without further discussion, they terminated me.
 
+### Aftermath
+
 Following this, one person in Chenliang's lab replied describing a similar experience. Other than that, this was altogether ignored. The administrators changed their reason for terminating me one more time. Ultimately, it came down to the missed 6-month review (6-month reviews by the way are informal and meant to help the student, not to be a live-or-die assessment) that chronologically followed after the date when I was informed of my termination. They also explicitly stated/admitted:
 
 > Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so.
