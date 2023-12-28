@@ -7,6 +7,7 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 ## 10/27/2023 - 10/30/2023 emails
 
 > <Subject: Optimizing qualia (grads alliance)s></br>
+> <To: Grad department>
 > <From: me>
 >
 > I have been through both medical abuse and worker’s rights abuse, severely, blood oozing / flesh-ripping / GABA down-regulated hellfire / literally getting run over by my own wheelchair / full-body-induced-alopecia severity, trauma and coercion.
@@ -24,6 +25,7 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 > Reply to me (s.lerman@yahoo.com) or email here (GradsAlliance@yahoo.com) or (urgraduatecollective@gmail.com) if you can help somehow.
 
 > <Subject: Supporting students></br>
+> <To: Grad department>
 > <From: CS Chair>
 >
 > Dear colleagues,
@@ -37,6 +39,7 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 > Michael
 
 > <Subject: Re: [Grads] Supporting students></br>
+> <To: Grad department>
 > <From: me>
 >
 > Michael, can you clarify where in the PhD handbook it says that a student with two publications (one pending) may be dismissed, last-minute and without prior warning, for “not enough papers” in their 6th year? In the middle of a paper-review response, by the way. Pending, with positive reviews. And having had no begrudging or otherwise “tacit” negative relationship with their advisor. Purely on that reason: “not enough papers”.
@@ -57,4 +60,14 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 >    
 > I was notified by Chenliang of the termination on July 24th, specifically that he would not support me “in the Fall”. Having no promise of funding (or an advisor), I emailed Chenliang and the committee members on August 10th to describe these events. Immediately, Chenliang replied with a lie, as well as the assertion that I could do my thesis if I just “formatted” it the way he recommended. I felt this would be a dishonest thesis, if I followed his advice, and then was terminated anyway this month due to my 6 years of research suddenly being “inconsistent.” I didn’t have enough for a thesis, in my opinion, and requested an extra year (out of 7) as well as reiterated the previously-mentioned situations, and of course the insanity of continuing to earnestly labor under an advisor who had just fired me and consciously/intentionally distorted truth. Without further discussion, they terminated me.
 
-One person replied describing a similar experience. Other than that, this was altogether ignored.
+Following this, one person in Chenliang's lab replied describing a similar experience. Other than that, this was altogether ignored. The administrators changed their reason for terminating me one more time. Ultimately, it came down to the missed 6-month review (6-month reviews by the way are informal and meant to help the student, not to be a live-or-die assessment) that chronologically followed after the date when I was informed of my termination. They also explicitly stated/admitted:
+
+> Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so.
+
+I didn't decline anything. The only "research" plan ever given me that I didn't follow was the aforementioned formatting advice that they didn't evaluate whether I did or not anyway. Otherwise, I painstakingly obeyed everything that was commanded for 6 years, and to reiterate: they all agreed that I could successfully defend my thesis that month. The reason they terminated me, perhaps insidiously, was simply my advisor not wanting to fund me any longer. 6 years of work and I was dismissed on a half-assed reason — actually, a changing set of reasons — on the bottom-line whim of one man. And the administrators stood behind it. Note: the University of Rochester just recently spent millions of dollars fighting to not fire one of its employees in a massive, nationally-sensationalized case. The hypocricy of demanding evidence in that case, where students objected to a professor's behavior, but providing none in this case, where a professor wants to save some money arbitrarily, starkly reveals how the University actually thinks about evidence-based decision making.
+
+Here is how I replied:
+
+> Please provide evidence of research (not thesis-formatting) advice that was provided and not followed.
+
+They terminated me without addressing this in any way.
