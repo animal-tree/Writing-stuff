@@ -66,12 +66,8 @@ Following this, one person in Chenliang's lab replied describing a similar exper
 
 > Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so.
 
-I didn't decline anything. 
+I didn't decline anything. Said committee didn't even remember me in that one and only meeting we had, and one of the members explciitly realized this on email record. The University had no evidence for any of its changing set of reasons for terminating me.
 
-The University of Rochester just recently spent millions of dollars fighting to not fire one of its employees in a massive, nationally-sensationalized case. The hypocricy of demanding evidence in that case, where students objected to a professor's behavior, but providing none in this case, where a professor wants to save some money arbitrarily, starkly reveals how the University actually thinks about evidence-based decision making.
+Note: the University of Rochester just recently spent millions of dollars fighting to not fire one of its employees in a massive, nationally-sensationalized case. 6 years of work and I was dismissed on a half-assed reason — actually, a changing set of reasons — on the bottom-line whim of one man. 
 
-Here is how I replied:
-
-> Please provide evidence of research (not thesis-formatting) advice that was provided and not followed.
-
-They terminated me without addressing this in any way. I still haven't received a reply.
+The hypocricy of demanding evidence in the Florian Jaeger case, where students objected to a professor's behavior, but providing none in this case, where a professor wants to save some money arbitrarily, starkly reveals how the University actually thinks about evidence-based decision making.
