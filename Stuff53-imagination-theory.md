@@ -14,7 +14,7 @@ $\mathbf{P}(i) = \frac{C(i)}{\sum\limits_{j=0}^{N-1} C(j)}$.
 
 where the size and complexity of a lower-level universe $C(i=k)$ is upper bounded by that of its higher-level universe $C(i=k-1)$, exclusive:
 
-$C(i=k) < C(i=k-1), \forall 0 < k < N \in \mathbb{N}$. 
+$C(i=k) < C(i=k-1), \forall k < N \in \mathbb{N}$. 
 
 Therefore the plurality goes to the highest-level universe $i=0$:
 
