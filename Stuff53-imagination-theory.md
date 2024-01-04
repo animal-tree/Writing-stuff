@@ -10,7 +10,7 @@ for some presumed $(\text{Number of universes } N) \geq 1$.
 
 More formally:
 
-$\mathbf{P}(i) = \frac{C(i)}{\sum\limits_{j=0}^{N-1} C(j)}$. 
+$\mathbf{P}(i) = \frac{C(i)}{\sum\limits_{j=0}^{N-1} C(j)}$,
 
 where the size and complexity of a lower-level universe $C(i=k)$ is upper bounded by that of its higher-level universe $C(i=k-1)$, exclusive:
 
