@@ -24,4 +24,6 @@ $$\mathbf{P}(i=0) > \mathbf{P} (i=k), \forall k \in \mathbb{N}.$$
 >
 > Regarding the highest-level universe $\mathbf{P}(i=0)$, a plurality in likelihood is guaranteed, assuming $C(i=k) < C(i=k-1)$. Majority would depend on the probabilities assigned to each substituent universe, unknowable what even a reasonable sampling range for would be; therefore the probability of a majority as well as a plurality depends on your choice of $N$ and $\tau$, where $C(N-2) < \tau < C(N-1)$ is a minimum threshold complexity required for spawning a substituent universe e.g.:
 >
-> $N=2$ and $C(1) < \tau$. 
+> $N=2$ and $C(1) < \tau$.
+>
+> Regarding imagination, note: that the brain also has memory.
