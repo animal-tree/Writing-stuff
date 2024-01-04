@@ -26,4 +26,4 @@ $$\mathbf{P}(i=0) > \mathbf{P} (i=k), \forall k \in \mathbb{N}.$$
 >
 > $N=2$ and $C(1) < \tau$.
 >
-> Regarding imagination, note: that the brain also has memory.
+> Regarding imagination, note: that the brain also has memory. Perhaps we are $i=1$ and a bigger brain is $i=0$.
