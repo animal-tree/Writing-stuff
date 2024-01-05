@@ -14,7 +14,7 @@ $\mathbf{P}(\mathrm{U}) = \frac{C(\mathrm{U})}{\sum\limits_{\mathrm{W}=1}^{N} C(
 
 where the size and complexity of a lower-level universe $C(\mathrm{U})$ is upper bounded by that of its higher-level universe $C(\mathrm{U} + 1)$, exclusive:
 
-$0 < C(\mathrm{U}=k) < C(\mathrm{U}=k+1) < 1, \forall k < N \in \mathbb{N}$. 
+$C(\mathrm{U}=k) < C(\mathrm{U}=k+1), \forall k < N \in \mathbb{N}$. 
 
 Therefore the plurality goes to the highest-level universe $\mathrm{U}=N$:
 
