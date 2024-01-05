@@ -14,15 +14,15 @@ $\mathbf{P}(\mathrm{U}) = \frac{C(\mathrm{U})}{\sum\limits_{\mathrm{W}=1}^{N} C(
 
 where the size and complexity of a lower-level universe $C(\mathrm{U})$ is upper bounded by that of its higher-level universe $C(\mathrm{U} + 1)$, exclusive:
 
-$C(\mathrm{U}) < C(\mathrm{U}+1), \forall \mathrm{U} < N \in \mathbb{N}$. 
+$C(\mathrm{U}=k) < C(\mathrm{U}=k+1), \forall k < N \in \mathbb{N}$. 
 
 Therefore the plurality goes to the highest-level universe $\mathrm{U}=N$:
 
-$$\mathbf{P}(N) > \mathbf{P} (\mathrm{U}), \forall \mathrm{U} < N \in \mathbb{N}.$$
+$$\mathbf{P}(\mathrm{U}=N) > \mathbf{P} (\mathrm{U}=k), \forall k < N \in \mathbb{N}.$$
 
 > The size of a universe, accounted for by $C(\mathrm{U})$, also depends on the time-dimension. Take a 4D spacetime for example. If the 4th dimension’s frame rate is much slower (that is, time partials/quanta increment much slower in the simulated universe compared to the spawning universe), then the simulated universe’s 4D size is much smaller, and, since the simulated universe begins younger, due to compute constraints can never catch up. Even if the simulated universe were a more-efficient approximation of the spawning universe, the approximation would lose precision with each simulated attempt, nevertheless most likely resulting in lower complexity $C(\mathrm{U}) < C(\mathrm{U}+1)$, though there can be an implausibly linear relationship between the size-precision tradeoff and complexity-for-simulation argued.
 >
-> Regarding the highest-level universe $\mathbf{P}(\mathrm{U}=N)$, a plurality in likelihood is guaranteed, assuming $C(\mathrm{U}) < C(\mathrm{U}+1)$. Majority would depend on the probabilities assigned to each substituent universe, unknowable what even a reasonable sampling range for would be; therefore the probability of a majority as well as a plurality depends on your choice of $N$ and $\tau$, where $C(1) < \tau < C(2)$ is a minimum threshold complexity required for the realistic spawning or evolution of a substituent universe.
+> Regarding the highest-level universe $\mathbf{P}(\mathrm{U}=N)$, a plurality in likelihood is guaranteed, assuming $C(\mathrm{U}) < C(\mathrm{U}+1)$. Majority would depend on the probabilities assigned to each substituent universe, unknowable what even a reasonable sampling range for would be; therefore the probability of a majority as well as a plurality depends on your choice of $N$ and $\tau$, where $C(\mathrm{U}=1) < \tau < C(\mathrm{U}=2)$ is a minimum threshold complexity required for the realistic spawning or evolution of a substituent universe.
 >
 > Regarding imagination, note: that the brain also has memory.
 >
