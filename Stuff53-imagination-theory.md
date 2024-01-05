@@ -24,4 +24,4 @@ $$\mathbf{P}(\mathrm{U}=N) > \mathbf{P} (\mathrm{U}=k), \forall k < N \in \mathb
 >
 > Regarding the highest-level universe $\mathbf{P}(\mathrm{U}=N)$, a plurality in likelihood is guaranteed, assuming $C(\mathrm{U}+1) > C(\mathrm{U})$. Majority would depend on the probabilities assigned to each substituent universe, unknowable what even a reasonable sampling range for would be; therefore the probability of a majority as well as a plurality depends on one's guess of $\mathbf{C}(\mathrm{U})$ and $\mathbf{L}(\mathrm{U})$, the likelihood of each $\mathrm{U}=k$ spawning or evolving a substituent universe, and determining $N$ from that based on one's choice of a minimum threshold likehood $\epsilon$ such that $\mathbf{C}(\mathrm{1}) < \epsilon < \mathbf{C}(\mathrm{2})$.
 >
-> Perhaps we are $\mathrm{U}=1$ and a bigger brain, composed of qualia, imagination, and memory, is $\mathrm{U} \geq 1$, much like our own living neurons that compose ours.
+> Regarding imagination, perhaps we are $\mathrm{U}=1$ and a bigger brain, composed of qualia and memory, is $\mathrm{U} \geq 1$, much like our own living neurons that compose ours.
