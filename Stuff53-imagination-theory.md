@@ -4,28 +4,28 @@ The simulation theory says that if there ever will be a man-constructed simulati
 
 ---
 
-$$(\text{Probability of living in a universe } i) = \frac{(\text{Size and complexity of that universe } i)}{(\text{Total size and complexity of all universes } [1,N])}.$$
+$$(\text{Probability of living in a universe } \mathrm{U}) = \frac{(\text{Size and complexity of that universe } \mathrm{U})}{(\text{Total size and complexity of all universes } [1,N])}.$$
 
 for some presumed $(\text{Number of universes } N) \geq 1$. 
 
 More formally:
 
-$\mathbf{P}(i) = \frac{C(i)}{\sum\limits_{j=1}^{N} C(j)}$,
+$\mathbf{P}(\mathrm{U}) = \frac{C(\mathrm{U})}{\sum\limits_{\mathrm{W}=1}^{N} C(\mathrm{W})}$,
 
-where the size and complexity of a lower-level universe $C(i=k)$ is upper bounded by that of its higher-level universe $C(i=k+1)$, exclusive:
+where the size and complexity of a lower-level universe $C(\mathrm{U}=k)$ is upper bounded by that of its higher-level universe $C(\mathrm{U}=k+1)$, exclusive:
 
-$C(i=k) < C(i=k+1), \forall k < N \in \mathbb{N}$. 
+$C(\mathrm{U}=k) < C(\mathrm{U}=k+1), \forall k < N \in \mathbb{N}$. 
 
-Therefore the plurality goes to the highest-level universe $i=N$:
+Therefore the plurality goes to the highest-level universe $\mathrm{U}=N$:
 
-$$\mathbf{P}(i=N) > \mathbf{P} (i=k), \forall k < N \in \mathbb{N}.$$
+$$\mathbf{P}(\mathrm{U}=N) > \mathbf{P} (\mathrm{U}=k), \forall k < N \in \mathbb{N}.$$
 
-> The size of a universe, accounted for by $C(i)$, also depends on the time-dimension. Take a 4D spacetime for example. If the 4th dimension’s frame rate is much slower (that is, time partials/quanta increment much slower in the simulated universe compared to the spawning universe), then the simulated universe’s 4D size is much smaller, and, since the simulated universe begins younger, due to compute constraints can never catch up. Even if the simulated universe were a more-efficient approximation of the spawning universe, the approximation would lose precision with each simulated attempt, nevertheless most likely resulting in lower complexity: $C(i=k) < C(i=k+1)$, though there can be a size-precision tradeoff argued.
+> The size of a universe, accounted for by $C(\mathrm{U})$, also depends on the time-dimension. Take a 4D spacetime for example. If the 4th dimension’s frame rate is much slower (that is, time partials/quanta increment much slower in the simulated universe compared to the spawning universe), then the simulated universe’s 4D size is much smaller, and, since the simulated universe begins younger, due to compute constraints can never catch up. Even if the simulated universe were a more-efficient approximation of the spawning universe, the approximation would lose precision with each simulated attempt, nevertheless most likely resulting in lower complexity: $C(\mathrm{U}=k) < C(\mathrm{U}=k+1)$, though there can be a size-precision tradeoff argued.
 >
-> Regarding the highest-level universe $\mathbf{P}(i=N)$, a plurality in likelihood is guaranteed, assuming $C(i=k) < C(i=k+1)$. Majority would depend on the probabilities assigned to each substituent universe, unknowable what even a reasonable sampling range for would be; therefore the probability of a majority as well as a plurality depends on your choice of $N$ and $\tau$, where $C(1) < \tau < C(2)$ is a minimum threshold complexity required for spawning a substituent universe e.g.:
+> Regarding the highest-level universe $\mathbf{P}(\mathrm{U}=N)$, a plurality in likelihood is guaranteed, assuming $C(\mathrm{U}=k) < C(\mathrm{U}=k+1)$. Majority would depend on the probabilities assigned to each substituent universe, unknowable what even a reasonable sampling range for would be; therefore the probability of a majority as well as a plurality depends on your choice of $N$ and $\tau$, where $C(1) < \tau < C(2)$ is a minimum threshold complexity required for spawning a substituent universe e.g.:
 >
 > $N=2$ and $C(1) < \tau$.
 >
 > Regarding imagination, note: that the brain also has memory.
 >
-> Perhaps we are $i=1$ and a bigger brain is $i=2$.
+> Perhaps we are $\mathrm{U}=1$ and a bigger brain is $\mathrm{U}=2$.
