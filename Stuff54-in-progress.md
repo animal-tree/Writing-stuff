@@ -4,7 +4,7 @@ Can also work like NeRF but from one image. Use light and assortments of shapes 
 
 Then trace (optimize) that light to the pixels of a camera to optimize MSE of image.
 
-Due to light's physics being inductively defined, a 3D scene is optimized from just one image. Topologies can be variously shapeable/positioned 4D Gaussians.
+Due to light's physics being inductively defined, a 3D scene is optimized from just one image. Topologies can be variously shapeable/positioned 3D Gaussians.
 
 Same methods can of course be used for reverse engineering crystalline structures from one XRD pattern.
 
