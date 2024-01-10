@@ -1,6 +1,6 @@
 ### Painting with differentiable topologies and light: reconstructing physics from camera image without data(sets)
 
-Can also work like NeRF but from one image. Use light 3D Gaussians and assortments of shapes whose topologies can change.
+Can also work like NeRF but from one image. Use 3D Gaussians as light and assortments of shapes whose topologies can change.
 
 Then trace (optimize) that light to the pixels of a camera to optimize MSE of image.
 
@@ -13,3 +13,5 @@ No radiance fields. Actual physics. e.g. maybe Gaussian splatting (read paper) b
 ---
 
 just saving since had this idea before Gaussian splatting came out (still haven't read the paper), described with a much larger scope in mind elsewhere in this repo [here](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff41-differentiable-simulation.md), [here](https://github.com/animal-tree/Writing-stuff/blob/main/Theory-of-everything.md), and [here](https://github.com/animal-tree/Writing-stuff/blob/main/Simpler/Colossal-Misery.md).
+
+(haven't read any NeRF papers either. I was conceptualizing the Gaussian version of this before NeRFs became popularized)
