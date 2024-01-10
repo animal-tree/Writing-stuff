@@ -1,6 +1,6 @@
 ### Painting with differentiable topologies and light: reconstructing physics from camera image without data(sets)
 
-Can also work like NeRF but from one image. Use light and assortments of shapes whose topologies can change.
+Can also work like NeRF but from one image. Use light Gaussians and assortments of shapes whose topologies can change.
 
 Then trace (optimize) that light to the pixels of a camera to optimize MSE of image.
 
