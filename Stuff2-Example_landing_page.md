@@ -88,9 +88,9 @@ Not really. I think the beautiful version of events is more than possible. But b
 
 **Why your business?**
 
-It’s not even a business. Right now I just need support. 
+It’s not even a business. Right now I just have [good code](https://github.com/Cave-Dwellers-Tree-People/minihydra) and need [support](https://github.com/sponsors/AGI-init). 
 
-Moreover, UnifiedML is really good. Really good, and can absolutely be used for evil since I’m releasing it open-source. I want to have a say in the role of a technology I put out in the world, a technology that can be used to build the very things described above — in their best light or their worst.
+Moreover, [UnifiedML](https://github.com/AGI-init/UnifiedML) is really good. Really good, and can absolutely be used for good (and evil) since I’m releasing it open-source. I want to have a say in the role of a technology I put out in the world, a technology that can be used to build the very things described above — in their best light.
 
 **I DON'T WANT TO DE-CENTRALIZE THINGS!**
 
@@ -99,8 +99,4 @@ Someone will eventually sell an infinite hungry-people-feeding drone to a commun
 
 ---
 
-One more thing. [Not to emulate Steve Jobs presenting the new Apple](https://youtu.be/x7qPAY9JqE4).
-
-But in fact, we do want to present an Apple, an un-poisonous one. There is a lot of hidden knowledge in the intelligence of the universe, stemming back to the mystics.
-
-But first, we have to follow a scientific process. Experimental evidence. A large part of this work will go towards the education of materials that haven't previously been disclosed.
+In the meantime, I'm building a differentiable intelligent physics model of the universe that I think can explain consciousness and revolutionize theological philosophy (as well as physics). So, [fund me](https://github.com/sponsors/Cave-Dwellers-Tree-People) if you are interested in that too.
