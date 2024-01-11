@@ -78,6 +78,8 @@ They didn't answer.
 
 If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](https://www.facebook.com/groups/1600564167019335/). Join this group and protest [my unjust firing](#10272023---10302023-emails), negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, W2 workers status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court. 
 
-[This](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel all of its students' debt: the budgetary *surplus* of a single year. That statistic is of Harvard, but perhaps other universities can *also* afford to vastly reduce higher-education costs themselves and even cancel student debt. You read that correctly: surplus.
+[This](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel all of its students' debt: the budgetary *surplus* of a single year. That statistic is of Harvard, but perhaps other universities can *also* afford to vastly reduce higher-education costs themselves and even cancel at least some student debt. You read that correctly: surplus.
+
+But even if they can, they won't without student and faculty and public pressure. Join [Grads Alliance](https://www.facebook.com/groups/1600564167019335/) since I haven't seen this bold of a worker-and-public-led-pressure-campaign on university policy suggested elsewhere.
 
 
