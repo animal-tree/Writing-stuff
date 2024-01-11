@@ -1,76 +1,6 @@
-This is just a collection of pieces that I've written on this GitHub that I like. - Sam
+Selected essays on this GitHub that I like, written by me. 
 
-### Overview
-
-**Physics:**
-
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
-
-where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is the hidden state (the non-observable universe) at any time point up to some conceivable horizon (in order to make $\mathrm{R}$ defined), composed $n$ times. $y$ is the observable universe.
-
-**Causal reasoning:**
-
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y, \mathrm{R})$
-
-$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
-
-**Axiomatic math:**
-
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathcal{N}, \mathrm{R}, x, h^{(0)})$
-
-where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$. 
-
-Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as epistemological math, rooted in belief.
-
-**Belief:**
-
-$\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
-
-Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may: 
-
-"I observe, therefore I am observing, therefore I am. 
-
-I observe many referents to my observation, including memories, feelings, and viscera. There's also belief. I believe X, Y, Z. I justify X, Y, Z by reasons, another element of belief, X', Y', Z'."
-
-Each step is deeper into the psyche.
-
-Physics, causality, and math are beliefs. 
-
-Philosophy includes these meta-beliefs as well as others.
-
-Perhaps, philosophically speaking, philosophy is the random variable set encompassing all random variables:
-
-**Philosophy:**
-
-$\langle B \vert (B \in \Omega) \sim \mathbf{P}(B \in \Omega) \rangle$,
-
-though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Perhaps contextually useful to make some inferences about its meaning based on the other words but ultimately meaningless since any reference to itself within the definition would point back to a non-converging turtles-all-the-way-down recursion of itself. Furthermore, something about Gödel's incompleteness theorem.
-
-Random variables may be also expressed as random variables relating other random variables, such as $\mathbf{P}(x > y)$.
-
-For the sake of deduction to derive axioms to theorems, they may also define implications:
-
-**Theorem-derivation steps:**
-
-$\mathbf{P}(x > z \vert x > y, y > z) = 1$
-
-Transitivity of the greater-than inequality for example, using conditionals to specify the valid axioms or theorems $(x > y, y > z)$ that would imply the prior $x > z$.
-
-They may even be cross-referential:
-
-$\mathbf{P}(w > z \vert w > x, \mathbf{P}(x > z \vert x > y, y > z) = 1) = 1$,
-
-Treating each other as random variables.
-
-Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
-
-Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
-
-
-However, a Turing-equivalent grammar assumes someone defining the "word" of the grammar. Why would it be "this" universe instead of some other Turing-equivalent universe?
-
-
-### Telepathy (Archetypal Madness)
+## Archetypal Madness
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
 
@@ -101,72 +31,6 @@ Go:
 How about a tape of $\emptyset_{0,i}$ and $\emptyset_{1,i}$ (zeros and ones, or yins and yangs if you want), where $i$ lets us hackily denote the position on the tape, with implications from each non-sensical bit at deductive step $n$ to each non-sensical bit at deductive step $n + 1$.
 
 The "halt" can be cosmo-genocide, which we are not interested in solving. $\square$
-
-### Math
-
-**Physics:**
-
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
-
-where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is the hidden state (the non-observable universe) at any time point up to some conceivable horizon (in order to make $\mathrm{R}$ defined), composed $n$ times. $y$ is the observable universe.
-
-**Causal reasoning:**
-
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y, \mathrm{R})$
-
-$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
-
-**Axiomatic math:**
-
-$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathcal{N}, \mathrm{R}, x, h^{(0)})$
-
-where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$. 
-
-Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as epistemological math, rooted in belief.
-
-**Belief:**
-
-$\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
-
-Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may: 
-
-"I observe, therefore I am observing, therefore I am. 
-
-I observe many referents to my observation, including memories, feelings, and viscera. There's also belief. I believe X, Y, Z. I justify X, Y, Z by reasons, another element of belief, X', Y', Z'."
-
-Each step is deeper into the psyche.
-
-Physics, causality, and math are beliefs. 
-
-Philosophy includes these meta-beliefs as well as others.
-
-Perhaps, philosophically speaking, philosophy is the random variable set encompassing all random variables:
-
-**Philosophy:**
-
-$\langle B \vert (B \in \Omega) \sim \mathbf{P}(B \in \Omega) \rangle$,
-
-though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Perhaps contextually useful to make some inferences about its meaning based on the other words but ultimately meaningless since any reference to itself within the definition would point back to a non-converging turtles-all-the-way-down recursion of itself. Furthermore, something about Gödel's incompleteness theorem.
-
-Random variables may be also expressed as random variables relating other random variables, such as $\mathbf{P}(x > y)$.
-
-For the sake of deduction to derive axioms to theorems, they may also define implications:
-
-**Theorem-derivation steps:**
-
-$\mathbf{P}(x > z \vert x > y, y > z) = 1$
-
-Transitivity of the greater-than inequality for example, using conditionals to specify the valid axioms or theorems $(x > y, y > z)$ that would imply the prior $x > z$.
-
-They may even be cross-referential:
-
-$\mathbf{P}(w > z \vert w > x, \mathbf{P}(x > z \vert x > y, y > z) = 1) = 1$,
-
-Treating each other as random variables.
-
-Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
-
-Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
 
 #### Formally
 
@@ -276,11 +140,77 @@ $\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square
 
 By Theorem 4. $\square$
 
----
+## Imagination Theory
 
-However, a Turing-equivalent grammar assumes someone defining the "word" of the grammar. Why would it be "this" universe instead of some other Turing-equivalent universe?
+The simulation theory says that if there ever will be a man-constructed simulation of the universe, then the statistical chance of our own universe being part of a simulation goes up to infinity. Now the rapid acceleration of technology is used as evidence that this will one day happen, but the reality is that the universe that we live in might have a finite amount of compute and that finite amount might not be enough to simulate anything near to a universe as big and complex as ours. Even thinking that humans can one day harness the compute of a universe-worth of resources in order to simulate as much as we conceivably can under that constrained quantity changes the statistical odds that someone like Nick Bostrom, a simulation theory philosophizer, posits in the philosophy. That is because each constituent universe of each spawning universe is in all likelihood much smaller and less complex than its spawning universe, meaning that the aforementioned probability decays exponentially with each level in the turtles-all-the-way-down formalism right up until we hit the last turtle where no life can emerge, let alone a simulation of a yet smaller universe. So this is the problem of the simulation hypothesis. It doesn’t account for compute limitations in a potentially finite universe, and in fact, any simulation humans ever create will be finite, in all likelihood. That is, its citizens won’t have access to more resources than that universe’s Gods (us) and therefore their simulations won’t be as advanced as ours and so on with each diminishingly impressive layer, resulting in exponentially decreasing probabilities of living in a lower-level-turtle universe. The highest probability by plurality is that of living in the highest-level universe, not in a middle one. That’s not to say however that the simulation hypothesis is a total fallacy. The thought experiment gives us an analogy for one other process that I consider more profound than humanity’s technological acceleration: biological evolution. If, hypothetically, a biological creature ever exists that is able to imagine universes upon universes, and imagine people among one another, and oceans and cities and art and mountains and civilization and the animal kingdom and robots and river basins and the Alps and the Himalayas, what are the odds that we ourselves are not living in such an imagination?
 
-### Representation & Physical
+## Philosophy
+
+**Physics:**
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y)$
+
+where $\mathrm{R}$ is a recursive dynamics model and a random variable, $h$ is the hidden state (the non-observable universe) at any time point up to some conceivable horizon (in order to make $\mathrm{R}$ defined), composed $n$ times. $y$ is the observable universe.
+
+**Causal reasoning:**
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert y, \mathrm{R})$
+
+$x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
+
+**Axiomatic math:**
+
+$\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathcal{N}, \mathrm{R}, x, h^{(0)})$
+
+where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$. 
+
+Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as epistemological math, rooted in belief.
+
+**Belief:**
+
+$\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
+
+Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may: 
+
+"I observe, therefore I am observing, therefore I am. 
+
+I observe many referents to my observation, including memories, feelings, and viscera. There's also belief. I believe X, Y, Z. I justify X, Y, Z by reasons, another element of belief, X', Y', Z'."
+
+Each step is deeper into the psyche.
+
+Physics, causality, and math are beliefs. 
+
+Philosophy includes these meta-beliefs as well as others.
+
+Perhaps, philosophically speaking, philosophy is the random variable set encompassing all random variables:
+
+**Philosophy:**
+
+$\langle B \vert (B \in \Omega) \sim \mathbf{P}(B \in \Omega) \rangle$,
+
+though to define it as such would contradict that definition since a random variable set encompassing all random variables would have to be contained within itself, making the definition self-referentially undefined. This would be analogous to defining a word in a dictionary by some other words plus itself. Perhaps contextually useful to make some inferences about its meaning based on the other words but ultimately meaningless since any reference to itself within the definition would point back to a non-converging turtles-all-the-way-down recursion of itself. Furthermore, something about Gödel's incompleteness theorem.
+
+Random variables may be also expressed as random variables relating other random variables, such as $\mathbf{P}(x > y)$.
+
+For the sake of deduction to derive axioms to theorems, they may also define implications:
+
+**Theorem-derivation steps:**
+
+$\mathbf{P}(x > z \vert x > y, y > z) = 1$
+
+Transitivity of the greater-than inequality for example, using conditionals to specify the valid axioms or theorems $(x > y, y > z)$ that would imply the prior $x > z$.
+
+They may even be cross-referential:
+
+$\mathbf{P}(w > z \vert w > x, \mathbf{P}(x > z \vert x > y, y > z) = 1) = 1$,
+
+Treating each other as random variables.
+
+Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
+
+Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
+
+## Representation & Physical
 
 What makes something representational rather than physical?
 
@@ -298,7 +228,7 @@ Where in the physical universe these experiences occur could precisely correspon
 
 That lowest-level form is simply matter. So, what makes something physical rather than representational? Matter, yes. And by definition and consequence, qualia.
 
-### What is Consciousness?
+## What is Consciousness?
 
 Consciousness is collisions.
 
@@ -334,7 +264,7 @@ What if you drew in a flipbook every precise detail of a human-brain. A *biig* f
 
 By my interpretation, that flipbook would be as conscious as a flipbook with pen ink on it, not as a human.
 
-### Why Consciousness is Probably Matter
+## Why Consciousness is Probably Matter
 
 Why Consciousness is probably matter
 
@@ -344,7 +274,7 @@ Matter and representation is hard to define, but neurons across humans have diff
 
 Lastly, the question is what level of matter. Is all matter somewhat conscious? How does it entangle into human-like consciousness? Chemists and physcists have no experimental evidence of a “consciousness” source or pinpointed emergence. The idea of consciousness as like fire, emerging upon just the right combustion of elements is intuitive, but would require new insights in chemistry and physics. The simplest answer, without contradicting or adding to any known laws of physics is that consciousness is an innate property of the matter that already exists. Somehow it entangles into richer, more complex forms like human-consciousness. Perhaps literally through a process of quantum entanglement between the locally isolated combustions, reactions, and voltage-mediated collisions of our brains.
 
-### Fire
+## Fire
 
 The idea of saying everything is one is counterintuitive to most people.
 
