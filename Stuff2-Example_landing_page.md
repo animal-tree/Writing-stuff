@@ -76,7 +76,7 @@ Everything from de-centralized food production to de-centralized travel to de-ce
 
 I am an environmentalist, tree-hugger, and probably crazy shamanic priest. Please [sponsor](https://github.com/sponsors/AGI-init) to support and I will do right by you and nature, who governs and nourishes above the whims of profit and art.
 
-## Argument
+## Counter-argument
 
 **Worry**: Sam, the vision you painted is horrifying. I want my comforts as they are now, my routines, and for nothing in the world to dramatically change.
 
