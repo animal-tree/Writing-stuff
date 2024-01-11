@@ -45,3 +45,7 @@ As for the consciousness changes, non-local interactions, and weaponizable AI, t
 //optimistic interpretation [pending](https://github.com/animal-tree/Writing-stuff/blob/main/God/3.md)// 
 
 ### Evidence of theory
+
+### Extra placeholder context
+
+> I painstakingly obeyed everything they commanded me to do for the last 6 years, amid hospitalizations and medical trauma. I also exerted unthinkable discipline to stay functional during those times, including daily transcendental meditation; daily yoga; daily freezing cold ice baths; sacrificing movies, tv shows, social media, even music;  strict diet ranging from paleo to grassfed-pasture-raised-steak-and-wildcaught-salmon-only; daily walks in nature; 70-hour work weeks; and desperate attempts to still socialize every week. Note: if I took a medical leave, during the worst of the physical damage (following hair loss, and brain damage), I would have lost the subsidized-interest for my student loans. It was those disciplines that allowed me to meet requirements while literally brain damaged. Those damages were induced by the University of Rochester Medical Center's malpractices, something not even weighed into the decision whether or not to terminate me as far as I know. The University of Rochester by the way is a monopoly, with no accountability.
