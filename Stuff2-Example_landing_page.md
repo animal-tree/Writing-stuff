@@ -22,7 +22,7 @@ print(f'{AGI.__init__} is a "magic method".')
 >
 > We will describe below what it is sufficiently advanced *for*.
 >
-> Namely, some of what this initiative, *AGI.\_\_init\_\_*, aims to bring about.
+> Namely, what this initiative, *AGI.\_\_init\_\_*, aims to bring about.
 
 ---
 
