@@ -36,7 +36,7 @@ My termination however was ignored. I also want to mention that another student 
 
 I relayed all of this and no student, no graduate organization stood up for me. I got a LinkedIn request from somebody.
 
-### Placeholder
+### Placeholder on consciousness
 
 Most of the people except my advisor, including most of my newly instituted 6-month review committee who made the decision, were people I never met in person nor got invitation to meet in person outside of Zoom prior to or after the termination, though consciousness changes were the most suspicious element of these non-local interactions and would have made those meetings bizarre anyway and did make those discussions bizarre.
 
@@ -46,10 +46,12 @@ As for the consciousness changes, non-local interactions, and weaponizable AI, t
 //including about Chenliang and others//<br>
 //optimistic interpretation [pending](https://github.com/animal-tree/Writing-stuff/blob/main/God/3.md)// 
 
-### Evidence of theory
-
 ### Extra context
 
 > I painstakingly obeyed everything they commanded me to do for the last 6 years, amid hospitalizations and medical trauma. I also exerted unthinkable discipline to stay functional during those times, including daily transcendental meditation; daily yoga; daily freezing cold ice baths; sacrificing movies, tv shows, social media, even music;  strict diet ranging from paleo to grassfed-pasture-raised-steak-and-wildcaught-salmon-only; daily walks in nature; 70-hour work weeks; and desperate attempts to still socialize every week. Note: if I took a medical leave, during the worst of the physical damage (following hair loss, and brain damage), I would have lost the subsidized-interest for my student loans. It was those disciplines that allowed me to meet requirements while literally brain damaged. Those damages were induced by the University of Rochester Medical Center's malpractices, something not even weighed into the University of Rochester's decision whether or not to terminate me while they profited from that med center's research, big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the thinking and consciousness of its students and workers, with no accountability.
 >
 > I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
+
+### Evidence of theory
+
+Depends on the theory, but thus far, I've described *some* of the evidence [here](https://github.com/animal-tree/Writing-stuff/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md). More evidence pending.
