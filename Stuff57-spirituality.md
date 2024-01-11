@@ -1,4 +1,5 @@
 > Essay I wrote ~6 years ago, when these ideas seemed more controversial...
+---
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
 
@@ -43,3 +44,5 @@ My spirituality is about looking inside yourself — in the present moment — i
 When this holistic, primal state of consciousness is achieved, the experience is like nothing else, and I believe it is the source of the oceanic feeling at the heart of religious experience and creative flow.
 
 Beyond that, I take inspiration from eastern religion, transcendentalism, shamanism, Rousseau, Nietzsche, Marx, Jung, and Campbell.
+
+---
