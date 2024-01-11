@@ -4,7 +4,7 @@ maybe I delved deep into topics that are infuriating and this limit in cognition
 
 then does some part of me exist that is infuriated? 
 
-And does my memory have a grammatical structure that prevents it from transporting to a different region of memories while the rest of me seemingly does transport to a different region of memories?
+And does my memory have a grammatical structure that prevents it from teleporting to a different region of memories while the rest of me seemingly does transport to a different region of memories?
 
 And is something else — that I’m not conscious of — sentient in those memories? 
 
