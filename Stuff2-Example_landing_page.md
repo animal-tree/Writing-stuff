@@ -88,7 +88,7 @@ Not really. I think the beautiful version of events is more than possible. But b
 
 **Why your business?**
 
-Because it’s not even a business. Right now I just need support. 
+It’s not even a business. Right now I just need support. 
 
 Moreover, UnifiedML is really good. Really good, and can absolutely be used for evil since I’m releasing it open-source. I want to have a say in the role of a technology I put out in the world, a technology that can be used to build the very things described above — in their best light or their worst.
 
