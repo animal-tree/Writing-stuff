@@ -36,7 +36,7 @@ My termination however was ignored. I also want to mention that another student 
 
 I relayed all of this and no student, no graduate organization stood up for me. I got a LinkedIn request from somebody.
 
-### Placeholder on consciousness
+### Placeholder
 
 Most of the people except my advisor, including most of my newly instituted 6-month review committee who made the decision, were people I never met in person nor got invitation to meet in person outside of Zoom prior to or after the termination, though consciousness changes were the most suspicious element of these non-local interactions and would have made those meetings bizarre anyway and did make those discussions bizarre.
 
