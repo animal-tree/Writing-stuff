@@ -19,3 +19,9 @@ Somehow that possibility tortures me.
 ---
 
 Every negative judgement would be really unfair. They would exponentially boil only into an interpretation of others as deranged, psychotic, or really unintelligent and lacking wisdom.
+
+---
+
+*Edit after uploading the [next one](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff57-my-spirituality.md):*
+
+Honestly, it might be well earned self-pity
