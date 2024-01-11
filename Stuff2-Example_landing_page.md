@@ -74,7 +74,7 @@ The not-so-subtle reality here is that these technologies are not de facto safe 
 
 Everything from de-centralized food production to de-centralized travel to de-centralized internet is possible with intelligence, but that level of abundance comes paired with human shortsightedness that risks error in ways that are not plainly obvious until manifested and actualized. Wisdom is paramount: towards humanity's understanding of deeper intelligence and seedening humanity’s respect for the intelligences, wisdoms, and magics of nature.
 
-I am an environmentalist, tree-hugger, and probably crazy shamanic priest. Please [sponsor](https://github.com/sponsors/AGI-init) to support and I will do right by you and nature, who governs and nourishes above the whims of profit and art.
+I am an environmentalist, tree-hugger, and probably crazy shamanic priest. Please [sponsor](https://github.com/sponsors/AGI-init) to support and I will do right by you and nature, who governs and nourishes transcendent to the whims of profit and art.
 
 ## Counter-argument
 
