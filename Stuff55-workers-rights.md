@@ -12,7 +12,7 @@ In Russia and the former Soviet Union, this is a relatively common name. My grea
 
 Both of my uncles, who moved to America as well, were physicists. One of them, my mom’s brother, my “Dyada” (Uncle) Slava, was a genius physicist who I psychologically compare to Einstein. He did a lot of research in the Soviet Union and much that got copied or uncredited. And my other “Dyada” (Uncle), Tsotya Tsilya’s son, “Dyada” Sasha, is a professor at RIT (Rochester Institute of Technology), a different university from the one in Rochester I went to, U of R (University of Rochester). 
 
-𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒
+𓈒⠀𓂃⠀𓈒
 
 The motto of my Alma Mater, “UR”, is “Meliora,” which means “ever better” in Latin. I think the University of Rochester is a monopoly that lacks any accountability, but “ever better” is a good teleological standard that I hope they put their money to some day, not just their mouths. Some day, accountability should be recognized as a common-sense wisdom as much as “pro-bono” changing of a kid’s name from “Semen” (if he so wants) thankfully is today. Firing your hardest worker for no legitimate reason is a worker’s rights violation that is no way investigated, criticized, or remediated by current practices and current laws surrounding graduate workers such as PhD students, graduate schools, and other universities across the nation, a power that is especially dangerous in fields like AI, where rushed proliferations can lead to technologies that are weaponized, used for surveillance, or exploited without due consideration to broader implications. Such pressure to work and publish faster is unethical to put on anyone, especially unethical in militarizable fields. Furthermore, grad workers bring in most of the university’s research and research money, which comes from those grad workers’ effort and the grants that they help write and come up with; yet they receive less than minimum wage today and in some cases — as in my case — get terminated in their final year with no accountability for no reason, thus robbing them also of the doctoral degree by which the submission of power was presumably justified. 
 
@@ -46,12 +46,12 @@ As for the consciousness changes, non-local interactions, and weaponizable AI, t
 //including about Chenliang and others//<br>
 //optimistic interpretation [pending](https://github.com/animal-tree/Writing-stuff/blob/main/God/3.md)// 
 
+### Evidence of theory
+
+Depends on the theory, but thus far, I've described *some* of the evidence [here](https://github.com/animal-tree/Writing-stuff/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md). More evidence pending.
+
 ### Extra context
 
 > I painstakingly obeyed everything they commanded me to do for the last 6 years, amid hospitalizations and medical trauma. I also exerted unthinkable discipline to stay functional during those times, including daily transcendental meditation; daily yoga; daily freezing cold ice baths; sacrificing movies, tv shows, social media, even music;  strict diet ranging from paleo to grassfed-pasture-raised-steak-and-wildcaught-salmon-only; daily walks in nature; 70-hour work weeks; and desperate attempts to still socialize every week. Note: if I took a medical leave, during the worst of the physical damage (following hair loss, and brain damage), I would have lost the subsidized-interest for my student loans. It was those disciplines that allowed me to meet requirements while literally brain damaged. Those damages were induced by the University of Rochester Medical Center's malpractices, something not even weighed into the University of Rochester's decision whether or not to terminate me while they profited from that med center's research, big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the thinking and consciousness of its students and workers, with no accountability.
 >
 > I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
-
-### Evidence of theory
-
-Depends on the theory, but thus far, I've described *some* of the evidence [here](https://github.com/animal-tree/Writing-stuff/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md). More evidence pending.
