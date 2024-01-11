@@ -3,7 +3,7 @@
 <img width="100%" style="border:1px solid black;"  src="https://i.imgur.com/YWndtJc.jpeg">
  </p>
 
-*Intelligence exists plainly in nature. While we look for it in circuits and gadgets, it floats and sparks around us.*
+*Intelligence exists plainly in nature.*
 
 Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. See below:
 
