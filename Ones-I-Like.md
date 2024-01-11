@@ -1,4 +1,4 @@
-Selected essays on this GitHub that I like, written by me. 
+Selected essays (on this GitHub), written by me. 
 
 ## Archetypal Madness
 
