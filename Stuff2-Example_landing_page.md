@@ -18,7 +18,11 @@ class AGI:
 print(f'{AGI.__init__} is a "magic method".')
 ```
 
-Any technology sufficiently advanced is indistinguishable from magic, and this is what AGI.\_\_init\_\_ aims to bring about. 
+> This "magic method" is indistinguishable from a technology sufficiently advanced.
+>
+> We will describe below what it is sufficiently advanced *for*.
+>
+> Namely, some of what this initiative, *AGI.\_\_init\_\_*, aims to bring about.
 
 ---
 
@@ -32,13 +36,45 @@ Any technology sufficiently advanced is indistinguishable from magic, and this i
 
 * Imagine forest-fire trackers and wildlife extinction surveillance technologies that *mathematically couldn't under any circumstance be used for human surveillance.*
 
-* Imagine recommender systems that can advise you about social events and connect you innocently to others by recommending and even arranging events where your data cannot be accessed for advertising or human use/interests.
+* Imagine recommender systems that can advise you about social events and connect you innocently to others by recommending and even arranging events where your data cannot be accessed or used for advertising or exploitative purposes.
 
-The subtle reality here is that these technologies are not safe for the world, but can be profited from by businesses today in ways vastly different from how we just described. The reality is all technology ever invented has had the potential to cause great evil and great good. The good often struggles to catch up, panting heavily behind the detonations and the drone strikes and the profitting. A great engineer morality is needed for the future that we are entering. If the vision above brings horror into your heart, it's because you know the same technology can be used to create far different futures than catching fish.
+In our code, we strive for:
 
-Everything from de-centralized travel to de-centralized internet to de-centralized food production is possible with intelligence, but that level of abundance comes paired with human shortsightedness that risks making it *wrong* in ways that are not plainly obvious until drawn, painted, and credibly described, or worse, until manifested and actualized in the real world. Education is paramount, towards the understanding of deeper intelligence in humanity and toward's seedening humanity’s respect for the intelligences, wisdoms, and magics of nature.
+- *Minimalism*
+- *Beauty*
+- *Pedagogical clarity*
+- *SOTA performance*
 
-Truth be told, we are environmentalists, tree-huggers, and crazy shamanic priests. Join us by [sponsoring](https://github.com/sponsors/AGI-init) and contributing, and we will do right by you and nature, who governs and nourishes above all.
+All 4.
+
+On a broader level:
+
+- *Humanity before mechanization*
+- *Heart before calloused mind*
+- *The earth and sky, mountains and brooks, fauna and flora, before industrialization*
+
+Politically:
+
+- *Environmentalism*
+- *Democratization*
+- *Equity*
+
+And going a step further:
+
+- *Anti-militarism*
+- *Anti-surveillance*
+
+The latter two are less frequently cited by other, leading institutions.
+
+## Our Pledge
+
+We will always put humanity, nature, and Mother Earth first, ahead in the queue before money, bottom line, propriety, or even the art itself.
+
+The subtle reality here is that these technologies are not de facto safe for the world, and can be profited from in ways vastly different from how we just described and would like to imagine. The reality is all technology ever invented has had the potential to cause great evil and great good. The good often struggles to catch up, panting heavily behind the detonations and the drone strikes and the profitting. A great engineer morality *and* wisdom is needed for the future that, however, we are entering. If the vision above brings just as much horror into your heart as idealistic hope, it's because you know the same technology can be used to create far different futures than catching fish.
+
+Everything from de-centralized food production to de-centralized travel to de-centralized internet is possible with intelligence, but that level of abundance comes paired with human shortsightedness that risks error in ways that are not plainly obvious until manifested and actualized. Wisdom is paramount: towards the understanding of deeper intelligence in humanity and toward's seedening humanity’s respect for the intelligences, wisdoms, and magics of nature.
+
+I am an environmentalist, tree-hugger, and probably crazy shamanic priest. Please [sponsor](https://github.com/sponsors/AGI-init) to support and I will do right by you and nature, who governs and nourishes above the whims of profit and art.
 
 ---
 
