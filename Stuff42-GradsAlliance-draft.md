@@ -80,6 +80,6 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 
 [This](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel all of its students' debt: the budgetary *surplus* of a single year. That statistic is of Harvard, but perhaps other universities can *also* afford to vastly reduce higher-education costs themselves and even cancel at least some student debt. You read that correctly: surplus.
 
-But even if they can, they won't without student and faculty and public pressure. Join [grads alliance](https://www.facebook.com/groups/1600564167019335/) since I haven't seen this bold, and legitimate, of a worker-and-public-led-pressure-campaign on university policy suggested elsewhere.
+But even if they can, they won't without student and faculty and public pressure. Join [grads alliance](https://www.facebook.com/groups/1600564167019335/) since I haven't seen this bold, and legitimate, of a worker-and-public-led-pressure-campaign on university policy ever suggested elsewhere.
 
 
