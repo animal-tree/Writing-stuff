@@ -36,7 +36,7 @@ I painstakingly obeyed everything they commanded me to do for the last 6 years, 
 
 I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
 
-### Edited
+### Elaboration 
 
 My name is Siímyon. It’s pronounced as if you’re about to say “sim” but you change course as if you’re now about to say “sea”. Then the “yon” gets pronounced as if you’re about to say “you” and then as if you’re about to say “ohm” like the Buddhist chant. In total, it sounds like “Si-eam-y-ohn”. I’ve hyphened the “y-o” because the “y” initially sounds like you’re about to say “you” but that “ou” doesn’t get pronounced. 
 
