@@ -25,3 +25,11 @@ Every negative judgement would be really unfair. They would exponentially boil o
 *Edit after uploading the [next one](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff57-my-spirituality.md):*
 
 Honestly, it might be well earned self-pity
+
+---
+
+Maybe I can’t feel what I feel. Part of it is wanting to keep battling, even as this self-pity grievingly washes over, but not far enough to make my conscious understand.
+
+Wait but how can I not feel what I feel? I do feel what I feel. 
+
+Maybe the brain is composed of many parts and some of them don’t understand my full memory perspective. So I have to feel what they feel somehow through a spiritual process or meeting halfway if they will do that and if consciousness is navigated so easily, or dissociate. And that spiritual process isn’t about me, but about reminding those systems what I already know and remind them regularly, like “50 First Dates”. Speaking of, I already wrote this basic formula of an answer literally, just found what I wrote before in my notes, and even the “50 First Dates” analogy is rehashed, a movie I don’t really even like or remember?
