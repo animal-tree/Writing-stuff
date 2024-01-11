@@ -88,7 +88,7 @@ Not really. I think the beautiful version of events is more than possible. But b
 
 **Why your business?**
 
-It’s not even a business. Right now I just have good code built on [the world's best API](https://github.com/Cave-Dwellers-Tree-People/minihydra) and need [support](https://github.com/sponsors/AGI-init). 
+It’s not even a business. Right now I just have [good code](https://github.com/AGI-init/tributaries) built on [the world's best API](https://github.com/Cave-Dwellers-Tree-People/minihydra) and need [support](https://github.com/sponsors/AGI-init). 
 
 Moreover, [UnifiedML](https://github.com/AGI-init/UnifiedML) is really good. Really good, and can absolutely be used for good (and evil) since I’ve released all of it open-source. I want to have a say in the role of a technology I put out in the world, a technology that can be used to build the very things described above — in their best light.
 
