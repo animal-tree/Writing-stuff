@@ -66,7 +66,7 @@ And going a step further:
 
 The latter two are less frequently cited by other, leading institutions.
 
-## Our Pledge
+## Pledge
 
 We will always put humanity, nature, and Mother Earth first, ahead in the queue before money, bottom line, propriety, or even the art itself.
 
@@ -76,7 +76,7 @@ Everything from de-centralized food production to de-centralized travel to de-ce
 
 I am an environmentalist, tree-hugger, and probably crazy shamanic priest. Please [sponsor](https://github.com/sponsors/AGI-init) to support and I will do right by you and nature, who governs and nourishes above the whims of profit and art.
 
----
+## Argument
 
 **Worry**: Sam, the vision you painted is horrifying. I want my comforts as they are now, my routines, and for nothing in the world to dramatically change.
 
@@ -97,6 +97,8 @@ Moreover, [UnifiedML](https://github.com/AGI-init/UnifiedML) is really good. Rea
 Someone will eventually sell an infinite hungry-people-feeding drone to a commune or two and you are welcome to continue paying for fish at the supermarket.
 
 
----
+## One more thing
+
+[Not to emulate Steve Jobs presenting the new Apple](https://youtu.be/x7qPAY9JqE4).
 
 In the meantime, I'm building a differentiable intelligent physics model of the universe that I think can explain consciousness and revolutionize theological philosophy (as well as physics). So, [fund me](https://github.com/sponsors/Cave-Dwellers-Tree-People) if you are interested in that too.
