@@ -1,5 +1,56 @@
 Selected essays (on this GitHub), written by me. 
 
+## My Spirituality
+
+> Essay I wrote ~6 years ago, and shared as a public "Note" on Facebook (when they used to have those) and with people personally, when these ideas seemed more controversial...
+---
+
+At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
+
+We created a dichotomy between people and the earth, and from there arose every other dichotomy we’ve ever known.
+
+Including the separation between ourselves and each other.
+
+And the separation between heart, mind, and body.
+
+That’s the accessible part.
+
+The inaccessible part is that I believe the axis mundi of human consciousness has shifted since the dawn of civilization.
+
+It shifted to the toolmaking faculties of our brains because civilization is a tool, and we’re conditioned to be always engaged with it from birth.
+
+And now even our interactions with other people are facilitated foremost through language, a tool.
+
+The part of our brain that had evolved for making fire and building stone weapons is now our primary means of connection with other human beings. Even body language has taken a backseat, consciously.
+
+But these abstractions we live in that modulate our day to day functioning in society don’t have meaning on a subconscious level because this mode of consciousness is relatively young.
+
+Just imagine, humans have been making fire for 300,000 years. The Stone Age is 3 MILLION years old. We’ve been making stone tools, clothing, and mild shelters for 3 million years! Civilization has only existed for 10,000 years. Up until that point, we had been living in tribal, nomadic hunting gathering communities. None of this is natural to us. The primal subconscious is an entire constellation of our being that we’re disconnected from.
+
+When indigenous, tribal peoples are asked what plagues civilization, they say that man has severed his connection to spirit. 
+
+To them, we look psychotic, which in many ways, we kind of are.
+
+We live these pretend lives and we’re so conditioned to lie to ourselves that we’re not even aware that we’re doing it.
+
+With civilization, mankind decided it was in our domain to control everything, including our own instincts. And we try to maintain that illusion of control at all costs. Our egos dominate to the point that we commit atrocities and utterly lose who we are. 
+
+Anyway, I guess my spirituality, is trying to live honestly. I don’t need money or power or products to be happy and fulfilled. I need love and genuine human connection.
+
+And a part of making that happen is being sincere and vulnerable with others even when it’s scary.
+
+It also means feeling all of your emotions to their full extent, even the ones that don’t fit in with your worldview. Those are the ones that are trying to tell you something.
+
+If you grow up in Nazi Germany, you develop a narrative in your head that certain people are inferior to other people. That idea has to be planted in the mind before it can reach the heart. But when your heart and mind are not separate, such a narrative is powerless.
+
+My spirituality is about looking inside yourself — in the present moment — into your heart, and transcending the narrative, becoming one again with your humanity, which at its nature, I believe is good and compassionate. (And I have good reason to believe that. See: anthropological evidence from indigenous communities today, of whom in addition to their deep communal bonds and egalitarian nature, psychological studies show they are happier, less stressed, and un-afflicted with the mental illnesses that plague us.)
+
+When this holistic, primal state of consciousness is achieved, the experience is like nothing else, and I believe it is the source of the oceanic feeling at the heart of religious experience and creative flow.
+
+Beyond that, I take inspiration from eastern religion, transcendentalism, shamanism, Rousseau, Nietzsche, Marx, Jung, and Campbell.
+
+---
+
 ## Archetypal Madness
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
@@ -214,13 +265,13 @@ Furthermore, it can generalize to a new type of math where proof steps can be ep
 
 What makes something representational rather than physical?
 
-Well, a representation is a physical property that refers to another physical property by analogy, via the interface of an interpreter: a human mind or any kind of reasoning system, such as a computer compiler. The physical components require this interpreter to “translate” into the analogized meaning. For instance, the brain’s neural patterns — physically — are enzymes and grey matter and chemical signals and voltages. But by analogy they can represent everything that we perceive, think, and, at least to some degree, experience. Meanwhile, the electrons in a computer physically whirr through a circuit of logic gates, but those logic gates can represent everything expressible by a Turing machine grammar. Our language is sound waves, our poetry is multi-ambiguous translatable analogy, our scientific measurements even are holograms facilitated by communication mediums within/about the measuring devices. 
+Well, a representation is a physical property that refers to another physical property by analogy, via the interface of an interpreter: a human mind or any kind of reasoning system, such as, for another example, a computer compiler. The physical components require this interpreter to “translate” into the analogized meaning. For instance, the brain’s neural patterns — physically — are enzymes and grey matter and chemical signals and voltages. But by analogy they can represent everything that we perceive, think, and, at least to some degree, experience. Meanwhile, the electrons in a computer physically whirr through a circuit of logic gates, but those logic gates can represent everything expressible by a Turing machine grammar. Our language is sound waves, our poetry is multi-ambiguous translatable analogy, our scientific measurements even are holograms facilitated by communication mediums within/about the measuring devices. 
 
 Thus, everything we read, scientifically measure via equipment, and *think* to a higher order, is representation.
 
 Does that leave any room for physicality in the human experience?
 
-It would seem not, if all of our senses are facilitated by neural representation. But this is where the theory of qualia emerges. Not all things are represented. Presumably, somewhere beyond our sense perception is a physical world, whose properties are as described above. Presumably, we ourselves belong to such a physical world. And, possibly, some of our experience — though not always the parts we think — do too.
+It would seem not, if all of our senses are facilitated by neural representation. But this is where the theory of qualia appears. Not all things are represented. Presumably, somewhere beyond our sense perception is a physical world, whose properties are as described above. Presumably, we ourselves belong to such a physical world. And, possibly, some of our experience — though not always the parts we think — do too.
 
 That experience cannot be produced through representation. If it could, a flipbook could be made conscious by drawing neural patterns in it. Since pen ink on paper is an absurd conception of a human-like consciousness, we can, for the time being, rule it out. Therefore, if consciousness is not purely representation, it must in some portion be physical.
 
