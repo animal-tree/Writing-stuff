@@ -6,7 +6,7 @@ Thus, everything we read, scientifically measure via equipment, and *think* to a
 
 Does that leave any room for physicality in the human experience?
 
-It would seem not, if all of our senses are facilitated by neural representation. But this is where the theory of qualia emerges. Not all things are represented. Presumably, somewhere beyond our sense perception is a physical world, whose properties are as described above. Presumably, we ourselves belong to such a physical world. And, possibly, some of our experience — though not always the parts we think — do too.
+It would seem not, if all of our senses are facilitated by neural representation. But this is where the theory of qualia appears. Not all things are represented. Presumably, somewhere beyond our sense perception is a physical world, whose properties are as described above. Presumably, we ourselves belong to such a physical world. And, possibly, some of our experience — though not always the parts we think — do too.
 
 That experience cannot be produced through representation. If it could, a flipbook could be made conscious by drawing neural patterns in it. Since pen ink on paper is an absurd conception of a human-like consciousness, we can, for the time being, rule it out. Therefore, if consciousness is not purely representation, it must in some portion be physical.
 
