@@ -86,4 +86,5 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 
 But even if they can reduce education costs or cancel debt, they won't without student and faculty and public pressure. Join [grads alliance](https://www.facebook.com/groups/1600564167019335/) since I haven't seen this bold, and legitimate, of a worker-and-public-led-pressure-campaign on university financial policy — meaning, between grad workers, faculty, students, and public, to reduce tuition costs and cancel student debt — ever suggested elsewhere.
 
+If enough people give a shit, they have no choice. Join.
 
