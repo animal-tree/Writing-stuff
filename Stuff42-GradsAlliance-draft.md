@@ -82,7 +82,7 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 
 ### ...and expanding scope
 
-[This](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel all of Harvard's students' debt: the budgetary surplus of a single year. That statistic is of Harvard, but perhaps other universities can also afford to vastly reduce higher-education costs themselves and even cancel at least some student debt. You read that correctly: enough surplus to cancel all debt for every student that ever went to Harvard, ever, from one year's *surplus*. Universities in the US make huge profits. I think it's their responsibility to use that money where the Supreme Court failed.
+[This](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel all of Harvard's students' debt: the budgetary surplus of a single year. That statistic is of Harvard, but perhaps other universities can also afford to vastly reduce higher-education costs themselves and even cancel at least some student debt. You read that correctly: enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from one year's *surplus*. Universities in the US make huge profits. I think it's their responsibility to use that money where the Supreme Court failed.
 
 But even if they can reduce education costs or cancel debt, they won't without student and faculty and public pressure. Join [grads alliance](https://www.facebook.com/groups/1600564167019335/) since I haven't seen this bold, and legitimate, of a worker-and-public-led-pressure-campaign on university financial policy ever suggested elsewhere.
 
