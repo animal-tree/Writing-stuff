@@ -17,7 +17,6 @@ class AGI:
         ...
 
 
-
 print(f'{AGI.__init__} is a "magic method".')
 ```
 
