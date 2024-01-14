@@ -5,7 +5,7 @@
 
 *Intelligence exists plainly in nature.*
 
-<img width="7%"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/fc8870d3-e57e-4d80-baf4-1bc6e5b2ef11">
+<img width="7%" alt="AGI__init__logo-leaf-transparent"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/fc8870d3-e57e-4d80-baf4-1bc6e5b2ef11">
 
 Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. See below:
 
@@ -106,4 +106,4 @@ In the meantime, I'm building a differentiable intelligent physics model of the 
 
 #
 
-<img width="7%"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/410567f4-d154-433a-98ae-a3671cdac6b6">
+<img width="7%" alt="red-heart-outline" src="https://github.com/animal-tree/Writing-stuff/assets/142250284/410567f4-d154-433a-98ae-a3671cdac6b6">
