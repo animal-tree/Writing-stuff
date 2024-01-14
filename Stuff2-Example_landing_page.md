@@ -103,3 +103,7 @@ Someone will eventually sell an infinite hungry-people-feeding drone to a commun
 [Not to emulate Steve Jobs presenting the new Apple](https://youtu.be/x7qPAY9JqE4).
 
 In the meantime, I'm building a differentiable intelligent physics model of the universe (yes, really) that I think can explain consciousness and revolutionize theological philosophy (as well as physics). So, [fund me](https://github.com/sponsors/AGI-init) if you are interested in that too.
+
+#
+
+<img width="7%"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/410567f4-d154-433a-98ae-a3671cdac6b6">
