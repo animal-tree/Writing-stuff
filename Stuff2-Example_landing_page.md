@@ -45,8 +45,6 @@ In our code, we strive for:
 - *Pedagogical clarity*
 - *SOTA performance*
 
-All 4.
-
 On a broader level:
 
 - *Humanity before mechanization*
