@@ -100,7 +100,7 @@ Someone will eventually sell an infinite hungry-people-feeding drone to a commun
 
 ## One more thing
 
-[Not to emulate Steve Jobs presenting the new Apple](https://youtu.be/x7qPAY9JqE4).
+:exclamation: [Not to emulate Steve Jobs presenting the new Apple](https://youtu.be/x7qPAY9JqE4)
 
 In the meantime, I'm building a differentiable intelligent physics model of the universe (yes, really) that I think can explain consciousness and revolutionize theological philosophy (as well as physics). So, [fund me](https://github.com/sponsors/AGI-init) if you are interested in that too.
 
