@@ -5,7 +5,7 @@
 
 *Intelligence exists plainly in nature.*
 
-<img width="4%"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/e4b045ca-a3bc-4439-b718-2d1f25208eb7">
+<img width="7%"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/fc8870d3-e57e-4d80-baf4-1bc6e5b2ef11">
 
 Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. See below:
 
@@ -15,6 +15,7 @@ class AGI:
 
     def __init__(self):
         ...
+
 
 
 print(f'{AGI.__init__} is a "magic method".')
