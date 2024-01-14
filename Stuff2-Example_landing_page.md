@@ -5,6 +5,8 @@
 
 *Intelligence exists plainly in nature.*
 
+<img width="4%"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/e4b045ca-a3bc-4439-b718-2d1f25208eb7">
+
 Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. See below:
 
 ```ruby
