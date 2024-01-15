@@ -20,13 +20,15 @@ class AGI:
 print(f'{AGI.__init__} is a "magic method".')
 ```
 
-> This "magic method" is indistinguishable from a technology sufficiently advanced.
->
-> We will describe below what it is sufficiently advanced *for*.
+#
+
+>>> This "magic method" is indistinguishable from a technology sufficiently advanced.
+>>
+>> We will describe below what it is sufficiently advanced *for*.
 >
 > Namely, what this initiative, *AGI.\_\_init\_\_*, aims to bring about.
 
----
+#
 
 * Imagine drones, little drones, catching fish with line, hook, and lure, autonomously bringing back yields.
 
