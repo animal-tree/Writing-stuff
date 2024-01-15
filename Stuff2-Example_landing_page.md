@@ -38,7 +38,7 @@ print(f'{AGI.__init__} is a "magic method".')
 
 * Imagine forest-fire trackers and wildlife extinction surveillance technologies that *mathematically couldn't under any circumstance be used for human surveillance.*
 
-* Imagine recommender systems that can advise you about social events and connect you innocently to others by recommending and even arranging events where your data cannot be accessed or used for advertising or exploitative purposes, or forced on you as your only means of socializing.
+* Imagine recommender systems that support social events by recommending and even helping arrange events such that your data cannot be accessed or used for advertising or exploitative purposes. I think people should be able to find one another easily and no one should feel isolated.
 
 In our code, we strive for:
 
