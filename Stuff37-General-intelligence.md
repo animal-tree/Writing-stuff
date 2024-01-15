@@ -1,4 +1,4 @@
-> I don't like this one. The linguistic forces behind it seem to gravitate far against the point I'm trying to make. A betterexample of my voice regarding what I'm trying to say is [this essay](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff57-my-spirituality.md) that I like.
+> I don't like this one! The linguistic forces behind it seem to gravitate far against the point I'm trying to make. A better example of my voice regarding what I'm trying to say is [this essay](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff57-my-spirituality.md) that I like.
 
 #### Problems
 
