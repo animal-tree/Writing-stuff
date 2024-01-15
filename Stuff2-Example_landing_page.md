@@ -3,7 +3,7 @@
 <img width="100%" style="border:1px solid black;"  src="https://i.imgur.com/YWndtJc.jpeg">
  </p>
 
-*Intelligence exists plainly in nature.*
+*Intelligence exists plainly in nature. Love permeates all things.*
 
 <img width="7%" alt="AGI__init__logo-leaf-transparent"  src="https://github.com/animal-tree/Writing-stuff/assets/142250284/fc8870d3-e57e-4d80-baf4-1bc6e5b2ef11">
 
