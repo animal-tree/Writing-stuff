@@ -44,8 +44,8 @@ In our code, we strive for:
 
 - *Minimalism*
 - *Beauty*
-- *Pedagogical clarity*
 - *SotA performance*
+- *Pedagogical clarity*
 
 On a broader level:
 
