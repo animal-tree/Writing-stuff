@@ -1,4 +1,24 @@
-Definitions:
+I’m just going to try to organize my thoughts. How do we know that germs cause disease? Germs and disease coincide at the same time and location, and therefore we know with high probability that germs cause disease. The coinciding relationship between germs and disease is not just measured once, but reproducibly and consistently every time disease is measured. Where we find disease, we find germs. Those germs perhaps move around in specific patterns and coincide with “reactions” where our measuring tools measure a transformation from one pattern to another, in a sequence that coincides with the measurement of disease. That’s how we know germs cause disease. It is worth noting that this isn’t deductively derived from mathematic axioms. It’s these consistent coincidences of measurement that define our meaning of “causality.”
+
+In math, we can have two postulates, such as A=B and B=C. From that we can derive A=C. This sort of deductive causality is called implication. Strangely enough, the fact that germs cause disease is not derived from formal implication.
+
+The (informal) “implication” is the coincidence of measurement. To many in the public outside of science, this might come as a surprise.  Without formal implication, technically the belief isn’t proven. So it might come as a surprise that “germs cause disease” has never formally been proven.
+
+The “informal” implication is called p-value. It’s a measure of how likely a coincidence is to be random. If it’s unlikely, we say there is causality involved, effectively treating that “divergence from randomness” as formal implication.
+
+The same goes outside of science. How do /you/ know germs cause disease? Either (a) by intuition, (b) by trusting others, or (c) by observing it yourself, though this is rare since the general public doesn’t have access to measuring tools that can detect germs, only the disease which coincides with contagiousness, that disease spreading from one individual to another via proximity. We assume some intermediary force carries that disease and we generally call that force “germs.”
+
+As for intuition, our senses can give us a feeling of a lot more than just our immediate cognitive knowledge. That’s because during evolution, the human body learned certain adaptations (like not jumping off cliffs for example) that it needs no argument or evidence or proof to believe. Love for a child is the best example I can think of.
+
+Trusting others, is hard. Generally (or often), for that, we need cause and effect that personally, directly affects us. But sometimes that cause and effect has nothing to do with what we are trusting, but who. Certain people, institutions, and sources that we have different reasons for trusting, but usually based on either personal relationships or societal ones, or the trust we have for the methods and practices that those sources (at least claim to) use.
+
+Observation is a direct measurement. Ultimately, this is what scientists use, as well as trust in other scientists.
+
+The measurements then are compared to existing presumptions to derive or estimate a “divergence from randomness” called a p-value. The fact that “germs cause disease” comes from germs being measured in the same time and location as disease consistently, together with potentially patterns that reproducibly transform one to the other.
+
+Below, quickly, I've concretized something pretty elaborate: a form of p-value-like, Bayesian knowledge-acquisition rooted in frequency of coinciding measurements rather than direct probability. You can skip to "Ambiguity resolution" to get a gist for the core idea, but at least seeing "proximity" and the difference between "hypothesized scientific cause" and "hypothesized temporal scientific cause" is useful to understanding the last four paragraphs of this.
+
+### Definitions
 
 **Occurrence.** A time and location-defining-region.
 
