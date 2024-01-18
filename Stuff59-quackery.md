@@ -94,4 +94,4 @@ In quantum physics there are believed to be many non-local effects and entanglem
 
 Why our coincidence fixation is dependent on temporal and identity synchronicity/coincidence, and not a looser combination of location, time, and identity, is unjustified.
 
-In my opinion, a 90% proximity between 10 coincidences in time and location, and only a 60% proximity in identity, is just as strong a form of coincidence as a 100% proximity between 10 coincidences in identity, 80% in time, and 2% in location.
+In my opinion, a 90% proximity between 10 coincidences in time and location, and only a 70% proximity in identity, is just as strong a form of coincidence as a 100% proximity between 10 coincidences in identity, 60% in time, and 2% in location.
