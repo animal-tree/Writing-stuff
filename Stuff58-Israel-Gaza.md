@@ -1,6 +1,6 @@
 > My cognitive forces that I don't think are really, fully mine always fuck up my meaning. I didn't want to make this about propaganda, but it became about propaganda. Try to see my point through the psychic forces that skew everything I try to say. The humor is intended. But my original idea, before standing to write, was everything except the "TV" idea.
->
-> Let them eat cake: Sam Lerman’s solution to Israeli-Palestinian tensions that is totally not a Trojan horse…
+
+Let them eat cake: Sam Lerman’s solution to Israeli-Palestinian tensions that is totally not a Trojan horse…
 
 …And give them TVs with access to Israeli TV shows made by creative Arabs/Palestinians that are genuinely *funny and fun* or *deep and emotional* and *not propaganda*.
 
