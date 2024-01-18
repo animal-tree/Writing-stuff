@@ -108,6 +108,10 @@ That is, unless intent were a causal factor. In psychology experiments and socio
 
 A prediction can at best be a bias, at worst be redundant. If it’s a bias, then at least we learn something about the nature of prediction. If it’s redundant, then scientifically its value may be zero but it can be attributed value for the subjective, psychological confidence of *control* it gives to scientists. “I have done this intentionally!” rather than “this is caused by this.”
 
+<br>
+
+> Utility depends on truth. Truth doesn’t always depend on utility. (Unless the truth is about the utility of something).
+
 **What about a hypothesized scientific model that can account for hypothesized scientific causes?**
 
 Note: Another heresy is that the standard scientific causality is defined as a special case of causality. While the standard model of physics can somewhat hypothesize about scientific temporal causes, it hasn’t much scratched the surface of non-local synchronous causes or causes whose identities are not as strictly proximal. These are called synchronicities and have been measured, though without demonstrated predictive power, in “datasets” documented throughout books, tomes, and anecdote.
