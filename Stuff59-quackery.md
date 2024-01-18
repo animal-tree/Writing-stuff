@@ -76,9 +76,9 @@ Those original 3 steps didn’t explicitly include a prediction. However, upon d
 
 Hypothetically, if N experiments stumbled onto the same findings by accident, taking the limit of N to infinity, would a prediction be necessary to know scientifically the conclusion of step 3? The answer is no. That’s why the knowledge-acquisition kernel of cause-effect-coincidence is perhaps more general to science scientifically. 
 
-In reality, taking N to infinity, a purposeful experiment which follows a purposeful prediction, is redundant and provides no information gain compared to the existing data, except perhaps on the role of purpose/human-intent in influencing the measurement. In the study of consciousness and wave-particle properties in quantum mechanics, this may be relevant, arguably. However, let’s look into that a bit closer as well to make sure we’re not conflating measurement intent and measurement bias.
+In reality, given already N to infinity: a purposeful experiment which follows a purposeful prediction, is redundant and provides no information gain compared to the existing data, except perhaps on the role of purpose/human-intent in influencing the measurement. In the study of consciousness and wave-particle properties in quantum mechanics, this may be relevant, arguably. However, let’s look into that a bit closer as well to make sure we’re not conflating measurement intent and measurement bias.
 
-If you guess that such a caveat would be such a conflation, you are right. If the measurement is carried out identically, with or without intent, and the result is the same, then intent is not relevant an is redundant. In quantum physics, detectors are used to measure which slit a particle may or may not have gone through. When the detector is active, a different pattern appears on the projection screen from the detector is inactive, independent on the physicist’s intents or predictions.
+If you guess that such a caveat would be such a conflation, you are right. If the measurement is carried out identically, with or without intent, and the result is the same, then intent is not relevant and is redundant. In quantum physics, detectors are used to measure which slit a particle may or may not have gone through. When the detector is active, a different pattern appears on the projection screen than if the detector is inactive, independent on the physicist’s intents or predictions.
 
 Same with the microscope. If one were to investigate a sick person’s body with a microscope “for fun”, and hundreds others did the same and accidentally found measurements of germs, an additional replication of that experiment would psychologically add confidence to the experimenter, but data-centrically provide no information gain and would be redundant. 
 
@@ -92,6 +92,6 @@ Note: Another heresy is that the standard scientific causality is defined as a s
 
 In quantum physics there are believed to be many non-local effects and entanglements that aren’t strictly speaking temporally causal. 
 
-Why our coincidence fixation is dependent on temporal and identity synchronicity/coincidence, and not a looser combination of location, time, and identity, is unjustified in any scientific model.
+Why our coincidence fixation is dependent on temporal and identity synchronicity/coincidence, and not a looser combination of location, time, and identity, is unjustified.
 
 In my opinion, a 90% proximity between 10 coincidences in time and location, and only a 70% proximity in identity, is just as strong a form of coincidence as a 100% proximity between 10 coincidences in identity, 80% in time, and 2% in location.
