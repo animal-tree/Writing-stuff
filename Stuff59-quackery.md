@@ -54,7 +54,7 @@ This is a lot of definitions. Let’s go through an example to get a sense of ho
 
 Somehow, we conclude that 1 is the cause, 2 is the effect, and 3 is the justification, without needing a further process beyond these 3 steps.
 
-To recap, the scientific method is:
+The scientific method is:
 
 - Characterizations (observations, definitions, and measurements of the subject of inquiry)
 - Hypotheses (theoretical, hypothetical explanations of observations and measurements of the subject)
