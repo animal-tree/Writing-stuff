@@ -52,7 +52,7 @@ This is a lot of definitions. Let’s go through an example to get a sense of ho
 2. The diseased person is believed to be diseased based on reported wellbeing, visible symptoms, or measurements such as blood tests or urine samples.
 3. This coincidence of measurement (1 and 2) is consistently measured with diseased persons. Sometimes a sequence of transformations is consistently measured as well that transforms germs to disease (1 to 2).
 
-Somehow, we conclude that 1 is the cause, 2 is the effect, and 3 is the justification.
+Somehow, we conclude that 1 is the cause, 2 is the effect, and 3 is the justification, without needing a further process beyond these 3 steps.
 
 To recap, the scientific method is:
 
