@@ -44,7 +44,7 @@ In practice, which measurements are conducted must be prioritized due to resourc
 
 Note: The big heresy here is that “prediction” doesn’t necessarily come into the picture at all. High-certainty data collected entirely accidentally is just as valid as equally-certainty data collected through the traditional scientific method process of predicting and intentionally reproducing predictions first.
 
-This is a lot of definitions. Let’s go through an example to get a sense of how something like “germs cause disease” can be known:
+This is a lot of definitions. Let’s go through an example to get a sense of how something like “germs cause disease” can be known, and without prediction, despite possibly your initial judgement:
 
 “Germs cause disease”
 
