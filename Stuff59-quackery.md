@@ -58,7 +58,7 @@ However, these proximity scores are not provided by nature directly. A hypothesi
 2. Measurements.  
 3. Updated hypothesized scientific model based on consistency between proximity of measured coincidences.
 
-This of course is how Bayesian belief systems work, though from a novel proximity-based formulation rather than probability, and we can therefore characterize formally the conclusions of science as belief; but never mind that for now, and scientists generally are aware that this is the possibly-inescapable limitation of scientific knowledge.
+This of course is how Bayesian belief systems work, though from a novel proximity-based formulation rather than probability, allowing for decomposition of coincidences into times, locations, and identities; but never mind that for now, and as for Bayseian belief (rather than 100% certainty), scientists generally are aware that this is the possibly-inescapable limitation of measurement-based scientific knowledge (as opposed to "I observe; therefore I'm observing.").
 
 In practice, which measurements are conducted must be prioritized due to resource and time constraints, for example by estimates of how certain or uncertain existing available data is, and the availability of the data, and weighing consistency ratios based on one’s estimated certainty of the corresponding data regarding those measurements.
 
