@@ -22,7 +22,7 @@ Definitions:
 
 **Hypothesized scientific model.** Assignment of proximity scores between pairs of bodies and/or coincidences. (forces and interactions, and bodies, allowing the determination of consistency and therefore cause and effect)
 
-**Temporal effect.** The temporally-later of at least one of the coincidences in a hypothesized temporal cause. (e.g. a measurement)
+**Temporal effect.** The temporally-later of at least one of the coincidences in a hypothesized temporal cause.
 
 **Predicted effect.** The deduction of a temporal effect from a hypothesized scientific model based on coincident temporally-later proximities to measured bodies and/or coincidences. (modeling)
 
