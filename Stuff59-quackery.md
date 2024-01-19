@@ -114,7 +114,8 @@ A prediction can at best be a bias, at worst be redundant. If it’s a bias, the
 
 <br>
 
-> Utility depends on truth. Truth doesn’t always depend on utility. (Unless the truth is about the utility of something).
+> Utility depends on truth. Truth doesn’t always depend on utility. (Unless the truth is about the utility of something).<br>
+>  &ensp;  — on the necessity of prediction
 
 <br>
 
