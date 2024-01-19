@@ -1,4 +1,4 @@
-> Essay I wrote ~6 years ago, and shared as a public "Note" when Facebook used to have those:
+> Essay I wrote ~6 years ago, and shared publicly as a "Note" when Facebook used to have those:
 
 ---
 
