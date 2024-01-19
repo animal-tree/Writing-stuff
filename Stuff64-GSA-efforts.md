@@ -34,3 +34,5 @@ I'm terrified of all of you and there are specific people I need to heal with.
 <br>
 
 The words I say are sincere and I am human in wanting recognition and sympathy, but also real understanding.
+
+Those capitalized letters are a terror captured here before your eyes. I'm not sure if you're reading it as sincere. Amybe in your mental mind models you're judging it as insincere. It's not. You don't know what I'm going through. But you'll sooner diagnose and drug than understand. Relationships and isolation and alienation did this and I'm undergoing it writing it for you right now.
