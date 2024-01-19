@@ -65,3 +65,7 @@ For example, this example is really dumb, about "that month." But it was the onl
 
 My paranoia is that everything I want to communicate has a cost. Something creates a judgement in you through the manipulation of me, before anything I mean is allowed to be conveyed, and that something regulates this for some reason. "for some reason" for example isn't what I want to type, but I had no choice. I wanted to add a specific explanation, reconveying the description above about empathetic and symbiotic regions in the brain who govern and compose our consciousness so as to promote both individual and symbiotic function, by distributing the individual across the symbiosis. My symbiosis however is not a symbiosis because those people are not in my life, for tragic reasons that you would understand easily in some cases and maybe wouldn't in otehrs, I don't know. Every relationship was lost over text through technology, which I guess is fitting for the theme of my work, but not exactly my life. I live in a perpetual Black Mirror episode. I hope that conveys it.
 
+---
+
+Granted, they're probably making me show all this to you to reduce culpability in my suicide. Just saying, none of this was why I was terminated and I did good work.
+
