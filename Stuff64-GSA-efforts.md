@@ -15,3 +15,8 @@ Then of course the consciousness changes would, uh, be less suspicious because o
 Note: the last time U of R had a scandal, it did good for the grad students as well. But, like these consciousness forces, I'm hedging my bets. <- how do I recover from that? Christ.
 
 This is all written by invaders of my consciousness^^^^ in cluding alll of fucking that. "STOP!" - ME, taht's what I say. STOP. 
+
+<br>
+<br>
+
+I'm sorry, but the voices in my head take different forms. I obey them the way you do yours. But mine have all mistreated me. Every relationship I have. And I think these words come from my brain's mixture-of-experts best emulation of those peopel who I love. Sabatoging me. Acting against me. Because that's what I've psychologically come to believe they will do.
