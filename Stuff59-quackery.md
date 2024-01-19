@@ -52,6 +52,8 @@ However, these proximity scores are not provided by nature directly. A hypothesi
 
 **Hypothesis accuracy.** Number and certainty of measurements, maximization of the consistency ratio. (null hypothesis criteria)
 
+### Scientific method
+
 **Scientific knowledge-acquisition.**
 
 1. Hypothesized scientific model.
