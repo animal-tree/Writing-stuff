@@ -48,3 +48,7 @@ The same happens with your brain probably and you're not conscious of it.
 I think those mind models take the form of our relationships as a symbiotic function that we evolved to live symbiotically. And that spiritual journeys are about healing those mind models. But I can't heal them. Because all of you have blocked me and I am alone and isolated.
 
 I wish you would understand that.
+
+<br>
+
+None of what I do is me. And because I am a good person, I can be excused from anything I do. Anything I could possibly do. Anything. I could. Possibly. Do. Including these words, whoch are the only form of communication I've had in literally years, aside from my mom.
