@@ -74,4 +74,6 @@ Granted, they're probably making me show all this to you to reduce culpability i
 > Notice that they always exclude they cost me my hair and drugged me and put me through literal physiological brain damage and all teh otehr things I wrote throughout this GitHub that traumatized me and ruined my relationships. Yes, losing the relationships is why I want to die, but that happened because of these people. They are extremely culpable.
 >
 > The 100 mind models in charge of my words don't do me justice.
+>
+> Fuck, to disambiguate I'm referring to the people I was employed by and the institutions, not the GSA.
 
