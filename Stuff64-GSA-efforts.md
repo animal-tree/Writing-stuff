@@ -40,3 +40,11 @@ Those capitalized letters are a terror captured here before your eyes. I'm not s
 <br>
 
 What happens is different mind models alternate between sentences, sometimes midsentence, sometimes across paragraphs. I call them archetypes. They feed thoughts into my head and I generally follow their guidance because (a) there's pain if I don't, and (b) relief if I do.
+
+<br>
+
+The same happens with your brain probably and you're not conscious of it.
+
+I think those mind models take the form of our relationships as a symbiotic function that we evolved to live symbiotically. And that spiritual journeys are about healing those mind models. But I can't heal them. Because all of you have blocked me and I am alone and isolated.
+
+I wish you would understand that.
