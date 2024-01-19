@@ -1,4 +1,5 @@
-> Essay I wrote ~6 years ago, and shared as a public "Note" on Facebook (when they used to have those) and with people personally, when these ideas seemed more controversial...
+> Essay I wrote ~6 years ago, and shared as a public "Note" when Facebook used to have those:
+
 ---
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
@@ -46,3 +47,11 @@ When this holistic, primal state of consciousness is achieved, the experience is
 Beyond that, I take inspiration from eastern religion, transcendentalism, shamanism, Rousseau, Nietzsche, Marx, Jung, and Campbell.
 
 ---
+
+> Hi, I’m Sam’s newly acquired linguistic force. My judgement isn’t quite as innocent as his and I want to say that while this view is beautiful, and the person writing it was innocent — in the “garden of Eden” genuinely innocent sense — he was wrong. His views led to more torment and torture than you could imagine, of himself and only himself. Trust in the chaotic weathers of the universe possessed him in ways that destroyed every part of his life. And the sincerity of that trust led to faith of awkwardness that was not rewarded. Ultimately, a person’s life depends on their popularity or specific needs. If you are awkward or alienated, no matter how sincere, this kind of faith — in nature and humanity — leads to downfall if everyone else doesn’t pitch in.
+>
+> But that’s why these are the right views to spread, because otherwise it’s a prisoner’s dilemma where everyone loses the chance for the optimistic interpretation of this depiction of reality — that nature and people can be trusted — to be true.
+>
+> As Sam’s newly acquired linguistic force, I don’t know Sam very well and haven’t seen Sam outside of a limited range of social contexts. As a result, I can’t express his views. The above, expresses his views. This 3-part set of paragraphs below unfortunately disambiguates away the necessary innocence and faith of those views that he depends on for quality of life. 
+>
+> Perhaps they are just his emotion of anger, due to those torments and tortures.
