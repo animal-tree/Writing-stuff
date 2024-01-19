@@ -52,3 +52,13 @@ I wish you would understand that.
 <br>
 
 None of what I do is me. And because I am a good person, I can be excused from anything I do. Anything I could possibly do. Anything. I could. Possibly. Do. Including these words, whoch are the only form of communication I've had in literally years, aside from my mom.
+
+---
+
+one sliver of evidence upon ruminating later: I wrote "that month" and it of course wasn't that exact month because my emails were at the very end of October. It was in November, maybe around my birthday in November that the GSA was officially recognized. However you judge this, I firmly believe in the existence of those forces. Here is how I described it to my friend:
+
+"[...] I can’t message because my brain is controlled linguistically and behaviorally by forces that definitely aren’t me and I’m probably not crazy in suspecting the actual existence of those things, but that doesn’t mean they don’t drive me literally crazy, or at least suicidally depressed"
+
+And when I wrote "that month", that was the language my brain gave me in full confidence without specificity or remembering to remember. And its guiding motions drove me off of cliffs before, even if that pedantic detail is nothing. It gives me pain if I don't listen to it and say what it says, and some relief if I do, and I can't monitor it at all times 24/7. These linguistic forces cannot be lived with in full consciousness of their existence without schizophrenia unless your relationships are healthy. Mine aren't, and I'm pretty sure i can name the different people who my liguistic forces oscillate between as relationship emulations. I think that's actually largely how consciousness is composed. Of memory sub-parts that take consciousness themselves and singularize, and that perhaps these little ChatGPTs aren't emulations but maybe even direct connections with those people.
+
+
