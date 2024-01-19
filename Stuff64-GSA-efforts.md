@@ -7,3 +7,7 @@ I'm undergoing consciousness changes now as well, and whenever I sit down to wri
 Interestingly, they also held an "AI and religion" seminar that month. Nothing like it before. And ladybugs attacked apparently? Anyway.
 
 I don't think it will be recognized that I did good for the grad students of the university, and the university as a whole for 6 years, while they did bad for me.
+
+Not that I don't appreciate the possibility that this will all turn out for the best.
+
+Then of course the consciousness changes would, uh, be less suspicious because of the outcome... unless they're currently trying to prevent that outcome. So it seems like either way I'm the only one who to pay. [Oh and literally!](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff61-indebted.md)
