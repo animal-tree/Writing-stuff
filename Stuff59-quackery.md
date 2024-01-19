@@ -133,4 +133,4 @@ That is, two particle accelerators on opposite sides of the Earth can measure th
 
 Such a model may for example be a coherence/decoherence model (probability collapse model) that singularizes consciousness into threads, answering both why a brain composed of many neurons can have a singularized experience and the nature of why a non-local, or distributed, interaction of consciousness such that, for example, an encounter with someone can be timed and planned together with them non-locally, could occur, while still adhering consistently to the measurements (including the doubt-casting ones) of the existing model, then that model is a superior hypothesized scientific model.
 
-[^1]: w.r.t. identity, e.g. different leptons, different flavors of neutrino, different hadrons
+[^1]: w.r.t. identity, e.g. different flavors of neutrino, leptons, or hadrons
