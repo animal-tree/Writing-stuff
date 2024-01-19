@@ -114,6 +114,8 @@ A prediction can at best be a bias, at worst be redundant. If it’s a bias, the
 
 > Utility depends on truth. Truth doesn’t always depend on utility. (Unless the truth is about the utility of something).
 
+<br>
+
 **What about a hypothesized scientific model that can account for hypothesized scientific causes?**
 
 Note: Another heresy is that the standard scientific causality is defined as a special case of causality. While the standard model of physics can somewhat hypothesize about scientific temporal causes, it hasn’t much scratched the surface of non-local synchronous causes or causes whose identities are not as strictly proximal. These are called synchronicities and have been measured, though without demonstrated predictive power, in “datasets” documented throughout books, tomes, and anecdote.
