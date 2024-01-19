@@ -1,4 +1,4 @@
-> Essay I wrote ~6 years ago, and shared publicly as a note when Facebook used to have those:
+> Essay I wrote ~6 years ago, and shared publicly as a note when Facebook used to have those. The words are sincere.
 
 ---
 
