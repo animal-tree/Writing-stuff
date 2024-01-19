@@ -5,3 +5,5 @@ Though to be fair, all of my emails were under the influence of consciousness ch
 I'm undergoing consciousness changes now as well, and whenever I sit down to write something that is publicized. My lips are going dry and something is wrong. I wish people would believe me that there are forces in the collective consciousness that intervene on my brain, that are not from me or even from within me.
 
 Interestingly, they also held an "AI and religion" seminar that month. Nothing like it before. And ladybugs attacked apparently? Anyway.
+
+I don't think it will be recognized that I did good for them while they did bad for me.
