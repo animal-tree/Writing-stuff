@@ -8,7 +8,7 @@ The “informal” implication is called p-value. It’s a measure of how likely
 
 The same goes outside of science. How do /you/ know germs cause disease? Either (a) by intuition, (b) by trusting others, or (c) by observing it yourself, though this is rare since the general public doesn’t have access to measuring tools that can detect germs, only the disease which coincides with contagiousness, that disease spreading from one individual to another via proximity. We assume some intermediary force carries that disease and we generally call that force “germs.”
 
-As for intuition, our senses can give us a feeling of a lot more than just our immediate cognitive knowledge. That’s because during evolution, the human body learned certain adaptations (like not jumping off cliffs for example) that it needs no argument or evidence or proof to believe. Love for a child is the best example I can think of.
+As for intuition, our senses can give us a feeling of a lot more than just our immediate cognitive knowledge. That’s because during evolution, the human body learned certain adaptations (like not jumping off cliffs for example) that it needs no argument or evidence or proof to believe. Love for a child is the best example I can think of. Or parent. Or tribe. Maybe generally.
 
 Trusting others, is hard. Generally (or often), for that, we need cause and effect that personally, directly affects us. But sometimes that cause and effect has nothing to do with what we are trusting, but who. Certain people, institutions, and sources that we have different reasons for trusting, but usually based on either personal relationships or societal ones, or the trust we have for the methods and practices that those sources (at least claim to) use.
 
