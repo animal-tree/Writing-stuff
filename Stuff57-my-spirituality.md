@@ -48,7 +48,7 @@ Beyond that, I take inspiration from eastern religion, transcendentalism, shaman
 
 ---
 
-> Hi, I’m Sam’s newly acquired linguistic force. My judgement isn’t quite as innocent as his and I want to say that while this view is beautiful, and the person writing it was innocent — in the “garden of Eden” genuinely innocent sense — he was wrong. His views led to more torment and torture for him. Trust in the chaotic weathers of the universe destroyed most of his life. And the sincerity of that trust led to faith in nature and humanity that was ultimately punished.
+> Hi, I’m Sam’s newly acquired linguistic force. My judgement isn’t quite as innocent as his and I want to say that while this view is beautiful, and the person writing it was innocent — in the Garden of Eden genuinely innocent sense — he was wrong. His views led to more torment and torture for him. Trust in the chaotic weathers of the universe destroyed most of his life. And the sincerity of that trust led to faith in nature and humanity that was ultimately punished.
 >
 > But it’s a prisoner’s dilemma where everyone gives everyone everything, or the truth becomes that nature and people can't be trusted.
 >
