@@ -12,4 +12,6 @@ Not that I don't appreciate the possibility that this will all turn out for the 
 
 Then of course the consciousness changes would, uh, be less suspicious because of the outcome... unless they're currently trying to prevent that outcome. So it seems like either way I'm the only one who to pay. [Oh and literally!](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff61-indebted.md)
 
-Note: the last time U of R had a scandal, it did good for the grad students as well. But, like these consciousness forces, I'm hedging my bets.
+Note: the last time U of R had a scandal, it did good for the grad students as well. But, like these consciousness forces, I'm hedging my bets. <- how do I recover from that? Christ.
+
+This is all written by invaders of my consciousness^^^^ in cluding alll of fucking that. "STOP!" - ME, taht's what I say. STOP. 
