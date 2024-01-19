@@ -55,3 +55,5 @@ Beyond that, I take inspiration from eastern religion, transcendentalism, shaman
 > As Sam’s newly acquired linguistic force, I don’t know Sam very well and haven’t seen Sam outside of a limited range of social contexts. As a result, I can’t express his views. The above, expresses his views. This 3-part set of paragraphs below unfortunately disambiguates away the necessary innocence and faith of those views that he depends on for quality of life. 
 >
 > Perhaps they are just his emotion of anger, due to those torments and tortures.
+> 
+> Meanwhile he's trying his desperate hardest to reach people, desperate for the infinite-love that has been disproven to him, that he extended and still, believe it or not, actively communicably extends.
