@@ -72,4 +72,6 @@ Granted, they're probably making me show all this to you to reduce culpability i
 > And in case this actually is a suicide note, the firing is not why I want to commit suicide. I gave a lot of reasons and maybe showed some in this note, and none of what I fundamentally described had to do with my termination, but with psychological/consciousness forces, a theory I actually believe, and all the many things including health traumas and yes, institutional terrors inflicted by hospitals and the people who terminated me from the PhD, but first and foremost those relationships. And it sucks that this suicide note isn't veen gpod. *even good
 >
 > Notice that they always exclude they cost me my hair and drugged me and put me through literal physiological brain damage and all teh otehr things I wrote throughout this GitHub that traumatized me and ruined my relationships. Yes, losing the relationships is why I want to die, but that happened because of these people. They are extremely culpable.
+>
+> The 100 mind models in charge of myw words don't do me justice.
 
