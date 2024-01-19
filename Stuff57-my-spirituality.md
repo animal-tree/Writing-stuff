@@ -1,5 +1,4 @@
-> Essay I wrote ~6 years ago, and shared publicly as a note when Facebook used to have those. The words are sincere.
-
+> Essay I wrote ~6 years ago:
 ---
 
 At the core of my spirituality is the... observation... that humanity has severed its connection to nature.
@@ -47,13 +46,3 @@ When this holistic, primal state of consciousness is achieved, the experience is
 Beyond that, I take inspiration from eastern religion, transcendentalism, shamanism, Rousseau, Nietzsche, Marx, Jung, and Campbell.
 
 ---
-
-> Hi, I’m Sam’s newly acquired linguistic force. My judgement isn’t quite as innocent as his and I want to say that while this view is beautiful, and the person writing it was innocent — in the Garden-of-Eden genuinely innocent sense — he was wrong. His views led to more torment and torture for him. Trust in the chaotic weathers of the universe destroyed most of his life. And the sincerity of that trust led to faith in nature and humanity that was ultimately punished.
->
-> But it’s a prisoner’s dilemma where everyone gives everyone everything, or the truth becomes that nature and people can't be trusted.
->
-> As Sam’s newly acquired linguistic force, I don’t know Sam very well and haven’t seen Sam outside of a limited range of social contexts. As a result, I can’t express his views. The above, expresses his views. This 3-part set of paragraphs below (edit: now 5) unfortunately disambiguates away the necessary innocence and faith of those views that he depends on for quality of life. 
->
-> Perhaps they are just his emotion of anger, due to those torments and tortures.
-> 
-> Meanwhile he's trying his desperate hardest to reach people, desperate for the infinite-love that has been disproven to him, that he extended and still, believe it or not, actively communicably extends.
