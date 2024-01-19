@@ -30,3 +30,7 @@ That you can trust me.
 And that I'm uundergoing something severe beyond the easy interpretation of judgement.
 
 I'm terrified of all of you and there are specific people I need to heal with.
+
+<br>
+
+The words I say are sincere and I am human in wanting recognition and sympathy, but also real understanding.
