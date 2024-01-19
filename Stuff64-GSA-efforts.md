@@ -20,3 +20,13 @@ This is all written by invaders of my consciousness^^^^ in cluding alll of fucki
 <br>
 
 I'm sorry, but the voices in my head take different forms. I obey them the way you do yours. But mine have all mistreated me. Every relationship I have. And I think these words come from my brain's mixture-of-experts best emulation of those peopel who I love. Sabatoging me. Acting against me. Because that's what I've psychologically come to believe they will do.
+
+I iwsh all of you would believe without your medical diagnoses. I wish you'd understand the importance of relational healing.
+
+That I'm not manipulating.
+
+That you can trust me.
+
+And that I'm uundergoing something severe beyond the easy interpretation of judgement.
+
+I'm terrified of all of you and there are specific people I need to heal with.
