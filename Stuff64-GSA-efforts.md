@@ -69,3 +69,5 @@ My paranoia is that everything I want to communicate has a cost. Something creat
 
 Granted, they're probably making me show all this to you to reduce culpability in my suicide. Just saying, none of this was why I was terminated and I did good work.
 
+> And in case this actually is a suicide note, the firing is not why I want to commit suicide. I gave a lot of reasons and maybe showed some in this note, and none of what I fundamentally described had to do with my termination, but with psychological/consciousness forces, a theory I actually believe, and all the many things including health traumas but first and foremost those relationships. And it sucks that this suicide note isn't veen gpod. *even good
+
