@@ -1,4 +1,4 @@
-The evidence, for why my previous views about synchronicities and the consciousness-tethering forces that regulate our minds are wrong, is above all the alternate explanation that they were coincidences and confusion. The best evidence for coincidence is:
+The evidence, for why my previous views about synchronicities and the consciousness-tethering forces that regulate our minds are wrong, is above-all the alternate explanation that they were coincidences and confusion. The best evidence for coincidence is:
 
 1. Others' beliefs on those same coincidences just being coincidences.
 2. Huge disruption/challenge to pre-existing, long-held beliefs.
