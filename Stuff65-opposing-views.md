@@ -15,7 +15,7 @@ The **confusion** however is understandable given the many, in my opinion convin
 
 ## People
 
-In defense of Chenliang: he eventually accepted me into his lab after Henry left, pressured me into writing a paper sooner, and stayed generally nice throughout the time, while not expressing judgement towards my social anxiety. He sometimes had a good understanding of AI. His spirit, in my confusion-views, promised me many things. He respected my slower publication pace while I built UnifiedML, and I believed he "knew."
+In defense of Chenliang: he eventually accepted me into his lab after Henry left, pressured me into writing a paper sooner, and stayed generally nice throughout the time, while not expressing judgement towards my social anxiety. He sometimes had a good understanding of AI. His spirit, in my confusion-views, promised me many things. He contradictorily seemed to respect my slower publication pace while I built UnifiedML, and I believed he "knew."
 
 Michael, bumped my grade up. Wasn't judgemental, sent many "talk?" emails, sort of kind of; one "talk?" email, one previous invitation to meet, but also no reply to my acceptance to meet; and mentioned the possibility of reinstatement at the end.
 
