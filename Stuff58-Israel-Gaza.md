@@ -12,7 +12,7 @@ In the meantime, Israel can defend itself from Hamas, but it’s important to no
 
 In short, the resolution to bridging relationships and creating a ceasefire is: humanitarian aid to Palestinian civilians (and citizens), universally but especially those who are demographically on average statistically below the global poverty line, but with Israeli flags on and perhaps Israeli personnel behind the delivery drones/airplanes, de-weaponized, of that humanitarian aid, and with Israeli Arabs and Palestinians leading the communication. 
 
-As for cake: don’t bring them cake. Bring them healthy foods. Organic grassfed meats and pasture raised eggs, wild caught salmon, biologique fruits and vegetables, halal-wine/juice, and maybe cake if you must show a little love. 
+As for cake: don’t bring them cake. Bring them healthy foods. Organic grassfed meats and pasture raised eggs, wild caught salmon, biologique fruits and vegetables, halal-sparkly wine/juice, and maybe cake if you must show a little love. 
 
 There you go. End of Israeli-Palestinian conflict. 
 
