@@ -56,7 +56,7 @@
 
 ### Aftermath
 
-Following this, one person in Chenliang's lab replied directly to me describing a similar experience, and asked me to convey it to the CS chair. The administrators changed their reason for terminating me one more time. Ultimately, it came down to the missed 6-month review (6-month reviews by the way are informal and meant to help the student, not to be a live-or-die assessment). This decision was made after I sent the above emails. Until then, I’m not sure they realized I technically had a missed 6-month review that I didn’t make up (chronologically, it was after Chenliang’s last-minute notification of my termination).
+Following this, one person in Chenliang's lab replied directly to me describing a similar experience, and asked me to convey it to the CS chair. The administrators changed their reason for terminating me one more time. Ultimately, it came down to the missed 6-month review (6-month reviews by the way are informal and meant to help the student, not to be a live-or-die assessment). This reason was given after they formally terminated me and after I sent the above emails, in which I reminded them of that August 30 6-month review that was required of me. I'm pretty sure they didn't mention the August 30 6-month review until the day my stipend was cut off. Literally that day.
 
 > Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so.
 
