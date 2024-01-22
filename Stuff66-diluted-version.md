@@ -1,4 +1,4 @@
-> Diluted version in case the previous one was too hard to believe:
+> Diluted version in case the [previous one](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff65-opposing-views.md) was too hard to believe:
 
 The evidence, for why my previous views [about synchronicities and the consciousness-tethering forces that regulate our minds] are wrong, is above-all the alternate explanation that they were **coincidences** and **confusion**. The best evidence for **coincidence** is:
 
