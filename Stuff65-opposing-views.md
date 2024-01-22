@@ -17,7 +17,7 @@ The **confusion** however is understandable given the many, in my opinion convin
 
 The views that were held previously, and any associated mentalities or biases that one might perceive to be controversial, were not shared at work, because I understood how they could be perceived. My work for Chenliang and during my PhD was consistently really good. Any contentious views I shared on this GitHub didn’t in any way affect the quality of the work that I did under Chenliang and during my PhD at the university, which can be found chronicled at my other GitHubs [here](https://github.com/slerman12) and [here](https://github.com/agi-init).  
 
-The consciousness severities that occurred, such as my first manic episode and the onset of catatonia, occurred after that hair loss that Strong Hospital caused through medical malpractice. I don’t think those consciousness severities would have affected me so severely, or happened at all, had I not suffered the loss of all my hair first due to treatment handling practices around my eczema. 
+The consciousness severities that occurred, such as my first manic episode and the onset of catatonia, occurred after that hair loss that Strong Hospital caused through medical malpractice. I don’t think those consciousness severities would have affected me so severely, or happened at all, had I not suffered the loss of all my hair first due to treatment handling mispractices around my eczema. 
 
 ## People
 
