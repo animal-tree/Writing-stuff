@@ -18,6 +18,8 @@
 >
 > Reply to me (s.lerman@yahoo.com) or email here (GradsAlliance@yahoo.com) or (urgraduatecollective@gmail.com) if you can help somehow.
 
+#
+
 > <Subject: Supporting students></br>
 > <To: grad department></br>
 > <From: CS Chair>
@@ -31,6 +33,8 @@
 > Yours,
 > 
 > Michael
+
+#
 
 > <Subject: Re: [Grads] Supporting students></br>
 > <To: grad department></br>
