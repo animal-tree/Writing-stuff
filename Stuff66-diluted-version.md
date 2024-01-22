@@ -1,4 +1,4 @@
-> Diluted version in case the [previous one](https://github.com/animal-tree/Writing-stuff/blob/22e7e0223040e71c9871c5a3119db71c1a1f3a0d/Stuff65-opposing-views.md) is too hard to believe, in case of the context of your own inability to read (boiled-down nicely to make me look how you'd prefer, and also my original self-disserving version):
+> Diluted version in case the [previous one](https://github.com/animal-tree/Writing-stuff/blob/22e7e0223040e71c9871c5a3119db71c1a1f3a0d/Stuff65-opposing-views.md) is too hard to believe, in case of the context of your own inability to read (boiled-down nicely to make me look how you'd prefer, and also my original self-disserving version as can be traced in the original commits):
 
 The evidence, for why my previous views [about synchronicities and the consciousness-tethering forces that regulate our minds] are wrong, is above-all the alternate explanation that they were **coincidences** and **confusion**. The best evidence for **coincidence** is:
 
