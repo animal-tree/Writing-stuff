@@ -60,7 +60,7 @@ Following this, one person in Chenliang's lab replied directly to me describing 
 
 > Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so.
 
-I didn't decline their research plan and they didn’t provide one. Chenliang only suggested I adhere to his formatting instructions. Said committee didn't even remember me in that one and only meeting we had, and one of the committee members explicitly realized this on email record. The University had no evidence for any of its changing set of reasons for terminating me.
+I didn't decline their research plan and they didn’t provide one. Chenliang only suggested I adhere to his formatting instructions. One of the committee members explicitly realized on email record that he didn't even remember me. The committee was new, due to earlier committee members leaving, due to my previous committee members leaving or not being available for reasons that had nothing to do with me. The University had no evidence for any of its changing set of reasons for terminating me.
 
 There’s a difficult-to-state hypocrisy about the University of Rochester being the ones to terminate me. Florian Jaeger’s termination was called for by the entire student body (including me actually, [publicly](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl)) and soon the entire media and nation. The scandal sensationalized to national prominence, the University spent millions of dollars in defense of, well, evidence-based termination I guess, and then ultimately fired a dean and not that professor.
 
