@@ -1,4 +1,4 @@
-> Diluted version in case the [previous one](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff65-opposing-views.md) is too hard to believe, in case of the context of their own inability to read (boiled-down nicely to make me look how I think they'd prefer, and also my original self-disserving version as can be traced in the original commits):
+> Diluted version in case the [previous one](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff65-opposing-views.md) is too hard to believe, in case of the context of either (1) difficult readability or (2) suspicion/skepticism by others. This was my original self-disserving version as can be traced in the original commits. However, to be clear, my consciousness works against me. It knows plausible misjudgements and negative perceptions of others and caters to them, in the linguistic choices that it makes against my will.
 
 The evidence, for why my previous views [about synchronicities and the consciousness-tethering forces that regulate our minds] are wrong, is above-all the alternate explanation that they were **coincidences** and **confusion**. The best evidence for **coincidence** is:
 
