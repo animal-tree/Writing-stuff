@@ -1,4 +1,4 @@
-> Diluted version in case the previous one was too hard to believe, in case of the context of your own inability to read:
+> Diluted version in case the previous one is too hard to believe, in case of the context of your own inability to read:
 
 The evidence, for why my previous views [about synchronicities and the consciousness-tethering forces that regulate our minds] are wrong, is above-all the alternate explanation that they were **coincidences** and **confusion**. The best evidence for **coincidence** is:
 
