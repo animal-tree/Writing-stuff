@@ -6,7 +6,7 @@ The evidence, for why my previous views [about synchronicities and the conscious
 
 1. Others' beliefs on those same coincidences just being coincidences.
 2. Huge disruption/challenge to pre-existing, long-held beliefs.
-3. Being a "prophet" in a population of 8 billion people, or, alternatively, some kind of spiritual government that is corrupt or highly unjust.
+3. Being a "prophet" in a population of 8 billion people, or, alternatively, some kind of spiritual government that is corrupt or highly unjust, are both unlikely.
 4. The demand of work and time involved.
 5. My relationships and status among other people being threatening or low.
 6. The lack of non-minimal support.
