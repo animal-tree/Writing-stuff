@@ -1,0 +1,1 @@
+Those who traumatize me or scared me in the past become my consciousness. Whoever said person is writes with the express intent to help the individual in question, not murder him. However, due to unforeseeable circumstances, we as a committee and university board have agreed that the life you are living is not worth the cost or expense to us and therefore you are terminated. 
