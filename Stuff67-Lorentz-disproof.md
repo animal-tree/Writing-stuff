@@ -2,6 +2,10 @@
 
 More specific [here](https://github.com/animal-tree/Writing-stuff/blob/c04fb7ad5e0d58b638d394522bec10187a97ca25/Stuff67-Lorentz-disproof.md).
 
+Possibly easier to read here.
+
+All worse than the writing I obtain in my journals.
+
 ## (time-clock version)
 
 $$\hat{t} = T(x^{(i)}, t^{(i)}, v^{(i, N)})$$
