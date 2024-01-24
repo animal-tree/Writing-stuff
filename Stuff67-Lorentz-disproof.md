@@ -50,6 +50,8 @@ $$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{
 
 $\forall i,j \in \mathbb{N}$.
 
+(Appending to **Definitions** <br>$X$: The Lorentz transformation position equation: transforms the position of one coordinate system to that of another).
+
 Let $N = 3$.
 
 Let coordinate system 1 and the relay station hoop be stationary relative to one another. All coordinate systems are inertial, meaning their velocities stay the same. Therefore, we have $x^{(1)}$ as a constant and it is known.
