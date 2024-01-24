@@ -72,7 +72,7 @@ Since none of the coordinate systems are assumed to be simultaneous in time and 
 
 I can immediately derive $\hat{t}^{(1)}$, then transform between coordinate systems using the velocity-addition formula (also directly derivable from the Lorentz transformation equations).
 
-The flaw in this disproof, is perhaps that the Lorentz transformation's mapping of $\hat{t}^{(1)}$ to $t'$ might still be non-simultaneous with the actual $\hat{t}^{(2)}$ that corresponds with $\hat{t}$. Yeah, $x', t'$ in the Lorentz transformation definition don't correspond to $\hat{x}^{(j)}, \hat{t}^{(j)}$ in the original definitions. There's perhaps no way to obtain those from $\hat{x}^{(1)}, \hat{t}^{(1)}$. However, $\hat{x}^{(1)}, \hat{t}^{(1)}$ can be obtained, so this nevertheless does synchronize time across coordinate systems, namely between coordinate systems 1 and 3.
+The flaw in this disproof, is perhaps that the Lorentz transformation's mapping of $\hat{t}^{(1)}$ to $t' = T(\hat{x}^{(1)}, \hat{t}^{(1)}, v^{(1,2)})$ might still be non-simultaneous with the actual $\hat{t}^{(2)}$ that corresponds with $\hat{t}$. Yeah, $x', t'$ in the Lorentz transformation definition don't correspond to $\hat{x}^{(j)}, \hat{t}^{(j)}$ in the original definitions. There's perhaps no way to obtain those from $\hat{x}^{(1)}, \hat{t}^{(1)}$. However, $\hat{x}^{(1)}, \hat{t}^{(1)}$ can be obtained, so this nevertheless does synchronize time across coordinate systems, namely between coordinate systems 1 and 3.
 
 And if I assume isotropy and relativity, a whole disproof can be constructed from just that (noting, I already knew that, but had this postulate-free one in mind that I thought maybe I could do... and/or a position-based postulate-free version...).
 
