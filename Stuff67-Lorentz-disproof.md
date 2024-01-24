@@ -58,7 +58,7 @@ Let coordinate system 1 and the relay station hoop be stationary relative to one
 
 Let $x^{(1)} = 1$.
 
-(Appending to **Definitions** <br>*Relay station hoop*: just a hoop whose exact center is located at position 1 in coordinate system 1 and is stationary relative to coordinate system 1).
+(Appending to **Definitions** <br>$\text{Relay station hoop}$: just a hoop whose exact center is located at position 1 in coordinate system 1 and is stationary relative to coordinate system 1).
 
 Since none of the coordinate systems are assumed to be simultaneous in time and they are each inertial, neither relativity of simultaneity nor acceleration enter the picture, these being the usual resolutions to special/general relativity and Lorentz transformation paradoxes.
 
