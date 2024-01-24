@@ -1,5 +1,7 @@
 # (Begin disproof)
 
+I find it interesting that this is unreadable after some edits
+
 ## (time-clock version)
 
 $$\hat{t} = T(x^{(i)}, t^{(i)}, v^{(i, N)})$$
