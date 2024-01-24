@@ -34,7 +34,7 @@ The body can also be constrained to be non-quantum.
 >
 > If not, well, this is not that hard to answer. The existing theories around the Lorentz transformation don't account for wave-functions and coherence/decoherence either.
 >
-> That being said, sufficient measurement accuracy can be obtained via this mechanism, by using it twice as follows: measure once via this mechanism at the initial position, perhaps incurring some measurement delay and approximation error; and then measure again via an idnetical mechanism at the relay station hoop. One starts at the beginning; one starts at the end; subtract the two to get the total time spanned, each accounting for the other's measurement delay and approximation error, assuming negligible randomness.
+> That being said, sufficient measurement accuracy can be obtained via this mechanism, by using it twice as follows: measure once via this mechanism at the initial position, perhaps incurring some measurement delay and approximation error; and then measure again via an identical mechanism at the relay station hoop. One starts at the beginning; one starts at the end; subtract the two to get the total time spanned, each accounting for the other's measurement delay and approximation error, assuming negligible randomness.
 >
 > If that is still yet unconvincing, consider the physical coordinate systems of Einstein: physical measuring robs and clocks. Somehow, a spacetime origin has to be defined for such a coordinate system to exist, yes? In order to do that, a mechanism is already implicitly assumed that synchronizes the two. Whatever that mechanism is, let that mechanism be this mechanism.
 >
