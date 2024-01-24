@@ -44,7 +44,7 @@ The body can also be constrained to be non-quantum.
 
 ### Formal contradiction
 
-> edit: change all above uses of $x^{(i)}, t^{(i)}$ to $\hat{x}^{(i)}, \hat{t}^{(i)}$. See 2nd-to-last paragraph.
+> edit: change all above uses of $x^{(i)}, t^{(i)}$ to $\hat{x}^{(i)}, \hat{t}^{(i)}$. (See 2nd-to-last paragraph)
 
 Assume the Lorentz transformation equations hold between coordinate systems.
 
