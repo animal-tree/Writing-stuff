@@ -52,7 +52,7 @@ $$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{
 
 $\forall i,j \in \mathbb{N}$.
 
-(Appending to **Definitions** <br>$X$: The Lorentz transformation position equation: transforms the position in one coordinate system to that in another. The three components are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system.
+(Appending to **Definitions** <br>$X$: The Lorentz transformation position equation: transforms the position in one coordinate system to that in another. The three components are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system).
 
 Let $N = 3$.
 
