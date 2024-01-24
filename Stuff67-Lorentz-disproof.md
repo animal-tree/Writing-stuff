@@ -32,7 +32,7 @@ The body can also be constrained to be non-quantum.
 
 > (In case of debate)
 >
-> If not, well, the existing theories around the Lorentz transformation don't account for quantum physics wave-function collapse either. Sufficient measurement accuracy can be obtained via this mechanism, by using it twice. Once at the initial position, with presumably some measurement delay and then again and identically at the relay station hoop with presumably an almost-identical or perfectly identical measurement delay, with two adjacent clocks, one that starts at the beginning and one that starts at the end. That initial absolute-time-location intersection with the origin-point is already assumed ubiquitously throughout theories anyway, by some implicitly assumed mechanism.
+> If not, well, the existing theories around the Lorentz transformation don't account for quantum physics wave-function collapse either. Sufficient measurement accuracy can be obtained via this mechanism, by using it twice. Once at the initial position, with presumably some measurement delay and then again and identically at the relay station hoop with presumably an almost-identical or perfectly identical measurement delay, with two adjacent clocks, one that starts at the beginning and one that starts at the end. A physical coordinate system needs a mechanism of intersecting spacetime origins. One is implictly assumed in general theories. Here I have provided one. Einstein's synchronization of a clock with measuring rods is not elaborated anywhere, and any such physical coordinate system would incur a delay between the clock initiation and the spatial origin.
 
 ### Formal contradiction
 
