@@ -54,7 +54,7 @@ $$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{
 
 $\forall i,j \in \mathbb{N}$.
 
-(Appending to **Definitions** <br>$X$: The Lorentz transformation position equation: transforms the position in one coordinate system to that in another. The three components are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system).
+(Appending to **Definitions**: <br>$X$: The Lorentz transformation position equation: transforms the position in one coordinate system to that in another. The three components are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system).
 
 Let $N = 3$.
 
@@ -64,7 +64,7 @@ Let $x^{(1)} = 1$.
 
 Let the relative velocities of each coordinate system be $0$ in the $y$ and $z$-axes. That is, let velocity be collinear across the coordinate systems along the $x$-axis and stationary elsewhere.
 
-(Appending to **Definitions** <br>$\text{Relay station hoop}$: Just a hoop whose exact center is located at position 1 in coordinate system 1 and is stationary relative to coordinate system 1, orthogonal to the x-axes of coordinate systems $1, 2$, and $3$).
+(Appending to **Definitions**: <br>$\text{Relay station hoop}$: Just a hoop whose exact center is located at position 1 in coordinate system 1 and is stationary relative to coordinate system 1, orthogonal to the x-axes of coordinate systems $1, 2$, and $3$).
 
 Since none of the coordinate systems are assumed to be simultaneous in time and they are each inertial, neither relativity of simultaneity nor acceleration enter the picture, these being the usual resolutions to special/general relativity and Lorentz transformation paradoxes.
 
