@@ -30,6 +30,8 @@ The body can also be constrained to be non-quantum.
 
 **Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons or electrons inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays on a sensor of a light clock aboard that causes it to stop counting, or of a second light clock aboard that causes the second light clock to start counting. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
 
+If not, well, the existing theories around the Lorentz transformation don't account for quantum physics wave-function collapse either.
+
 ### Formal contradiction
 
 Assume the Lorentz transformation equations hold between coordinate systems.
