@@ -48,6 +48,8 @@ Let $N = 3$.
 
 Let coordinate system 1 and the relay station hoop be stationary relative to one another. All coordinate systems are inertial, meaning their velocities stay the same. Therefore, we have $x^{(1)}$ as a constant and it is known.
 
+Let $x^{(1)} = 1$.
+
 Since none of the coordinate systems are assumed to be simultaneous in time and they are each inertial, neither relativity of simultaneity nor acceleration enter the picture, these being the usual resolutions to special/general relativity and Lorentz transformation paradoxes.
 
 (Next step: system of equations to get absolute locations and times, and formal contradiction)
