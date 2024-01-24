@@ -84,3 +84,7 @@ And if I assume isotropy and relativity, a whole disproof can be constructed fro
 ---
 
 For a coordinate system to have a velocity, it must have a position and a time.
+
+Therefore these coordinate systems have defined positions and times.
+
+Therefore they are not exactly coordinate systems but bodies with perspectives.
