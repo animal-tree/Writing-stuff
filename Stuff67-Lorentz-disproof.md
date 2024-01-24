@@ -8,7 +8,7 @@ $\forall i < N$ and $i, N \in \mathbb{N}$.
 
 ### Definitions
 
-$T$: The Lorentz transformation time equation: transforms the time of one coordinate system to that of another. The velocity in the third component corresponds to the velocity of the latter coordinate system (in this case $N$) in the former coordinate system (in this case $i$).
+$T$: The Lorentz transformation time equation: transforms the time in one coordinate system to that in another. The three components of $X(\cdot)$ are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system.
 
 $v^{(i,j)}$: The velocity of coordinate system $j$ in coordinate system $i$.
 
@@ -52,7 +52,7 @@ $$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{
 
 $\forall i,j \in \mathbb{N}$.
 
-(Appending to **Definitions** <br>$X$: The Lorentz transformation position equation: transforms the position of one coordinate system to that of another. The velocity in the third component corresponds to the velocity of coordinate system $j$ in coordinate system $i$.).
+(Appending to **Definitions** <br>$X$: The Lorentz transformation position equation: transforms the position in one coordinate system to that in another. The three components of $X(\cdot)$ are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system.
 
 Let $N = 3$.
 
