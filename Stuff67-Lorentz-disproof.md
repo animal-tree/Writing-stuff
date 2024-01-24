@@ -67,3 +67,5 @@ Let the relative velocities of each coordinate system be $0$ in the $y$ and $z$-
 Since none of the coordinate systems are assumed to be simultaneous in time and they are each inertial, neither relativity of simultaneity nor acceleration enter the picture, these being the usual resolutions to special/general relativity and Lorentz transformation paradoxes.
 
 (Next step: system of equations, and derivation of formal contradiction)
+
+I can immediately derive $t^{(1)}$, then transform between coordinate systems using the velocity-addition formula (also directly derivable from the Lorentz transformation equations).
