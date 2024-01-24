@@ -1,6 +1,6 @@
 # (Begin disproof)
 
-For some reason this edit feels better than the previous. The previous, while more speicfic and correct, causes me physical pain
+This version is more specific and correct than the previous, but for some reason causes me actual physical pain that I can feel physiologically.
 
 ## (time-clock version)
 
@@ -30,23 +30,25 @@ Quantum physics considerations can be accounted for via the below mechanism of p
 
 The body can also be constrained to be non-quantum.
 
-**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons (or electrons) inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays on a sensor of a light clock aboard that causes the light clock to stop counting, thereby yielding a measurement, or of a second light clock aboard that causes the second light clock to start counting, thereby allowing for the calculation of a measurement via subtraction. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
+**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons (or electrons) inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays that arrive in a continuous stream uniformly from each direction onto the sensor of the light clock on board at that exact center, that causes the light clock to stop counting, thereby yielding a measurement, or of a second light clock on board, at the corresponding exact center, that causes the second light clock to start counting, thereby allowing for the calculation of a measurement via subtraction. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
 
 > **In case of debate:**
 >
 > If not, well, this is not that hard to answer. The existing theories around the Lorentz transformation don't account for wave-functions and coherence/decoherence either.
 >
-> That being said, sufficient measurement accuracy can be obtained via this mechanism, by using it twice as follows: measure once via this mechanism at the initial position, perhaps incurring some measurement delay and approximation error; and then measure again via an identical mechanism at the relay station hoop. One starts at the beginning; one starts at the end; subtract the two to get the total time spanned, each accounting for the other's measurement delay and approximation error, assuming negligible randomness.
+> That being said, sufficient measurement accuracy can be obtained via this mechanism, as follows: measure once via this mechanism at the initial position (a chosen origin point for the coordinate system), perhaps incurring some measurement delay and approximation error; and then measure again via this identical mechanism at the relay station hoop, again from within the rocket ship. One starts at the beginning; one starts at the end; subtract the two to get the total time spanned, each accounting for the other's measurement delay and approximation error, assuming negligible randomness.
 > - Since the below disproof considers motion only in the x-axis, an argument could be made that the two light clocks being adjacent rather than fixed in the same position violates this collinearity; however, the two hoops (the initiating one at the start and the relay station hoop at the end) can account for this by respectively shooting photons (or electrons) from adjacent halves of the inner edge. And if this is too disruptive, then allow there to be one such additional measuring device on each side of the first (so three light clocks in total), and average the two to get the positional average of the middle one.
-> - The experiment can also be reproduced twice with the respective start and end halves flipped, then averaged across both experiment runs.
+> - The experiment can also be reproduced twice with the respective start and end halves flipped, then averaged across both experiment runs temporally.
 >
 > If that is still yet unconvincing, consider the physical coordinate systems of Einstein: physical measuring rods and clocks. Somehow, a spacetime origin has to be defined for such a coordinate system to exist, yes? In order to do that, a mechanism is already implicitly assumed that synchronizes the two. Whatever that mechanism is, let that mechanism be this mechanism. Alternatively, let this mechanism be that mechanism, provided here for the future use of theoreticians.
 >
 > In any case, $\hat{t}$ measurably exists up to some extremely small precision error, and that measurement, once having collapsed the wave function, should not by any known law negate the reality of $\hat{t}$'s existence, as being in a coherent quantum state and existing, though perhaps uncertain in the highest absolute precision to the microscopes and branding irons of measurement (which, frankly, is always the case).
 
+I would summarize it like this: there's a hoop, it's shooting a continuous stream of photons or electrons from its inner edges, they meet at the corresponding light clock sensor in the rocket ship located at the exact center of the hoop when the rocket ship crosses through.
+
 ### Formal contradiction
 
-> edit: change all above uses of $x^{(i)}, t^{(i)}$ to $\hat{x}^{(i)}, \hat{t}^{(i)}$. See 2nd-to-last paragraph.
+> edit: change all above uses of $x^{(i)}, t^{(i)}$ to $\hat{x}^{(i)}, \hat{t}^{(i)}$. (See 2nd-to-last paragraph)
 
 Assume the Lorentz transformation equations hold between coordinate systems.
 
@@ -56,7 +58,7 @@ $$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{
 
 $\forall i,j \in \mathbb{N}$.
 
-(Appending to **Definitions** <br>$X$: The Lorentz transformation position equation: transforms the position in one coordinate system to that in another. The three components are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system).
+(Appending to **Definitions**: <br>$X$: The Lorentz transformation position equation: transforms the position in one coordinate system to that in another. The three components are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system).
 
 Let $N = 3$.
 
@@ -66,7 +68,7 @@ Let $x^{(1)} = 1$.
 
 Let the relative velocities of each coordinate system be $0$ in the $y$ and $z$-axes. That is, let velocity be collinear across the coordinate systems along the $x$-axis and stationary elsewhere.
 
-(Appending to **Definitions** <br>$\text{Relay station hoop}$: Just a hoop whose exact center is located at position 1 in coordinate system 1 and is stationary relative to coordinate system 1, orthogonal to the x-axes of coordinate systems $1, 2$, and $3$).
+(Appending to **Definitions**: <br>$\text{Relay station hoop}$: Just a hoop whose exact center is located at position 1 in coordinate system 1 and is stationary relative to coordinate system 1, orthogonal to the x-axes of coordinate systems $1, 2$, and $3$).
 
 Since none of the coordinate systems are assumed to be simultaneous in time and they are each inertial, neither relativity of simultaneity nor acceleration enter the picture, these being the usual resolutions to special/general relativity and Lorentz transformation paradoxes.
 
