@@ -4,7 +4,7 @@ More specific [here](https://github.com/animal-tree/Writing-stuff/blob/c04fb7ad5
 
 Possibly easier to read here.
 
-All worse than the writing I obtain in my journals.
+All worse than the writing I obtain in my journals, being that I'm limitted by contextually-dependent linguistic laws.
 
 ## (time-clock version)
 
