@@ -42,6 +42,8 @@ $$x^{(j)} = X(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{x^{(i)} - v^{(i,j)}t^{(i)}}{
 
 $$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i,j)}}^2}{c^2}}}$$
 
+$\forall i,j \in \mathbb{N}$.
+
 Let $N = 3$.
 
 Let coordinate system 1 and the relay station hoop be stationary relative to one another. All coordinate systems are inertial, meaning their velocities stay the same. Therefore, we have $x^{(1)}$ as a constant and it is known.
