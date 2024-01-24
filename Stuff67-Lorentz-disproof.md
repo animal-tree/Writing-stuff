@@ -2,12 +2,9 @@
 
 More specific [here](https://github.com/animal-tree/Writing-stuff/blob/c04fb7ad5e0d58b638d394522bec10187a97ca25/Stuff67-Lorentz-disproof.md).
 
-Possibly easier to read in this version.<br>
-All worse than the writing I obtain in my journals, being that I'm limited by GitHub-context and constraining grammars on my memory and writing and speech processes.
-
 ## (time-clock version)
 
-$$\hat{t} = T(x^{(i)}, t^{(i)}, v^{(i, N)})$$
+$$\hat{t} = T(\hat{x}^{(i)}, \hat{t}^{(i)}, v^{(i, N)})$$
 
 $\forall i < N$ and $i, N \in \mathbb{N}$.
 
@@ -19,9 +16,9 @@ $T$: The Lorentz transformation time equation: transforms the time in one coordi
 
 $v^{(i,j)}$: The velocity of coordinate system $j$ in coordinate system $i$.
 
-$x^{(i)}$: The unknown position of the exact center of the relay station hoop in coordinate system $i$, at time $t^{(i)}$ in coordinate system $i$.
+$\hat{x}^{(i)}$: The unknown position of the exact center of the relay station hoop in coordinate system $i$, at time $\hat{t}^{(i)}$ in coordinate system $i$.
 
-$t^{(i)}$: The unknown time in coordinate system $i$ that is transformed to $\hat{t}$ in coordinate system $N$ via the Lorentz transformation time equation.
+$\hat{t}^{(i)}$: The unknown time in coordinate system $i$ that is transformed to $\hat{t}$ in coordinate system $N$ via the Lorentz transformation time equation.
 
 ### Postulate and/or physical measurement
 
@@ -49,13 +46,11 @@ The body can also be constrained to be non-quantum.
 
 ### Formal contradiction
 
-> edit: change all above uses of $x^{(i)}, t^{(i)}$ to $\hat{x}^{(i)}, \hat{t}^{(i)}$. See 2nd-to-last paragraph.
-
 Assume the Lorentz transformation equations hold between coordinate systems.
 
-$$x^{(j)} = X(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{x^{(i)} - v^{(i,j)}t^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$$
+$$x' = X(x, t, v) = \frac{x - vt}{\sqrt{1 - \frac{{v}^2}{c^2}}}$$
 
-$$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i,j)}}^2}{c^2}}}$$
+$$t' = T(x, t, v) = \frac{t - \frac{vx}{c^2}}{\sqrt{1 - \frac{{v}^2}{c^2}}}$$
 
 $\forall i,j \in \mathbb{N}$.
 
@@ -63,9 +58,9 @@ $\forall i,j \in \mathbb{N}$.
 
 Let $N = 3$.
 
-Let coordinate system 1 and the relay station hoop be stationary relative to one another. All coordinate systems are inertial, meaning their velocities stay the same. Therefore, we have $x^{(1)}$ as a constant and it is known.
+Let coordinate system 1 and the relay station hoop be stationary relative to one another. All coordinate systems are inertial, meaning their velocities stay the same. Therefore, we have $\hat{x}^{(1)}$ as a constant and it is known.
 
-Let $x^{(1)} = 1$.
+Let $\hat{x}^{(1)} = 1$.
 
 Let the relative velocities of each coordinate system be $0$ in the $y$ and $z$-axes. That is, let velocity be collinear across the coordinate systems along the $x$-axis and stationary elsewhere.
 
@@ -75,9 +70,9 @@ Since none of the coordinate systems are assumed to be simultaneous in time and 
 
 (Next step: system of equations, and derivation of formal contradiction)
 
-I can immediately derive $t^{(1)}$, then transform between coordinate systems using the velocity-addition formula (also directly derivable from the Lorentz transformation equations).
+I can immediately derive $\hat{t}^{(1)}$, then transform between coordinate systems using the velocity-addition formula (also directly derivable from the Lorentz transformation equations).
 
-The flaw in this disproof, is perhaps that the Lorentz transformation's mapping of $t^{(1)}$ to $t^{(2)}$ might still be non-simultaneous with the actual $t^{(2)}$ that corresponds with $\hat{t}$. In other words, the existing formulation shown above would have to use separate variables. Yeah,  $x^{(j)}, t^{(j)}$ in the Lorentz transformation definition don't correspond to $x^{(j)}, t^{(j)}$ in the original definitions. There's perhaps no way to obtain those from $x^{(1)}, t^{(1)}$. However, $x^{(1)}, t^{(1)}$ can be obtained, so this nevertheless does synchronize time across coordinate systems, namely between coordinate systems 1 and 3.
+The flaw in this disproof, is perhaps that the Lorentz transformation's mapping of $\hat{t}^{(1)}$ to $t'$ might still be non-simultaneous with the actual $\hat{t}^{(2)}$ that corresponds with $\hat{t}$. Yeah, $x', t'$ in the Lorentz transformation definition don't correspond to $\hat{x}^{(j)}, \hat{t}^{(j)}$ in the original definitions. There's perhaps no way to obtain those from $\hat{x}^{(1)}, \hat{t}^{(1)}$. However, $\hat{x}^{(1)}, \hat{t}^{(1)}$ can be obtained, so this nevertheless does synchronize time across coordinate systems, namely between coordinate systems 1 and 3.
 
 And if I assume isotropy and relativity, a whole disproof can be constructed from just that (noting, I already knew that, but had this postulate-free one in mind that I thought maybe I could do... and/or a position-based postulate-free version...).
 
