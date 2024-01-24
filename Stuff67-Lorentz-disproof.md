@@ -3,7 +3,7 @@
 More specific [here](https://github.com/animal-tree/Writing-stuff/blob/c04fb7ad5e0d58b638d394522bec10187a97ca25/Stuff67-Lorentz-disproof.md).
 
 Possibly easier to read in this version.<br>
-All worse than the writing I obtain in my journals, being that I'm limited by GitHub-context.
+All worse than the writing I obtain in my journals, being that I'm limited by GitHub-context and constrains on my memory and writing and speech processes.
 
 ## (time-clock version)
 
