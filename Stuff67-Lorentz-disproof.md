@@ -44,6 +44,8 @@ The body can also be constrained to be non-quantum.
 
 ### Formal contradiction
 
+> edit: change all above uses of $t^{(i)}$ to $\hat{t}^{(i)}$. See 2nd-to-last paragraph.
+
 Assume the Lorentz transformation equations hold between coordinate systems.
 
 $$x^{(j)} = X(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{x^{(i)} - v^{(i,j)}t^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$$
