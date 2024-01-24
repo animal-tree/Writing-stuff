@@ -90,3 +90,5 @@ Therefore these coordinate systems have defined positions and times.
 Therefore they are not exactly coordinate systems but bodies with perspectives.
 
 A reference frame should be thought of as an observer with a coordinate system sticking out of his/her head and that coordinate system zero-centered on the observer's eyeballs.
+
+This almost sounds like my journal descriptions, but not quite.
