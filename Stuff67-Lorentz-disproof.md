@@ -1,6 +1,6 @@
 # (Begin disproof)
 
-This commit is more specific and correct than [an earlier one](https://github.com/animal-tree/Writing-stuff/blob/a3f0abcc10f070c393281390cf32e6cbed2d772f/Stuff67-Lorentz-disproof.md), but for some reason causes me actual physical pain that I feel physiologically, and can't read it as a result.
+This commit is more specific and correct than [an earlier one](https://github.com/animal-tree/Writing-stuff/blob/cdb8298a5c01c2131b43d89197700ae637645641/Stuff67-Lorentz-disproof.md), but for some reason causes me actual physical pain that I feel physiologically, and can't read it as a result.
 
 ## (time-clock version)
 
