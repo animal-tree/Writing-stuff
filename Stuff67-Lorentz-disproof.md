@@ -26,7 +26,9 @@ Therefore $\hat{t}$ physically exists, whether measured, measured accurately/ina
 
 Quantum physics considerations can be accounted for together with the below mechanism of physical measurement, with perhaps some approximation error in the actual numerical measurement. One could debate whether or not the wave function truly collapsed "100%" in that case.
 
-**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons or electrons inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays on a sensor of a light clock aboard that causes it to stop counting, or of a second light clock aboard that causes the second light clock to start counting. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. Likewise, Body $N$ can be constrained to be non-quantum.
+The body can also be constrained to be non-quantum.
+
+**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons or electrons inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays on a sensor of a light clock aboard that causes it to stop counting, or of a second light clock aboard that causes the second light clock to start counting. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
 
 ### Formal contradiction
 
