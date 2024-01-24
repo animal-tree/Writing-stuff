@@ -8,11 +8,11 @@ $\forall i < N$ and $i, N \in \mathbb{N}$.
 
 ### Definitions
 
+$\hat{t}$: The time on coordinate system $N$ that the positional origin of coordinate system $N$ intersects the position of the exact center of the relay station hoop.
+
 $T$: The Lorentz transformation time equation: transforms the time in one coordinate system to that in another. The three components are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system.
 
 $v^{(i,j)}$: The velocity of coordinate system $j$ in coordinate system $i$.
-
-$\hat{t}$: The time on coordinate system $N$ that the positional origin of coordinate system $N$ intersects the position of the exact center of the relay station hoop.
 
 $x^{(i)}$: The unknown position of the exact center of the relay station hoop in coordinate system $i$, at time $t^{(i)}$ in coordinate system $i$.
 
