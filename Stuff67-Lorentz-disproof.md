@@ -38,6 +38,10 @@ The body can also be constrained to be non-quantum.
 
 Assume the Lorentz transformation equations hold between coordinate systems.
 
+$$X(x, t, v) = \frac{x - vt}{\sqrt{1 - \frac{v^2}{c^2}}}$$
+
+$$T(x, t, v) = \frac{t - \frac{vx}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$$
+
 Let $N = 3$.
 
 Let coordinate system 1 and the relay station hoop be stationary relative to one another. All coordinate systems are inertial, meaning their velocities stay the same. Therefore, we have $x^{(1)}$ as a constant and it is known.
