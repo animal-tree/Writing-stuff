@@ -38,9 +38,9 @@ The body can also be constrained to be non-quantum.
 
 Assume the Lorentz transformation equations hold between coordinate systems.
 
-$$X(x, t, v) = \frac{x - vt}{\sqrt{1 - \frac{v^2}{c^2}}}$$
+$$x^{(j)} = X(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{x^{(i)} - v^{(i,j)}t^{(i)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$$
 
-$$T(x, t, v) = \frac{t - \frac{vx}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}$$
+$$t^{(j)} = T(x^{(i)}, t^{(i)}, v^{(i, j)}) = \frac{t^{(i)} - \frac{v^{(i,j)}x^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i,j)}}^2}{c^2}}}$$
 
 Let $N = 3$.
 
