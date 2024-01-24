@@ -36,9 +36,7 @@ The body can also be constrained to be non-quantum.
 >
 > That being said, sufficient measurement accuracy can be obtained via this mechanism, by using it twice as follows: measure once via this mechanism at the initial position, perhaps incurring some measurement delay and approximation error; and then measure again via an identical mechanism at the relay station hoop. One starts at the beginning; one starts at the end; subtract the two to get the total time spanned, each accounting for the other's measurement delay and approximation error, assuming negligible randomness.
 >
-> If that is still yet unconvincing, consider the physical coordinate systems of Einstein: physical measuring rods and clocks. Somehow, a spacetime origin has to be defined for such a coordinate system to exist, yes? In order to do that, a mechanism is already implicitly assumed that synchronizes the two. Whatever that mechanism is, let that mechanism be this mechanism.
->
-> Arguably, this is exactly such a mechanism, provided here for the future use of theoreticians.
+> If that is still yet unconvincing, consider the physical coordinate systems of Einstein: physical measuring rods and clocks. Somehow, a spacetime origin has to be defined for such a coordinate system to exist, yes? In order to do that, a mechanism is already implicitly assumed that synchronizes the two. Whatever that mechanism is, let that mechanism be this mechanism. Alternatively, let this mechanism be that mechanism, provided here for the future use of theoreticians.
 >
 > In any case, $\hat{t}$ measurably exists up to some extremely small precision error, and that measurement, once having collapsed the wave function, should not by any known law negate the reality of $\hat{t}$'s existence.
 
