@@ -42,7 +42,7 @@ The body can also be constrained to be non-quantum.
 >
 > In any case, $\hat{t}$ measurably exists up to some extremely small precision error, and that measurement, once having collapsed the wave function, should not by any known law negate the reality of $\hat{t}$'s existence, as being in a coherent quantum state and existing, though perhaps uncertain in the highest absolute precision to the microscopes and branding irons of measurement (which, frankly, is always the case).
 
-I would summarize it like this: there's a hoop, it's shooting a continuous stream of photons or electrons from its inner edges, they meet at the corresponding light clock sensor, which is located at the exact center of the hoop.
+I would summarize it like this: there's a hoop, it's shooting a continuous stream of photons or electrons from its inner edges, they meet at the corresponding light clock sensor in the rocket ship located at the exact center of the hoop when the rocket ship crosses through.
 
 ### Formal contradiction
 
