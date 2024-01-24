@@ -28,11 +28,19 @@ Quantum physics considerations can be accounted for via the below mechanism of p
 
 The body can also be constrained to be non-quantum.
 
-**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons or electrons inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays on a sensor of a light clock aboard that causes the clock to stop counting, or of a second light clock aboard that causes the second light clock to start counting. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
+**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons or electrons inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays on a sensor of a light clock aboard that causes the light clock to stop counting, thereby yielding a measurement, or of a second light clock aboard that causes the second light clock to start counting, thereby allowing for the calculation of a measurement via subtraction. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
 
 > (In case of debate)
 >
-> If not, well, the existing theories around the Lorentz transformation don't account for quantum physics wave-function collapse either. Sufficient measurement accuracy can be obtained via this mechanism, by using it twice. Once at the initial position, with presumably some measurement delay and then again and identically at the relay station hoop with presumably an almost-identical or perfectly identical measurement delay, with two adjacent clocks, one that starts at the beginning and one that starts at the end. A physical coordinate system needs a mechanism of intersecting spacetime origins. One is implictly assumed in general theories. Here I have provided one. Einstein's synchronization of a clock with measuring rods is not elaborated anywhere, and any such physical coordinate system would incur a delay between the clock initiation and the spatial origin. At absolute minimal, $\hat{t}$ measurably exists up to some extremely small precision error. That measurement however, once having collapsed the wave function, should in no way negate the reality of $\hat{t}$'s existence.
+> If not, well, this is not that hard to answer. The existing theories around the Lorentz transformation don't account for wave-functions and coherence/decoherence either.
+>
+> That being said, sufficient measurement accuracy can be obtained via this mechanism, by using it twice as follows: measure once via this mechanism at the initial position, perhaps incurring some measurement delay and approximation error; and then measure again via an idnetical mechanism at the relay station hoop. One starts at the beginning; one starts at the end; subtract the two to get the total time spanned, each accounting for the other's measurement delay and approximation error, assuming negligible randomness.
+>
+> If that is still yet unconvincing, consider the physical coordinate systems of Einstein: physical measuring robs and clocks. Somehow, a spacetime origin has to be defined for such a coordinate system to exist, yes? In order to do that, a mechanism is already implicitly assumed that synchronizes the two. Whatever that mechanism is, let that mechanism be this mechanism.
+>
+> Arguably, this is exactly such a mechanism, provided here for the future use of theoreticians.
+>
+> In any case, $\hat{t}$ measurably exists up to some extremely small precision error, and that measurement, once having collapsed the wave function, should not by any known law negate the reality of $\hat{t}$'s existence.
 
 ### Formal contradiction
 
