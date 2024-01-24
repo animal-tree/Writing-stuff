@@ -24,7 +24,7 @@ $t^{(i)}$: The unknown time in coordinate system $i$ that is transformed to $\ha
 
 Therefore $\hat{t}$ physically exists, whether measured, measured accurately/inaccurately, or not measured.
 
-Quantum physics considerations can be accounted for together with the below mechanism of physical measurement, with perhaps some approximation error in the actual numerical measurement. One could debate whether or not the wave function truly collapsed "100%" in that case.
+Quantum physics considerations can be accounted for via the below mechanism of physical measurement, with perhaps some approximation error in the actual numerical measurement. One could debate whether or not the wave function truly collapsed "100%" in that case.
 
 The body can also be constrained to be non-quantum.
 
