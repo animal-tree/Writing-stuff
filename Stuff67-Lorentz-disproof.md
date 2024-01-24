@@ -4,7 +4,7 @@
 
 $$\hat{t} = T(x^{(i)}, t^{(i)}, v^{(i, N)})$$
 
-$\forall i < N$ and $i, N \in \mathbb{N}$ is a physically determined and/or measured time.
+$\forall i < N$ and $i, N \in \mathbb{N}$.
 
 ### Definitions
 
