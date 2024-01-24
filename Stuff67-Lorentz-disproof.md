@@ -28,7 +28,7 @@ Quantum physics considerations can be accounted for via the below mechanism of p
 
 The body can also be constrained to be non-quantum.
 
-**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons (or electrons) inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays on a sensor of a light clock aboard that causes the light clock to stop counting, thereby yielding a measurement, or of a second light clock aboard that causes the second light clock to start counting, thereby allowing for the calculation of a measurement via subtraction. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
+**Alternatively, physical measurement:** A rocket ship, positioned at the origin of coordinate system $N$, crosses through the exact center of the relay station hoop, where the inner edges of the relay station hoop shoot photons (or electrons) inward. $\hat{t}$ can at least approximately be measured by detecting the incoming rays from each direction on a sensor of a light clock aboard that causes the light clock to stop counting, thereby yielding a measurement, or of a second light clock aboard that causes the second light clock to start counting, thereby allowing for the calculation of a measurement via subtraction. Either way, this act of measuring collapses the wave function, arguably accounting for any quantum physics considerations in the earlier postulate. 
 
 > **In case of debate:**
 >
