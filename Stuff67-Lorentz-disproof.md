@@ -18,7 +18,7 @@ $x^{(i)}$: The unknown position of the exact center of the relay station hoop in
 
 $t^{(i)}$: The unknown time in coordinate system $i$ that is transformed to $\hat{t}$ in coordinate system $N$ via the Lorentz transformation time equation.
 
-### Postulate *OR* physical measurement
+### Postulate and/or physical measurement
 
 **Absoluteness of time and location identity postulate:** The time relative to itself at which a body undergoes an intersection with any given location has one and only one value, and physically exists.
 
