@@ -12,7 +12,7 @@ $T$: The Lorentz transformation time equation: transforms the time in one coordi
 
 $v^{(i,j)}$: The velocity of coordinate system $j$ in coordinate system $i$.
 
-$\hat{t}$: The time on coordinate system $N$ that the position-origin of coordinate system $N$ intersects the position of the exact center of the relay station hoop.
+$\hat{t}$: The time on coordinate system $N$ that the positional origin of coordinate system $N$ intersects the position of the exact center of the relay station hoop.
 
 $x^{(i)}$: The unknown position of the exact center of the relay station hoop in coordinate system $i$, at time $t^{(i)}$ in coordinate system $i$.
 
