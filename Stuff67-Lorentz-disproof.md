@@ -38,7 +38,7 @@ The body can also be constrained to be non-quantum.
 >
 > If that is still yet unconvincing, consider the physical coordinate systems of Einstein: physical measuring rods and clocks. Somehow, a spacetime origin has to be defined for such a coordinate system to exist, yes? In order to do that, a mechanism is already implicitly assumed that synchronizes the two. Whatever that mechanism is, let that mechanism be this mechanism. Alternatively, let this mechanism be that mechanism, provided here for the future use of theoreticians.
 >
-> In any case, $\hat{t}$ measurably exists up to some extremely small precision error, and that measurement, once having collapsed the wave function, should not by any known law negate the reality of $\hat{t}$'s existence, as being in a coherent quantum state.
+> In any case, $\hat{t}$ measurably exists up to some extremely small precision error, and that measurement, once having collapsed the wave function, should not by any known law negate the reality of $\hat{t}$'s existence, as being in a coherent quantum state and existing, though perhaps uncertain in the highest absolute precision to the microscopes of measurement (which, frankly, is always the case).
 
 ### Formal contradiction
 
