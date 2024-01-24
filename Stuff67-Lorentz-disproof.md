@@ -8,7 +8,7 @@ $\forall i < N$ and $i, N \in \mathbb{N}$.
 
 ### Definitions
 
-$T$: The Lorentz transformation time equation: transforms the time in one coordinate system to that in another. The three components of $X(\cdot)$ are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system.
+$T$: The Lorentz transformation time equation: transforms the time in one coordinate system to that in another. The three components of $T(\cdot)$ are (1) the position in the former coordinate system, (2) the time in the former coordinate system, and (3) the velocity of the latter coordinate system in the former coordinate system.
 
 $v^{(i,j)}$: The velocity of coordinate system $j$ in coordinate system $i$.
 
