@@ -80,3 +80,7 @@ I can immediately derive $t^{(1)}$, then transform between coordinate systems us
 The flaw in this disproof, is perhaps that the Lorentz transformation's mapping of $t^{(1)}$ to $t^{(2)}$ might still be non-simultaneous with the actual $t^{(2)}$ that corresponds with $\hat{t}$. In other words, the existing formulation shown above would have to use separate variables. Yeah,  $x^{(j)}, t^{(j)}$ in the Lorentz transformation definition don't correspond to $x^{(j)}, t^{(j)}$ in the original definitions. There's perhaps no way to obtain those from $x^{(1)}, t^{(1)}$. However, $x^{(1)}, t^{(1)}$ can be obtained, so this nevertheless does synchronize time across coordinate systems, namely between coordinate systems 1 and 3.
 
 And if I assume isotropy and relativity, a whole disproof can be constructed from just that (noting, I already knew that, but had this postulate-free one in mind that I thought maybe I could do... and/or a position-based postulate-free version...).
+
+---
+
+For a coordinate system to have a velocity, it must have a position and a time.
