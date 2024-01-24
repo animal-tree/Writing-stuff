@@ -69,3 +69,5 @@ Since none of the coordinate systems are assumed to be simultaneous in time and 
 (Next step: system of equations, and derivation of formal contradiction)
 
 I can immediately derive $t^{(1)}$, then transform between coordinate systems using the velocity-addition formula (also directly derivable from the Lorentz transformation equations).
+
+The flaw in this disproof, is perhaps that the Lorentz transformation's mapping of $t^{(1)}$ to $t^{(2)}$ might still be non-simultaneous with the actual $t^{(2)}$ that corresponds with $\hat{t}$. In other words, the existing formulation shown above would have to be false.
