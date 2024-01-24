@@ -2,9 +2,8 @@
 
 More specific [here](https://github.com/animal-tree/Writing-stuff/blob/c04fb7ad5e0d58b638d394522bec10187a97ca25/Stuff67-Lorentz-disproof.md).
 
-Possibly easier to read here.
-
-All worse than the writing I obtain in my journals, being that I'm limitted by contextually-dependent linguistic laws.
+Possibly easier to read here.<br>
+All worse than the writing I obtain in my journals, being that I'm limited by contextually-dependent linguistic laws.
 
 ## (time-clock version)
 
