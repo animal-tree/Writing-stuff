@@ -1,3 +1,5 @@
+> I leave my journals to my uncles. In them, is a conclusive disproof based on a system of equations. They are welcome to locate the portions dealing with that disproof, organize them, and publish. 
+
 # (Begin disproof)
 
 More specific [here](https://github.com/animal-tree/Writing-stuff/blob/c04fb7ad5e0d58b638d394522bec10187a97ca25/Stuff67-Lorentz-disproof.md).
