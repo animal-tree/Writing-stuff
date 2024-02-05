@@ -26,6 +26,8 @@ Judgement, however, is so pervasive in our culture that every individual, no mat
 
 I don’t have the will to keep writing this. Concrete policy proposals are the only way to convey this message without the biases of my own language and mental limits interfering.
 
+Elaboration follows below.
+
 1. Radical right to die - legalized physician-assisted euthanasia, provided only a 1-year wait period and a minimum age of 25.
 2. Relational healers - social workers for the relational therapy between individuals in the general populace not necessarily married or related, with systems in place for remedying and mediating trauma separations, rejections, perceived-unjust judgements, and gulfs.  
 3. Intimacy-conscious society and workers - medical and social essentialness of touch and eye contact, between compatible and well-bonded humans, including sex. Adjunct to that, but distinct, is legalized sex work not meant for healing (nor medical nor sacredness nor learning nor communal purposes). Furthermore, legalized nudity areas and even public areas where sex is permitted.
