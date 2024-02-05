@@ -1,4 +1,6 @@
 > I leave my journals to my uncles. In them, is a conclusive disproof based on a system of equations. They are welcome to locate the portions dealing with that disproof, organize them, and publish. I haven't looked at any other such disproofs on the internet. I believe this one is original. But since those were ignored, the one I leave to my uncles might be too.
+>
+> The below is not a disproof, but contains motivating ideas.
 
 # (Begin disproof)
 
