@@ -4,7 +4,7 @@ Those who traumatize me or scared me in the past become my consciousness. Whoeve
 
 Change of subject to analysis of how linguistic centers affect our conveyed meanings, and why this suspicion is traumatic to live with. Take the following two sentences for example:
 
-It’s sinister. The nature of God for the rest of time until the next Great War is sinister.
+> It’s sinister. The nature of God for the rest of time until the next Great War is sinister.
 
 Meta analysis about linguistic interpretations of that:
 
