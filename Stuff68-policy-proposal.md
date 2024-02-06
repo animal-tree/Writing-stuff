@@ -96,7 +96,7 @@ The field of psychotherapy is only a century old. The proposed field extends psy
 
 This is more literal and specific than many people are comfortable articulating and discussing, but nothing about it is terribly radical. The vague resolutions that exist now of the progressive movement are principled on the same tenets, such as sex-positivity and non-prejudiced (non-judgmental) compassion and tolerance for others, as well as communication. If you have a concrete idea, then share it, but otherwise herein is the only one proposed in the world to my knowledge that includes literal systemic policy. Many of us like shamanism vaguely, but the literalism of this frightens people. Somehow psychiatrists and therapists are accepted, but a new field around relational healing literalized is too real perhaps for comfortable consumption unless it’s actualized, and then becomes obvious as the evolution necessity of human wisdom.
 
-# Disclaimer
+# Big Disclaimer
 
 I didn’t mean for the first part to be sarcastic. My language centers [forgotten]. [forgotten] their porkbarrel to convey what I wanted to. 
 
