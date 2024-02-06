@@ -12,7 +12,7 @@ Due to the circumstances that Chenliang can catch the committee up on, I have in
 
 When funding issues are resolved, and the department has resolved on how to resolve them, I can do the original formal meeting originally required of me.
 
-Thank you,
+Thank you,</br>
 Sam
 
 Also,
@@ -43,12 +43,12 @@ I feel it understresses the actual medical malpractice nature of what happened.
 
 For example, when I was cut off from the drug, it took more than a month to reach my doctor through excessive calls to and from an intermediary with Dupilumab, and I was already running late on my prescription. Meanwhile, the intermediary was telling me that my doctor had to negotiate with the insurance. There were multiple /surprisingly/ independent malpractices, starting with what happened with Dupilumab.
 
-Some points:
-(1) The intermediary was perhaps owned by the University of Rochester.
-(2) They should have been tracking such things as extremely potent injected medications being spontaneously cut off long into a patient's developed physical dependence on them.
-(3) It shouldn't be an entire war just to reach your doctor.
-(4) The intermediary couldn't reach her either.
-(5) After a short stall period, all of the hair on my body fell out within a week. The doctor took pictures and agreed it was pretty much definitely because of the Dupilumab withdrawal, a potent biologic agent that is injected via needle into the stomach and bloodstream to target a specific antibody associated with eczema, prescribed to me for a full year. Did it help with my eczema at least during that year? A little, but not much. At the price of all of my hair, including eyelashes, and my social and mental health.
+Some points:</br>
+(1) The intermediary was perhaps owned by the University of Rochester.</br>
+(2) They should have been tracking such things as extremely potent injected medications being spontaneously cut off long into a patient's developed physical dependence on them.</br>
+(3) It shouldn't be an entire war just to reach your doctor.</br>
+(4) The intermediary couldn't reach her either.</br>
+(5) After a short stall period, all of the hair on my body fell out within a week. The doctor took pictures and agreed it was pretty much definitely because of the Dupilumab withdrawal, a potent biologic agent that is injected via needle into the stomach and bloodstream to target a specific antibody associated with eczema, prescribed to me for a full year. Did it help with my eczema at least during that year? A little, but not much. At the price of all of my hair, including eyelashes, and my social and mental health.</br>
 
 And that's just medical malpractice 1, before the benzos and surprisingly multiple malpractices equally egregious after.
 
