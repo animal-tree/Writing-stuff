@@ -16,4 +16,4 @@ Language centers can frame a critique of humanity for things like war as critiqu
 
 It's made especially distorted by the hyperbole of "rule forever". That exasperation, a human element, turns the whole phrasing into uninterpretable evil when all that's being conveyed is: "I strongly — really strongly — feel that humanity is evil and won't become better in my lifetime, and I feel the need to express this at this moment."
 
-This much specificity shouldn't be necessary to make exasperated expression empathizable.
+This much specificity shouldn't be necessary to make exasperated expression empathizable. But note: I phrased like a fact, not with a hint of exasperation in my tone. I phrased it like an observation of God. That makes me believe I'm being framed even as I talk.
