@@ -13,3 +13,5 @@ The ambiguity of this could mean that this sinister nature will rule forever, un
 This example demonstrates how easily language centers in our brain can frame us into conveying literal polar opposites to what we mean. 
 
 Language centers can frame a critique of humanity for things like war as critiques of *peace* propagandizing for war.
+
+It's made especially distorted by the hyperbole of "rule forever". That exasperation, a human element, turns the whole phrasing into uninterpretable evil when all that's being conveyed is: "I strongly — really strongly — feel that humanity is evil and won't become better in my lifetime, and I feel the need to express this at this moment."
