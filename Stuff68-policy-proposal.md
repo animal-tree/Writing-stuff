@@ -73,7 +73,7 @@ In contrast to shamanic methods, a psychiatrist might coerce a patient into a pr
 
 Existing medical practitioners often cite “helping people” as their motivation for seeking the job. However, while nurses and doctors can help in compliance with hospital rules, obediences, and practices, it is observably true that oftentimes this does not translate into actual help. The only way to help people directly in contemporary society is to be there for your friends: to help them move, to support them after breakups, to be caring and helpful directly to the people in your life and in your social circumstances. It is the microcosmic shamanic role. But no such role exists at systematized levels, and the obligatory or obedience-based nature of existing “help” professions undermines the truthfulness of their help on the social condition. Furthermore, the existing metrics of help are, for example, “how many patients you transferred rooms”, “how many patients you injected”, “how many prescriptions did you make sure were consumed”, and not “how much love did I create.” Seeing the creation of love is and should be the metric for evaluating a professional’s help to other people.
 
-It’s the systematizing of the highest wisdom in the human tribe: the shaman.
+It's not an infringement on your your right to ignore. It’s the systematizing of the highest wisdom in the human tribe: the shaman.
 
 # Importance to trans people and women
 
