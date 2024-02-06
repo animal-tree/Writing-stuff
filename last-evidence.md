@@ -69,6 +69,6 @@ Some additional points:
     * You can actually still observe it on my teeth, the calcification 
 * During those hospitalizations, severely abusive things happened. Like to give one example, they ran over my big toe with the wheelchair I was sitting in. I started screaming “My toe! My toe! Ahh!” The nurses kept rolling the chair and ignored it. The actual examples I’d give are more traumatic and I’d prefer not to revisit them. Nothing I’ve been through was more scary than the hell that was those hospitals, except the relationship fallouts that corresponded after, not before. On record, their reason for one of those hospitalizations was “he wasn’t eating enough.” That has never been confirmed. I was eating a lot on an extremely strict diet that helped my eczema, a diet that they forced me off of because “not enough carbs”. And my eczema returned severely.
 
-#NotEnoughPapers 
-#NotEnoughCarbs
+#NotEnoughPapers </br>
+#NotEnoughCarbs </br>
 #5MillionAtLeast
