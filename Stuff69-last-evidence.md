@@ -112,7 +112,7 @@ It was.
 
 #
 
-> In the email after Chenliang's reply in which he CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu> and I explicitly wrote in my email "am preferring to keep this private.", the PhD program coordinator replied:
+> In the email after Chenliang's reply in which he CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu> (without my permission) and I explicitly wrote in my email "am preferring to keep this private.", the PhD program coordinator replied:
 
 Hello everyone, 
 
