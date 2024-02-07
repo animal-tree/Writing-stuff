@@ -116,7 +116,7 @@ That's well-intentioned! I replied thankfully, but to clarify: I hadn't written 
 
 ## Sincerely calling on the public
 
-If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](https://www.facebook.com/groups/1600564167019335/). Join this group and protest [my unjust firing](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff55-workers-rights.md), negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, W2 workers status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
+If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](https://www.facebook.com/groups/1600564167019335/). Join this group and protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, W2 workers status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
 
 ### ...and expanding scope... for those who care about more than one issue at a time
 
