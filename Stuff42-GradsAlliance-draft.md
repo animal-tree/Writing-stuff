@@ -104,7 +104,7 @@ This was, maybe, just before I lost all of my hair, eyebrows, and eyelashes due 
 
 I hope this is understood. 1 malpractice, followed by many more. I am now bald.
 
-Note: finding [this note](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) from myself (years ago when Florian Jaeger was being cancelled) actually saved my life since nobody else supported me.
+Note: finding [this note from myself](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) (years ago when Florian Jaeger was being cancelled) actually saved my life since nobody else supported me.
 
 ## Sincerely calling on the public
 
