@@ -60,7 +60,7 @@
 
 It turned out they weren't aware of that last point (point number 2, technically missing the 6-month review by this point) until I brought it up. They ended up using it as their sole justifying reason on October 31st at 12:36 PM, the day that my stipend was formally cut, without prior mention of that six-month review, between the time of my termination and this point. This email gave them their *ultimate reason for terminating me, and it chronologically followed after I was fired.* Six-month reviews are informal and meant to help students.
 
-### Aftermath
+### Aftermath (October 30th - October 31st)
 
 Following this, one person in Chenliang's lab replied directly to me describing a similar experience, and asked me to convey it to the CS chair. The administrators changed their reason for terminating me one more time. Ultimately, it came down to the missed 6-month review (6-month reviews by the way are informal and meant to help the student, not to be a live-or-die assessment). This reason was given after they formally terminated me and after I sent the above emails, in which I reminded them of that August 30 6-month review that was required of me. I'm pretty sure they didn't mention the August 30 6-month review until the day my stipend was cut off. Literally that day.
 
