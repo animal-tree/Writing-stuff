@@ -1,12 +1,15 @@
-> I am really embarrassed by this email I sent, but it's maybe the last formal summary I have of the second of the series of medical malpractices revolving around the benzodiazepines.
+> I am really embarrassed by this first email I sent, but it's maybe the last formal summary I have of the second of the series of medical malpractices revolving around the benzodiazepines.
 >
-> The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it: "These words better than any others that I presently have on hand to my knowledge convey some of what happened to me and so I leave it up to them to determine their own ethics in dealing with the matter. If it comes to court or “suing” isn’t my concern or consideration because there’s a deeper truth or dos-truth about humanity that needs to be proven first" - 08/06/23 at 4:21 PM
+> The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it: "These words better than any others that I presently have on hand to my knowledge convey some of what happened to me and so I leave it up to them to determine their own ethics in dealing with the matter. If it comes to court or “suing” isn’t my concern or consideration because there’s a deeper truth or dos-truth about humanity that needs to be proven first"
 >
-> And then I added: "/dis-truth" (due to the typo) - 08/06/23 at 4:22 PM
+> And then I added: "/dis-truth" (due to the typo) - 08/06/23
 
 #
 
-> Email of 08/10/23 at 8:23 PM
+> Date: August, 10th.
+>
+> To: Chenliang Xu <chenliang.xu@rochester.edu>, Thomas Howard <thoward@ece.rochester.edu>, Christopher Kanan <chriskanan@gmail.com>, Venuto Charles <Charles.Venuto@chet.rochester.edu> 
+Cc: Graduate Student Collective <urgraduatecollective@gmail.com>
 
 Hi everyone,
 
@@ -74,3 +77,56 @@ Some additional points:
 #NotEnoughPapers </br>
 #NotEnoughCarbs </br>
 #5MillionAtLeast
+
+#
+
+> Chenliang replied (with a factual lie) and CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu>: "Dr. Niaz Abdolrahim delivered my message to you a while ago and I want to reiterate here. I can continue to provide funding support (Sep, Oct, Nov) for you to wrap up your thesis [provided that you format it in the way I recommended]." Either way, I needed more time. I replied and CC'd Dr. Niaz Abdolrahim: "All Niaz said was that she would talk to you and that she thought it would be okay, but nothing secure and concrete [...] Niaz as witness.” And then "my current committee, interim substitutes for 3 of my committee members, has only had one 20 minute zoom meeting with me." One of the committee members Chris Kanan replied:
+
+Sam,
+
+Your PhD committee met with you twice, and not for only 20 minutes as claimed. The first time was for your 6 month review, which lasted an hour, and it was the first time Prof. Howard and I had met you. You were unable or unwilling to answer many of our questions and your presentation did not follow the guidelines or instructions for 6 month reviews. I then endeavored to give you a lot of constructive advice via email with how you could address our concerns, which was not followed. We then met with you to discuss the next steps following your 6 month review, and upon hearing our feedback, you abruptly disconnected from Zoom after 20 minutes. Subsequently, the committee put together a set of requirements for retaking the 6 month review and to graduate, which seems to have been rejected by you. Committee members typically meet with students only on an as-needed basis which is initiated by the student.
+
+Note that besides your advisor, your committee are all people who are volunteering their time. We have done our best to give you advice on how to graduate, but there is not much we can do if you reject all advice.
+
+Chris
+
+#
+
+> I replied:
+
+Chenliang, Tom, Charles — can you all confirm that Chris is mis-remembering? We only met once, in that first and only zoom meeting.
+
+#
+
+> Chris replied:
+
+The 6 month review happened on May 5 from 1-2pm. It is possible I'm misremembering the second meeting as the second part of the 6-month review after you were brought back into the meeting, since I can't find it on my calendar. Regardless, it was definitely not for only 20 minutes.
+
+#
+
+> I replied:
+
+It was.
+
+> It was probably 30 minutes, but the last 5-10 minutes were reserved for their independent-room discussion and final remarks. Also note: That this is the meeting that the decision to terminate me was later temporarily based on. See [here](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff70-Opposing-view.md) and in more depth, [here](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff42-GradsAlliance-draft.md).
+
+#
+
+> In the email after Chenliang's reply in which he CC'd Cc: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu> and I explicitly wrote in my email "am preferring to keep this private.", the PhD program coordinator replied:
+
+Hello everyone, 
+
+As an FYI the UR graduate collective is not a UR sanctioned group and should not have been copied in on this email with such personal information. Perhaps, Sam, you meant to send this to GEPA or University Graduate Education.
+
+Please be sure that the collective email is removed prior to sending communications. 
+
+Thank you, 
+Robin
+
+Robin Clark</br>
+PhD Program Coordinator</br>
+University of Rochester</br>
+Computer Science
+
+> I obeyed, but still forwarded the emails as they came to me.
+
