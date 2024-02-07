@@ -108,7 +108,7 @@ I hope this is understood. 1 malpractice, followed by many more. I am now bald.
 
 #
 
-Note: finding [this note from myself](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) (years ago when Florian Jaeger was being cancelled) actually saved my life since nobody else supported me.
+Note: finding [this note from myself](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) (in 2017, condemning the university's actions around Florian Jaeger) actually saved my life while I was suicidal after my termination since, after sending out all of these emails, nobody jumped up to support me (except a couple friends).
 
 ## Sincerely calling on the public
 
