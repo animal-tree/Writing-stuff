@@ -84,7 +84,7 @@ I painstakingly obeyed everything they required or advised me to do for the last
 
 I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
 
-## Mischaracterization and neutralization of extreme suffering
+### Mischaracterization and neutralization of extreme suffering
 
 Some phenomena of experience are so radically different in their experience than the common portrayal. The best example I can think of is full body head-to-toe eczema. 
 
