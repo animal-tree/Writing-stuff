@@ -1,8 +1,8 @@
 > I am really embarrassed by this email I sent, but it's maybe the last formal summary I have of the second of the series of medical malpractices revolving around the benzodiazepines.
 >
-> The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it: "These words better than any others that I presently have on hand to my knowledge convey some of what happened to me and so I leave it up to them to determine their own ethics in dealing with the matter. If it comes to court or “suing” isn’t my concern or consideration because there’s a deeper truth or dos-truth about humanity that needs to be proven first" 
+> The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it: "These words better than any others that I presently have on hand to my knowledge convey some of what happened to me and so I leave it up to them to determine their own ethics in dealing with the matter. If it comes to court or “suing” isn’t my concern or consideration because there’s a deeper truth or dos-truth about humanity that needs to be proven first" - 08/06/23 at 4:21 PM
 >
-> And then I added: "/dis-truth" (due to the typo) - 08/06/23 at 4:21 PM
+> And then I added: "/dis-truth" (due to the typo) - 08/06/23 at 4:22 PM
 
 #
 
