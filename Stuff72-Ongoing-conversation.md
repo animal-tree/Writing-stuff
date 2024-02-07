@@ -27,7 +27,7 @@ Draft that I'm preparing now in response:
 ---
 
 > Re: Supporting students</br>
-> To: "Scott, Michael" <scott@cs.rochester.edu> Cc: "Clark, Robin" <robin.clark@rochester.edu>, "Xu, Chenliang" <Chenliang.Xu@rochester.edu></br>
+> To: "Scott, Michael" <scott@cs.rochester.edu> Cc: "Clark, Robin" <robin.clark@rochester.edu>, "Xu, Chenliang" <Chenliang.Xu@rochester.edu></br>, "Graduate Student Collective" <urgraduatecollective@gmail.com>, "Grad Student Association (GSA)" <ase_gsa@ur.rochester.edu>
 > From: "Sam Lerman" <slerman@ur.rochester.edu>
 
 Hi Michael,
