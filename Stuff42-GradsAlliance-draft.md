@@ -86,6 +86,8 @@ I was assigned to a lab that my advisor didn't know was related to my research, 
 
 ### Mischaracterization and neutralization of extreme suffering
 
+> Elaborating on "blood oozing / flesh-ripping"
+
 Some phenomena of experience are so radically different in their experience than the common portrayal. The best example I can think of is full body head-to-toe eczema. 
 
 Eczema, unlike other torturous conditions, is often described in the context of kids as being this benign disturbance that is, perhaps, imagined in the clinical setting, like at a doctor’s checkup. 
