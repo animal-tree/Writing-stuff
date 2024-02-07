@@ -6,7 +6,7 @@
 
 #
 
-> Email of 08/10/23 
+> Email of 08/10/23 at 8:23 PM
 
 Hi everyone,
 
