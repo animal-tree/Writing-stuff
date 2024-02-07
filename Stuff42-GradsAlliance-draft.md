@@ -104,6 +104,8 @@ This was, maybe, just before I lost all of my hair, eyebrows, and eyelashes due 
 
 I hope this is understood. 1 malpractice, followed by many more. I am now bald.
 
+Note: finding [this note](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) from myself actually saved my life since nobody else supported me.
+
 ## Sincerely calling on the public
 
 If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](https://www.facebook.com/groups/1600564167019335/). Join this group and protest [my unjust firing](https://github.com/animal-tree/Writing-stuff/blob/main/Stuff55-workers-rights.md), negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, W2 workers status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
