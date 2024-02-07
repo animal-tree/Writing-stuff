@@ -1,7 +1,5 @@
 # An antidote to shamanism/communism
 
-*[last "Big Disclaimer" section details reasoning behind "choice" of title and "sarcastic" premise.]*
-
 Shamanism is the practice of ritualistic healing between humans that emphasises the psychic, spiritual, relational, and sometimes botanical dimensions of human health. It is a sick and vile practice because it assumes that humans haven’t mastered the human organism through pharmacology and surgery, the modern variants that rule as the medical *axis mundi*, world-center. The argument I am making is facetious and this work is meant as an incisive critique of one of these two and I’ll let you guess which one. However, for tolerance purposes, I will claim hereforth that the problem I am addressing hereforth-hereforth is the former — shamanism — and not the latter — modern medical practice — since that is a much easier strawman for me.
 
 One problem of shamanism and not the modern medical system is the lack of focus on interpersonal relationships.
