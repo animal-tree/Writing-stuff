@@ -116,13 +116,13 @@ That's well-intentioned! I replied thankfully, but to clarify: I hadn't written 
 
 ## Sincerely calling on the public
 
-If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](https://www.facebook.com/groups/1600564167019335/). Join this group and protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, W2 workers status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
+If you’re an undergrad, master’s, or PhD student, or university faculty interested in labor-reform: [Grads Alliance](https://www.facebook.com/groups/1600564167019335/). Join this group and protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
 
 ### ...and expanding scope... for those who care about more than one issue at a time
 
 [This](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel all of Harvard's students' debt: the budgetary surplus of a single year. You read that correctly: enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from one year's *surplus*. Universities in the US make huge profits. I think it's their responsibility to use that money where the Supreme Court failed.
 
-But even if they can reduce education costs or cancel debt, they won't without student and faculty and public pressure. Join [grads alliance](https://www.facebook.com/groups/1600564167019335/) since I haven't seen this bold, and legitimate, of a worker-and-public-led-pressure-campaign on university financial policy — meaning, orchestrated collaboratively with grad workers, faculty, students, and public, to reduce tuition costs and cancel student debt — ever suggested elsewhere.
+But even if they can reduce education costs or cancel debt, they won't without student and faculty and public pressure. Join [Grads Alliance](https://www.facebook.com/groups/1600564167019335/) since I haven't seen this bold, and legitimate, of a worker-and-public-led-pressure-campaign on university financial policy — meaning, orchestrated collaboratively with grad workers, faculty, students, and public, to reduce tuition costs and cancel student debt — ever suggested elsewhere.
 
 If enough people (especially faculty, grads, and students) give a shit, they have no choice. Join.
 
