@@ -43,14 +43,14 @@ A six-month review, to remind you, is an informal meeting meant to help the stud
 
 My question is, since I felt your answer was disingenuous: whether the second requirement ("before August 30, 2023, re-do and pass a six-month review.") was mentioned at any point at/between the time of termination and October 31st, by anyone other than me (since I conveniently mentioned it for you in my grad department email of October 30th).
 
-Regarding Henry's absence, Chenliang was aware from Fall semester into Spring semester that I had missed that six-month review, most likely understanding that: (1) six-month reviews are informal assessments meant to help the student, not live-or-die assessments on which termination ambiguously hinges, and (2) Henry couldn't attend, which I was not notified of until last-minute (that notification happened from Chenliang actually, who was the first person to tell me that my former advisor and running/active committee member was retiring then just before the would-be six-month review). After I was excused (at least by my advisor), I believe I was not notified again of that missed six-month review until the Spring one was fast-approaching.
+Regarding Henry's absence, Chenliang was aware from Fall semester into Spring semester that I had missed that six-month review, most likely understanding that: (1) six-month reviews are informal assessments meant to help the student, not live-or-die assessments on which termination can be suspiciously, ambiguously, and retroactively justified, and (2) Henry couldn't attend, which I was not notified of until last-minute (Chenliang, not Henry, notified me, last-minute just at that six-month review time point, that my former advisor and active committee member was retiring and wouldn't be available). After I was excused (by my advisor, and as far as I could know department), I was not notified again until the Spring one with a new committee, since one other committee member had left. 
 
 Now, to remind you, I also suffered many induced and excruciatingly severe tragedies while I was employed and working as a student that the university did not yet address. 
 
-However, for now, it would mean a lot to me if you could answer my question [yes/no].
+However, for now, it would mean a lot to me if you could answer my question [yes/no, specify when, and provide a quotation as proof].
 
 This was the question:
 
 > Was this six-month review mentioned at/between the time of my termination and October 31st?
 
-Furthermore, if you don't mind me asking a second question, is it illegal to terminate a grad student for (1) an invalidated reason, or (2) one not provided in the notice of termination nor until the very last day (October 31st) that the student/employee's stipend is cut off? 
+Since you bring up deadlines, I just want to add that I was notified of my stipend being cut prior to the six-month review deadline, as Chenliang, the entire committee, and you yourself can confirm.
