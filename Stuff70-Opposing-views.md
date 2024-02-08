@@ -1,4 +1,4 @@
-# Opposing view
+# Opposing views
 
 The opposing view in defense of my university-hospital doctor is, she might have had something else going on, or was too busy. Later, she took pictures of the hair loss with her nurse and diagnosed it honestly as alopecia universalis due to the sudden cessation of Dupilumab. The opposing view in defense of my university-provided health insurance company Aetna is, they maybe didn’t notice that I had already been on the drug for a long time (I don’t remember the exact duration but between 6 months and 1 year) and wanted to save money. In defense of the university intermediaries who were in charge of providing and delivering the drug on a recurring schedule, they couldn’t contact the doctor and the doctor might have been on vacation or any other reason she might not have been reachable at the time; and, as mentioned, she was honest in directly diagnosing the rapid loss of my hair to the sudden cessation of Dupilumab. 
 
