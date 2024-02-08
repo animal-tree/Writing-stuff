@@ -53,6 +53,18 @@ This was the question:
 
 > Was this six-month review mentioned at/between the time of my termination and October 31st?
 
-Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support." (Page 15)
+Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support." (Page 15). 
+
+You wrote: "If I do not hear from you by 6 Oct., with a plan for successful completion, the department will terminate your stipend and discontinue your enrollment as of 31 Oct. 2023." 
+
+I complied by detailing a reasonable plan for successful completion. 
+
+You replied: "I have conferred with members of your committee. They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree. With regret, we will be terminating your student status and stipend as of the end of October." 
+
+The six-month review was not given as a reason for termination, nor a "what is necessary for reinstatement of support." Rather, this earlier reason for termination was modified multiple times as you sought a more valid one, which I conveniently provided for you in my grad department email on October 30th. On October 31st, the last formal day of my employment, you assumed that reason (the six-month review) and did not "indicate to the student, in writing, what is necessary for reinstatement of support." I proved over our exchanges, and you seemed to realize it, that my plan was "consistent with what I originally proposed for the PhD" and "a viable path to completion of the degree," with more evidence on those fronts than you probably remember.
+
+A later  reason you gave: "By all indications, you have been unwilling to heed the counsel of your advisor and committee — the people you yourself chose to advise you and to judge the quality of your work." Also disproven via the 6-page write-up and chapter-list and the systems work I implemented on their advice and reported to Chenliang in person (sampling without replacement replay memory, if he recalls). And the fact that we only met once, so your "indications" are impossible.
+
+What exactly did you want me to do? Conjure a thesis in ~3 months and do a six-month review in that time or find a **third** advisor in my **6th year** (and work on no funding), having given 10 years of my life here? 3 of those years under Chenliang, in which I published 2 papers. 2 papers in 3 years, including one in a top venue, is a pretty reasonable publication rate. Here is what I bet: however you try to justify the "what is necessary for reinstatement of support", you will provide only gaslighting (if anything): vague wisdoms like "meeting all milestones" or "if you would heed their advice regarding the research plan" without any specifics. Before recommending how a PhD student who is smarter than you finishes his PhD, maybe have specifics.
 
 Since you bring up deadlines, I just want to add that I was notified of my stipend being cut prior to the six-month review deadline, as Chenliang, the entire committee, and you yourself can confirm.
