@@ -4,6 +4,6 @@ But Krystal is right, that is not the goal. https://www.youtube.com/watch?v=hZc6
 
 ---
 
-VR takes us out of real consciousness, but gives us more consciousness than real life does.
+VR takes us out of real consciousness, but gives us more consciousness/qualia than real life does.
 
-That's not the goal though, we are looking to fully be present in consciousness in real life, such that the VR experience doesn't even feel like more.
+That's not the goal though, we are looking to fully be present in consciousness in real life, with metaphorical grass available to all, such that the VR experience/qualia/quality doesn't even feel like more.
