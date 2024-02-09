@@ -1,0 +1,1 @@
+Bad things happening doesn’t mean there isn’t a singularization above the division. Like your neurons, the brain of the universe can be divided and one. Like apoptosis, your brain can rebel against itself. 
