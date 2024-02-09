@@ -28,4 +28,4 @@ But because of language trickery, it could be read as “Well, sorry bro for mis
 
 —
 
-And then further, that "(more)" could be interpreted as "I'm smarter than you", when, really, in my head, I meant: [I'll be your mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4)[^1]. This conversation never happened but that's the context this internal auditory happened in, in my head, with no other internal auditories (read: thoughts) to verbally contextualize it, just emotion.
+And then further, that "(more)" could be interpreted as "I'm smarter than you", when, really, in my head, I meant: [I'll be your mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4). This conversation never happened but that's the context this internal auditory happened in, in my head, with no other internal auditories (read: thoughts) to verbally contextualize it, just emotion.
