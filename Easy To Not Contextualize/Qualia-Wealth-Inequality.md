@@ -8,6 +8,3 @@ VR takes us out of real consciousness, but gives us more consciousness/qualia th
 
 That's not the goal though, we are looking to fully be present in consciousness in real life, with metaphorical grass available to all, such that the VR experience/qualia/quality doesn't even feel like more.
 
----
-
-I'm just summarizing in my language.
