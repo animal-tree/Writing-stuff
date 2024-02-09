@@ -2,11 +2,11 @@ But you know, understanding another’s point of view, figuring out what it is, 
 
 Counterpoint: emotional energy. There’s such a thing as being too nice, or even imposing, accidentally. 
 
-To prevent that, a balance of both may be possible to learn, where one directs their will and emotional energy toward the known objective coherent with one’s principles. 
+To prevent that, a balance of both may be possible to learn, where one directs their will and emotional energy toward the known objective coherent with one’s principles. Or incoherent, if learning is impossible.
 
 And the development of principles. 
 
-Also, note, if you thought there was a grammatical typo in “somehow I somehow”, think again, because I did on second reading and realized, no, that grammar and semantics actually works. The how that something is unlearned has a how as well, called epistemology, something I learned through the study of learning, AI.
+Also, note, if you thought there was a grammatical typo in “somehow I somehow”, think again, because I did on second reading and realized, no, that grammar and semantics actually works. The how that something is unlearned has a how as well, called epistemology, something I learned through the study of learning, AI. That's not a dick pic. I'm trying to be smart.
 
 *that grammar and THOSE semantics
 
