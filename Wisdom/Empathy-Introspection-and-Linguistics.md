@@ -17,3 +17,4 @@ Ah shit, I swear to you I’m not shouting! Oh no don’t leave me! No no!!!! �
 I can’t read the original grammatical correctness anymore. Every time I read it, I can only see grammatical error. Am I gaslighting or was I wrong the second time about being wrong about being wrong?
 
 I meant: “somehow I somehow unlearned that practice in part.“
+
