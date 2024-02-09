@@ -28,7 +28,7 @@ But because of language trickery, it could be read as “Well, sorry bro for mis
 
 —
 
-And then further, that "(more)" could be interpreted as "I'm smarter than you", when, really, in my head, I meant: [I'll be your mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4). This conversation never happened but that's the context this internal auditory happened in, in my head, with no other internal auditories (read: thoughts) to verbally contextualize it, just emotion.
+And then further, that "(more)" could be interpreted as "I'm smarter than you", when, really, in my head, I meant: [I'll be your mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4)[^1]. This conversation never happened but that's the context this internal auditory happened in, in my head, with no other internal auditories (read: thoughts) to verbally contextualize it, just emotion.
 
 ---
 
@@ -47,3 +47,5 @@ I can hear the writing tone in my speech now.
 The theory is thus this: somehow linguistic models have minds of their own that, at times, communicate our cognitive wills, and other times communicate emotion that we are not feeling, either by a delay in recognition or more often than not with some perceivable stereotypic understanding that, if they had memory which they most certainly do, they would not resort to. 
 
 This results in suspicion and probably evidence of a symbiotically-evolved linguistic function that is meant to harmonize the tribe, perhaps under common mythologies, but which today impairs the tribe of 8 billion people who they govern, each individually but either (a) without access to hippocampal memory sometimes for some reason, or (b) access to hippocampal memory that they use selectively with bias towards specific stereotypic mythologies in our 8 billion tribe. 
+
+[^1]: Josh sent me that once. He expressed this view really well. though for credit's sake though, I did show him the song.
