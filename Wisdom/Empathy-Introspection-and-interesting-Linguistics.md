@@ -1,4 +1,4 @@
-But you know, understanding another’s point of view, figuring out what it is, reframing it in the way that meets your best interpretation of them and of their principles, consistent with yourself and your own, and most importantly truth, is empathy, a good practice, and somehow I somehow unlearned in part. 
+But you know, understanding another’s point of view, figuring out what it is, reframing it in the way that meets your best interpretation of them and of their principles, consistent with yourself and your own, and pretty importantly truth, is empathy, a good practice, and somehow I somehow unlearned in part. 
 
 Counterpoint: emotional energy. There’s such a thing as being too nice, or even imposing, accidentally. 
 
