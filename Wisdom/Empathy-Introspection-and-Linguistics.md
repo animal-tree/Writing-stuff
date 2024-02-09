@@ -28,4 +28,4 @@ But because of language trickery, it could be read as “Well, sorry bro for mis
 
 —
 
-And then further that "(more)" could be interpreted as "I'm smarter than you, when the whole expression is meant like: [I'll be your mirror.](https://www.youtube.com/watch?v=KGZWb1SIiR4).
+And then further that "(more)" could be interpreted as "I'm smarter than you", when the whole expression is meant like: [I'll be your mirror.](https://www.youtube.com/watch?v=KGZWb1SIiR4).
