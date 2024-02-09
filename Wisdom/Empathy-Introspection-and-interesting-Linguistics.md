@@ -10,7 +10,7 @@ Also, note, if you thought there was a grammatical typo in “somehow I somehow�
 
 *that grammar and THOSE semantics
 
-Ah shit, I swear to you I’m not shouting! Oh no don’t leave me! No no!!!! 😫
+Ah shit, I swear to you I’m not shouting! Oh no don’t leave me! No no!!!! 😫[^1]
 
 —
 
@@ -33,3 +33,5 @@ And then further, that "(more)" could be interpreted as "I'm smarter than you", 
 > Disclaimer; This whole conversation happened in your head and your crazy.
 >
 > *your
+
+[^1]: If I look like a dick, does that count as a dick pic?
