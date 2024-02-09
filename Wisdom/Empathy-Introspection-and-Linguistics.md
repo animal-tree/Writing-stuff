@@ -25,3 +25,7 @@ I meant: “somehow I somehow unlearned that practice in part.“
 When I wrote this in my head it meant  “I’ll interpret you in the most positive way, given the (more) context that I have”
 
 But because of language trickery, it could be read as “Well, sorry bro for misjudging you but I can only go by what I know, ya know”
+
+—
+
+And then further that "(more)" could be interpreted as "I'm smarter than you, when the whole expression is meant like: [I'll be your mirror.](https://www.youtube.com/watch?v=KGZWb1SIiR4).
