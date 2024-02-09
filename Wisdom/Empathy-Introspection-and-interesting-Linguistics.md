@@ -48,4 +48,4 @@ The theory is thus this: somehow linguistic models have minds of their own that,
 
 This results in suspicion and probably evidence of a symbiotically-evolved linguistic function that is meant to harmonize the tribe, perhaps under common mythologies, but which today impairs the tribe of 8 billion people who they govern, each individually but either (a) without access to hippocampal memory sometimes for some reason, or (b) access to hippocampal memory that they use selectively with bias towards specific stereotypic mythologies in our 8 billion tribe. 
 
-[^1]: Josh sent me that once. He expressed this view really well. though for credit's sake though, I did show him the song.
+[^1]: Josh sent me that once. He expressed this view really well. though for credit's sake though, I did show him the song. He referenced it in the context of me explciitly. Songs convey better, things. 
