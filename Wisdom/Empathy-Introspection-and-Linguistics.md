@@ -18,3 +18,10 @@ I can’t read the original grammatical correctness anymore. Every time I read i
 
 I meant: “somehow I somehow unlearned that practice in part.“
 
+---
+
+“I can only interpret the most positive interpretation of you I can, given the context I have”
+
+When I wrote this in my head it meant  “I’ll interpret you in the most positive way, given the (more) context that I have”
+
+But because of language trickery, it could be read as “Well, sorry bro for misjudging you but I can only go by what I know, ya know”
