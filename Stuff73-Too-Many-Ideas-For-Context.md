@@ -25,10 +25,12 @@ But:
 
 (2) Elizabeth Warren could've done better.
 
-(3) There's a physiological thing involving Transcendental Meditation and the trachea, which is protected by some cartilage that is the only part of this that is gendered.
+(3) There's a physiological thing involving Transcendental Meditation and the trachea[^1], which is protected by some cartilage that is the only part of this that is gendered.
 
 I was a feminist before you.
 
 Women can have Adam's apples too.
 
 Thank you for attending my AP class, now get out.
+
+[^1]: And "air element" and breath.
