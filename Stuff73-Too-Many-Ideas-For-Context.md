@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Trachea
 
 The capital W is an accidental but genuine reference to the Word.
 
-And of course Jai Guru Dev, and Transcendental Meditation, my experience having been very similar as what John Lennon describes in that song.
+And of course Jai Guru Dev, and Transcendental Meditation[^4], my experience having been very similar as what John Lennon describes in that song.
 
 Side note, I like these two segments:
 
@@ -36,3 +36,4 @@ Thank you for attending my AP[^2] class[^3], now get out.
 [^1]: And "air element" and breath.
 [^2]: The college class, assumes Elizabeth Warren was being strategic, also, with longer prospects in mind. But strategy and consciousness have the components of conscious and the superconscious, and it's unclear today. Conscious and superconscious Sam does not want to be a martyr ever anymore again, so please respect that boundary in case these words get me into situations I'm terrified of. Thank you. I respect Elizabeth Warren and Bernie.
 [^3]: Also, I am currently a flunkee, not a teacher.
+[^4]: Today, Inner Engineering seems like a better alternative, and Sadghuru's modern teachings more relevant.
