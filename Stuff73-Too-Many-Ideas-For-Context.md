@@ -30,3 +30,5 @@ But:
 I was a feminist before you.
 
 Women can have Adam's apples too.
+
+Thank you for attending my AP class, now get out.
