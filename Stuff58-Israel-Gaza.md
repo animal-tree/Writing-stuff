@@ -4,7 +4,7 @@ Let them eat cake: Sam Lerman’s solution to Israeli-Palestinian tensions that 
 
 …And give them TVs with access to Israeli TV shows made by creative Arabs/Palestinians that are genuinely *funny and fun* or *deep and emotional* and *not propaganda*.
 
-Distributing resources like food, water, and solar shingles for powering light and water (and TV) by remotely-piloted friendly drones with live people talking and interacting behind them and Israeli flags, means also being able to distribute information like pamphlets and Israeli books and any other material that isn’t propagandizing but shows Israeli culture in a relatable way. Like Seinfeld does for immigrants to America. And this non-propaganda culture distribution benefits from and necessitates hiring Arabs/Palestinians in Israel to make shows and lead projects and do creative things — heck, even things critical of Israel — Bill Maher to Bernie Sanders level of criticism of America doesn’t make Americans less patriotic; it actually makes them more patriotic or at least more hopeful of the nation representing the nation they want to see. That’s the job of government: if rulers can use drones and distribution technologies to provide food and resources to Palestinians, instead of missiles, then this humanitarian aid is what gives them any sort of “mandate”, not missiles. And that mandate comes from choice by the people. 
+Distributing resources like food, water, and solar shingles for powering light and water (and TV) by remotely-piloted friendly drones with live people talking and interacting behind them and Israeli flags, means also being able to distribute information like pamphlets and Israeli books and any other material that isn’t propagandizing but shows Israeli culture in a relatable way. Like Seinfeld does for immigrants to America. And this non-propaganda culture distribution benefits from and necessitates hiring Arabs/Palestinians in Israel to make shows and lead projects and do creative things — heck, even things critical of Israel — John Stewart to Bernie Sanders level of criticism of America doesn’t make Americans less patriotic; it actually makes them more patriotic or at least more hopeful of the nation representing the nation they want to see. That’s the job of government: if rulers can use drones and distribution technologies to provide food and resources to Palestinians, instead of missiles, then this humanitarian aid is what gives them any sort of “mandate”, not missiles. And that mandate comes from choice by the people. 
 
 Who’s gonna join Hamas or commit Jihad when they can sit home with family, with food, water, and solar shingles replenished with independent individual-controlled power by the intense sun rays of Palestine, and watch the Arab version of Israeli Seinfeld?
 
@@ -20,7 +20,7 @@ There you go. End of Israeli-Palestinian conflict.
 
 ---
 
-Note: that Bill Maher to Bernie Sanders overton window is pretty radical but you might want to go to Sam Lerman levels just to prove your faith in your literal God. 
+Note: that John Stewart to Bernie Sanders overton window is pretty radical but you might want to go to Sam Lerman levels just to prove your faith in your literal God. 
 
 1. In all likelihood, there will be Palestinians in every community willing to distribute the food. 
 2. The deliveries can be on a recurring basis, every week to every day. 
