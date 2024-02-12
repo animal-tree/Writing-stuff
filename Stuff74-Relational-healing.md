@@ -1,4 +1,4 @@
-> These are guidelines for a new field that people should be able to investigate, major in, research, and eventually formally practice, not anything that currently — to my knowledge — exists. But something that is only the concept boilerplate and not (or I should say never) the finalized "bylaw".
+> These are guidelines for a new field to potentially investigate, major in, research, and eventually formally practice, not anything that currently — to my knowledge — exists. But something that is only the concept boilerplate and not (or I should say never) the finalized "bylaw".
 
 There are certain things that do not require approval to relay back from a relational healer mediation, such as: what was told about you by the relational healer to the other person, and more details on this and other restrictions follow below, though unfortunately pork barreled (by psychological intervening forces in the healing shaman’s mind) in the early paragraphs despite the really good expression that is at the heart of this, but this paragraph or the ones that follow, due to pork barrel crypticism, have ruined it. 
 
