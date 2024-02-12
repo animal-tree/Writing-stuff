@@ -14,3 +14,5 @@ What happens when a healing shaman believes the relational healing system is wro
 
 What happens when a healing shaman needs relational healing, but believes the relational healing system is wrong? In this case, something extraordinary. I don't know what. A general policy is relational healers should be motivated in their training to prioritize "the one over the million" in weighing injustice vs. perceived justice. Furthermore, strict principle and belief against the existence of punishment, pain, blame, shame, and so on. The relational healing system should not be a "councel of aldermen". It should be like Rabbis, monastic monks, Vedic Brahmans, and extremely idealistic empaths. And calling it a "system" should be an insult to them.
 
+What happens when an ordinary person, who is not formally a relational healer, needs relational healing, and believes the relational healing system is wrong? They too are "healing shamans" and if that individual really is "ordinary" — that is, common, or from impoverished means — or is in a position of no power — should be naturally given exceptional respect by relational healers.
+
