@@ -56,4 +56,6 @@ In order to avoid imposter-syndrome complexes, those PhD students and supervisor
 
 In the ideal, relational workers should be religious workers — though not bound to any one religion — who operate across the Earth, like the ancient wandering Brahmins of India, but healing the relationally-rooted complexes that are most fundamental to humanity's sicknesses, both mental and physiological.
 
+#
+
 The goal of relational healers cannot ever be forgotten or neglected: collective world peace, between every individual, no exception — even when everybody except just 1 is content. Utopia. And not in a dystopian sense. In an enlightened Garden-of-Eden sense.
