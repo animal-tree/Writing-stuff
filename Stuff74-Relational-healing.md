@@ -50,3 +50,5 @@ An example study for relational healing is to have interested freshmen within a 
 
 In order to avoid the spiritual root of this becoming clinical, the work must be done in tandem with the philosophy and, for example, Rabbinic, department.
 
+In order to keep relational healers humble and avoid Messianic Complexes, those PhD students and supervisors have to satisfy the religious disciplines proposed by the spiritual teachers working in collaboration with them.
+
