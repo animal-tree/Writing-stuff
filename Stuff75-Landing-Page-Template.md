@@ -5,9 +5,43 @@
 
 *Intelligence exists plainly in nature. Love permeates all things.*
 
-# Principles
-
 <img width="7%" alt="AGI__init__logo-leaf-transparent"  src="https://github.com/AGI-init/AGI-init/assets/92597756/551e87d5-d206-4557-bc31-da4a726593b8">
+
+# AGI.\_\_init\_\_
+
+In our code, we strive for:
+
+- *Minimalism*
+- *Beauty*
+- *Pedagogical clarity*
+- *SotA performance*
+
+Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. Try running the below:
+
+```ruby
+class AGI:
+    """A General Intelligence"""
+
+    def __init__(self):
+        ...
+
+
+print(f'{AGI.__init__} is a "magic method".')
+```
+
+*Output*:
+
+```console
+<function AGI.__init__ at 0x102f9cf40> is a "magic method".
+```
+
+While this "magic method" is indistinguishable from a technology sufficiently advanced, we have bothered to program some other stuff.
+
+Check it out [here](https://github.com/AGI-init/UnifiedML) and [here](https://github.com/Cave-Dwellers-Tree-People/minihydra), and maybe [here](https://github.com/AGI-init/tributaries) and [here](https://github.com/AGI-init/UnifiedML-legacy), and maybe [here](https://github.com/AGI-init/XRDs) and [here](https://github.com/slerman12/Detective-Sam), ***with more to come***.
+
+**If this seems evil**, which it totally is, it's because "pure-AGI" (A.K.A. Skynet) is perhaps overkill for all of humanity's needs. We've (un-)subtly acronym'd AGI as "A General Intelligence". Artificial/Robot-General-Intelligence is motivating to programmers like me who have to do the work, because it's cool.
+
+# Principles
 
 ## An idealistic vision that includes doable specifics
 
@@ -44,40 +78,6 @@ Our principles are rooted in nature, reason, and healthy idealism. Supporting us
 **Implementable through:** simple neural network behavior cloning / imitation learning / demonstration learning fine-tuned and aligned on top of a foundation temporal-vision model with a fleet of many fisherman-drones in parallel to initially collect data and execute curriculums. Training in entirety only has to happen once and then wild-caught, fresh fish becomes free and abundantly available (assuming sustainability practices) for our generation and all future generations for the rest of time.
 
 - Doable in less than a year with today's technology and some funding pretty easily.
-
-# AGI.\_\_init\_\_
-
-In our code, we strive for:
-
-- *Minimalism*
-- *Beauty*
-- *Pedagogical clarity*
-- *SotA performance*
-
-Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. Try running the below:
-
-```ruby
-class AGI:
-    """A General Intelligence"""
-
-    def __init__(self):
-        ...
-
-
-print(f'{AGI.__init__} is a "magic method".')
-```
-
-*Output*:
-
-```console
-<function AGI.__init__ at 0x102f9cf40> is a "magic method".
-```
-
-While this "magic method" is indistinguishable from a technology sufficiently advanced, we have bothered to program some other stuff.
-
-Check it out [here](https://github.com/AGI-init/UnifiedML) and [here](https://github.com/Cave-Dwellers-Tree-People/minihydra), and maybe [here](https://github.com/AGI-init/tributaries) and [here](https://github.com/AGI-init/UnifiedML-legacy), and maybe [here](https://github.com/AGI-init/XRDs) and [here](https://github.com/slerman12/Detective-Sam), ***with more to come***.
-
-If this seems evil, it's because "pure-AGI" (A.K.A. Skynet) is overkill for all of this described, and perhaps (only time will tell) all of humanity's needs as well. Therefore we've (un-)subtly acronym'd "A General Intelligence": with "ArGI" ("Artificial/Robot-General-Intelligence") as a motivating tool (because it's cool for the programmers, like me and unlike me, who have to do the "AGI" and robotics work).
   
 # Recap of principles
 
