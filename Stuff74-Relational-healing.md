@@ -59,3 +59,5 @@ In the ideal, relational workers should be religious workers — though not boun
 #
 
 The goal of relational healers cannot ever be forgotten or neglected: collective world peace, between every individual, no exception — even when everybody except just 1 is content. Utopia. And not in a dystopian sense. In an enlightened Garden-of-Eden sense.
+
+The brain that unites all of us would like its individual neurons to play nice.
