@@ -77,7 +77,7 @@ While this "magic method" is indistinguishable from a technology sufficiently ad
 
 Check it out [here](https://github.com/AGI-init/UnifiedML) and [here](https://github.com/Cave-Dwellers-Tree-People/minihydra), and maybe [here](https://github.com/AGI-init/tributaries) and [here](https://github.com/AGI-init/UnifiedML-legacy), and maybe [here](https://github.com/AGI-init/XRDs) and [here](https://github.com/slerman12/Detective-Sam), ***with more to come***.
 
-If this seems evil, it's because "pure-AGI" (A.K.A. Skynet) is overkill for all of this described, and perhaps all of humanity's needs as well. Therefore we've (un-)subtly acronym'd "A General Intelligence", with "AGI" Artificial/Robot General Intelligence as a motivating tool (because it's cool for the programmers, like me, who have to do the work).
+<!--If this seems evil, it's because "pure-AGI" (A.K.A. Skynet) is overkill for all of this described, and perhaps (only time will tell) all of humanity's needs as well. Therefore we've (un-)subtly acronym'd "A General Intelligence": with "ArGI" ("Artificial/Robot-General-Intelligence") as a motivating tool (because it's cool for the programmers, like me and unlike me, who have to do the "AGI" and robotics work). (It's not evil.)-->
   
 # Recap of principles
 
