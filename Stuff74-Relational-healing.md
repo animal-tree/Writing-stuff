@@ -52,7 +52,7 @@ An example study for relational healing is to have interested freshmen within a 
 
 In order to avoid the spiritual root of this becoming clinical, the work must be done in tandem with the philosophy and, for example, Rabbinic, department.
 
-In order to avoid imposter-syndrome complexes, those PhD students and supervisors have to satisfy the religious disciplines proposed by the spiritual teachers working in collaboration with them, that those relational healers and teachers may adapt over time as per the need of the relational healing context.
+In order to avoid imposter-syndrome complexes, those PhD students and supervisors have to satisfy the religious disciplines proposed by the spiritual teachers working in collaboration with them, that those relational healers and teachers may adapt over time as per the need of the context.
 
 In the ideal, relational workers should be religious workers — though not bound to any one religion — who operate across the Earth, like the ancient wandering Brahmins of India, but healing the relationally-rooted complexes that are most fundamental to humanity's sicknesses, both mental and physiological.
 
