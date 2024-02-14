@@ -34,7 +34,7 @@ Relational healers can’t be anyone, and it requires extreme evidence, through 
 
 Now, if somebody doesn’t want anything about themselves communicated to somebody else, the relational healer must respect that unequivocally, except, potentially, to a limited-maximum number of other relational healers, who can help the situation potentially in their own ways. And individuals can communicate with as many relational healers as they need or want, making the job demand for such a role pretty high and the human supply — ideally empaths, and people gifted with abnormal emotional, social, and rational intelligence — really low. As more jobs become automated by AI, and more of human life becomes spiritual — that is, guided by the freedom boom of oneself — these healers will be essential and must be respected, treated well, and well paid if money still exists, like the traveling Brahmins of India ancient, which, granted, I don’t know much about. 
 
-Rejecting to hear from multiple relational healers in a single mediation should be considered a disgrace by cultural understanding, but not by explicit law, nor something that is communicated or broadcasted to anyone by those relational healers.
+Rejecting to hear from multiple relational healers in a single mediation should be considered a disgrace by cultural understanding, but not by explicit law, nor something that is communicated or broadcasted to anyone by those relational healers. Relational healers, however, should never cast blame, even for this, and should always seek to "hero-ize" everyone rather than villainize.
 
 #
 
