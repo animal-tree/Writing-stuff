@@ -59,6 +59,8 @@ here are 4 concrete and as of 2024 novel ideas for using AI for the welfare and 
 
 See above: solar-powered fishing drones. Additionally, low-energy airships kept afloat by helium, with tanks for storing the fish, to bring back the yields of healthy, wild-caught fish to hungry communities. Above the clouds abundant sunlight is available for solar powered, self-sustaining deliveries, via the energy-conservative helium-based vessels.
 
+The quantity of fish obtained through this autonomous self-sustaining method should be sufficient to at least feed healthy-food supplies to coastal villages in globally-poor regions, if not for industrial purposes.
+
 ## Express opposition of AI uses for military and surveillance
 
 We will always put humanity, nature, and Mother Earth first, ahead in the queue before money, bottom line, propriety, or even the art itself.
