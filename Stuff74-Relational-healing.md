@@ -46,5 +46,5 @@ Pretty much, "whoever's unhappy, for whatever reason, is right, until we're all 
 
 #
 
-An example study for relational healing is to have interested freshmen within a university year agree to participate and see how it affects satisfaction, mental health outcomes, and what they think of the different trialed methods. 
+An example study for relational healing is to have interested freshmen within a university year agree to participate and see how it affects satisfaction, mental health outcomes, and what they think of the different trialed methods, with PhD psychology students in charge of designing the test program methods for their respective cohorts. 
 
