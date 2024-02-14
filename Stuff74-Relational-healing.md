@@ -48,5 +48,5 @@ Pretty much, "whoever's unhappy, for whatever reason, is right, until we're all 
 
 An example study for relational healing is to have interested freshmen within a university year agree to participate and see how it affects satisfaction, mental health outcomes, and what they think of the different trialed methods, with PhD psychology students and supervisors in charge of designing the test program methods for their respective cohorts, ideally hundreds of people grouped by reported or predicted social circle. 
 
-In order to avoid the spiritual root of this becoming clinical, the work must be done in tandem with the philosophy and, for example, Rabbinic, departments.
+In order to avoid the spiritual root of this becoming clinical, the work must be done in tandem with the philosophy and, for example, Rabbinic, department.
 
