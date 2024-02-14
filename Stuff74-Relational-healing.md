@@ -44,3 +44,7 @@ What happens when an ordinary person, who is not formally a relational healer, n
 
 Pretty much, "whoever's unhappy, for whatever reason, is right, until we're all happy and legitimately." By legitimately, in case that's pork barrel, I mean "genuinely". But another interpretation is "not just expressly". That, is an interesting consideration since many people think they're content when they're not. I don't think it's a relational healer's job to intervene in those circumstances, because a relational healer is a mediator, not an individual therapist/doctor. For that, I think the current existing psychology and medical institutions need to be reformed to prioritize things like championing economic justice and basic necessities for health and wellbeing not afforded by many people without great stress, despite their contentment. 
 
+#
+
+An example study for relational healing is to have interested freshmen within a university year agree to participate and see how it affects satisfaction, mental health outcomes, and what they think of the different trialed methods. 
+
