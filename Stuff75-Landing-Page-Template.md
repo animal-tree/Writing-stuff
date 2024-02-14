@@ -81,7 +81,7 @@ Our principles are rooted in nature, reason, and healthy idealism. Supporting us
 
 - Doable in less than a year with today's technology and some funding pretty easily.
 - At least for impoverished regions if not industrially.
-- Cost of initial infrastructure (airship and drones) relatively low (about the same as a cluster of A6000 GPUs) for the permanent food-supply algoirthm that is trained.
+- Cost of initial infrastructure (airship and drones) relatively low (perhaps cheaper than a supercomputer cluster of A6000 GPUs) for the permanent food-supply algorithm that is trained.
   
 # Recap of principles
 
