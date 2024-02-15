@@ -85,6 +85,7 @@ Our principles are rooted in nature, reason, and healthy idealism. Supporting us
 - At the end of it, a permanent food-supply algorithm is trained.
 - Airship-free methods that notify the user of when a fish has been caught and allow the user to pilot the drone back via a mobile app can also be trained, for less than the cost of an A6000 GPU cluster.
 - Fisherman-drone with remote can one day be distributed to global-poor individuals at no cost, same as cellphones are.
+- Amazon already plans package deliveries via drones, which is logistically far more complicated.
   
 # Recap of principles
 
