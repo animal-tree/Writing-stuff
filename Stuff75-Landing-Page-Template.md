@@ -59,7 +59,9 @@ here are 4 concrete and as of 2024 novel ideas for using AI for the welfare and 
 
 See above: solar-powered fishing drones. Additionally, low-energy airships kept afloat by helium, with tanks for storing the fish, to bring back the yields of healthy, wild-caught fish to hungry communities. Above the clouds abundant sunlight is available for solar powered, self-sustaining deliveries, via the energy-conservative helium-based vessels.
 
-The quantity of fish obtained through this autonomous self-sustaining method should be sufficient to at least feed healthy-food supplies to coastal villages in globally-poor regions, if not for industrial purposes.
+The quantity of fish obtained through this autonomous self-sustaining method should be sufficient to at least feed healthy-food supplies to coastal villages in globally-poor regions, if not for industrial purposes. 
+
+Individually-powered drones via airship-free mobile app remote can also be made available.
 
 ## Express opposition of AI uses for military and surveillance
 
@@ -75,12 +77,13 @@ Our principles are rooted in nature, reason, and healthy idealism. Supporting us
 
 **Ending world hunger** and ending healthy-food shortages - autonomous fishing drones with line, hook, and lure, powered by self-sustaining solar technologies thanks to abundance of sunlight and independence from weather conditions of high-altitude.
 
-- Together with the fisherman-drones, helium airships with tanks inside to store the fish and deliver back yields of healthy, wild-caught fish. Sustainabilty practices must still apply, even with fishing automated. A limit can also be put on how many generations these wild-caught fish can be farmed as well after being caught, so as to balance abundance with permaculture.
+- Together with the fisherman-drones, helium airships with tanks inside to store the fish and deliver back yields of healthy, wild-caught fish. Sustainability practices must still apply, even with fishing automated. A limit can also be put on how many generations these wild-caught fish can be farmed as well after being caught, so as to balance abundance with permaculture.
 
 **Implementable through:** simple neural network behavior cloning / imitation learning / demonstration learning fine-tuned and aligned on top of a foundation temporal-vision model with a fleet of many fisherman-drones in parallel to initially collect data and execute curriculums. Training in entirety only has to happen once and then wild-caught, fresh fish becomes free and abundantly available (assuming sustainability practices) for our generation and all future generations for the rest of time.
 
 - At least for impoverished regions if not industrially.
 - At the end of it, a permanent food-supply algorithm is trained.
+- Airship-free methods that notify the user of when a fish has been caught and allow the user to pilot the drone back via a mobile app can also be trained, for less than the cost of an A6000 GPU cluster.
   
 # Recap of principles
 
