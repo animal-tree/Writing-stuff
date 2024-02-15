@@ -79,9 +79,8 @@ Our principles are rooted in nature, reason, and healthy idealism. Supporting us
 
 **Implementable through:** simple neural network behavior cloning / imitation learning / demonstration learning fine-tuned and aligned on top of a foundation temporal-vision model with a fleet of many fisherman-drones in parallel to initially collect data and execute curriculums. Training in entirety only has to happen once and then wild-caught, fresh fish becomes free and abundantly available (assuming sustainability practices) for our generation and all future generations for the rest of time.
 
-- Doable in less than a year with today's technology and some funding pretty easily.
 - At least for impoverished regions if not industrially.
-- Cost of initial infrastructure (airship and drones) relatively low (perhaps cheaper than a supercomputer cluster of A6000 GPUs) for the permanent food-supply algorithm that is trained.
+- At the end of it, a permanent food-supply algorithm is trained.
   
 # Recap of principles
 
