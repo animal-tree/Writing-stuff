@@ -61,7 +61,7 @@ See above: solar-powered fishing drones. Additionally, low-energy airships kept 
 
 The quantity of fish obtained through this autonomous self-sustaining method should be sufficient to at least feed healthy-food supplies to coastal villages in globally-poor regions, if not for industrial purposes. 
 
-Individually-powered drones via airship-free mobile app remote can also be made available.
+Airship-free methods that notify the user of when a fish has been caught and allow the user to pilot the drone back via a mobile app can also be trained, even ones that fly as far back as the coast or to the user’s GPS location, much as an Amazon delivery drone is being trained to be able to do but for Amazon package deliveries. 
 
 ## Express opposition of AI uses for military and surveillance
 
@@ -83,7 +83,7 @@ Our principles are rooted in nature, reason, and healthy idealism. Supporting us
 
 - At least for impoverished regions if not industrially.
 - At the end of it, a permanent food-supply algorithm is trained.
-- Airship-free methods that notify the user of when a fish has been caught and allow the user to pilot the drone back via a mobile app can also be trained. Drones are much less expensive than an A6000 GPU cluster for example.
+- Individually-powered drones via airship-free mobile app remote is much less expensive to prototype, and costs less than an A6000 GPU cluster to lease or develop the infrastructure for.
 - Amazon already plans package deliveries via drones, which is logistically far more complicated.
   
 # Recap of principles
