@@ -128,9 +128,9 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 $$
 \begin{align}
-  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}} \\
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}} \quad\quad \text{(Definition 3)} \\
   &= \frac{\lim\limits_{h^{(i)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{\lim\limits_{h^{(i)} \to 0} h^{(i)}} \\
-  &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}
+  &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} \quad\quad \text{(Definition 4)}
 \end{align}
 $$
 
