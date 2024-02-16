@@ -135,7 +135,7 @@ $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \
 $$
 \begin{align}
   \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}} \quad\quad \text{(Corollary 1)}\\
-  &= \frac{\frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}}{\frac{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}} \quad\quad \text{(Corollary 2)}\\
+  &= \frac{\Bigg(\frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Corollary 2)}\\
   &= \frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}} \\
   &= \frac{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)})}{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2})} \\
   &= \frac{\frac{\Delta^i x_{t^{(j)}}^{(j)}}{\Delta^i t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2 \Delta^i t^{(j)}}} \\
