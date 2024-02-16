@@ -68,7 +68,7 @@ $\frac{\partial x}{\partial t} = \frac{\Delta x}{\Delta t} = \frac{\frac{\Delta 
 
 **(1) Speed of light constant *in vacuo*, reference frame, and spacetime.**
 
-Let $i \in \mathbb{N}$ and $c$ be the speed of light constant.
+Let $i \in \mathbb{N}$ and $c=299,792,458$ be the speed of light constant.
 
 Reference frame $K^{(i)}$ has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
 
