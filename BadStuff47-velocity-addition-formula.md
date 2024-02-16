@@ -42,7 +42,7 @@ Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) has time points $t^{(i)} 
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of $K^{(j)}$ measured by an observer on $K^{(i)}$.
 
-**(2) Lorentz transformation.**
+**(2) Lorentz transformation equations.**
 
 $\mathcal{X}(X, T, V) \coloneqq \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$
 
@@ -66,9 +66,7 @@ $\Delta^j t^{(i)} \coloneqq \lim\limits_{h^{(j)} \to 0} h^{(i)}$
 
 ### Assumptions
 
-**(1) Lorentz transformation.**
-
-The Lorentz transformation describes reference frame transformations in physical spacetime.
+**(1) The Lorentz transformation describes reference frame transformations in physical spacetime.**
 
 $x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
