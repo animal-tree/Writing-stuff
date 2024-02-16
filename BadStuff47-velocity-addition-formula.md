@@ -143,4 +143,4 @@ $$
 $\frac{\partial x}{\partial t} = \frac{\Delta x}{\Delta t} = \frac{\frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\Delta t' + \frac{v \Delta x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\Delta x' + v \Delta t'}{\Delta t' + \frac{v \Delta x'}{c^2}} = \frac{\frac{1}{\Delta t'}(\Delta x' + v \Delta t')}{\frac{1}{\Delta t'}(\Delta t' + \frac{v \Delta x'}{c^2})} = \frac{\frac{\Delta x'}{\Delta t'} + v}{1 + \frac{v}{c^2}\frac{\Delta x'}{\Delta t'}} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$ 
 -->
 
-> Note: The velocity-addition formula can't actually be true at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, e.g. not an electron or any experimentally tested massive object.
+> Note: The velocity-addition formula can't actually be true at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, e.g., not an electron or any experimentally tested massive object.
