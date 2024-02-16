@@ -104,7 +104,7 @@ $\Delta t^{(j)} = h^{(j)} = \lim\limits_{h^{(i)} \to 0} \mathcal{T}(x_{h^{(i)}}^
 
 **(1) Lorentz transformation.**
 
-The Lorentz transformation equations describe reference frame transformations in spacetime.
+The Lorentz transformation describes reference frame transformations in spacetime.
 
 **(2) Mutual velocity perspective.**
 
