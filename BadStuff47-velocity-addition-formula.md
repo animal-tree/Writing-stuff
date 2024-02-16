@@ -135,12 +135,27 @@ $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \
 $$
 \begin{align}
   \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}} \quad\quad \text{(Corollary 1)}\\
-  &=
+  &= \frac{\frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}}{\frac{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}} \quad\quad \text{(Corollary 2)}\\
+  &= \frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}} \\
+  &= \frac{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)})}{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2})} \\
+  &= \frac{\frac{\Delta^i x_{t^{(j)}}^{(j)}}{\Delta^i t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2 \Delta^i t^{(j)}}} \\
 \end{align}
 $$
 
-<!-- 
+$$
+\begin{align}
+&= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}} \quad\quad \text{(Corollary 1)}\\
+&= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}) \quad\quad\quad \square
+\end{align}
+$$
+
+<!--
+$\frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
+
+$\frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}$
+
 $\frac{\partial x}{\partial t} = \frac{\Delta x}{\Delta t} = \frac{\frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\Delta t' + \frac{v \Delta x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\Delta x' + v \Delta t'}{\Delta t' + \frac{v \Delta x'}{c^2}} = \frac{\frac{1}{\Delta t'}(\Delta x' + v \Delta t')}{\frac{1}{\Delta t'}(\Delta t' + \frac{v \Delta x'}{c^2})} = \frac{\frac{\Delta x'}{\Delta t'} + v}{1 + \frac{v}{c^2}\frac{\Delta x'}{\Delta t'}} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$ 
 -->
+
 
 > Note: The velocity-addition formula can't actually be true at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, e.g., not an electron or any experimentally tested massive object, or even light traveling through a medium. One or the other has to go.
