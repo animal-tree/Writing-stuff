@@ -130,6 +130,8 @@ $\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t'
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
+The velocity-addition formula describes reference frame velocity transformations in physical spacetime.
+
 **Proof.**
 
 $$
