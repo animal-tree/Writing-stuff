@@ -48,10 +48,6 @@ $\mathcal{X}(X, T, V) = \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$
 
 $\mathcal{T}(X, T, V) = \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$
 
-$x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
-
-$t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
-
 **(3) Velocity-addition formula.** 
 
 $\mathcal{V}(V, W) = \frac{W + V}{1 + \frac{V}{c^2}W}$.
@@ -62,21 +58,21 @@ $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \lim\limits_{h^{(i)} \to 
 
 **(5) Infinitesimals.** 
 
-$h^{(i)}, h^{(j)}$ will denote infinitesimal time increments. 
+<!-- $h^{(i)}, h^{(j)}$ will denote infinitesimal time increments.  -->
 
-$\Delta x_{t^{(i)}}^{(i)} = \lim\limits_{h^{(i)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}$
+$\Delta^j x_{t^{(i)}}^{(i)} = \lim\limits_{h^{(j)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}$
 
-$\Delta t^{(i)} = \lim\limits_{h^{(i)} \to 0} h^{(i)}$
-
-$\Delta x_{t^{(j)}}^{(j)} = \lim\limits_{h^{(i)} \to 0} x_{t^{(j)} + h^{(j)}}^{(j)} - x_{t^{(j)}}^{(j)}$
-
-$\Delta t^{(j)} = h^{(j)} = \lim\limits_{h^{(i)} \to 0} \mathcal{T}(x_{h^{(i)}}^{(i)}, h^{(i)}, v^{(i, j)})$
+$\Delta^j t^{(i)} = \lim\limits_{h^{(j)} \to 0} h^{(i)}$
 
 ### Assumptions
 
 **(1) Lorentz transformation.**
 
 The Lorentz transformation describes reference frame transformations in physical spacetime.
+
+$x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
+
+$t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
 **(2) Mutual velocity perspective.**
 
@@ -96,7 +92,9 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 ### Corollaries
 
-**(1) Infinitesimals as derivatives.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
+**(1) Infinitesimals as derivatives.** 
+
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}}$.
 
 **Proof.**
 
@@ -104,15 +102,15 @@ $$
 \begin{align}
   \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}} \quad\quad \text{(Definition 4)} \\
   &= \frac{\lim\limits_{h^{(i)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{\lim\limits_{h^{(i)} \to 0} h^{(i)}} \\
-  &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} \quad\quad \text{(Definition 5)}
+  &= \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}} \quad\quad \text{(Definition 5)}
 \end{align}
 $$
 
 **(2) Lorentz transformation of infinitesimals across reference frames.**
 
-$\Delta x_{t^{(i)}}^{(i)} = \mathcal{X}(\Delta x_{t^{(j)}}^{(j)}, \Delta t^{(j)}, -v^{(i, j)})$
+$\Delta^i x_{t^{(i)}}^{(i)} = \mathcal{X}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
 
-$\Delta t^{(i)} = \mathcal{T}(\Delta x_{t^{(j)}}^{(j)}, \Delta t^{(j)}, -v^{(i, j)})$
+$\Delta^i t^{(i)} = \mathcal{T}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
 
 <!--
 $\Delta x_{t^{(i)}}^{(i)} = \frac{\Delta x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
@@ -128,13 +126,15 @@ $\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t'
 
 ### Theorems
 
-**(1) Velocity-addition formula.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
+**(1) Velocity-addition formula.** 
+
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
 **Proof.**
 
 $$
 \begin{align}
-  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} \quad\quad \text{(Corollary 1)}\\
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}} \quad\quad \text{(Corollary 1)}\\
   &=
 \end{align}
 $$
