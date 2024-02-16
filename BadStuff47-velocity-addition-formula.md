@@ -36,7 +36,7 @@ In case the above doesn't satisfy one's preferance of rigor, here is a derivatio
 
 **(1) Speed of light constant *in vacuo*, reference frame, and spacetime.**
 
-Let $c=299,792,458$ be the speed of light constant.
+Let $c \coloneqq 299,792,458$ be the speed of light constant.
 
 Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
 
@@ -44,25 +44,25 @@ $v^{(i, j)} \in \mathbb{R}$ is the velocity of $K^{(j)}$ measured by an observer
 
 **(2) Lorentz transformation.**
 
-$\mathcal{X}(X, T, V) = \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$
+$\mathcal{X}(X, T, V) \coloneqq \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$
 
-$\mathcal{T}(X, T, V) = \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$
+$\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$
 
 **(3) Velocity-addition formula.** 
 
-$\mathcal{V}(V, W) = \frac{W + V}{1 + \frac{V}{c^2}W}$.
+$\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
 **(4) Derivative.**
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}}$
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} \coloneqq \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}}$
 
 **(5) Infinitesimal changes of time.** 
 
 <!-- $h^{(i)}, h^{(j)}$ will denote infinitesimal time increments.  -->
 
-$\Delta^j x_{t^{(i)}}^{(i)} = \lim\limits_{h^{(j)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}$
+$\Delta^j x_{t^{(i)}}^{(i)} \coloneqq \lim\limits_{h^{(j)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}$
 
-$\Delta^j t^{(i)} = \lim\limits_{h^{(j)} \to 0} h^{(i)}$
+$\Delta^j t^{(i)} \coloneqq \lim\limits_{h^{(j)} \to 0} h^{(i)}$
 
 ### Assumptions
 
