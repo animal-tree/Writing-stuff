@@ -116,4 +116,4 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 
 **(4)** $\frac{\partial x}{\partial t} \neq c$.
 
-As assumed in all experimentally tested setups, e.g., Fizeau.
+As assumed in most experimentally tested setups, e.g., Fizeau.
