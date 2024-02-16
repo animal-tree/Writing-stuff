@@ -70,13 +70,13 @@ $\Delta^j t^{(i)} \coloneqq \lim\limits_{h^{(j)} \to 0} h^{(i)}$
 
 The Lorentz transformation describes reference frame transformations in physical spacetime.
 
-$x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
+$x_{t^{(j)}}^{(j)} \coloneqq \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
-$t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
+$t^{(j)} \coloneqq \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
 **(2) Mutual velocity perspective.**
 
-$v^{(i, j)} = -v^{(j, i)}$
+$v^{(i, j)} \coloneqq -v^{(j, i)}$
 
 This is assumed generally as well as in Einstein's second postulate ("the principle of relativity").
 
