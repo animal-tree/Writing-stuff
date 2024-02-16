@@ -56,7 +56,7 @@ $\mathcal{V}(V, W) = \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}}$
 
-**(5) Infinitesimals.** 
+**(5) Infinitesimal changes.** 
 
 <!-- $h^{(i)}, h^{(j)}$ will denote infinitesimal time increments.  -->
 
@@ -92,7 +92,7 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 ### Corollaries
 
-**(1) Infinitesimals as derivatives.** 
+**(1) Infinitesimal changes as derivatives.** 
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}}$.
 
@@ -106,7 +106,7 @@ $$
 \end{align}
 $$
 
-**(2) Lorentz transformation of infinitesimals across reference frames.**
+**(2) Lorentz transformation of infinitesimal changes across reference frames.**
 
 $\Delta^i x_{t^{(i)}}^{(i)} = \mathcal{X}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
 
