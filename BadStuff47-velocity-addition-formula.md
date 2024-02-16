@@ -109,3 +109,7 @@ $v^{(i, j)} = -v^{(j, i)}$
 **(3) Einstein's first postulate: The speed of light *in vacuo* across all reference frames is constant.**
 
 $x_{t^{(i)}}^{(i)} = c t^{(i)}$
+
+**(4)** $\frac{\partial x}{\partial t} \neq c$.
+
+As assumed in all experimentally setups, e.g., Fizeau.
