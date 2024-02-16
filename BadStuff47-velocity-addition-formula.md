@@ -82,7 +82,7 @@ The Lorentz transformation describes reference frame transformations in physical
 
 $v^{(i, j)} = -v^{(j, i)}$
 
-This is assumed generally as well as in Einstein's second postulate (the principle of relativity).
+This is assumed generally as well as in Einstein's second postulate ("the principle of relativity").
 
 <!--
 **(3) Einstein's first postulate: The speed of light *in vacuo* across all reference frames is constant.**
