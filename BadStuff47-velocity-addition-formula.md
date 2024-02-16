@@ -52,7 +52,7 @@ $\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c
 
 $\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
-**(4) Derivative.**
+**(4) Partial derivative.**
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} \coloneqq \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}}$
 
