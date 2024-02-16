@@ -16,9 +16,7 @@ $\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + 
 
 for pretty much all experimentally tested velocities $W = \frac{\partial x}{\partial t} \neq c$.
 
-# Deriving the velocity addition formula
-
-## Rigorously
+## Deriving the velocity addition formula - Rigorously
 
 Assume the Lorentz transformation. We have:
 
@@ -28,7 +26,7 @@ $\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
 
-## Most rigorously
+## Deriving the velocity addition formula - Most rigorously
 
 In case the above doesn't satisfy one's preference of rigor, here is a derivation from absolute scratch.
 
