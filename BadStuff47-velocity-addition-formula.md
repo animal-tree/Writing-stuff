@@ -74,11 +74,21 @@ Reference frame $K^{(i)}$ has time points $t^{(i)}  \in \mathbb{R}$ and correspo
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of $K^{(j)}$ measured by an observer on $K^{(i)}$.
 
-**(2) Derivative.**
+**(2) Lorentz transformation.**
+
+$\mathcal{X}(X, T, V) = \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$
+
+$\mathcal{T}(X, T, V) = \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$
+
+$x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
+
+$t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
+
+**(3) Derivative.**
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \lim\limits_{h \to 0} \frac{x_{t^{(i)} + h}^{(i)} - x_{t^{(i)}}^{(i)}}{h}$
 
-**(3) Infinitesimals.** 
+**(4) Infinitesimals.** 
 
 $h^{(i)}, h^{(j)}$ will denote infinitesimal time increments. 
 
@@ -88,19 +98,11 @@ $\Delta t^{(i)} = \lim\limits_{h^{(i)} \to 0} h^{(i)}$
 
 $\Delta x_{t^{(j)}}^{(j)} = \lim\limits_{h^{(i)} \to 0} x_{t^{(j)} + h^{(j)}}^{(j)} - x_{t^{(j)}}^{(j)}$
 
-$\Delta t^{(j)} = h^{(j)} = \lim\limits_{h^{(i)} \to 0} \frac{h^{(i)} - \frac{v^{(i, j)} x_{t^{(i)} + h^{(i)}}^{(i)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
+$\Delta t^{(j)} = h^{(j)} = \lim\limits_{h^{(i)} \to 0} \mathcal{T}(x_{h^{(i)}}^{(i)}, h^{(i)}, v^{(i, j)})$
 
 ### Assumptions
 
 **(1) Lorentz transformation.**
-
-$\mathcal{X}(X, T, V) = \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$
-
-$\mathcal{T}(X, T, V) = \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$
-
-$x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
-
-$t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
 **(2) Mutual velocity perspective.**
 
