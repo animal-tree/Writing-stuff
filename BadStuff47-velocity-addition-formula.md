@@ -110,9 +110,15 @@ $$
 
 **(2) Lorentz transformation of infinitesimals across reference frames.**
 
+$\Delta x_{t^{(i)}}^{(i)} = \mathcal{X}(\Delta x_{t^{(j)}}^{(j)}, \Delta t^{(j)}, -v^{(i, j)})$
+
+$\Delta t^{(i)} = \mathcal{T}(\Delta x_{t^{(j)}}^{(j)}, \Delta t^{(j)}, -v^{(i, j)})$
+
+<!--
 $\Delta x_{t^{(i)}}^{(i)} = \frac{\Delta x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
 
 $\Delta t^{(i)} = \frac{\Delta t^{(j)} + \frac{v^{(i, j)} \Delta x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
+-->
 
 **Proof.**
 
