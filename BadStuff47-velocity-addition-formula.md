@@ -135,15 +135,16 @@ $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \
 $$
 \begin{align}
   \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}} \quad\quad \text{(Corollary 1)}\\
-  &= \frac{\Bigg(\frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Corollary 2)}\\
+  &= \frac{\mathcal{X}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})}{\mathcal{T}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})} \quad\quad \text{(Corollary 2)}\\
+  &= \frac{\Bigg(\frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
   &= \frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}} \\
   &= \frac{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)})}{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2})} \\
-  &= \frac{\frac{\Delta^i x_{t^{(j)}}^{(j)}}{\Delta^i t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2 \Delta^i t^{(j)}}} \\
 \end{align}
 $$
 
 $$
 \begin{align}
+&= \frac{\frac{\Delta^i x_{t^{(j)}}^{(j)}}{\Delta^i t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2 \Delta^i t^{(j)}}} \\
 &= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}} \quad\quad \text{(Corollary 1)}\\
 &= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}) \quad\quad\quad \square
 \end{align}
