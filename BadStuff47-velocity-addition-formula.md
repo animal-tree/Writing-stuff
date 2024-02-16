@@ -122,7 +122,7 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 As assumed in most experimentally tested setups, e.g., Fizeau.
 -->
 
-### Theorems
+### Corollaries
 
 **(1) Infinitesimals as derivatives.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
 
@@ -148,13 +148,15 @@ $\Delta t^{(i)} = \frac{\Delta t^{(j)} + \frac{v^{(i, j)} \Delta x_{t^{(j)}}^{(j
 $\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t' + h')}{\sqrt{1 - \frac{v^2}{c^2}}} - \frac{x_{t'}' + v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + v (t' + h') - v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + vh'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
 -->
 
-**(3) Velocity-addition formula.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}$.
+### Theorems
+
+**(1) Velocity-addition formula.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}$.
 
 **Proof.**
 
 $$
 \begin{align}
-  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} \quad\quad \text{(Theorem 1)\\
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} \quad\quad \text{(Corollary 1)\\
   &=
 \end{align}
 $$
