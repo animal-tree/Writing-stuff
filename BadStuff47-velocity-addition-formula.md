@@ -94,7 +94,7 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 **(1) Infinitesimal changes of time as partial derivative.** 
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}}$.
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} \coloneqq \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}}$.
 
 **Proof.**
 
@@ -108,9 +108,9 @@ $$
 
 **(2) Lorentz transformation of infinitesimal changes of time across reference frames.**
 
-$\Delta^i x_{t^{(i)}}^{(i)} = \mathcal{X}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
+$\Delta^i x_{t^{(i)}}^{(i)} \coloneqq \mathcal{X}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
 
-$\Delta^i t^{(i)} = \mathcal{T}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
+$\Delta^i t^{(i)} \coloneqq \mathcal{T}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
 
 <!--
 $\Delta x_{t^{(i)}}^{(i)} = \frac{\Delta x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
@@ -128,7 +128,7 @@ $\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t'
 
 **(1) Velocity-addition formula.** 
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} \coloneqq \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
 **Proof.**
 
