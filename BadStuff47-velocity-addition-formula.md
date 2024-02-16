@@ -30,7 +30,7 @@ $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{
 
 ## Most rigorously
 
-In case the above doesn't satisfy one's preferance of rigor, here is a derivation from absolute scratch.
+In case the above doesn't satisfy one's preference of rigor, here is a derivation from absolute scratch.
 
 ### Definitions.
 
