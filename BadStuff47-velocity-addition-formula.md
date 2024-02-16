@@ -86,7 +86,7 @@ $t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$
 
 **(3) Derivative.**
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \lim\limits_{h \to 0} \frac{x_{t^{(i)} + h}^{(i)} - x_{t^{(i)}}^{(i)}}{h}$
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}}$
 
 **(4) Infinitesimals.** 
 
@@ -119,3 +119,18 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 **(4)** $\frac{\partial x}{\partial t} \neq c$.
 
 As assumed in most experimentally tested setups, e.g., Fizeau.
+
+### Theorems
+
+**Infinitesimals as derivatives.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
+
+**Proof.**
+
+$$
+\begin{align}
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}} \\
+  &= \frac{\lim\limits_{h^{(i)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{\lim\limits_{h^{(i)} \to 0} h^{(i)}} \\
+  &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}
+\end{align}
+$$
+
