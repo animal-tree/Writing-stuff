@@ -122,7 +122,7 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 ### Theorems
 
-**Infinitesimals as derivatives.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
+**(1) Infinitesimals as derivatives.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}$.
 
 **Proof.**
 
@@ -131,6 +131,16 @@ $$
   \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}} \\
   &= \frac{\lim\limits_{h^{(i)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{\lim\limits_{h^{(i)} \to 0} h^{(i)}} \\
   &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}}
+\end{align}
+$$
+
+**(2) Velocity-addition formula.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}$.
+
+**Proof.**
+
+$$
+\begin{align}
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \text{      ()}\\
 \end{align}
 $$
 
