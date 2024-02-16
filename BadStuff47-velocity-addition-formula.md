@@ -18,6 +18,8 @@ for pretty much all experimentally tested velocities $W = \frac{\partial x}{\par
 
 # Deriving the velocity addition formula
 
+## Rigorously
+
 Assume the Lorentz transformation. We have:
 
 $\partial x = \frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
