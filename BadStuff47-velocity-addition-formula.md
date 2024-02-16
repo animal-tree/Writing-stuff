@@ -136,13 +136,26 @@ $$
 \end{align}
 $$
 
-**(2) Velocity-addition formula.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}$.
+**(2) Lorentz transformation of infinitesimals across reference frames.**
+
+$\Delta x_{t^{(i)}}^{(i)} = \frac{\Delta x_{t^{(j)}}^{(j)} + v \Delta t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
+
+$\Delta t^{(i)} = \frac{\Delta t^{(j)} + \frac{v^{(i, j)} \Delta x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
+
+**Proof.**
+
+<!--
+$\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t' + h')}{\sqrt{1 - \frac{v^2}{c^2}}} - \frac{x_{t'}' + v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + v (t' + h') - v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + vh'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
+-->
+
+**(3) Velocity-addition formula.** $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}$.
 
 **Proof.**
 
 $$
 \begin{align}
-  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \text{      ()}\\
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} \quad\quad \text{(Theorem 1)\\
+  &=
 \end{align}
 $$
 
