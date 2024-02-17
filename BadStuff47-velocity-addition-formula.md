@@ -50,18 +50,6 @@ $\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c
 
 $\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
 
-**(4) Partial derivative.**
-
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} \coloneqq \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}}$
-
-**(5) Infinitesimal changes of time.** 
-
-<!-- $h^{(i)}, h^{(j)}$ will denote infinitesimal time increments.  -->
-
-$\Delta^j x_{t^{(i)}}^{(i)} \coloneqq \lim\limits_{h^{(j)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}$
-
-$\Delta^j t^{(i)} \coloneqq \lim\limits_{h^{(j)} \to 0} h^{(i)}$
-
 ### Assumptions
 
 **(1) Lorentz transformation.**
@@ -88,39 +76,15 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 As assumed in most experimentally tested setups, e.g., Fizeau.
 -->
 
-### Corollaries
+**(3) Uniform motion ($K^{(i)}$ is an inertial reference frame).**
 
-**(1) Infinitesimal changes of time as partial derivative.** 
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant.
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}}$.
+This is assumed in special relativity.
 
-**Proof.**
+**(4) $x_{0}^{(i)} = 0$.**
 
-$$
-\begin{align}
-  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \lim\limits_{h^{(i)} \to 0} \frac{x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{h^{(i)}} \quad\quad \text{(Definition 4)} \\
-  &= \frac{\lim\limits_{h^{(i)} \to 0} x_{t^{(i)} + h^{(i)}}^{(i)} - x_{t^{(i)}}^{(i)}}{\lim\limits_{h^{(i)} \to 0} h^{(i)}} \\
-  &= \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}} \quad\quad \text{(Definition 5)} \quad\quad\quad \square
-\end{align} 
-$$ 
-
-**(2) Lorentz transformation of infinitesimal changes of time across reference frames.**
-
-$\Delta^i x_{t^{(i)}}^{(i)} = \mathcal{X}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
-
-$\Delta^i t^{(i)} = \mathcal{T}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})$
-
-<!--
-$\Delta x_{t^{(i)}}^{(i)} = \frac{\Delta x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
-
-$\Delta t^{(i)} = \frac{\Delta t^{(j)} + \frac{v^{(i, j)} \Delta x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}$
--->
-
-**Proof.**
-
-<!--
-$\Delta x = \lim\limits_{h \to 0} x_{t + h} - x_{t} = \frac{x_{t' + h'}' + v (t' + h')}{\sqrt{1 - \frac{v^2}{c^2}}} - \frac{x_{t'}' + v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + v (t' + h') - v t'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{x_{t' + h'}' - x_{t'}' + vh'}{\sqrt{1 - \frac{v^2}{c^2}}} = \frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}$
--->
+This is assumed in special relativity and derivable from the constancy of light postulate $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0$.
 
 ### Theorems
 
@@ -134,29 +98,31 @@ The velocity-addition formula describes reference frame velocity transformations
 
 $$
 \begin{align}
-  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{\Delta^i x_{t^{(i)}}^{(i)}}{\Delta^i t^{(i)}} \quad\quad \text{(Corollary 1)}\\
-  &= \frac{\mathcal{X}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})}{\mathcal{T}(\Delta^i x_{t^{(j)}}^{(j)}, \Delta^i t^{(j)}, -v^{(i, j)})} \quad\quad \text{(Corollary 2)}\\
-  &= \frac{\Bigg(\frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
-  &= \frac{\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)}}{\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2}} \\
-  &= \frac{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i x_{t^{(j)}}^{(j)} + v^{(i, j)} \Delta^i t^{(j)})}{(\frac{1}{\Delta^i t^{(j)}})(\Delta^i t^{(j)} + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2})} \\
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0} \quad\quad \text{(Assumption 3)}\\
+  \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= \frac{x_{t^{(i)}}^{(i)}}{t^{(i)}} \quad\quad \text{(Assumption 4)}\\
+  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, v^{(j, i)})} \quad\quad \text{(Assumption 1)}\\
+  &= \frac{\mathcal{X}(x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)})}{\mathcal{T}( x_{t^{(j)}}^{(j)}, t^{(j)}, -v^{(i, j)})} \quad\quad \text{(Assumption 2)}\\
 \end{align}
 $$
 
 $$
 \begin{align}
-&= \frac{\frac{\Delta^i x_{t^{(j)}}^{(j)}}{\Delta^i t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)} \Delta^i x_{t^{(j)}}^{(j)}}{c^2 \Delta^i t^{(j)}}} \\
-&= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}} \quad\quad \text{(Corollary 1)}\\
+  &= \frac{\Bigg(\frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)}{\Bigg(\frac{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}}{\sqrt{1 - \frac{{v^{(i, j)}}^2}{c^2}}}\Bigg)} \quad\quad \text{(Definition 2)}\\
+  &= \frac{x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)}}{t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2}} \\
+  &= \frac{(\frac{1}{t^{(j)}})(x_{t^{(j)}}^{(j)} + v^{(i, j)} t^{(j)})}{(\frac{1}{t^{(j)}})(t^{(j)} + \frac{v^{(i, j)} x_{t^{(j)}}^{(j)}}{c^2})}\\
+\end{align}
+$$
+
+
+$$
+\begin{align}
+&= \frac{\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{x_{t^{(j)}}^{(j)}}{t^{(j)}}} \\
+&= \frac{\frac{x_{t^{(j)}}^{(j)} - x_{0}^{(j)}}{t^{(j)} - 0} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{x_{t^{(j)}}^{(j)}- x_{0}^{(j)}}{t^{(j)} - 0}} \quad\quad \text{(Assumption 4)} \\
+&= \frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}} \quad\quad \text{(Assumption 3)}\\
 &= \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}) \quad\quad\quad \square
 \end{align}
 $$
 
-<!--
-$\frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
-
-$\frac{\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} + v^{(i, j)}}{1 + \frac{v^{(i, j)}}{c^2}\frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}}}$
-
-$\frac{\partial x}{\partial t} = \frac{\Delta x}{\Delta t} = \frac{\frac{\Delta x' + v \Delta t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\Delta t' + \frac{v \Delta x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\Delta x' + v \Delta t'}{\Delta t' + \frac{v \Delta x'}{c^2}} = \frac{\frac{1}{\Delta t'}(\Delta x' + v \Delta t')}{\frac{1}{\Delta t'}(\Delta t' + \frac{v \Delta x'}{c^2})} = \frac{\frac{\Delta x'}{\Delta t'} + v}{1 + \frac{v}{c^2}\frac{\Delta x'}{\Delta t'}} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$ 
--->
-
+where $\hat{t}^{(j)} = \mathcal{T}(x_{0}^{(j)}, 0, v^{(i, j)})$.
 
 > Note: The velocity-addition formula can't actually be true at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, e.g., not an electron or any experimentally tested massive object, or even light traveling through a medium. One or the other has to go.
