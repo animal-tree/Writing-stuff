@@ -123,6 +123,4 @@ $$
 \end{align}
 $$
 
-where $\hat{t}^{(j)} = \mathcal{T}(x_{0}^{(j)}, 0, v^{(i, j)})$.
-
 > Note: The velocity-addition formula can't actually be true at the same time as Einstein's first postulate, unless the object in motion is traveling at exactly the speed of light, e.g., not an electron or any experimentally tested massive object, or even light traveling through a medium. One or the other has to go.
