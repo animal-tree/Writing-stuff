@@ -1,22 +1,22 @@
 # Disproving experimental evidence
 
-The velocity addition formula derivable from the Lorentz transformation, used as corroboration for the theory in subsequent experiments (e.g. Fizeau), derives a contradictory term for
+The constancy of light postulate Einstein uses to derive the Lorentz transformation necessitates:
 
-$\frac{\partial x}{\partial t}$
+$x = ct$
 
-to the constancy of light postulate Einstein uses to derive the Lorentz transformation.
+$\rightarrow \frac{\partial x}{\partial t} = c$
 
-$x = ct \rightarrow \frac{x}{t} = c$.
+and
 
-Then $\frac{\partial x}{\partial t} = c$ assuming uniform motion.
+$x' = ct'$
 
-However, this contradicts the velocity addition formula:
+$\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-$\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
+However, this contradicts pretty much all experimentally tested velocities $\frac{\partial x}{\partial t} \neq c$, e.g. an electron or light through a medium, since $\frac{\partial x}{\partial t} = c$.
 
-for pretty much all experimentally tested velocities $W = \frac{\partial x}{\partial t} \neq c$.
+The Fizeau experiment, for example, used the velocity addition formula and computed both $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
-## Deriving the velocity addition formula - Rigorously
+## Deriving the velocity addition formula 
 
 Assume the Lorentz transformation. We have:
 
