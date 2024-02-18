@@ -117,7 +117,7 @@ $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0 \rightarrow x_{
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
-The velocity-addition formula describes reference frame velocity transformations in physical spacetime.
+The velocity-addition formula describes reference frame transformations in physical spacetime.
 
 **Proof.**
 
