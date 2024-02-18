@@ -91,11 +91,15 @@ $x_{t^{(i)}}^{(i)} = c t^{(i)}$
 As assumed in most experimentally tested setups, e.g., Fizeau.
 -->
 
-**(3) Uniform motion ($K^{(i)}$ is an inertial reference frame).**
+**(3) Uniform motion.**
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant.
+$K^{(i)}$ is an inertial reference frame:
+
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant, or equivalently, $\frac{\partial^2 x_{t^{(i)}}^{(i)}}{\partial {t^{(i)}}^2} = 0$.
 
 This is always assumed in special relativity.
+
+A necessary consequence of this is that $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t^{(i)}}^{(i)} - x_{0}^{(i)}}{t^{(i)} - 0}$.
 
 **(4) $x_{0}^{(i)} = 0$.**
 
