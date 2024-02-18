@@ -86,7 +86,7 @@ This is assumed in special relativity.
 
 **(4) $x_{0}^{(i)} = 0$.**
 
-The origin of the theoretical reference frame is conformed with wherever $x_{0}^{(i)}$ is. The reference frame can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case. Alternatively, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
+The origin of any theoretical reference frame $K^{(i)}$ is conformed with wherever $x_{0}^{(i)}$ is. The reference frame can always be defined or redefined such that $x_{0}^{(i)} = 0$ in the general case. Alternatively, $x_{0}^{(i)} = 0$ may also be derived directly as a necessary consequence of the constancy of light postulate, which states that $x_{t^{(i)}}^{(i)} = ct^{(i)}$: 
 
 $x_{t^{(i)}}^{(i)} = ct^{(i)} \rightarrow x_{0}^{(i)} = c(0) = 0$.
 
