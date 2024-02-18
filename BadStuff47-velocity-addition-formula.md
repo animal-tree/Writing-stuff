@@ -49,7 +49,7 @@ In case the above derivation of the velocity addition formula doesn't satisfy on
 
 **(1) Speed of light constant *in vacuo*, reference frame, and spacetime.**
 
-Let $c \coloneqq 299,792,458$ be the speed of light constant.
+Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
 A body on reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) has time points $t^{(i)}  \in \mathbb{R}$ and corresponding spatial coordinates $x_{t^{(i)}}^{(i)} \in \mathbb{R}$.
 
