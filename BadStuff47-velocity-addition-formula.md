@@ -95,7 +95,7 @@ As assumed in most experimentally tested setups, e.g., Fizeau.
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constant.
 
-This is assumed in special relativity.
+This is always assumed in special relativity.
 
 **(4) $x_{0}^{(i)} = 0$.**
 
