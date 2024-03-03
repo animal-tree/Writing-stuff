@@ -27,8 +27,6 @@ But:
 
 (3) There's a physiological thing involving Transcendental Meditation and the trachea[^1], which is protected by some cartilage that is the only part of this that is gendered.
 
-I was a feminist before you.
-
 Women can have Adam's apples too.
 
 Thank you for attending my AP[^2] class[^3], now get out.
