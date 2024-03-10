@@ -1,5 +1,7 @@
 Paranoias Along The Spiritual Mechanism Discovery Process
 
+Some of these are paranoias, some of these are theories
+
 1. Circles or “rhyming” - also tied to rehearsals - or cyclicality
 2. “Emotions have regulatory processes that are not just out to help us.” - at least individually
 3. Language can mind-control through cryptic semantics and even phonetics. 
