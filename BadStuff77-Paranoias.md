@@ -1,10 +1,10 @@
 Paranoias Along The Spiritual Mechanism Discovery Process
 
 1. Circles or “rhyming” - also tied to rehearsals - or cyclicality
-2. “Emotions have regulatory processes that are not just out to help us.”
+2. “Emotions have regulatory processes that are not just out to help us.” - at least individually
 3. Language can mind-control through cryptic semantics and even phonetics. 
 4. Things aren’t planned, by a perfect and much wiser wisdom.
-5. Grammatical structures to emotion regulation, that are out to help us. - at least individually
+5. Grammatical structures to emotion regulation, that are out to help us. 
 6. We have different goals, depending on the “archetype”, “individual”, and “God”.
 7. We have different plans, depending on the “archetype”, “individual”, and “God”.
 8. The crypticism is really stupid, like “sex stuff”.
