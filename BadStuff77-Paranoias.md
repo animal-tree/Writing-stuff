@@ -4,14 +4,14 @@ Paranoias Along The Spiritual Mechanism Discovery Process
 2. “Emotions have regulatory processes that are not just out to help us.”
 3. Language can mind-control through cryptic semantics and even phonetics. 
 4. Things aren’t planned, by a perfect and much wiser wisdom.
-5. Grammatical structures to emotion regulation, that are out to help us.
+5. Grammatical structures to emotion regulation, that are out to help us. - at least individually
 6. We have different goals, depending on the “archetype”, “individual”, and “God”.
 7. We have different plans, depending on the “archetype”, “individual”, and “God”.
 8. The crypticism is really stupid, like “sex stuff”.
 9. The crypticism isn’t really intelligent, beyond limited awareness at any given moment, and connecting to not-points 6 and 7. Pork barrel.
 11. Fear, fundamentally, is warranted. But of course this is true.
 12. We are not divided.
-13. Emotions have regulatory processes that are not just out to help us — individually. Externally motivated disruption of perception
+13. Externally motivated disruption of perception
 14. Purchases rather than rehearsals.
 15. Evil, at the top of the top.
 16. Language crypticism, where if I don’t say what they want me to, missteps or bad things will happen.
