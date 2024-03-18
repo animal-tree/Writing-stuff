@@ -75,8 +75,8 @@ To be clear, university-hospital, university-employed psychiatrists, and univers
 
 <p align="center">
 <picture>
-  <source width="47%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Writing-stuff/assets/142250284/b5081720-f799-45ef-ac4b-2d7bebf8c03c">
-  <img width="47%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/animal-tree/Writing-stuff/assets/142250284/b5081720-f799-45ef-ac4b-2d7bebf8c03c">
+  <source width="47%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Writing-stuff/assets/142250284/b893f40d-10fe-45db-9125-f1ce1d60d536">
+  <img width="47%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/animal-tree/Writing-stuff/assets/142250284/b893f40d-10fe-45db-9125-f1ce1d60d536">
 </picture><br><i>This diagram is an original understanding of the  computational neuron with a differentiable analog described below.</i>
 </p>
 
