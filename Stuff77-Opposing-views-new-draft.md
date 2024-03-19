@@ -61,6 +61,8 @@ He didn't, and he was a bastard. I saw him for 6 months and don't remember his n
 
 I can't describe this. 
 
+Intermission...
+
 ### Benzodiazepine mechanism of action
 
 <p align="center">
@@ -143,9 +145,9 @@ Laying on the couch for a year, immobilized, shaking with excruciating agony. No
 
 That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
 
-To be clear, university-hospital, university-employed psychiatrists, and university-employed outpatient doctor. Still, from the beginning, university-mediated interventions. 
-
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
+
+# Deleted portions
 
 ### De-calcification of my teeth after the all-steak diet
 
@@ -170,6 +172,8 @@ Note: I only ate organic grassfed pasture-raised steak, as I had to since my hai
 ### Recap
 
 To recap, the net effect of the University of Rochester healing system was not just extremely negative, but there was no positive effect. I lost all of my hair, including eyebrows and eyelashes — as a 5'5" 110lb guy with social anxiety, at best I look like the kid Aang from Avatar the Last Airbender (speaking of, the University of Rochester healing system realistically can do all of this to kids too, like Mobi who I met in the hospital) — and was benzo-brain damaged, coerced terrifyingly to suffer severe cognitive decline, seizure-like shaking, and enormous pain comparable to perpetual burning alive (in literal fire, in literal warzone, because those neurochemical activity are much the same experience of suffering internally even modified of the external precise details that validate that agony), every day, every night (usually unable to fall asleep as a result), for more than a year, independent of any prior issues I had before coming to my doctors, and these drugs that my so-called "healers" prescribed.
+
+To be clear, university-hospital, university-employed psychiatrists, and university-employed outpatient doctor. Still, from the beginning, university-mediated interventions. 
 
 Note: I would likely not have been in there, and none of this would have happened, if not for the original malpractice.
 
