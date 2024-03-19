@@ -126,8 +126,6 @@ The next part of the story conveys some of my trauma, and it's the hardest to wr
 
 ### My... trauma
 
-Here's how I described it before, in a draft version of this that can be found in a previous commit, because rephrasing this with the intention of doing so is hard: 
-
 <p align="center">
 <picture>
   <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Writing-stuff/assets/142250284/17615e20-5715-411d-9320-0eabe5e3dd27">
@@ -170,6 +168,8 @@ Note: I only ate organic grassfed pasture-raised steak, as I had to since my hai
 > I can hear a linguistic style that isn't mine try to write something like, "The way Jordan Peterson talks about students is how he should be talking about nutritionist researchers and psychiatric practitioners. Seeing as he was himself a clinician who perhaps resorted to prescribing misunderstood pharmaceuticals, perhaps God was telling him to 'make his own bed.'" This view is the worst possible view because it victim-blames. God, if there is one, wasn't punishing Jordan Peterson. But He did use Jordan Peterson, someone who represented a lot of men, to disseminate the severity of benzodiazepines. He did so at an extraordinarily synchronistic time in my life, a specific message that hasn't been conveyed through any other public figure ever. I wish I could write about the unlikeliness of this synchronicity with due justice, because it deserves the voice of Terrence McKenna or even scripture. People should be aware that something out there wants us to know about the dangers of modern psychiatric practice, and how unlikely these synchronicities are.
 
 ### Recap
+
+Here's how I described it before, in a draft version of this that can be found in a previous commit, because rephrasing this with the intention of doing so is hard: 
 
 To recap, the net effect of the University of Rochester healing system was not just extremely negative, but there was no positive effect. I lost all of my hair, including eyebrows and eyelashes — as a 5'5" 110lb guy with social anxiety, at best I look like the kid Aang from Avatar the Last Airbender (speaking of, the University of Rochester healing system realistically can do all of this to kids too, like Mobi who I met in the hospital) — and was benzo-brain damaged, coerced terrifyingly to suffer severe cognitive decline, seizure-like shaking, and enormous pain comparable to perpetual burning alive (in literal fire, in literal warzone, because those neurochemical activity are much the same experience of suffering internally even modified of the external precise details that validate that agony), every day, every night (usually unable to fall asleep as a result), for more than a year, independent of any prior issues I had before coming to my doctors, and these drugs that my so-called "healers" prescribed.
 
