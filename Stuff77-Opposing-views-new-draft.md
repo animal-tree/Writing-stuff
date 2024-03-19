@@ -126,6 +126,8 @@ The next part of the story conveys some of my trauma, and it's the hardest to wr
 
 ### My... trauma
 
+Here's how I described it before, in a draft version of this that can be found in a previous commit, because rephrasing this with the intention of doing so is hard: 
+
 <p align="center">
 <picture>
   <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Writing-stuff/assets/142250284/17615e20-5715-411d-9320-0eabe5e3dd27">
@@ -134,8 +136,6 @@ The next part of the story conveys some of my trauma, and it's the hardest to wr
   <br>Prompt: "Bald kid burning alive on couch in agony in pain on fire bleeding."
 <br>To do: Find a better image that does me more justice.</i>
 </p>
-
-Here's how I described it before, in a draft version of this that can be found in a previous commit, because rephrasing this with the intention of doing so is hard: 
 
 I was coerced to take benzodiazepines. At first, it was like being drunk every day and pleasant. After a month, I was in cognitive decline. After a few months, the experience was like burning in Hell. Excruciating agony, inability to think or remember, torture from every depth of mind, cognition, and consciousness.
 
