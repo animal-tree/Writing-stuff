@@ -120,9 +120,9 @@ Finally, Mobi, this guy I met there at a different hospitalization. He actually 
 
 And he was intelligent and respectful and well mannered. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
 
-The next part of the story conveys some of my trauma, and it's the hardest to write about. I might not... Hold on...
-
 > The fact that I can cite injustice for all 5 people I know who went through the system suggests that the absolute injustice rate is probably pretty damn high.
+
+The next part of the story conveys some of my trauma, and it's the hardest to write about. I might not... Hold on...
 
 <p align="center">
 <picture>
