@@ -124,6 +124,8 @@ And he was intelligent and respectful and well mannered. There is no way he shou
 
 The next part of the story conveys some of my trauma, and it's the hardest to write about. I might not... Hold on...
 
+### My... trauma
+
 <p align="center">
 <picture>
   <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Writing-stuff/assets/142250284/17615e20-5715-411d-9320-0eabe5e3dd27">
@@ -132,8 +134,6 @@ The next part of the story conveys some of my trauma, and it's the hardest to wr
   <br>Prompt: "Bald kid burning alive on couch in agony in pain on fire bleeding."
 <br>To do: Find a better image that does me more justice.</i>
 </p>
-
-### My... trauma
 
 Here's how I described it before, in a draft version of this that can be found in a previous commit, because rephrasing this with the intention of doing so is hard: 
 
