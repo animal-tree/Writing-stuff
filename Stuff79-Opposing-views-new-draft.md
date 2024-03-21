@@ -2,6 +2,13 @@
 
 # Opposing views
 
+<p align="center">
+<picture>
+  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/animal-tree/Writing-stuff/assets/142250284/0e693181-ed8c-4606-91ac-410607fcff25">
+  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/animal-tree/Writing-stuff/assets/142250284/0e693181-ed8c-4606-91ac-410607fcff25">
+</picture>
+</p>
+
 ## Part 1 
 
 - **University-provided health insurance (Aetna)**
