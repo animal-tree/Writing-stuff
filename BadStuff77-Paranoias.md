@@ -64,7 +64,7 @@ Some of these are paranoias, some of these are theories
 60. That Karmic balances put a price on synchronicities, luck, and miracles
     1. For that matter, that those things only happen because something else — the far more precious thing — is traded, the relationship that was supposed to be that miraculousness
 61. The sense that my writing isn't mine, and the fear that others don't realize that these linguistics are agents in and of themselves
-62. That there are cryptic karmic laws governing things instead of morality (e.g. as God's never-to-be-broken pattern/rule of operation, besides the quantum-level physics that God respects or has constrained to) at macro social and emotional levels (of course those designed, followed, and adhered to by some, some, and some humans, e.g., legal laws, if those count as "cryptic karmic", cause paranoia and exist, but I'm referring to macro social/emotional/karmic laws that God/physics practices not humans, and specifically, "instead of morality", not generally)
+62. That there are cryptic karmic laws governing things instead of morality (e.g. as God's never-to-be-broken pattern/rule of operation, besides the quantum-level physics that God respects or has constrained to) at macro social and emotional levels (of course those designed, followed, and adhered to by some, some, and some humans, e.g., legal laws, if those count as "cryptic karmic", cause paranoia and exist, but I'm referring to macro social/emotional/karmic laws that God/Gods/physics practices not humans, and specifically, "instead of morality", not generally)
 63. 
 
 
