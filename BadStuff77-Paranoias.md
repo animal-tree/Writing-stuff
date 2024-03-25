@@ -68,7 +68,7 @@ Some of these are paranoias, some of these are theories
 63. That injustices are karmic investments e.g. Holocaust so that Jews get Israel.
     - That there is a mysticism, but it's governed by an underlying karmic bank balance. That the universe has an unconditional evil ("karmic bank balance" at the fundamental operations of "God" is an unconditional evil at the source of the universe's nature depending on how cynically those distribution calculations and executions are done)
     - Also, with a cynical method of redistribution: for example, live as a monk for more than a year and God will repay your sacrifices by going over the top to make you take drugs, lacking any other vehicle of reward for you amid only further punishments on top of existing sacrifices
-    - Or worse, that those cynical temptations arise to rob you of any actualized reward for your struggles and efforts, no matter how much you do and for how long, always to put the guilt on you for your own unrealized success, always playing this trickery until your eventual human surrender
+    - Or worse, that those cynical temptations arise to rob you of any actualized reward for your struggles and efforts, no matter how much you do and for how long, always to put the guilt on you for your own unrealized success, always playing this trickery until your eventual human surrender to some "temptation" or another, if not by lack of will, then pretty much by "God's" force and coercion
 65. 
 
 
