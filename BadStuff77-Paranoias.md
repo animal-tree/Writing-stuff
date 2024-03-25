@@ -67,6 +67,7 @@ Some of these are paranoias, some of these are theories
 62. That there are cryptic karmic laws governing things instead of morality (e.g. as God's never-to-be-broken pattern/rule of operation, besides the quantum-level physics that God respects or has constrained to) at macro social and emotional levels (of course those designed, followed, and adhered to by some, some, and some humans, e.g., legal laws, if those count as "cryptic karmic", cause paranoia and exist, but I'm referring to macro social/emotional/karmic laws that God/Gods/physics practices not humans, and specifically, "instead of morality", not generally)
 63. That injustices are karmic investments e.g. Holocaust so that Jews get Israel.
     - That there is a mysticism, but it's governed by an underlying karmic bank balance. That the universe has an unconditional evil
+    - Also, with a cynical method of redistribution: for example, live as a monk for more than a year and God will repay your sacrifices by going over the top to make you take drugs, lacking any other vehicle of reward for you amid only further punishments on top of existing sacrifices
 65. 
 
 
