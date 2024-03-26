@@ -71,7 +71,7 @@ Some of these are paranoias, some of these are theories
     - Or worse, that those cynical temptations arise to rob you of any actualized reward for your struggles and efforts, no matter how much you do and for how long, always to put the guilt on you for your own unrealized success, always playing this trickery until your eventual human surrender to some "temptation" or another, if not by lack of will, then pretty much by external force and coercion
     - That there are false equivalences between those synthetic false apotheses and the ones you've actually earned, in the eyes/perception/mechanics of "God"/that which lies beyond modern physics
     - And all of this points to a God that doesn't plan well, and/or doesn't coordinate events with much singularized potency, and/or isn't good
-65. 
+65. There is so much cruelty in whatever governs above the known laws of physics
 
 
 Ways of rephrasing, and perhaps abbreviating:
