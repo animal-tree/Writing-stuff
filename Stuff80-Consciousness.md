@@ -10,7 +10,7 @@ And likewise, we can extend the analogy to computer circuits, communicating info
 
 So the question is, at what point does this information communication become a physical process that produces consciousness?
 
-Well, for one, the physical material matters. That's why it's called matter. It matters. Or else we could simulate your consciousness with a domino chain. Or even with a human centipede obeying the exact algorithm of your brain's dance of interactions.
+Well, for one, the physical material matters. That's why it's called matter. It matters. Or else we could simulate your consciousness with a domino chain. Or even with a human centipede/jamboree obeying the exact algorithm of your brain's dance of interactions.
 
 So the "grey matter" as it's called that composes your brain is not merely a representation machine, or an optional circuitry, but crucial to the singularization that is consciousness.
 
