@@ -9,3 +9,25 @@ Suppose I were to draw every neuron and chemical messenger in your brain at time
 And likewise, we can extend the analogy to computer circuits, communicating information not on paper but on silicon chips, and not by pen ink but by electrons zipping through open-close logic gates. If the flipbook isn't human-like conscious, then how can this labyrinth of zipping electrons be? Even if those electrons zip through a moon-sized server of GPUs running the most advanced neural network or human brain simulation, their information communication is effectively just the flipping of the paper pages of a flipbook, and once again we obtain absurdity.
 
 So the question is, at what point does this information communication become a physical process that produces consciousness?
+
+Well, for one, the physical material matters. That's why it's called matter. It matters. Or else we could simulate your consciousness with a domino chain. Or even with a human centipede obeying the exact algorithm of your brain's dance of interactions.
+
+So the "grey matter" as it's called that composes your brain is not merely a representation machine, or an optional circuitry, but crucial to the singularization that is consciousness.
+
+And once we've boiled down the credit for human consciousness to physical matter itself, not just its analogy of representations at the surface-level, we have to ask: (1) where does the physicalness of consciousness begin, and (2) how, mechanically, does it entangle so as to be one consciousness?
+
+The simplest answer is the Pansychist answer, that it begins from the elementary particles of the universe. And, more concretely as I propose, that it singularizes via literal entanglement, coherence states where the qualia of the divisible — base and perhaps neutral — singularizes into the complex fires and dances of biological experience, perhaps mediated strongly by voltage as well since that accumulates and spikes through the grey matter composite of the brain, and produces electric and magnetic fields that can be picked up by EEG caps in precise detail and even non-invasively. Somehow this conglomerate of interactions entangles at the qualia level to produce more than just information communication, as what a paper flipbook could do by one's hand-drawings, or a domino machine, but singularized consciousness, capable of "feeling" those neural representational encodings.
+
+Finally, there is the mystery why the universe has these qualia and entanglement property and function.
+
+And that is, rather than a mystery, quite an answer.
+
+Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is", we'd have to ask, "Well, how did we get *that* extremely specific thing?" The most general assumption is the most reasonable default one.
+
+However, there is another assumption tied to nothing in generality: and that's *everything*, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
+
+Now, "nothing" succumbs to a pretty apparent fallacy. For something to arise from nothing, a function that transforms nothing into something must exist. But that function is in itself something, so our "nothing" assumption is contradicted as soon as any such function is introduced.
+
+One might posit different origins besides "nothing" and "everything" equally general perhaps, such as cyclicality or infinite "turtles all the way down", but these are all specific somethings and cannot be said to be as general as the two mentioned, leaving the same mysteries as assuming our own universe exactly as it elementarily outright: "Where did the cycle come from?" or "Where did the infinite recursive turtle-stack come from?"
+
+But assuming everything gives us a path forward. Perhaps constraints arose from everything due to the insufferability in a singularization that somehow optimized to be the laws of physics that existed at the time of the Big Bang, and with this intrinsic qualia being ever present in the universe's foundations such that the earlier reasoning can both be answered in its high-level remain mystery and reenforced in its deductive considerations.
